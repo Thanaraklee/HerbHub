@@ -1,0 +1,496 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Tamarindus indica",
+            "authorship": "Carl Linnaeus",
+            "updated_by": "",
+            "name_ref": "Sp. Pl. : 34 (1753)",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:520167-1"
+        },
+        "synonyms": [
+            {
+                "name": "Tamarindus occidentalis",
+                "author": "Joseph Gaertner 1732-1791",
+                "protologue": "Fruct. Sem. Pl. 2: 310 (1791)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000175672"
+            },
+            {
+                "name": "Tamarindus officinalis",
+                "author": "William Jackson Hooker 1785-1865",
+                "protologue": "Bot. Mag. 77: t. 4563 (1851)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000175673"
+            },
+            {
+                "name": "Tamarindus umbrosa",
+                "author": "Richard Anthony Salisbury 1761-1829",
+                "protologue": "Prodr. Stirp. Chap. Allerton : 323 (1796)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000175674"
+            },
+            {
+                "name": "Tamarindus erythraeus",
+                "author": "Giovanni Ettore Mattei 1865-1943",
+                "protologue": "Boll. Reale Orto Bot. Palermo 7: 95 (1908)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000414749"
+            },
+            {
+                "name": "Tamarindus somalensis",
+                "author": "Giovanni Ettore Mattei 1865-1943",
+                "protologue": "Boll. Reale Orto Bot. Palermo 7: 94 (1908)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000414751"
+            },
+            {
+                "name": "Cavaraea elegans",
+                "author": "Carlos Luigi Spegazzini 1858-1926",
+                "protologue": "Anales Soc. Ci. Argent. 82: 223 (1916)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000591274"
+            },
+            {
+                "name": "Tamarindus indica var. emarginata",
+                "author": "Emilio Chiovenda 1871-1941",
+                "protologue": "Fl. Somala 2: 178 (1932)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001448853"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Fabales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000323"
+            },
+            "genus": {
+                "genus_name": "Fabaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000037503"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Tamarindus+indica&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "BETA-CAROTENE",
+                "activity_count": 53,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 0.0,
+                "high_parts_per_million": 1.0,
+                "standard_deviation": -0.15,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "CALCIUM",
+                "activity_count": 28,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 1053.0,
+                "high_parts_per_million": 23000.0,
+                "standard_deviation": 0.31,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 31000.0,
+                "high_parts_per_million": 74343.0,
+                "standard_deviation": -0.64,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 57000.0,
+                "high_parts_per_million": 186000.0,
+                "standard_deviation": 0.3,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Seed",
+                "low_parts_per_million": 7000.0,
+                "high_parts_per_million": 43000.0,
+                "standard_deviation": -0.72,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "FRUCTOSE",
+                "activity_count": 8,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 90000.0,
+                "high_parts_per_million": 120000.0,
+                "standard_deviation": 1.02,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "GLUCOSE",
+                "activity_count": 7,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 210000.0,
+                "high_parts_per_million": 280000.0,
+                "standard_deviation": 2.08,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "LINOLEIC-ACID",
+                "activity_count": 27,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 590.0,
+                "high_parts_per_million": 860.0,
+                "standard_deviation": -0.34,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LINOLEIC-ACID",
+                "activity_count": 27,
+                "plant_part": "Seed",
+                "low_parts_per_million": 27840.0,
+                "high_parts_per_million": 34336.0,
+                "standard_deviation": -0.62,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "LYSINE",
+                "activity_count": 4,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1390.0,
+                "high_parts_per_million": 2026.0,
+                "standard_deviation": -0.54,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MAGNESIUM",
+                "activity_count": 65,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 920.0,
+                "high_parts_per_million": 1341.0,
+                "standard_deviation": -0.37,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "METHIONINE",
+                "activity_count": 15,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 140.0,
+                "high_parts_per_million": 204.0,
+                "standard_deviation": -0.93,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MUFA",
+                "activity_count": 13,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1810.0,
+                "high_parts_per_million": 2640.0,
+                "standard_deviation": -0.22,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MYRISTIC-ACID",
+                "activity_count": 6,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 70.0,
+                "high_parts_per_million": 102.0,
+                "standard_deviation": -0.26,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "NIACIN",
+                "activity_count": 39,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 16.0,
+                "high_parts_per_million": 33.0,
+                "standard_deviation": -0.37,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "OLEIC-ACID",
+                "activity_count": 18,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1810.0,
+                "high_parts_per_million": 2638.0,
+                "standard_deviation": -0.46,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "OLEIC-ACID",
+                "activity_count": 18,
+                "plant_part": "Seed",
+                "low_parts_per_million": 16320.0,
+                "high_parts_per_million": 20128.0,
+                "standard_deviation": -0.81,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "PALMITIC-ACID",
+                "activity_count": 13,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1680.0,
+                "high_parts_per_million": 2449.0,
+                "standard_deviation": -0.33,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PANTOTHENIC-ACID",
+                "activity_count": 11,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1.0,
+                "high_parts_per_million": 2.0,
+                "standard_deviation": -1.03,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PHOSPHORUS",
+                "activity_count": 4,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 1000.0,
+                "high_parts_per_million": 2281.0,
+                "standard_deviation": -0.5,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "PUFA",
+                "activity_count": 4,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 590.0,
+                "high_parts_per_million": 860.0,
+                "standard_deviation": -0.78,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "RIBOFLAVIN",
+                "activity_count": 15,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1.0,
+                "high_parts_per_million": 3.0,
+                "standard_deviation": -0.43,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "STEARIC-ACID",
+                "activity_count": 8,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 600.0,
+                "high_parts_per_million": 874.0,
+                "standard_deviation": -0.22,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "THIAMIN",
+                "activity_count": 31,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 2.0,
+                "high_parts_per_million": 9.0,
+                "standard_deviation": 0.47,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "TRYPTOPHAN",
+                "activity_count": 29,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 180.0,
+                "high_parts_per_million": 262.0,
+                "standard_deviation": -0.83,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "มะขาม",
+            "common_name_th_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "Indian date, Tamarind",
+            "common_name_en_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "local_name": {
+            "local_name": [
+                "ตะลูบ,",
+                "ม่องโคล้ง,",
+                "มอดเล,",
+                "ส่ามอเกล,",
+                "หมากแกง,",
+                "อำเปียล"
+            ],
+            "local_name_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "clinical_studies": [
+            {
+                "clinical": "ทำให้ผิวหน้ากระจ่างใส",
+                "clinical_content": "การศึกษาทางคลินิก ผลต่อการทำให้ผิวหน้ากระจ่างใสของโลชันที่มีส่วนผสมของผงสารสกัดเนื้อฝักมะขาม 8%w/w ซึ่งมีสารtartaric acid 2% w/w โดยเลือกเก็บตัวอย่างฝักมะขามสดจากจังหวัดเพชรบูรณ์ ตัวอย่างพรรณไม้อ้างอิงงานวิจัย เก็บรักษาไว้ที่พิพิธภัณฑ์พืชภาควิชาเภสัชพฤกษศาสตร์ คณะเภสัชศาสตร์ มหาวิทยาลัยมหิดล (collection no. Viyoch 001; voucher specimens serial no. PBM 04737) มาใช้ในการสกัดใช้เนื้อฝักมะขามสดสีน้ำตาลที่นำเมล็ดออก 1 กก. สกัดด้วยน้ำ 4.5 ลิตร ทิ้งไว้ข้ามคืนที่อุณหภูมิห้อง นำมากรองแยกอนุภาคหยาบออก แล้วทำให้เป็นผงแห้งด้วยการแช่เยือกแข็ง (freeze dryer) ทำการทดสอบในอาสาสมัครเพศหญิงสุขภาพดีจำนวน 38 คน อายุ 18 - 40 ปี โดยให้ใช้โลชันทำความสะอาดผิวที่มีส่วนผสมของผงสารสกัดเนื้อฝักมะขาม ทาเบา ๆ บริเวณผิวหน้าข้างหนึ่งนาน 2 นาที ทา 2 ครั้ง/วัน เป็นระยะเวลา 8 สัปดาห์ และอีกข้างหนึ่งให้ใช้โลชันที่ไม่มีส่วนผสมของสารสกัดเนื้อฝักมะขาม แล้ววัดความแตกต่างของสีผิวระหว่างผิวหน้าทั้งสองข้าง นอกจากนี้ยังประเมินเกี่ยวกับลักษณะความแดงของผิว ความชุ่มชื้นของผิวหนัง ค่า pH การสูญเสียน้ำออกจากผิวหนัง (transepidermal water loss; TEWL) อาการไม่พึงประสงค์ ความพึงพอใจของอาสาสมัคร และความร่วมมือของอาสาสมัครในการทดสอบผลการทดสอบพบว่าปริมาณเม็ดสีเมลานิน (melanin) ของผิวหน้าข้างที่ใช้โลชันผสมสารสกัดเนื้อฝักมะขามมีค่าน้อยกว่าผิวหน้าอีกข้างหนึ่งในช่วงสัปดาห์ที่ 4 ของการทดสอบ เมื่อสิ้นสุดการทดสอบในช่วงสัปดาห์ที่ 8 พบว่าค่าเฉลี่ยความแตกต่างระหว่างดัชนีชี้วัดของผิวหน้าทั้งสองข้าง รวมทั้งค่าเมลานินค่า pH และค่าความชุ่มชื้นของผิวหนัง ไม่แตกต่างกัน สำหรับการเกิดผื่นแดง (erythema) และการสูญเสียน้ำออกจากผิวหนังไม่แตกต่างกัน ผลิตภัณฑ์มีความปลอดภัยและอาสาสมัครส่วนใหญ่พึงพอใจกับการใช้โลชันผสมผงสารสกัดเนื้อฝักมะขาม (7)",
+                "clinical_ref": [
+                    "Maenthaisong R, Chaiyakunapruk N, Warnnissorn P, Viyoch J. Cleansing lotion containing tamarind fruit pulp extract. III. Study of lightening efficacy and skin irritation on Asian skin type. Science Asia. 2009;35:24-31.doi: 10.2306/scienceasia1513-1874.2009.35.024."
+                ]
+            }
+        ],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "ฤทธิ์ทำให้ผิวขาว",
+                "pharmacological_content": "การทดสอบฤทธิ์ยับยั้งการสร้างเม็ดสีเมลานิน (anti-melanogenesis) ของสารสกัดเปลือกหุ้มเมล็ดมะขาม โดยใช้เมล็ดมะขามจากจังหวัดเพชรบูรณ์ ทำให้แห้งด้วย hot air oven ที่อุณหภูมิ 140 องศาเซลเซียส นาน 45 นาที ทิ้งไว้ให้เย็นและกะเทาะเปลือกออก สกัดด้วยเอทิลอะซิเตท และแยกสารแทนนินออกด้วย Sephadex LH20 (Sigma-Aldrich, Inc., Missouri, USA) ทำให้สารสกัดแห้งภายใต้สภาวะสุญญากาศ การทดสอบฤทธิ์ยับยั้งการสร้างเม็ดสีเมลานินในเซลล์มะเร็งเมลาโนมา B16-F1 โดยกระตุ้นให้สร้างเมลานินด้วยฮอร์โมน α-melanocyte stimulating (α-MSH) หลังจากนั้นเติมสารสกัดของเปลือกหุ้มเมล็ดมะขามขนาด 150 – 200 มคก./มล. (inhibition condition) ผลการทดสอบพบว่าสารสกัดมีฤทธิ์ยับยั้งการสร้างเมลานินแปรผันตามความเข้มข้นของสารสกัด โดยลดการสร้างเมลานินได้ 20 – 32% และทดสอบการป้องกันการสร้างเมลานินโดยเติมสารสกัดขนาดเดียวกันก่อนกระตุ้นเซลล์ด้วย α-MSH (protection condition) พบว่าสารสกัดลดการสร้างเมลานินได้ถึง 42 – 59% แปรผันตามความเข้มข้นของสารสกัด และผลใกล้เคียงกับสารยับยั้งเมลานินของสาร kojic acid ขนาด 50 มคก./มล. ซึ่งลดการสร้างเมลานินได้ 50% ทั้งการทดสอบในรูปแบบ inhibition condition และ protection condition สารสกัดมะขามไม่มีผลต่อความมีชีวิตรอดและรูปร่างของเซลล์ นอกจากนี้การทดสอบฤทธิ์ต้านเอนไซม์ไทโรซิเนส (tyrosinase) ของสารสกัดเอทิลอะซิเตทเปลือกเมล็ดมะขามขนาด 50 – 500 มคก./มล. พบว่ามีฤทธิ์ยับยั้งเอนไซม์ไทโรซิเนสด้วยค่า IC50 เท่ากับ 152.1 ± 10.2 มคก./มล. (8)",
+                "pharmacological_ref": [
+                    "Phetdee K, Rattanamanee K, Teaktong T, Viyoch J. Tamarind seed coat extract reduces melanin production viatyrosinase in melanocyte. J Biol Sci. 2012;12(4):239-45.doi: 10.3923/jbs.2012.239.245."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านสิวบนผิวกาย",
+                "pharmacological_content": "การทดสอบฤทธิ์ต้านแบคทีเรียของสารสกัดน้ำของเนื้อฝักมะขาม (จากประเทศไนจีเรีย) โดยใช้เนื้อฝักมะขาม 400 ก. แช่ในน้ำกลั่น 2 ลิตร แล้วต้มจนเดือดนาน 5 นาที เขย่านาน 10 นาที ทิ้งไว้ให้เย็นแล้วนำไปกรอง ระเหยแห้งจนได้สารสกัดที่คำนวณออกมาในรูปผลผลิตร้อยละ (percentage yield) เท่ากับ 25.2 %w/w ทดสอบฤทธิ์ต้านแบคทีเรียที่เป็นสาเหตุของการเกิดสิว Staphylococcus aureus ด้วยเทคนิค disc diffusion method พบว่าสารสกัดขนาด 80, 120, 140, 160 และ 180 มก./มล. มีฤทธิ์ยับยั้งเชื้อ โดยมีค่า inhibition zone เท่ากับ 0.2, 0.3, 0.6, 0.8 และ 1.0 มม. ตามลำดับ (9)",
+                "pharmacological_ref": [
+                    "Abukakar MG, Ukwuani AN, Shehu RA. Phytochemical screening and antibacterial activity of Tamarindusindica pulp extract. Asian J Biochem. 2008;3(2):134-8.doi: 10.3923/ajb.2008.134.138."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านอนุมูลอิสระบนผิวกาย",
+                "pharmacological_content": "การวิเคราะห์สารสำคัญของเปลือกหุ้มเมล็ดมะขาม โดยใช้ตัวอย่างสมุนไพรจากบริษัท ไทย–ล้านนา เฮอร์บอล อินดัสตรี จำกัด (Thai–Lanna Herbal Industry Co., Ltd.)จังหวัดเชียงใหม่ ตากเปลือกหุ้มเมล็ดมะขามให้แห้งที่อุณหภูมิ 50 องศาเซลเซียส ย่อยให้เป็นผง แล้วนำสมุนไพร 100 ก. มาสกัดโดยแช่ใน 95% เอทานอล 2 ลิตร เขย่าเป็นเวลานาน 4.5 ชั่วโมง ในห้องมืด ที่อุณหภูมิห้อง หลังจากนั้นนำไปกรอง แล้วระเหยเอทานอลออกพบว่ามีสารกลุ่ม phenolicsเทียบเท่ากับ 0.44 ± 0.04 มก.ของ gallic acidต่อ 1 มล. ของตัวอย่างทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH radical scavenging assay มีค่า IC50 เท่ากับ 0.09 ± 0.02  มก./มล. วัดด้วยวิธี ABTS assay คำนวณเป็นค่า TEAC (trolox equivalent antioxidant capacity) เท่ากับ 2.79 ± 0.06 มก. ของ trolox/มก.ของสารตัวอย่างและวัดด้วยวิธี thiobarbituric acid reactive substances (TBARS) assay  มีค่า IC50 เท่ากับ 0.64 ± 0.04  มก./มล. ตามลำดับ (10)การทดสอบฤทธิ์ต้านอนุมูลอิสระของเปลือกหุ้มเมล็ดมะขาม โดยใช้ตัวอย่างสมุนไพรจากจังหวัดเพชรบูรณ์ อบด้วยตู้อบลมร้อน (hot air oven) ที่อุณหภูมิ 140 องศาเซลเซียส เป็นเวลา 45 นาที ทิ้งไว้ให้เย็น กะเทาะเอาเฉพาะเปลือกหุ้มเมล็ด ย่อยให้เป็นผง แล้วสกัดด้วย 70% เอทานอล  แยกสารแทนนิน (tannins) ออกด้วย Sephadex LH-20 (GE Healthcare Bio-Sciences AB, Uppsala, Sweden) ทำให้สารสกัดแห้งภายใต้สภาวะสุญญากาศ เก็บสารสกัดไว้ในขวดแก้วหนาที่อุณหภูมิ 4 องศาเซลเซียส เพื่อใช้ในการศึกษาต่อไปแล้วทดสอบฤทธิ์ต้านอนุมูลอิสระของสารสกัดด้วยวิธี DPPH radical scavenging assay พบว่ามีค่า EC50เท่ากับ 12.9 มคก./มล. ซึ่งมีฤทธิ์ดีกว่ากรดวิตามินซี (L-ascorbic acid)ที่มีค่า EC50 เท่ากับ 22.9 มคก./มล. และวิตามินอี (α-tocopherol) ที่มีค่า EC50เท่ากับ 29.3 มคก./มล. และทดสอบเซลล์ไฟโบรบลาสต์ที่ถูกเหนี่ยวนำให้เซลล์ถูกทำลายด้วย H2O2100 – 1,000 ไมโครโมล พบว่าเซลล์เกิดความเสียหาย 62 – 92% เปรียบเทียบกับกลุ่มที่ได้รับการบ่ม (incubated) ด้วยสารสกัดเปลือกหุ้มเมล็ดมะขามขนาด 200 มคก./มล. เป็นเวลา 24 ชั่วโมง พบว่าเซลล์เกิดความเสียหาย 35 – 47% ทดสอบเซลล์ไฟโบรบลาสต์ที่ถูกรังสี UVA (40 J/cm2) พบการถูกทำลาย 25% แต่กลุ่มที่ได้รับสารสกัดเปลือกหุ้มเมล็ดมะขามพบเซลล์ที่ถูกทำลายลดลง 10% เซลล์ไฟโบรบลาสต์ที่ถูกรังสี UV พบว่าสัดส่วนการหยุดวงจรของเซลล์ระยะ G0/G1 เพิ่มขึ้นจาก 59 เป็น 78% กลุ่มที่ได้รับสารสกัดเปลือกหุ้มเมล็ดมะขามพบว่าเกิดการปกป้องเซลล์ (64%) ระดับสารต้านอนุมูลอิสระ glutathione ของเซลล์กลุ่มที่ได้รับสารสกัดเพิ่มขึ้น 10–25% เมื่อเปรียบเทียบกับกลุ่มที่ไม่ได้รับสารสกัด ที่ 24–72 ชั่วโมง และพบว่าสารสกัดเปลือกหุ้มเมล็ดมะขามมีฤทธิ์ในการป้องกันการหลั่งเอนไซม์ที่ทำหน้าที่ในการย่อยคอลลาเจนหรือ matrix metalloproteinase-1 (MMP-1) ในเซลล์ไฟโบรบลาสต์ที่ถูกทำลายด้วยแสง (11)การทดสอบฤทธิ์ต้านอนุมูลอิสระของเปลือกหุ้มเมล็ดมะขาม โดยใช้ตัวอย่างสมุนไพรจากจังหวัดเพชรบูรณ์ คั่วเมล็ดมะขามที่อุณหภูมิ 150 องศาเซลเซียส เป็นเวลา 1 ชั่วโมง ล้างอย่างเร็วแล้วทำให้แห้งด้วย hot air oven ที่ 50 องศาเซลเซียส เป็นเวลา 24 ชั่วโมง นำเปลือกหุ้มเมล็ดมะขามออกแล้วทำให้เป็นผง สกัด โดยใช้ผงสมุนไพร 3 ก. แช่และเขย่าในน้ำเดือด 200 มล. 2 นาทีกรองและระเหยแห้งด้วยเครื่อง rotary evaporatorทดสอบฤทธิ์ต้านอนุมูลอิสระของสารสกัดในเซลล์ไฟโบรบลาสต์ของมนุษย์ CCD-1064Sk ทั้งในเซลล์ปกติและเซลล์ที่ถูกทำลายจากการเหนี่ยวนำด้วย H2O2 พบว่าสารสกัดน้ำเปลือกหุ้มเมล็ดมะขามมีผลเพิ่มระดับสาร glutathione ทั้งในเซลล์ปกติและเซลล์ที่ถูกทำลายด้วย H2O2 เพิ่มการทำงานของเอนไซม์ต้านอนุมูลอิสระ superoxide dismutase (SOD) และ catalase (CAT) แต่ไม่มีผลต่อ glutathione peroxidase  (GPx) ในเซลล์ปกติ และช่วยเพิ่มการแสดงออกของโปรตีนของเอนไซม์ต้านอนุมูลอิสระ SOD และ GPx ในเซลล์ที่ถูกทำลายด้วย H2O2 (12)การทดสอบเปรียบเทียบฤทธิ์ต้านอนุมูลอิสระของสารสกัดเอทานอลของเปลือกหุ้มเมล็ดมะขามโดยคัดเลือกเมล็ดมะขามหวานจากจังหวัดเพชรบูรณ์ และมะขามเปรี้ยวจากจังหวัดอ่างทอง นำเมล็ดมะขามไปอบที่อุณหภูมิ 50 องศาเซลเซียส นาน 1 วัน จากนั้นแกะเปลือกหุ้มเมล็ดมะขามออกให้หมด นำเปลือกมาบดจนละเอียดโดยผ่านตะแกรงร่อนขนาด 355 ไมครอน และเก็บไว้ที่ตู้ดูดความชื้น นำผงเปลือกเมล็ดมะขาม 10 ก. สกัดด้วย 100% เอทานอล ปริมาตร 50 มล. จากนั้นนำไปเขย่าด้วยเครื่องเขย่าเป็นเวลา 1 ชั่วโมง แล้วกรอง ระเหยเอทานอลด้วยเครื่อง rotary evaporator ที่อุณหภูมิ 70 องศาเซลเซียส ได้ผงสารสกัดจากเมล็ดมะขาม นำไปเก็บที่ตู้ดูดความชื้นทดสอบหาปริมาณสารฟีนอลิกโดยใช้สาร FolinCiocalteu reagent ที่ดัดแปลงจากวิธีการของ Slinkard & Singleton (1927) พบว่าสารสกัดเปลือกหุ้มเมล็ดมะขามเปรี้ยวขนาด 1–100 มคก./มล. มีปริมาณสารกลุ่มฟีนอลิกอยู่ในช่วง 0.233 ± 0.001 ถึง 1.09 ± 0.04 มคก. คำนวณเทียบเท่ากับgallic acid และทดสอบฤทธิ์ต้านอนุมูลอิสระพบว่ามีร้อยละการยับยั้ง DPPH อยู่ในช่วง 41.01 ± 4.92 ถึง 91.64 ± 1.38 และสารสกัดเปลือกเมล็ดมะขามหวานขนาด 1–100 มคก./มล.  มีปริมาณสารกลุ่มฟีนอลิกอยู่ในช่วง -0.04 ± 0.006 ถึง 1.06 ± 0.009 มคก. คำนวณเทียบเท่ากับgallic acid และมีร้อยละการยับยั้งอนุมูลอิสระDPPH อยู่ในช่วง 3.2 ± 3.3 ถึง 90.49 ± 0.27 จากการเปรียบเทียบสรุปได้ว่าสารสกัดเปลือกหุ้มเมล็ดมะขามเปรี้ยวมีปริมาณสารกลุ่มฟีนอลิกและร้อยละการยับยั้งอนุมูลอิสระDPPH ได้ดีกว่าสารสกัดเปลือกหุ้มเมล็ดมะขามหวานอย่างมีนัยสำคัญทางสถิติ ปริมาณสารประกอบฟีนอลิกสัมพันธ์กับร้อยละการยับยั้งสาร DPPH โดยสารกลุ่มฟีนอลิกและฤทธิ์การต้านอนุมูลอิสระเป็นปฏิภาคโดยตรงกับความเข้มข้นของสารสกัด (6)การทดสอบฤทธิ์ต้านอนุมูลอิสระในเซลล์แมคโครฟาจ RAW 264.7 และเซลล์แมคโครฟาจที่แยกจาก ช่องท้อง (peritoneal) ของหนูเม้าส์สายพันธุ์ B6C3F1 ของสารกสกัดเปลือกหุ้มเมล็ดมะขาม การเตรียมสารสกัดทำได้โดยอบเมล็ดมะขาม (ได้รับความอนุเคราะห์จากมหาวิทยาลัยเชียงใหม่) ที่อุณหภูมิ 140 องศาเซลเซียส นาน 45 นาที ทิ้งไว้ให้เย็น กะเทาะเปลือกหุ้มเมล็ดมะขามออก ย่อยให้เป็นผงละเอียด ใช้ผงเปลือกหุ้มเมล็ด 0.5 ก. สกัดด้วย 70% เอทานอลปริมาตร 10 มล. เขย่าอย่างแรงนาน 10 นาทีกรองด้วยกระดาษกรองซ้ำ ๆ จนสีจาง นำสารสกัด 5 มล. มาสกัดด้วยคลอโรฟอร์ม 5 มล. โดยเขย่ารวมกันและทิ้งไว้ให้แยกชั้นเป็น 2 ชั้น นำส่วนของเหลวชั้นบน 2 มล. สกัดต่อด้วยเอทิลอะซิเตทเขย่ารวมกันและทิ้งไว้ให้แยกเป็น 2 ชั้น นำส่วนของเหลวชั้นล่างออก ส่วนที่เหลือละลายในเมทานอล 5 มล. ทดสอบฤทธิ์ต้านอนุมูลอิสระพบว่าสารสกัดเปลือกหุ้มเมล็ดมะขามขนาด 0.2–200 มคก./มล. มีผลลดการสร้างnitric oxide จากการเหนี่ยวนำด้วย lipopolysaccharide (LPS) และ Interferon gamma (IFN-γ) สารสกัดขนาดสูงสุดยับยั้งได้เท่ากับ 68% โดยประสิทธิภาพจะขึ้นอยู่กับขนาดของสารสกัด และทดสอบโดยป้อนสารสกัดเอทานอลเปลือกหุ้มเมล็ดมะขามขนาด 100-500 มก./กก. แก่หนูเมาส์สายพันธุ์ B6C3F1 ผ่านทางปากเป็นระยะเวลา 14 วัน พบว่ามีผลในการยับยั้ง 12-O-tetradecanoylphorbol-13-acetate (TPA), LPS และ IFN-γที่เหนี่ยวนำการสร้าง nitric oxide ในเซลล์แมคโครฟาจที่แยกจากช่องท้องของหนูเม้าส์ โดยไม่มีผลต่อน้ำหนักตัว และไม่มีผลต่อการมีชีวิตรอดของเซลล์ (cell viability) (13) การทดสอบฤทธิ์ต้านอนุมูลอิสระของสารสกัดเมทานอลเปลือกหุ้มเมล็ดมะขาม (Mysore, India) ในหนูแรทสกัดด้วย Soxhletextractor นาน 8 ชั่วโมงทดสอบในหนูแรทโดยป้อนสารสกัด 50 มก./กก เป็นเวลา 14 วัน หลังจากนั้นให้คาร์บอนเตตะคลอไรด์ (CCl4) ขนาด 1.25 มล./กก.นน.ตัว ทางปาก แล้วแยกเซลล์ตับออกมาวิเคราะห์ พบว่าสารสกัดมีฤทธิ์เพิ่มระดับ SOD, catalase (CAT), peroxidase และยับยั้งการเกิด ออกซิเดชันของไขมัน (lipid peroxidation) จากการศึกษาลักษณะการเกิดพยาธิสภาพของตับพบว่า สารสกัดมีผลป้องกันเซลล์ตับจากความเป็นพิษของ CCl4 โดยพบเซลล์มีลักษณะปกติ และมีเลือดออกระหว่างเซลล์ตับน้อยกว่าเมื่อเปรียบเทียบกับกลุ่มที่ไม่ได้รับสารสกัด (14) การทดสอบสารสกัดหยาบของเนื้อฝักมะขาม (จากประเทศบราซิล) สกัดโดยใช้สมุนไพร 100 ก. แช่ในตัวทำละลาย 400 มล. (เอทานอล:น้ำ อัตราส่วน 7:3) ที่อุณหภูมิห้อง เป็นเวลา 5 วัน กรองแล้วกลั่นระเหยตัวทำละลายออกจากสารสกัดด้วยเครื่อง rotatory evaporator ทดสอบสารสกัดต่อการทำงานของเซลล์เม็ดเลือดขาวนิวโทรฟิล (neutrophil) ที่ถูกกระตุ้นให้เกิดอนุมูลอิสระด้วย opsonized zymosan (OZ), n-formyl-methionyl-leucyl-phenylalanine (fMLP) หรือ phorbolmyristate acetate (PMA) และวัดด้วย luminol- และlucigenin-enhanced chemiluminescence (LumCLและLucCLตามลำดับ) พบว่าสารสกัดมีฤทธิ์ในการยับยั้งอนุมูลอิสระแปรผันตามความเข้มข้นของสารสกัด สารสกัดมีประสิทธิภาพในการยับยั้งการเกิดอนุมูลอิสระที่เหนี่ยวนำโดยPMA [IC50 (มคก./106 เซลล์) = 115.7 ± 9.7 (LumCL) และ 174.5 ± 25.9 (LucCL)], มากกว่า OZ- [IC50 = 248.5 ± 23.1 (LumCL) และ 324.1 ± 34.6 (LucCL)] หรือfMLP- [IC50 = 178.5 ± 12.2 (LumCL)] สารสกัดมีฤทธิ์ยับยั้งการทำงานของเอนไซม์NADPH oxidase ยับยั้งกระบวนการที่ทำให้แกรนูลภายในไซโตพลาสซึมของนิวโทรฟิลลดลง (degranulation) และการทำงานของเอนไซม์elastase ที่ความเข้มข้นมากกว่า 200 มคก./106 เซลล์ โดยไม่พบความเป็นพิษต่อเซลล์ ภายใต้สภาวะที่ประเมินการทดลอง (15)",
+                "pharmacological_ref": [
+                    "Povichit N, Phrutivorapongkul A, Suttajit M, Chaiyasut C, Leelapornpisid P. Phenolic content and in vitro inhibitory effects on oxidation and protein glycation of some Thai medicinal plants. Pak J Pharm Sci. 2010;23(4):403-8."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านการอักเสบของผิวกาย",
+                "pharmacological_content": "การทดสอบฤทธิ์แก้ปวดจากการอักเสบ (inflammatory pain) ของสารสกัดน้ำของเนื้อฝักมะขาม (จากประเทศมาเลเซีย) สกัดสมุนไพรโดยบดเนื้อฝักมะขาม (ไม่ระบุปริมาณ) ต้มในน้ำกลั่น 1 ลิตร นาน 20 นาที กรองแล้วต้มให้เดือดต่อจนเหลือ 0.5 ลิตร ทิ้งไว้ให้เย็น แช่แข็งที่ -70 องศาเซลเซียส ทำให้แห้ง ได้สารสกัดความเข้มข้น 20% w/w โดยประมาณทดสอบฤทธิ์ต้านอาการปวดด้วยวิธีwrithing test โดยแบ่งหนูเม้าส์ออกเป็น 6 กลุ่ม ได้แก่ กลุ่มควบคุมให้น้ำเกลือทางปาก กลุ่มที่ให้ยา acetylsalicylic acid 5 มก./กก. กลุ่มที่ให้สารสกัดขนาด 60, 100, 300 และ 600 มก./กก. ตามลำดับ หลังจากนั้น 30 นาที กระตุ้นให้หนูทุกกลุ่มเกิดการอักเสบโดยฉีด aceticacid 0.6% เข้าช่องท้องทดสอบhot plate test โดยแบ่งหนูเม้าส์ออกเป็น 6 กลุ่ม ได้แก่ กลุ่มควบคุมให้น้ำเกลือทางปาก กลุ่มที่ให้ยา morphine 5 มก./กก.กลุ่มที่ให้สารสกัดขนาด 60, 100, 300 และ 600 มก./กก. ตามลำดับ แล้ววางหนูลงบน hot plate ที่อุณหภูมิ 52 ± 0.1 องศาเซลเซียสทดสอบ formalin test โดยแบ่งหนูเม้าส์ออกเป็น 6 กลุ่ม ได้แก่ กลุ่มควบคุมให้น้ำเกลือทางปาก กลุ่มที่ให้ยา morphine 5 มก./กก. กลุ่มที่ให้สารสกัดขนาด 60, 100, 300 และ 600 มก./กก. ตามลำดับ หลังจากนั้น 30 นาที กระตุ้นให้หนูทุกกลุ่มเกิดการอักเสบโดยฉีด formalin 2.5% 50 มคล. บริเวณฝ่าเท้าผลการทดสอบพบว่าสารสกัดขนาด 60–600 มก./กก. มีฤทธิ์ยับยั้งการอักเสบจากการทดสอบด้วยวิธี writhing test แปรผันตามความเข้มข้นของสารสกัด เกิดการระงับปวดอยู่ที่ 54.8 – 74.1% สารสกัดมีฤทธิ์เพิ่มเวลาที่หนูทนความร้อน (latency time) จากการทดสอบ hot plate testแปรผันตามความเข้มข้นของสารสกัดและมีฤทธิ์ยับยั้งการอักเสบจากการทดสอบ formalin test เช่นเดียวกัน (16)การทดสอบฤทธิ์ต้านการอักเสบของสารสกัด (ไม่ระบุวิธีการสกัด) จากเนื้อฝักมะขาม (Synthite Industries Pvt Ltd, Kerala, จากประเทศอินเดีย) ในเซลล์ RAW 264.7 ที่ถูกกระตุ้นให้เกิดการอักเสบโดยการหลั่ง nitric oxide (NO) ออกมา ด้วย lipopolysaccharide (LPS) ผลการทดสอบพบว่าสารสกัดมีฤทธิ์ในการยับยั้งการหลั่ง NO ที่ถูกกระตุ้นด้วยสาร LPS แปรผันตามความเข้มข้นของสารสกัด และมีค่า IC50 อยู่ที่ 35.69 มคก./มล. (17)",
+                "pharmacological_ref": [
+                    "Khalid S, ShaikMossadeq WM, Israf DA, Hashim P, Rejab S, Shaberi AM, et al. In vivo analgesic effect of aqueous extract of Tamarindus indica L. fruits. Med PrincPract. 2010;19(4):255-9.doi: 10.1159/000312710."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,484 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Portulaca oleracea",
+            "authorship": "Carl Linnaeus",
+            "updated_by": "",
+            "name_ref": "Sp. Pl. [Linnaeus] 1: 445. 1753",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:323270-2"
+        },
+        "synonyms": [
+            {
+                "name": "Portulaca oleracea subsp. granulatostellulata",
+                "author": "Karl von Poellnitz 1896-1945",
+                "protologue": "Israel J. Bot. 27: 189 (1978 publ. 1979)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000484421"
+            },
+            {
+                "name": "Portulaca officinarum",
+                "author": "Heinrich Johann Nepomuk von Crantz 1722-1797",
+                "protologue": "Inst. Rei Herb. 2: 428 (1766)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000484422"
+            },
+            {
+                "name": "Portulaca oleracea subsp. stellata",
+                "author": "Avinoam Danin 1939-2015",
+                "protologue": "Israel J. Bot. 27: 198 (1978 publ. 1979)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000484430"
+            },
+            {
+                "name": "Portulaca neglecta",
+                "author": "Kenneth Kent Mackenzie 1877-1934",
+                "protologue": "Man. Fl. Jackson County : 86 (1902)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000484441"
+            },
+            {
+                "name": "Portulaca olitoria",
+                "author": "Peter Simon Pallas 1741-1811",
+                "protologue": "Reise Russ. Reich. 3: 594 (1776)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000484482"
+            },
+            {
+                "name": "Portulaca parvifolia",
+                "author": "Adrian Hardy Haworth 1767-1833",
+                "protologue": "Syn. Pl. Succ. : 122 (1812)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000484539"
+            },
+            {
+                "name": "Portulaca oleracea var. sativa",
+                "author": "Adrian Hardy Haworth 1767-1833",
+                "protologue": "Prodr. 3: 43 (1828)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000487115"
+            },
+            {
+                "name": "Portulaca marginata",
+                "author": "Carl Sigismund Kunth 1788-1850",
+                "protologue": "Nov. Gen. Sp. 6: 72 (1823)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000489243"
+            },
+            {
+                "name": "Portulaca latifolia",
+                "author": "Jens Wilken Hornemann 1770-1841",
+                "protologue": "Hort. Bot. Hafn. 2: 491 (1815)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000489252"
+            },
+            {
+                "name": "Portulaca fosbergii",
+                "author": "Karl von Poellnitz 1896-1945",
+                "protologue": "Occas. Pap. Bernice Pauahi Bishop Mus. 12(9): 3 (1936)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000489282"
+            },
+            {
+                "name": "Portulaca hortensis",
+                "author": "Franz Josef Ruprecht 1814-1870",
+                "protologue": "Fl. Ingr. [Ruprecht] 388. 1860 [May 1860]",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000489301"
+            },
+            {
+                "name": "Portulaca sylvestris",
+                "author": "François Alexandre Pierre de Garsault 1693-1778",
+                "protologue": "Descr. Pl. Anim. 280 (1767); Thell. in Bull. Herb. Boiss. Ser. II. viii. 903.",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000489314"
+            },
+            {
+                "name": "Portulaca suffruticosa",
+                "author": "George Henry Kendrick Thwaites 1812-1882",
+                "protologue": "Enum. Pl. Zeyl. : 24 (1858)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000489318"
+            },
+            {
+                "name": "Portulaca stellata",
+                "author": "Avinoam Danin 1939-2015",
+                "protologue": "Parlatorea 4: 93 (2000)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000489324"
+            },
+            {
+                "name": "Portulaca sylvestris",
+                "author": "François Friche-Joset 1799-1856",
+                "protologue": "Syn. Fl. Jura 109. 1856",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000489325"
+            },
+            {
+                "name": "Portulaca retusa",
+                "author": "George Engelmann 1809-1884",
+                "protologue": "Boston J. Nat. Hist. 6: 154 (1850)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000489341"
+            },
+            {
+                "name": "Portulaca sativa",
+                "author": "Adrian Hardy Haworth 1767-1833",
+                "protologue": "Misc. Nat. : 136 (1803)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000489361"
+            },
+            {
+                "name": "Portulaca pilosa var. marginata",
+                "author": "Carl Sigismund Kunth 1788-1850",
+                "protologue": "Revis. Gen. Pl. 3(3): 15 (1898)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000510107"
+            },
+            {
+                "name": "Portulaca oleracea subsp. sylvestris",
+                "author": "François Alexandre Pierre de Garsault 1693-1778",
+                "protologue": "Fl. Adv. Montpellier 222 1912",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734316"
+            },
+            {
+                "name": "Portulaca fosbergii var. major",
+                "author": "Karl von Poellnitz 1896-1945",
+                "protologue": "Occas. Pap. Bernice Pauahi Bishop Mus. 12(9): 4 1936",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734318"
+            },
+            {
+                "name": "Portulaca oleracea f. alba",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734319"
+            },
+            {
+                "name": "Portulaca oleracea f. aurantia",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734321"
+            },
+            {
+                "name": "Portulaca oleracea f. aurea",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734322"
+            },
+            {
+                "name": "Portulaca oleracea f. caryophyllina",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734323"
+            },
+            {
+                "name": "Portulaca oleracea f. gillesii",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734324"
+            },
+            {
+                "name": "Portulaca oleracea f. haageana",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734325"
+            },
+            {
+                "name": "Portulaca oleracea f. parvifolia",
+                "author": "Adrian Hardy Haworth 1767-1833",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734326"
+            },
+            {
+                "name": "Portulaca oleracea f. rosea",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734327"
+            },
+            {
+                "name": "Portulaca oleracea f. sativa",
+                "author": "Augustin Pyramus de Candolle 1778-1841",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734328"
+            },
+            {
+                "name": "Portulaca oleracea f. striata",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734329"
+            },
+            {
+                "name": "Portulaca oleracea f. sulfurea",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734330"
+            },
+            {
+                "name": "Portulaca oleracea f. violacea",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. 111 1866",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734332"
+            },
+            {
+                "name": "Portulaca oleracea var. macrantha",
+                "author": "Carlos Luigi Spegazzini 1858-1926",
+                "protologue": "Bol. Of. Agric. Ganad. Prov. Buenos Aires 1: 273. 1901",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734333"
+            },
+            {
+                "name": "Portulaca oleracea var. micrantha",
+                "author": "Carlos Luigi Spegazzini 1858-1926",
+                "protologue": "Bol. Of. Agric. Ganad. Prov. Buenos Aires 1: 273. 1901",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734334"
+            },
+            {
+                "name": "Portulaca oleracea var. parvifolia",
+                "author": "Adrian Hardy Haworth 1767-1833",
+                "protologue": "Fl. Brit. W. I. 57 1859",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000734335"
+            },
+            {
+                "name": "Portulaca oleracea var. opposita",
+                "author": "Karl von Poellnitz 1896-1945",
+                "protologue": "–",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001105073"
+            },
+            {
+                "name": "Portulaca oleracea subsp. oleracea",
+                "author": "–",
+                "protologue": "–",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001105260"
+            },
+            {
+                "name": "Portulaca consanguinea",
+                "author": "Diederich Franz Leonhard von Schlechtendal 1794-1866",
+                "protologue": "Linnaea 24: 693 (1852)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001249172"
+            },
+            {
+                "name": "Portulaca intermedia",
+                "author": "Johann Heinrich Friedrich Link 1767-1851",
+                "protologue": "Bot. Zeitung (Berlin) 11(38): 667 1853",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001249173"
+            },
+            {
+                "name": "Portulaca oleracea subsp. sativa",
+                "author": "Adrian Hardy Haworth 1767-1833",
+                "protologue": "Prodr. Fl. Böhmen 484 1875",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001264947"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Caryophyllales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000493"
+            },
+            "genus": {
+                "genus_name": "Portulacaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000030996"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Portulaca+oleracea&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "ZINC",
+                "activity_count": 77,
+                "plant_part": "Shoot",
+                "low_parts_per_million": 3.0,
+                "high_parts_per_million": 60.0,
+                "standard_deviation": -0.68,
+                "ref": "Laferriere, J.E., 1988, Nutricomp Program, Nutricomp Database; reviewed in J. Ethnobiology 9(1):27-29."
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "ผักเบี้ยใหญ่",
+            "common_name_th_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันทน์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้ สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "Common garden purslane, Purslane",
+            "common_name_en_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันทน์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้ สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557.",
+                "นันทวัน บุณยะประภัศร และอรนุช โชคชัยเจริญพร, บรรณาธิการ. สมุนไพร..ไม้พื้นบ้าน (3). กรุงเทพฯ: บริษัท ประชาชน จำกัด; 2542."
+            ]
+        },
+        "local_name": {
+            "local_name": [
+                "ผักตาโค้ง",
+                "ผักเบี้ยดอกเหลือง",
+                "ผักอีหลู"
+            ],
+            "local_name_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันทน์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้ สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557.",
+                "นันทวัน บุณยะประภัศร และอรนุช โชคชัยเจริญพร, บรรณาธิการ. สมุนไพร..ไม้พื้นบ้าน (3). กรุงเทพฯ: บริษัท ประชาชน จำกัด; 2542."
+            ]
+        },
+        "clinical_studies": [
+            {
+                "clinical": "ฤทธิ์รักษาแผล",
+                "clinical_content": "ครีมผักเบี้ยใหญ่ที่มีส่วนผสมของ cold cream และสารสกัดเอทานอลจากใบผักเบี้ยใหญ่ ที่ความเข้มข้น 2% (w/w) (ตัวอย่างจากประเทศอิหร่าน) เมื่อนำมาศึกษาในหญิงให้นมบุตร ที่มีปัญหาหัวนมแตก อายุระหว่าง 27.5 ± 6 ปี จำนวน 86 คน แบ่งออกเป็น 2 กลุ่มๆ ละ 43 คน กลุ่มที่ 1 ให้ทาครีมที่มีสารสกัดใบผักเบี้ยใหญ่ความเข้มข้น 2% (w/w) ที่หัวนมที่แตกทั้งสองข้าง วันละ 3 ครั้ง หลังให้นมบุตร กลุ่มที่ 2 ให้ทาด้วยครีมลาโนลิน  พบว่ากลุ่มที่ทาครีมที่มีสารสกัดใบผักเบี้ยใหญ่แผลที่หัวนมดีขึ้น ภายในวันที่ 3 และวันที่ 8 หลังการศึกษาอย่างมีนัยสำคัญทางสถิติ เมื่อเปรียบเทียบกับก่อนใช้และกลุ่มที่ได้รับครีมลาโนลิน (19)",
+                "clinical_ref": [
+                    "Niazia A, Yousefzadeha S, Rakhshandehb H, Esmailyc H, Askarib VR.  Promising effects of purslane cream on the breast fissure in lactating women: A clinical trial.  Complement Ther Med. 2019;43:300-5. doi: 10.1016/j.ctim.2019.02.002."
+                ]
+            },
+            {
+                "clinical": "ฤทธิ์ต้านการอักเสบของผิวกาย",
+                "clinical_content": "การศึกษาแบบไปข้างหน้า (prospective, bilateral comparison study) ในผู้ป่วยชาวจีนที่เป็นโรคสะเก็ดเงินจำนวน 10 คน อายุเฉลี่ย 32.4 ปี โดยผู้ป่วยทั้งหมดจะได้รับการทายา 2 ด้าน (ซ้าย-ขวา) คือ ด้านแรกให้ทายา 0.005% calcipotriol ointment บริเวณที่เป็นวันละ 2 ครั้ง  ด้านที่ 2 ให้ทายา 0.005% calcipotriol ointment ร่วมกับครีมที่มีสารสกัดผักเบี้ยใหญ่ (ไม่ระบุส่วนและตัวทำละลาย) (ตัวอย่างจากประเทศจีน) โดยให้ทา 0.005% calcipotriol ointmentในช่วงเย็น และทาครีมที่มีสารสกัดผักเบี้ยใหญ่ในตอนเช้า โดยขนาดทาครีมคือ 0.5 กรัม (ประมาณปลายนิ้ว) ทาบริเวณที่เป็นแผลสะเก็ดเงินขนาด 10 x 10 ซม.2 นานทั้งหมด 4 สัปดาห์  ผลการวัดค่าการสูญเสียน้ำออกจากผิว (transepidermal water loss; TEWL) พบว่ากลุ่มที่ได้รับ 0.005% calcipotriol ointment ร่วมกับครีมที่มีสารสกัดผักเบี้ยใหญ่ มีค่า TEWL น้อยกว่าและมีผลยับยั้งสารที่ก่อให้เกิดการอักเสบ tumor necrosis factor (TNF)-, interleukin (IL)-8 และnuclear factor B (NF-B)ซึ่งมีผลให้ผู้ป่วยมีอาการคัน และผิวหนังที่เป็นผื่นแดงลดน้อยลง (20)",
+                "clinical_ref": [
+                    "Zhao H, Li S, Luo F, Tan Q, Li H, Zhou W.  Portulaca oleracea L. aids calcipotriol in reversing keratinocyte differentiation and skin barrier dysfunction in psoriasis through inhibition of the nuclear factor kB signaling pathway. Exp Ther Med.  2015;9:303-10.doi: 10.3892/etm.2014.2116."
+                ]
+            }
+        ],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "ฤทธิ์ทำให้ผิวขาว",
+                "pharmacological_content": "สารสกัด 80% เอทานอลของส่วนเหนือดินผักเบี้ยใหญ่ (ตัวอย่างจากประเทศเวียดนาม)สกัดโดยการแช่ผักเบี้ยใหญ่ 1 กรัม ใน 80% เอทานอล 10 มล. แล้วนำสารละลายหลังจากกรองได้ไปทดสอบฤทธิ์ พบว่าสารสกัดดังกล่าวมีฤทธิ์ยับยั้งเอนไซม์ไทโรซิเนสได้57.865 ± 3.825%ซึ่งเปรียบเทียบกับกรดโคจิกที่นิยมใช้เป็นสารทำให้ผิวขาวในเครื่องสำอางที่มีฤทธิ์ยับยั้งเอนไซม์ไทโรซิเนสได้ 97.370 ± 0.791% (21)",
+                "pharmacological_ref": [
+                    "Hanh NTM, Phung NKP, Phuong QND.  Studying on tyrosinase inhibition activity of some Vietnamese folk plants aims to use in skin-whitening cosmetics.  Am J Plant Sci. 2017;8:1319-28. doi: 10.4236/ajps.2017.86088."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านสิวบนผิวกาย",
+                "pharmacological_content": "สาร apigenin จากส่วนเหนือดินของผักเบี้ยใหญ่ (ตัวอย่างจากประเทศอินเดีย) เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี disc diffusion ที่ขนาด 10 มคล. พบว่าสามารถยับยั้งเชื้อแบคทีเรียStaphylococcus aureus (S. aureus) โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ12.24 ± 0.41 มม. เมื่อเปรียบเทียบกับยา streptomycin ที่ขนาดเท่ากัน มีการยับยั้งเชื้อมีความกว้างเท่ากับ 17.42 ± 0.54 มม.นอกจากนี้พบว่าสาร apigenin มีค่า MIC (Minimum Inhibition Concentration) ต่อเชื้อ S. aureus มากกว่า 4มก./มล. (22)สาร linoleic acid และoleic acid จากส่วนเหนือดินของผักเบี้ยใหญ่(ตัวอย่างจากประเทศฮ่องกง)  เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรีย พบว่าสามารถยับยั้งเชื้อแบคทีเรียmethicillin-resistant Staphylococcus aureus (MRSA) โดยมีค่าMIC เท่ากับ 256 และ มากกว่า 256 มคก./มล. ตามลำดับเช่นเดียวกับยา erythromycin ที่มีค่า MIC ต่อเชื้อ MRSA เท่ากับ 256 มคก./มล. แต่เมื่อนำสารlinoleic acid และoleic acid ไปใช้ร่วมกับยา erythromycin พบว่า MIC ของสารทั้งสอง มีค่าเท่ากับ 16 และ 32 มคก./มล. ตามลำดับ ในขณะที่ erythromycin ค่า MIC เท่ากับ 16 มคก./มล. แสดงว่าสาร linoleic acid และ oleic acid เมื่อใช้ร่วมกับยา erythromycin จะเสริมฤทธิ์กันในการต้านเชื้อ MRSA (23)สาร portulacerebroside B, portulacerebroside C, portulacerebroside D และportulaceramide A จากส่วนเหนือดินของผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรีย พบว่าสามารถต้านเชื้อแบคทีเรียชนิด S. aureus โดยมีค่า MIC เท่ากับ 0.1875, 0.1875, 0.1875 และ 0.375 มก./มล. ตามลำดับ ในขณะที่ยา amoxicillin มีค่า MIC เท่ากับ 0.0117มก./มล.และสารดังกล่าวมีค่า minimal bactericidal concentrations (MBC) เท่ากับ 0.50, 0.50, 0.50 และ 0.50 มก./มล. ตามลำดับในขณะที่ยาamoxicillin มีค่า MBC เท่ากับ0.0156 มก./มล. (13)สารสกัดเอทานอลจากส่วนเหนือดินของผักเบี้ยใหญ่ (ตัวอย่างจากประเทศปากีสถาน) เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี disc diffusion พบว่าสามารถยับยั้งเชื้อแบคทีเรีย S. aureus โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 26.17 ± 0.73 มม. ในขณะที่ส่วนสกัดด้วยเอ็น-เฮกเซนไดคลอโรมีเทนและเอทิลอะซิเตดสามารถยับยั้งเชื้อแบคทีเรีย S. aureus โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ19.00 ± 0.58, 22.00 ± 0.58 และ25.67 ± 0.88 มม. ตามลำดับ (24)สารกลุ่มฟลาโวนอยด์จากส่วนเหนือดินของผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียพบว่าสามารถต้านเชื้อแบคทีเรียชนิดS. aureusโดยมีค่าMICและ MBC เท่ากับ 10.0 ± 0.12และ 10.0 ± 0.12 มก./มล. ตามลำดับ (25)สารกลุ่มฟลาโวนอยด์จากส่วนเหนือดินของผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียพบว่าสามารถต้านเชื้อแบคทีเรียชนิดS. aureusโดยมีค่าMIC เท่ากับ 0.156มก./มล. (26)สารสกัดส่วนเหนือดินของของผักเบี้ยใหญ่ด้วย 70% เมทานอล (ตัวอย่างจากประเทศกาน่า) เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียพบว่าสามารถต้านเชื้อแบคทีเรียชนิด S. aureus โดยมีค่า MIC เท่ากับ 12.50 มก./มล. ในขณะที่ยา ciprofloxacin มีค่า MIC เท่ากับ0.16มก./มล. (27)",
+                "pharmacological_ref": [
+                    "Nayaka HB, Londonkar RL, Umesh MK, Tukappa A.  Antibacterial attributes of apigenin, isolated from Portulaca oleracea L.  Int J Bacteriol. 2014, Article ID 175851, 8 pages. doi: 10.1155/2014/175851."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านอนุมูลอิสระบนผิวกาย",
+                "pharmacological_content": "สารสกัดใบ และต้นอ่อนผักเบี้ยใหญ่แห้ง (ตัวอย่างจากประเทศอิตาลี) ซึ่งสกัดด้วยวิธี 1. การแช่สกัดด้วยน้ำและนำไปตั้งไฟให้ได้ที่อุณหภูมิ 70°C และคนนาน 15 นาที (Hot Maceration) 2. ด้วยการใช้ Naviglio extractor chamber (Naviglio Extractor) 3. การแช่สกัดด้วยน้ำและใช้ ultrasonic bath (Maceration and Ultrasounds) 4. การใช้หลายวิธีรวมกัน (Mix Extraction)พบว่าปริมาณสารฟีนอลิกทั้งหมดในแต่ละวิธีมีค่าเท่ากับ 158.9, 67.4, 61.3 และ 237.8 มิลลิกรัมสมมูลกรดแกลิก (GAE)/100 กรัมพืชสดตามลำดับและเมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธีDPPH assayพบว่ามีฤทธิ์ต้านอนุมูลอิสระได้  52.7±0.8, 69.5±1.7, 65.4 ±1.5 และ 54.0± 0.9% ตามลำดับ จะเห็นได้ว่าการสกัดด้วยวิธีMix Extractionจะมีปริมาณสารกลุ่มฟีนอลิกมากที่สุด ในขณะที่การสกัดด้วยวิธี Naviglio Extractor จะมีฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุด (28)สารอัลคาลอยด์จากส่วนเหนือดินของผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) คือ สาร portulacatone และ iseluxine เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธีDPPH assay พบว่าค่าความเข้มข้นของสารสกัดดังกล่าวที่ทำให้สารอนุมูลอิสระลดลงครึ่งหนึ่ง (IC50) มีค่าเท่ากับ 14.36 และ 9.98 ไมโครโมลาร์ ตามลำดับ ซึ่งมีศักยภาพดีกว่าวิตามินซีที่เป็นสารต้านอนุมูลอิสระจากธรรมชาติ (IC50เท่ากับ 20.72 ไมโครโมลาร์) (11)สารสกัดทั้งต้นผักเบี้ยใหญ่ด้วยเมทานอล (ตัวอย่างจากประเทศอินเดีย)เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าค่าความเข้มข้นที่สามารถต้านอนุมูลอิสระได้ร้อยละ 50 (IC50) มีค่าเท่ากับ 93.89± 0.08มคก./มล. (29)สารสกัดหน่ออ่อนผักเบี้ยใหญ่ (ตัวอย่างจากประเทศอินเดีย) ด้วยเมทานอล เอทิลอะซิเตด และ เอ็น-เฮกเซน ที่ความเข้มข้น 4 มก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่ามีฤทธิ์ต้านอนุมูลอิสระได้ 96.8 ± 0.01, 74.1 ± 0.005 และ 45.1 ± 0.005% ตามลำดับ จะเห็นได้ว่าสารสกัดจากเมทานอลมีฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุด (30)สารสกัด และส่วนสกัดของส่วนเหนือดินผักเบี้ยใหญ่ด้วยเมทานอล (ตัวอย่างจากประเทศตุรกี) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าค่า IC50 มีค่าเท่ากับ 511.8 ± 5.3 และ154.1± 2.5 มคก./มล. ตามลำดับเมื่อเปรียบเทียบกับวิตามินอี (-tocopherol) IC50มีค่าเท่ากับ 33.8 ± 1.3 มคก./มล. จะเห็นได้ว่าส่วนสกัดส่วนเหนือดินของผักเบี้ยใหญ่มีฤทธิ์ต้านอนุมูลอิสระได้ดีกว่าสารสกัด (31)สารสกัดส่วนเหนือดินผักเบี้ยใหญ่ด้วย ไดคลอโรมีเทน เอทานอล และน้ำ (ตัวอย่างจากประเทศตุรกี) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี Cupric Reducing Antioxidant Capacity (CUPRAC) พบว่าค่า CUPRAC ที่ความเข้มข้น 100 มคก./มล. มีค่าเท่ากับ 0.098 ± 0.0023, 0.597 ± 0.0113 และ 0.348 ± 0.0108 เมื่อเปรียบเทียบกับวิตามินอี (-tocopherol) ที่ความเข้มข้น 100 มคก./มล. มีค่า CUPRAC เท่ากับ 2.011 ± 0.0339 (32)สารสกัดส่วนเหนือดินผักเบี้ยใหญ่ด้วยน้ำ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี Ferric-reducing antioxidant power (FRAP) assayและ Trolox equivalent antioxidant capacity (TEAC) assay พบว่าสารสกัดดังกล่าวมีความสามารถในการต้านอนุมูลอิสระเท่ากับ110.26 ± 1.21 ไมโครโมล/กรัม สมมูลของ Fe2+ และ 85.63 ± 1.75 ไมโครโมล/กรัมสมมูลของTrolox ตามลำดับ (33)สารสกัดฟรีซดราย (Freeze Dry) ส่วนเหนือดินผักเบี้ยใหญ่ด้วยเมทานอลทั้งชนิดสด และผ่านการนึ่งด้วยไอน้ำ 5 นาที (ตัวอย่างจากประเทศสเปน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี ABTS และ DPPH assay พบว่าสารสกัดฟรีซดรายส่วนเหนือดินผักเบี้ยใหญ่ชนิดสดมีความสามารถในการต้านอนุมูลอิสระได้ 390 และ 260 ไมโครโมลสมมูลของTrolox /ก. สารสกัดตามลำดับ ในขณะที่สารสกัดฟรีซดรายส่วนเหนือดินผักเบี้ยใหญ่ที่ผ่านการนึ่งมีความสามารถในการต้านอนุมูลอิสระได้ 200 และ 160 ไมโครโมลสมมูลของ Trolox /ก. สารสกัดตามลำดับ จากการศึกษาสรุปได้ว่าความร้อนมีผลทำให้ความสามารถในการต้านอนุมูลอิสระของสารสกัดลดลง (12)น้ำมันหอมระเหยจากเมล็ดผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธีDPPH assay พบว่าค่าIC50มีค่าเท่ากับ 11.16 ±0.07 มก./มล. ตามลำดับเมื่อเปรียบเทียบกับtertiary butylhydroquinone (TBHQ) IC50 มีค่าเท่ากับ 0.37 ± 0.07 มก./มล. (34)สารสกัดใบผักเบี้ยใหญ่ด้วย 80% เอทานอล (ตัวอย่างจากประเทศอิหร่าน) เมื่อนำมาผสมในอาหารปลา 1% ให้ปลากินนาน 56 วัน พบว่าสารสกัดใบผักเบี้ยใหญ่ช่วยเพิ่มการทำงานของสารต้านอนุมูลอิสระ catalase (CAT), superoxide dismutase (SOD) ในปลา เมื่อเปรียบเทียบกับกลุ่มที่ไม่ได้รับสารสกัด (35)สารสกัดใบและลำต้นผักเบี้ยใหญ่ด้วยน้ำ (ตัวอย่างจากประเทศบัลแกเรีย) โดยการต้มที่ 10, 15 และ 20 นาที เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธีDPPH assay พบว่าสารสกัดใบผักเบี้ยใหญ่มีความสามารถในการต้านอนุมูลอิสระอยู่ในช่วง 34.43 ± 0.56 - 159.64 ± 0.66 ไมโครโมลาร์สมมูลของ Trolox/100ก.นน.พืช ซึ่งสารสกัดจากใบผักเบี้ยใหญ่ด้วยการต้มนาน 20 นาที จะมีฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุด (159.64 ± 0.66 ไมโครโมลาร์สมมูลของ Trolox /100 ก.นน. พืชสด) ในขณะที่สารสกัดลำต้นผักเบี้ยใหญ่มีฤทธิ์ต้านอนุมูลอิสระได้น้อยกว่าใบ (36) สารสกัดใบสดผักเบี้ยใหญ่ด้วยเมทานอล (ตัวอย่างจากประเทศอียิปต์) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH และ ABTSassay พบว่าสารสกัดใบสดผักเบี้ยใหญ่มีความสามารถในการต้านอนุมูลอิสระได้ 53.23% และ 147.78 ไมโครโมลาร์ สมมูลของ Trolox/100 ก. นน.พืช ตามลำดับ และการศึกษานี้ยังพบว่าการทำให้ใบผักเบี้ยใหญ่แห้งด้วยวิธีอบลมร้อน (hot air) ทำให้แห้งด้วยความเย็น (freeze dry) และการใช้ไมโครเวฟ จะมีผลทำให้สารกลุ่มฟินอลิก และฟลาโวนอยด์ ลดลง และมีผลให้ความสามารถในการต้านอนุมูลอิสระลดลงด้วย (37)สารสกัดส่วนเหนือดินผักเบี้ยใหญ่ด้วยเมทานอล (ตัวอย่างจากประเทศมาเลเซีย) ที่ช่วงอายุ 15, 30, 45 และ 60 วัน เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธีDPPH assay พบว่าค่าความเข้มข้นที่สามารถต้านอนุมูลอิสระได้ร้อยละ 50 (IC50) มีค่าเท่ากับ1.71 ± 0.04, 1.46 ± 0.03, 1.38 ± 0.01 และ 1.30 ± 0.04 มก./มล. ตามลำดับ จะเห็นได้ว่าช่วงอายุที่มากขึ้นของผักเบี้ยใหญ่จะมีฤทธิ์ต้านอนุมูลอิสระได้มากขึ้น (38)สารสกัดลำต้นผักเบี้ยใหญ่ด้วยเอทานอล และน้ำ (ตัวอย่างจากประเทศตูนิเซีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี ABTS assayพบว่าค่า IC50 มีค่าเท่ากับ5.31 ± 0.01 และ 5.08 ± 0.06 มก./มล. ตามลำดับ หากทดสอบด้วยวิธี Reducing power assay IC50มีค่าเท่ากับ 1.55 ± 0.07 และ 10.51 ± 0.03 ตามลำดับในขณะที่ทดสอบด้วยวิธี Phosphomolybdenum assay IC50 มีค่าเท่ากับ 0.46 ± 0.01 และ 2.66 ± 0.04 ตามลำดับ (39)สารสกัดส่วนเหนือดินผักเบี้ยใหญ่ด้วยเอทิลอะซิเตดเมทานอลและน้ำ (ตัวอย่างจากประเทศแอลจีเรีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าค่า IC50มีค่าเท่ากับ 114.84 ± 22.81, 78.44 ± 7.24 และ 89.42 ± 6.63 มคก./มล. ตามลำดับเมื่อเปรียบเทียบกับสารมาตรฐาน BHT ที่มีค่า IC50 เท่ากับ 11.5 มคก./มล. จะเห็นได้ว่าสารสกัดเมทานอลจะมีฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุด (40)สารสกัดใบสดและแห้งผักเบี้ยใหญ่ด้วย 80% เมทานอลและเอทานอล (ตัวอย่างจากประเทศอิตาลี) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH และABTS assay พบว่าค่า IC50ของสารสกัดใบสดและแห้งด้วย 80% เมทานอลมีค่าเท่ากับ 52.86 ± 0.8 และ 53.92 ± 1.3 มก./มล. ตามลำดับและสารสกัดใบสดและแห้งด้วยเอทานอลมีค่าเท่ากับ 55.92 ± 1.1 และ 56.87 ± 1.3 มก./มล. ตามลำดับเมื่อทดสอบด้วยวิธี DPPH โดยเปรียบเทียบกับวิตามินซีที่ IC50 มีค่าเท่ากับ 2.0 ± 0.9 มก./มล.  ในขณะที่การทดสอบด้วยวิธีABTS ค่า IC50ของสารสกัดใบสดและแห้งด้วย 80% เมทานอลเท่ากับ 66.98 ± 1.9 และ 72.60 ± 1.7 มก./มล. ตามลำดับและสารสกัดใบสดและแห้งด้วยเอทานอลมีค่าเท่ากับ 85.91 ± 1.9 และ 89.46 ± 2.3 มก./มล. ตามลำดับโดยเปรียบเทียบกับวิตามินซีที่IC50มีค่าเท่ากับ 1.7 ± 0.8 มก./มล. จากการศึกษาจะเห็นได้ว่าสารสกัดใบสดและแห้งผักเบี้ยใหญ่ด้วย 80% เมทานอลจะมีฤทธิ์ต้านอนุมูลดีกว่าสารสกัดด้วยเอทานอล (41)สารสกัดใบผักเบี้ยใหญ่ด้วยเมทานอล (ตัวอย่างจากประเทศเนปาล) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าค่า IC50 มีค่าเท่ากับ 41.18 มคก./มล. เมื่อเทียบกับวิตามินซีที่มีค่า IC50 เท่ากับ 3.27 มคก./มล. (42)สารสกัดส่วนเหนือดินผักเบี้ยใหญ่ด้วย 70% เอทานอล (ตัวอย่างจากประเทศกาน่า) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าค่า IC50 เท่ากับ 2.7 มคก./มล. เมื่อเทียบกับวิตามินอี (-tocopherol) ที่มี IC50 เท่ากับ 1.2 มคก./มล. (27)สารกลุ่มลิกแนนที่สกัดได้จากส่วนเหนือดินผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) ได้แก่ oleralignan, (+)-syringaresinol, (+)-lirioresinol A และ monomethyl 3,3′,4,4′-tetrahydroxy--truxinate เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าค่า IC50 เท่ากับ 20.64, 17.34, 16.46 และ 8.00 ไมโครโมลาร์ตามลำดับ ซึ่งสารดังกล่าวมีฤทธิ์ต้านอนุมูลอิสระได้ดีกว่า butylated hydroxy anisole (BHA) (33.85 ± 0.24 ไมโครโมลาร์) (17)สาร soyalkaloid Aที่สกัดได้จากส่วนเหนือดินผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน)เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าค่า IC50 เท่ากับ 20.73 ± 0.51 ไมโครโมลาร์ (43)สาร oleraciamide E ซึ่งเป็นสารในกลุ่มไกลโคไซด์จากผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่ามีค่า IC50 เท่ากับ 24.64 ±0.33 ไมโครโมลาร์ (44)สาร oleraceins F และ Gซึ่งเป็นสารในกลุ่มอัลคาลอยด์จากผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่ามีค่า IC50 เท่ากับ21.00 ± 0.10 และ 37.69 ± 0.75 ไมโครโมลาร์ ตามลำดับเมื่อเปรียบเทียบกับสารมาตรฐาน BHA และวิตามินซีที่ IC50 มีค่าเท่ากับ 15.26±0.72 และ 16.44± 0.44 ไมโครโมลาร์ ตามลำดับ (14)สาร oleraindole A และ B ซึ่งเป็นสารในกลุ่มอัลคาลอยด์จากผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่ามีค่า IC50 เท่ากับ16.20 ± 0.11 และ 13.88 ± 0.06 ไมโครโมลาร์ตามลำดับเมื่อเปรียบเทียบกับสารมาตรฐานBHAที่IC50 มีค่าเท่ากับ 53.13 ± 0.36ไมโครโมลาร์ (16)สาร oleracone Jและ K ซึ่งเป็นสารในกลุ่มฟลาวโวนอยด์จากผักเบี้ยใหญ่ (ไม่ระบุแหล่งที่มา) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่ามีค่า IC50 เท่ากับ18.34, 23.92 ไมโครโมลาร์ตามลำดับ (9)สาร benzoic acid, 4-[[(2-hydroxyethyl)amino]carbonyl]-methyl ester และ benzoic acid, 3-[[(2-hydroxyethyl)amino]carbonyl]-methyl ester จากผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่ามีค่า IC50 เท่ากับ 56.49 ± 0.09 และ 54.89 ± 0.06 มคก./มล. ตามลำดับเมื่อเปรียบเทียบกับสารมาตรฐาน BHA และวิตามินซีที่ IC50 มีค่าเท่ากับ 33.28 ± 0.09 และ 10.66 ± 0.05มคก./มล. ตามลำดับ (45)สาร oleracone C, D และ E ซึ่งเป็นสารในกลุ่มฟลาโวนอยด์จากผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่ามีค่า IC50 เท่ากับ23.27 ± 0.02, 11.73 ± 0.02 และ 13.17 ± 0.01 ไมโครโมลาร์ตามลำดับเมื่อเปรียบเทียบกับสารมาตรฐาน BHA ที่IC50 มีค่าเท่ากับ59.14 ± 0.04 ไมโครโมลาร์ (7)สาร oleraceacid จากผักเบี้ยใหญ่ (ไม่ระบุส่วนที่ใช้) (ตัวอย่างจากประเทศจีน) ที่สกัดด้วยวิธี ultra-high performance liquid chromatography coupled with electrospray ionization-quadrupole-time of flight-mass spectrometry (UHPLC-ESI-Q-TOF-MS) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระพบว่ามีค่า IC50 เท่ากับ 26.49 มคก./มล. (46)สาร oleracone F จากผักเบี้ยใหญ่ (ไม่ระบุส่วนที่ใช้) (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี2,2-diphenyl-1-picryl-hydrazine (DPPH) assay พบว่าIC50มีค่าเท่ากับ17.78ไมโครโมล่าร์ (8)สาร oleracein E (OL-E) และ oleracein L (OL-L) ซึ่งเป็นสารในกลุ่มอัลคาลอยด์ที่ความเข้มข้น 100 ไมโครโมลาร์ เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระกับเซลล์ตับอ่อนของหนูเม้าส์ (-TC-6 pancreatic cell) พบว่าสาร oleracein E เพิ่มความสามารถของเอนไซม์ที่มีฤทธิ์ต้านอนุมูลอิสระsuperoxide dismutase (SOD), catalase และ glutathione peroxidase (GPx) ได้ 22.10, 15.62 และ 29.83% ตามลำดับ ในขณะที่ oleracein L เพิ่มความสามารถของเอนไซม์ที่มีฤทธิ์ต้านอนุมูลอิสระ superoxide dismutase (SOD), catalase และ glutathione peroxidase (GPx) ได้ 15.78, 19.56 และ 11.60% ตามลำดับ (12)",
+                "pharmacological_ref": [
+                    "Gallo M, Conte E, Naviglio D.  Analysis and comparison of the antioxidant component of Portulaca oleracea leaves obtained by different solid-liquid extraction techniques. Antioxidants. 2017;6:64.doi:10.3390/antiox6030064."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านการอักเสบของผิวกาย",
+                "pharmacological_content": "สาร oligopeptides จากส่วนเหนือดินของผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) ขนาด 50 ไมโครโมลาร์ เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบในเซลล์เม็ดเลือดขาว (RAW 264.7 Murine Macrophages) ที่ถูกกระตุ้นให้เกิดการอักเสบด้วยสารไลโปโพลีแซคคาไรด์ (lipopolysaccharide; LPS) พบว่าสามารถลดสารที่ก่อให้เกิดการอักเสบ (tumor necrosis factor-(TNF-),interleukin-6 (IL-6), interleukin-1(IL-1), nitric oxide (NO) และprostaglandin E2ได้ 66.6, 69.1, 71.2,71.1 และ 75.5% ตามลำดับ อย่างมีนัยสำคัญทางสถิติ (47)สาร cis-3-(3-nitro-4-hydroxyphenyl)-methyl acrylate (ตัวอย่างจากประเทศจีน) วิเคราะห์ด้วยวิธี column chromatography จากต้นผักเบี้ยใหญ่ เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบในเซลล์เม็ดเลือดขาว (RAW 264.7 Murine Macrophages) ที่ถูกกระตุ้นให้เกิดการอักเสบด้วยสารlipopolysaccharideพบว่าค่าความเข้มข้นที่มีผลต้านการอักเสบได้ร้อยละ 50 (EC50) มีค่าเท่ากับ 18 ไมโครโมลาร์ (48)สาร oleracimineจากส่วนเหนือดินผักเบี้ยใหญ่ (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบในเซลล์เม็ดเลือดขาว (RAW 264.7 Murine Macrophages) ที่ถูกกระตุ้นให้เกิดการอักเสบด้วยสาร lipopolysaccharide พบว่า สาร oleracimine ขนาด 4 ไมโครโมลาร์ สามารถลดระดับสารที่ก่อให้เกิดการอักเสบ NO และ PGE2 ได้ และขนาด 10 ไมโครโมลาร์ สามารถลดระดับสารที่ก่อให้เกิดการอักเสบ IL-6 และTNF- ได้ซึ่งใกล้เคียงกับยา dexamethasone ที่ขนาด 10 ไมโครโมลาร์ (15)สารสกัด (ไม่ระบุส่วน) ผักเบี้ยใหญ่ด้วย 90% เอทานอล โดยการแช่สกัด (ตัวอย่างจากประเทศจีน) ที่ความเข้มข้น 0.1, 0.5 และ 1 มก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบในเซลล์เม็ดเลือดขาว (RAW 264.7 Murine Macrophages) ที่ถูกกระตุ้นให้เกิดการอักเสบด้วยสารlipopolysaccharide พบว่า มีการสร้างสารไนตริกออกไซด์ (NO) เท่ากับ 27.16 ± 0.27, 19.25 ± 0.04 และ 12.36 ± 0.04 ไมโครโมลาร์  ในขณะที่หากไม่ได้รับสารสกัดผักเบี้ยใหญ่มีการสร้างสาร NOเท่ากับ 30.1 ไมโครโมลาร์ จากการศึกษาสรุปได้ว่าสารสกัดผักเบี้ยใหญ่สามารถลดการอักเสบได้โดยไปลดการสร้างสาร NO โดยประสิทธิภาพในการลดการอักเสบขึ้นกับความเข้มข้นที่ใช้ในการทดสอบ (49)เมื่อป้อนสารสกัดส่วนเหนือดินผักเบี้ยใหญ่โดยการแช่สกัดด้วย 70% เอทานอล (ตัวอย่างจากประเทศอิหร่าน) ให้กับหนูแรทที่เหนี่ยวนำให้เกิดการอักเสบที่ปอดด้วย lipopolysaccharideในขนาด 50, 100 และ 200 มก./กก. พบว่าสารสกัดผักเบี้ยใหญ่ขนาด 100 และ 200 มก./กก. สามารถลดสารที่ก่อให้เกิดการอักเสบได้ ได้แก่ interleukin1 (IL)-1, IL-6,tumor necrosisfactor (TNF), prostaglandin E2 (PGE2) และ transforming growth factor (TGF) เมื่อเปรียบเทียบกับกับกลุ่มที่ไม่ได้รับสารสกัด (50)สารสกัดใบผักเบี้ยใหญ่ด้วย 70% เอทานอล โดยการแช่สกัด (ตัวอย่างจากประเทศอิหร่าน) เมื่อนำมาผสมลงในน้ำให้หนูแรทที่ถูกเหนี่ยวนำให้เกิดการอักเสบที่ระบบทางเดินหายใจเหมือนเป็นโรคหอบหืดด้วยการฉีด ovalbumin และอะลูมิเนียมไฮดรอกไซด์ (AlOH3) กินในขนาด 1, 2 และ 4 มก./มล. และมีกลุ่มควบคุมเชิงบวกโดยการให้ 0.2 and 0.4 มก./มล. alpha linolenic acid (ALA) และยาdexamethasoneขนาด 1.25 มคก./มล.ผสมลงในน้ำให้หนูแรทกินเช่นกัน พบว่ากลุ่มที่ได้รับสารสกัดใบผักเบี้ยใหญ่ขนาด 4 มก./มล. สามารถลดระดับสารที่ก่อให้เกิดการอักเสบ NO2 และ NO3 ได้ใกล้เคียงกับกลุ่มที่ได้รับ ALA ขนาด 0.4 มก./มล. และ dexamethasone ขนาด 1.25 มคก./มล. (51)สารสกัด freeze dried ของน้ำส่วนเหนือดินผักเบี้ยใหญ่ (ตัวอย่างจากประเทศอิตาลี) เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบในเซลล์มะเร็งลำไส้ใหญ่ (Caco-2) ที่ขนาด 100 มคก./มล พบว่าสามารถลดระดับสารที่ก่อให้เกิดการอักเสบ PGE2 และ NO ได้ 30 และ 28% ตามลำดับ (52) สารสกัดส่วนเหนือดินผักเบี้ยใหญ่ด้วย 70% เอทานอล (ตัวอย่างจากประเทศกาน่า) ขนาด 100, 200 และ 400 มก./กก. น้ำหนักตัว เมื่อป้อนให้กับลูกไก่ที่เหนี่ยวนำให้เกิดการอักเสบที่อุ้งเท้าด้วยการฉีดสารคาราจีแนน พบว่าสารสกัดดังกล่าวสามารถลดการอักเสบได้ดี โดยที่ขนาด 400 มก./กก ให้ผลดีที่สุด สามารถยับยั้งการอักเสบได้ 56.6% ซึ่งดีกว่ายาแอสไพรินที่ยับยั้งการอักเสบได้ 36.0% (27)",
+                "pharmacological_ref": [
+                    "Chang S, Wang L, Zhang T, Nie Y, Liu R, Ma L.  Amino acid sequences characterization and anti-inflammatory potency evaluation of Portulaca oleracea L. oligopeptides in macrophages. RSC Adv. 2020;10:7321-7. doi: 10.1039/c9ra10465h."
+                ]
+            }
+        ]
+    }
+}

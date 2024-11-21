@@ -1,0 +1,1599 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Musa paradisiaca",
+            "authorship": "Carl Linnaeus",
+            "updated_by": "",
+            "name_ref": "Sp. Pl. : 1043 (1753)",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:797595-1"
+        },
+        "synonyms": [
+            {
+                "name": "Karkandela malabarica",
+                "author": "Constantine Samuel Rafinesque 1783-1840",
+                "protologue": "Sylva Tellur. : 106 (1838)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000452508"
+            },
+            {
+                "name": "Musa acutibracteata",
+                "author": "Mitsuru Hotta 1935-2015",
+                "protologue": "Acta Phytotax. Geobot. 21: 4 (1964)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000473889"
+            },
+            {
+                "name": "Musa alphurica",
+                "author": "Friedrich Anton Wilhelm Miquel 1811-1871",
+                "protologue": "Fl. Ned. Ind. 3: 589 1859",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000473908"
+            },
+            {
+                "name": "Musa aphurica",
+                "author": "Georg Eberhard Rumphius 1627-1702",
+                "protologue": "Bull. Soc. Bot. France 34: 329 (1887)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000473935"
+            },
+            {
+                "name": "Musa bacoba",
+                "author": "Christen Friis Rottbøll 1727-1797",
+                "protologue": "Descr. Rar. Pl. Surin. : 28 (1776)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000473964"
+            },
+            {
+                "name": "Musa berteroi",
+                "author": "Luigi Aloysius Colla 1766-1848",
+                "protologue": "Mem. Gen. Musa : 57 (1820)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474072"
+            },
+            {
+                "name": "Musa bidigitalis",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe : 329 (1920)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474079"
+            },
+            {
+                "name": "Musa carolinae",
+                "author": "Alois Sterler 1787-1831",
+                "protologue": "Hort. Nymphenb. ed. 2: 109 1821",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474141"
+            },
+            {
+                "name": "Musa chapara",
+                "author": "George Samuel Perrottet 1790-1870",
+                "protologue": "Mém. Soc. Linn. Paris 3: 131 (1825)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474186"
+            },
+            {
+                "name": "Musa chiliocarpa",
+                "author": "Cornelis Andries Backer 1874-1963",
+                "protologue": "Nutt. Pl. Ned.-Ind. , ed. 2: 510 (1922)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474211"
+            },
+            {
+                "name": "Musa consociata",
+                "author": "Takenoshin Nakai 1882-1952",
+                "protologue": "Bull. Tokyo Sci. Mus. 22: 16 1948",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474231"
+            },
+            {
+                "name": "Musa corbieri",
+                "author": "Auguste Chevalier 1873-1956",
+                "protologue": "Rev. Bot. Appl. Agric. Trop. 14: 519 (1934)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474234"
+            },
+            {
+                "name": "Musa corniculata",
+                "author": "João de Loureiro 1710-1791",
+                "protologue": "Fl. Cochinch. : 644 (1790)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474245"
+            },
+            {
+                "name": "Musa dacca",
+                "author": "Paul Fedorowitsch Horaninow 1796-1865",
+                "protologue": "Prodr. Monogr. Scitam. : 41 (1862)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474249"
+            },
+            {
+                "name": "Musa decrescens",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 178. 1920 (1920)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474273"
+            },
+            {
+                "name": "Musa dulcissima",
+                "author": "Takenoshin Nakai 1882-1952",
+                "protologue": "Bull. Tokyo Sci. Mus. 22: 13 1948",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474283"
+            },
+            {
+                "name": "Musa emasculata",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe : 306 (1920)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474300"
+            },
+            {
+                "name": "Musa humilis",
+                "author": "George Samuel Perrottet 1790-1870",
+                "protologue": "Mém. Soc. Linn. Paris 3: 131 1825",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474423"
+            },
+            {
+                "name": "Musa ingrata",
+                "author": "Takenoshin Nakai 1882-1952",
+                "protologue": "Bull. Tokyo Sci. Mus. 22: 12 1948",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474438"
+            },
+            {
+                "name": "Musa jaheri",
+                "author": "Takenoshin Nakai 1882-1952",
+                "protologue": "Bull. Tokyo Sci. Mus. 22: 18 1948",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474453"
+            },
+            {
+                "name": "Musa maculata",
+                "author": "Nikolaus Joseph von Jacquin 1727-1817",
+                "protologue": "Pl. Hort. Schoenbr. 4: 23 (1804)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474551"
+            },
+            {
+                "name": "Musa megalocarpa",
+                "author": "Takenoshin Nakai 1882-1952",
+                "protologue": "Bull. Tokyo Sci. Mus. 22: 11 1948",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474570"
+            },
+            {
+                "name": "Musa mensaria",
+                "author": "Conrad Moench 1744-1805",
+                "protologue": "Methodus 647 1794",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474574"
+            },
+            {
+                "name": "Musa mirabilis",
+                "author": "Takenoshin Nakai 1882-1952",
+                "protologue": "Bull. Tokyo Sci. Mus. 22: 11 1948",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474598"
+            },
+            {
+                "name": "Musa nigra",
+                "author": "George Samuel Perrottet 1790-1870",
+                "protologue": "Mém. Soc. Linn. Paris 3: 131 (1825)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474627"
+            },
+            {
+                "name": "Musa odorata",
+                "author": "João de Loureiro 1710-1791",
+                "protologue": "Fl. Cochinch. : 644 (1790)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474638"
+            },
+            {
+                "name": "Musa oleracea",
+                "author": "Eugène Vieillard 1819-1896",
+                "protologue": "Ann. Sci. Nat., Bot. IV, 16: 46 1861",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474641"
+            },
+            {
+                "name": "Musa pallida",
+                "author": "Takenoshin Nakai 1882-1952",
+                "protologue": "Bull. Tokyo Sci. Mus. 22: 8 1948",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474652"
+            },
+            {
+                "name": "Musa paradisiaca var. champa",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Pflanzenr. IV, 45: 20. 1900",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474658"
+            },
+            {
+                "name": "Musa paradisiaca var. cinerea",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 250. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474664"
+            },
+            {
+                "name": "Musa paradisiaca var. compressa",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 240. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474674"
+            },
+            {
+                "name": "Musa paradisiaca var. dacca",
+                "author": "Paul Fedorowitsch Horaninow 1796-1865",
+                "protologue": "Pflanzenr. IV, 45: 20. 1900",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474683"
+            },
+            {
+                "name": "Musa paradisiaca var. glaberrima",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 245. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474705"
+            },
+            {
+                "name": "Musa paradisiaca var. glauca",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 250. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474713"
+            },
+            {
+                "name": "Musa paradisiaca var. lacatan",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 243. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474715"
+            },
+            {
+                "name": "Musa paradisiaca var. longa",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 245. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474719"
+            },
+            {
+                "name": "Musa paradisiaca var. magna",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 244. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474725"
+            },
+            {
+                "name": "Musa paradisiaca var. martabarica",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Pflanzenr. IV, 45: 20. 1900",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474735"
+            },
+            {
+                "name": "Musa paradisiaca var. maxima",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 245. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474738"
+            },
+            {
+                "name": "Musa paradisiaca var. mensaria",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Pflanzenr. IV, 45: 20. 1900",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474739"
+            },
+            {
+                "name": "Musa paradisiaca subsp. normalis",
+                "author": "Otto Kuntze 1843-1907",
+                "protologue": "Revis. Gen. Pl. 2: 692. 1891 (1891)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474743"
+            },
+            {
+                "name": "Musa paradisiaca var. odorata",
+                "author": "João de Loureiro 1710-1791",
+                "protologue": "Pflanzenr. IV, 45: 20. 1900",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474751"
+            },
+            {
+                "name": "Musa paradisiaca var. oleracea",
+                "author": "Eugène Vieillard 1819-1896",
+                "protologue": "Pflanzenr. IV, 45: 20. 1900",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474756"
+            },
+            {
+                "name": "Musa paradisiaca var. rubra",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Pflanzenr. IV, 45: 20 1900",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474774"
+            },
+            {
+                "name": "Musa paradisiaca var. sanguinea",
+                "author": "Friedrich Welwitsch 1806-1872",
+                "protologue": "Pflanzenr. IV, 45: 21 1900",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474782"
+            },
+            {
+                "name": "Musa paradisiaca subsp. sapientum",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "Revis. Gen. Pl. 2: 692 1891",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474788"
+            },
+            {
+                "name": "Musa paradisiaca var. suaveolens",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 244. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474799"
+            },
+            {
+                "name": "Musa paradisiaca var. subrubea",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 245. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474803"
+            },
+            {
+                "name": "Musa paradisiaca var. ternatensis",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 243. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474810"
+            },
+            {
+                "name": "Musa paradisiaca var. tombak",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 246. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474818"
+            },
+            {
+                "name": "Musa paradisiaca var. ulnaris",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. 246. 1837",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474822"
+            },
+            {
+                "name": "Musa paradisiaca var. violacea",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Pflanzenr. IV, 45: 21. 1900",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474826"
+            },
+            {
+                "name": "Musa paradisiaca var. vittata",
+                "author": "Émile Rodigas 1831-1902",
+                "protologue": "Pflanzenr. IV, 45: 21 1900",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474832"
+            },
+            {
+                "name": "Musa polycarpa",
+                "author": "Takenoshin Nakai 1882-1952",
+                "protologue": "Bull. Tokyo Sci. Mus. 22: 13 1948",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474858"
+            },
+            {
+                "name": "Musa prematura",
+                "author": "Takenoshin Nakai 1882-1952",
+                "protologue": "Bull. Tokyo Sci. Mus. 22: 16 1948",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474866"
+            },
+            {
+                "name": "Musa protractorachis",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe : 316 (1920)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474876"
+            },
+            {
+                "name": "Musa purpureotomentosa",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe : 326 (1920)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474895"
+            },
+            {
+                "name": "Musa sapidisiaca",
+                "author": "Kurumthottical Cherian Jacob 1890-1972",
+                "protologue": "Monogr. Madras Bananas 11 1952",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474952"
+            },
+            {
+                "name": "Musa sapientum",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "Syst. Nat. ed. 10 , 2: 1303 (1759)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474953"
+            },
+            {
+                "name": "Musa sapientum var. americana",
+                "author": "Nicanor Gonzalo Teodoro y Gregorio 1890-",
+                "protologue": "Philipp. J. Sci., C 10: 398. 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474954"
+            },
+            {
+                "name": "Musa sapientum var. angao",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 58. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474955"
+            },
+            {
+                "name": "Musa sapientum var. baca",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 51. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474956"
+            },
+            {
+                "name": "Musa sapientum var. binutig",
+                "author": "Nicanor Gonzalo Teodoro y Gregorio 1890-",
+                "protologue": "Philipp. J. Sci., C 10: 401. 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474957"
+            },
+            {
+                "name": "Musa sapientum var. canara",
+                "author": "Nicanor Gonzalo Teodoro y Gregorio 1890-",
+                "protologue": "Philipp. J. Sci., C 10: 406. 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474960"
+            },
+            {
+                "name": "Musa sapientum var. canaya",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 44. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474962"
+            },
+            {
+                "name": "Musa sapientum var. champa",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Ann. Bot. (Oxford) 7: 213 (1893)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474963"
+            },
+            {
+                "name": "Musa sapientum var. cinerea",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Philipp. J. Sci., C 10: 397 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474964"
+            },
+            {
+                "name": "Musa sapientum var. compressa",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Philipp. J. Sci., C 10: 408 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474965"
+            },
+            {
+                "name": "Musa sapientum var. cubensis",
+                "author": "Nicanor Gonzalo Teodoro y Gregorio 1890-",
+                "protologue": "Philipp. J. Sci., C 10: 397. 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474966"
+            },
+            {
+                "name": "Musa sapientum var. dacca",
+                "author": "Paul Fedorowitsch Horaninow 1796-1865",
+                "protologue": "Ann. Bot. (Oxford) 7: 213 (1893)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474967"
+            },
+            {
+                "name": "Musa sapientum var. daryao",
+                "author": "Nicanor Gonzalo Teodoro y Gregorio 1890-",
+                "protologue": "Philipp. J. Sci., C 10: 403. 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474968"
+            },
+            {
+                "name": "Musa sapientum var. dinalaga",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 55. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474969"
+            },
+            {
+                "name": "Musa sapientum var. dool",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 35. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474970"
+            },
+            {
+                "name": "Musa sapientum var. eda",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 37. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474972"
+            },
+            {
+                "name": "Musa sapientum var. flabellata",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 66. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474973"
+            },
+            {
+                "name": "Musa sapientum var. galatayan",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 40. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474974"
+            },
+            {
+                "name": "Musa sapientum var. garangao",
+                "author": "Nicanor Gonzalo Teodoro y Gregorio 1890-",
+                "protologue": "Philipp. J. Sci., C 10: 401. 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474975"
+            },
+            {
+                "name": "Musa sapientum var. glaberrima",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Philipp. J. Sci., C 10: 399 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474976"
+            },
+            {
+                "name": "Musa sapientum var. glauca",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Philipp. J. Sci., C 10: 402 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474977"
+            },
+            {
+                "name": "Musa sapientum var. grandis",
+                "author": "Nicanor Gonzalo Teodoro y Gregorio 1890-",
+                "protologue": "Philipp. J. Sci., C 10: 410. 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474978"
+            },
+            {
+                "name": "Musa sapientum var. humilis",
+                "author": "Elmer Drew Merrill 1876-1956",
+                "protologue": "Enum. Philipp. Fl. Pl. 1(2): 224. 1922",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474980"
+            },
+            {
+                "name": "Musa sapientum var. inarnibal",
+                "author": "Nicanor Gonzalo Teodoro y Gregorio 1890-",
+                "protologue": "Philipp. J. Sci., C 10: 406. 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474981"
+            },
+            {
+                "name": "Musa sapientum var. kinamay",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 57. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474983"
+            },
+            {
+                "name": "Musa sapientum var. lacatan",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Philipp. J. Sci., C 10: 405 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474984"
+            },
+            {
+                "name": "Musa sapientum var. longa",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Philipp. J. Sci., C 10: 407 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474986"
+            },
+            {
+                "name": "Musa sapientum var. martabarica",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Ann. Bot. (Oxford) 7: 213 (1893)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474988"
+            },
+            {
+                "name": "Musa sapientum var. mensaria",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Ann. Bot. (Oxford) 7: 212 (1893)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474993"
+            },
+            {
+                "name": "Musa sapientum var. odorata",
+                "author": "João de Loureiro 1710-1791",
+                "protologue": "Ann. Bot. (Oxford) 7: 212 (1893)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000474998"
+            },
+            {
+                "name": "Musa sapientum var. padilat",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 63. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475003"
+            },
+            {
+                "name": "Musa sapientum var. pamotion",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 49. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475011"
+            },
+            {
+                "name": "Musa sapientum var. pelipia",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 42. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475015"
+            },
+            {
+                "name": "Musa sapientum var. principe",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 50. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475016"
+            },
+            {
+                "name": "Musa sapientum var. putian",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 36. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475021"
+            },
+            {
+                "name": "Musa sapientum var. raines",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 55. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475022"
+            },
+            {
+                "name": "Musa sapientum var. regia",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Ann. Bot. (Oxford) 7: 212 (1893)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475023"
+            },
+            {
+                "name": "Musa sapientum var. rubra",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Ann. Bot. (Oxford) 7: 213. 1893",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475024"
+            },
+            {
+                "name": "Musa sapientum var. sanguinea",
+                "author": "Friedrich Welwitsch 1806-1872",
+                "protologue": "Ann. Bot. (Oxford) 7: 212. 1893",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475025"
+            },
+            {
+                "name": "Musa sapientum var. sarocsoc",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 39. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475027"
+            },
+            {
+                "name": "Musa sapientum var. sision",
+                "author": "Eduardo Quisumbing 1895-1986",
+                "protologue": "Philipp. Agric. Rev. 12(3): 35. 1919",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475029"
+            },
+            {
+                "name": "Musa sapientum var. suaveolens",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Philipp. J. Sci., C 10: 400 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475030"
+            },
+            {
+                "name": "Musa sapientum var. ternatensis",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Philipp. J. Sci., C 10: 404 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475032"
+            },
+            {
+                "name": "Musa sapientum var. tombak",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Philipp. J. Sci., C 10: 407 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475039"
+            },
+            {
+                "name": "Musa sapientum var. tudlong",
+                "author": "Nicanor Gonzalo Teodoro y Gregorio 1890-",
+                "protologue": "Philipp. J. Sci., C 10: 402. 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475045"
+            },
+            {
+                "name": "Musa sapientum var. tuldoc",
+                "author": "Nicanor Gonzalo Teodoro y Gregorio 1890-",
+                "protologue": "Philipp. J. Sci., C 10: 407. 1915",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475046"
+            },
+            {
+                "name": "Musa sapientum var. violacea",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Philipp. J. Sci., C 10: 398 (1915)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475051"
+            },
+            {
+                "name": "Musa sapientum var. vittata",
+                "author": "William Jackson Hooker 1785-1865",
+                "protologue": "Bot. Mag. 89: t. 5402 (1863)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475058"
+            },
+            {
+                "name": "Musa trichocarpa",
+                "author": "Takenoshin Nakai 1882-1952",
+                "protologue": "Bull. Tokyo Sci. Mus. 22: 13 1948",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475144"
+            },
+            {
+                "name": "Musa vittata",
+                "author": "Émile Rodigas 1831-1902",
+                "protologue": "J. Gén. Hort. 15: 25 (1862)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000475225"
+            },
+            {
+                "name": "Musa arakanensis",
+                "author": "F.W.Ripley ex Blechynden",
+                "protologue": "J. Agric. Soc. India 5: 53. 1856 (1856)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000833795"
+            },
+            {
+                "name": "Musa champa",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "Fl. Brit. India 6: 262. 1892 (1892)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834110"
+            },
+            {
+                "name": "Musa decrescens var. pembuki",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 319. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834111"
+            },
+            {
+                "name": "Musa decrescens var. viridis",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 324. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834112"
+            },
+            {
+                "name": "Musa decrescens var. rubromaculata",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 325. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834113"
+            },
+            {
+                "name": "Musa emasculata var. kiala",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 309. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834114"
+            },
+            {
+                "name": "Musa emasculata var. kimbende",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 311. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834115"
+            },
+            {
+                "name": "Musa emasculata var. lomba",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 306. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834116"
+            },
+            {
+                "name": "Musa emasculata var. zengani",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 314. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834117"
+            },
+            {
+                "name": "Musa paradisiaca var. bende",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 334. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834161"
+            },
+            {
+                "name": "Musa paradisiaca var. bilul",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 340. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834162"
+            },
+            {
+                "name": "Musa paradisiaca var. kitebbe",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 337. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834163"
+            },
+            {
+                "name": "Musa paradisiaca f. seluka",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 342 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834164"
+            },
+            {
+                "name": "Musa paradisiaca f. funu-nua",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 345 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834165"
+            },
+            {
+                "name": "Musa paradisiaca f. kilola",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 347 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834166"
+            },
+            {
+                "name": "Musa paradisiaca f. dongila",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 350 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834167"
+            },
+            {
+                "name": "Musa paradisiaca f. tuba",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 352 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834169"
+            },
+            {
+                "name": "Musa paradisiaca var. viridis",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 324. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834170"
+            },
+            {
+                "name": "Musa sapientum var. fieleto",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 363. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834183"
+            },
+            {
+                "name": "Musa sapientum var. satama",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Miss. de Briey Mayumbe 360. 1920",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834184"
+            },
+            {
+                "name": "Musa sapientum f. dubia",
+                "author": "George King 1840-1909",
+                "protologue": "Ann. Bot. (Oxford) 7: 214 (1893)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834185"
+            },
+            {
+                "name": "Musa sapientum var. dubia",
+                "author": "George King 1840-1909",
+                "protologue": "Trees N. Bengal 135 1929",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834186"
+            },
+            {
+                "name": "Musa paradisiaca var. corniculata",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 29. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834218"
+            },
+            {
+                "name": "Musa paradisiaca var. exsicca",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 29. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834219"
+            },
+            {
+                "name": "Musa paradisiaca var. tetragona",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 30. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834220"
+            },
+            {
+                "name": "Musa paradisiaca var. acicularis",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 30. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834221"
+            },
+            {
+                "name": "Musa paradisiaca var. coriacea",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 30. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834223"
+            },
+            {
+                "name": "Musa paradisiaca var. mensaria",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 30. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834224"
+            },
+            {
+                "name": "Musa paradisiaca var. regia",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 31. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834225"
+            },
+            {
+                "name": "Musa paradisiaca var. purpurascens",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 31. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834226"
+            },
+            {
+                "name": "Musa paradisiaca var. punctata",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 31. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834227"
+            },
+            {
+                "name": "Musa paradisiaca var. fatua",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 32. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834230"
+            },
+            {
+                "name": "Musa paradisiaca var. coarctata",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 32. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834231"
+            },
+            {
+                "name": "Musa paradisiaca var. papillosa",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 32. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834232"
+            },
+            {
+                "name": "Musa paradisiaca var. lunaris",
+                "author": "Georg Forster 1754-1794",
+                "protologue": "Pl. Esc. 32. 1786",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000834234"
+            },
+            {
+                "name": "Musa discolor",
+                "author": "Jules Émile Planchon 1823-1888",
+                "protologue": "Hort. Donat. : 83 (1858)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000918060"
+            },
+            {
+                "name": "Musa balbisiana var. vittata",
+                "author": "William Jackson Hooker 1785-1865",
+                "protologue": "Fl. Maharashtra 5A: 115 (2009)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000921855"
+            },
+            {
+                "name": "Musa paradisiaca var. sapientum",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "Revis. Gen. Pl. 2: 692 1891",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001267489"
+            },
+            {
+                "name": "Musa sapientum subsp. paradisiaca",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "Ann. Bot. (Oxford) 7: 213 (1893)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001315929"
+            },
+            {
+                "name": "Musa sapientum var. oleracea",
+                "author": "Eugène Vieillard 1819-1896",
+                "protologue": "Ann. Bot. (Oxford) 7(2): 212. 1893 [Jun 1893]",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001315930"
+            },
+            {
+                "name": "Musa sapientum var. paradisiaca",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "Bull. Misc. Inform. Kew 1894: 250 (1894)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001315931"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Zingiberales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000398"
+            },
+            "genus": {
+                "genus_name": "Musaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000025011"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Musa+paradisiaca&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "ALANINE",
+                "activity_count": 3,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 510.0,
+                "high_parts_per_million": 1469.0,
+                "standard_deviation": -0.88,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ALPHA-LINOLENIC-ACID",
+                "activity_count": 15,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 330.0,
+                "high_parts_per_million": 1282.0,
+                "standard_deviation": -0.57,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ALUMINUM",
+                "activity_count": 5,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1.0,
+                "high_parts_per_million": 35.0,
+                "standard_deviation": -0.21,
+                "ref": "ACTA AGRIC SCAND SUPPL 22: 1980"
+            },
+            {
+                "chemical_name": "ARGININE",
+                "activity_count": 14,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1080.0,
+                "high_parts_per_million": 3111.0,
+                "standard_deviation": -0.32,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ARSENIC",
+                "activity_count": 2,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 0.0,
+                "high_parts_per_million": 0.4,
+                "standard_deviation": -0.09,
+                "ref": "ACTA AGRIC SCAND SUPPL 22: 1980"
+            },
+            {
+                "chemical_name": "ASCORBIC-ACID",
+                "activity_count": 112,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 161.0,
+                "high_parts_per_million": 596.0,
+                "standard_deviation": -0.25,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ASPARTIC-ACID",
+                "activity_count": 3,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1080.0,
+                "high_parts_per_million": 3110.0,
+                "standard_deviation": -0.93,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "BETA-CAROTENE",
+                "activity_count": 53,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 6.0,
+                "high_parts_per_million": 21.0,
+                "standard_deviation": -0.11,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "BETA-CAROTENE",
+                "activity_count": 53,
+                "plant_part": "Hull Husk",
+                "low_parts_per_million": 0.6,
+                "high_parts_per_million": 16.6,
+                "standard_deviation": 0.29,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "CAMPESTEROL",
+                "activity_count": 2,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 20.0,
+                "high_parts_per_million": 80.0,
+                "standard_deviation": 0.02,
+                "ref": "Spiller, G. A. 1996 (Spiller, G. A. Ed. 1996. CRC Handbook of Lipids in Human Nutrition. CRC Press. Boca Raton, FL. 233 pp.)"
+            },
+            {
+                "chemical_name": "CAPRIC-ACID",
+                "activity_count": 3,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 10.0,
+                "high_parts_per_million": 39.0,
+                "standard_deviation": -0.73,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "CHROMIUM",
+                "activity_count": 24,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 0.0,
+                "high_parts_per_million": 0.2,
+                "standard_deviation": -0.49,
+                "ref": "ACTA AGRIC SCAND SUPPL 22: 1980"
+            },
+            {
+                "chemical_name": "CYSTINE",
+                "activity_count": 2,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 200.0,
+                "high_parts_per_million": 576.0,
+                "standard_deviation": -0.47,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 4250.0,
+                "high_parts_per_million": 16560.0,
+                "standard_deviation": -1.18,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Shoot",
+                "low_parts_per_million": 13210.0,
+                "high_parts_per_million": 178600.0,
+                "standard_deviation": 0.0,
+                "ref": "Rizk, A.F.M. and Al-Nowaihi, A.S., The Phytochemistry of the Horticultural Plants of Qatar, Scientific and Applied Research Centre, University of Qatar."
+            },
+            {
+                "chemical_name": "FOLACIN",
+                "activity_count": 15,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 0.2,
+                "high_parts_per_million": 0.7,
+                "standard_deviation": -0.55,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "GLUTAMIC-ACID",
+                "activity_count": 8,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1160.0,
+                "high_parts_per_million": 3341.0,
+                "standard_deviation": -0.77,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "GLYCINE",
+                "activity_count": 12,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 450.0,
+                "high_parts_per_million": 1296.0,
+                "standard_deviation": -0.89,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "HISTIDINE",
+                "activity_count": 7,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 640.0,
+                "high_parts_per_million": 1843.0,
+                "standard_deviation": 0.09,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ISOLEUCINE",
+                "activity_count": 3,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 360.0,
+                "high_parts_per_million": 1037.0,
+                "standard_deviation": -0.78,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LAURIC-ACID",
+                "activity_count": 7,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 20.0,
+                "high_parts_per_million": 78.0,
+                "standard_deviation": -0.44,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LEUCINE",
+                "activity_count": 2,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 590.0,
+                "high_parts_per_million": 1699.0,
+                "standard_deviation": -0.72,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LINOLEIC-ACID",
+                "activity_count": 27,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 560.0,
+                "high_parts_per_million": 2176.0,
+                "standard_deviation": -0.32,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LYSINE",
+                "activity_count": 4,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 600.0,
+                "high_parts_per_million": 1728.0,
+                "standard_deviation": -0.62,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MALIC-ACID",
+                "activity_count": 15,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 530.0,
+                "high_parts_per_million": 3730.0,
+                "standard_deviation": -0.71,
+                "ref": "Rizk, A.F.M. and Al-Nowaihi, A.S., The Phytochemistry of the Horticultural Plants of Qatar, Scientific and Applied Research Centre, University of Qatar."
+            },
+            {
+                "chemical_name": "METHIONINE",
+                "activity_count": 15,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 170.0,
+                "high_parts_per_million": 490.0,
+                "standard_deviation": -0.58,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MUFA",
+                "activity_count": 13,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 410.0,
+                "high_parts_per_million": 1593.0,
+                "standard_deviation": -0.23,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MYRISTIC-ACID",
+                "activity_count": 6,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 30.0,
+                "high_parts_per_million": 117.0,
+                "standard_deviation": -0.26,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "NICKEL",
+                "activity_count": 3,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 0.0,
+                "high_parts_per_million": 0.1,
+                "standard_deviation": -0.75,
+                "ref": "ACTA AGRIC SCAND SUPPL 22: 1980"
+            },
+            {
+                "chemical_name": "OLEIC-ACID",
+                "activity_count": 18,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 270.0,
+                "high_parts_per_million": 1049.0,
+                "standard_deviation": -0.47,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "OXALIC-ACID",
+                "activity_count": 9,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 22.0,
+                "high_parts_per_million": 5240.0,
+                "standard_deviation": -0.02,
+                "ref": "Watt, J.M. and Breyer-Brandwijk, M.G. 1962. The Medicinal and Poisonous Plants of Southern and Eastern Africa. E. & S. Livingstone, Ltd. Edinburg & London. 1457 pp."
+            },
+            {
+                "chemical_name": "PALMITIC-ACID",
+                "activity_count": 13,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1250.0,
+                "high_parts_per_million": 4856.0,
+                "standard_deviation": -0.29,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PALMITOLEIC-ACID",
+                "activity_count": 2,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 120.0,
+                "high_parts_per_million": 466.0,
+                "standard_deviation": -0.26,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PANTOTHENIC-ACID",
+                "activity_count": 11,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 2.5,
+                "high_parts_per_million": 10.1,
+                "standard_deviation": -0.51,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PHENYLALANINE",
+                "activity_count": 7,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 380.0,
+                "high_parts_per_million": 1476.0,
+                "standard_deviation": -0.64,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PHYTOSTEROLS",
+                "activity_count": 2,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 160.0,
+                "high_parts_per_million": 622.0,
+                "standard_deviation": -0.42,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PUFA",
+                "activity_count": 4,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 890.0,
+                "high_parts_per_million": 3458.0,
+                "standard_deviation": -0.59,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "SELENIUM",
+                "activity_count": 60,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 0.0,
+                "high_parts_per_million": 0.0,
+                "standard_deviation": -0.38,
+                "ref": "ACTA AGRIC SCAND SUPPL 22: 1980"
+            },
+            {
+                "chemical_name": "SEROTONIN",
+                "activity_count": 26,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 8.0,
+                "high_parts_per_million": 50.0,
+                "standard_deviation": 0.47,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "SILICON",
+                "activity_count": 4,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 70.0,
+                "high_parts_per_million": 350.0,
+                "standard_deviation": 0.53,
+                "ref": "ACTA AGRIC SCAND SUPPL 22: 1980"
+            },
+            {
+                "chemical_name": "STARCH",
+                "activity_count": 5,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 7000.0,
+                "high_parts_per_million": 17500.0,
+                "standard_deviation": -0.43,
+                "ref": "List, P.H. and Horhammer, L., Hager's Handbuch der Pharmazeutischen Praxis, Vols. 2-6, Springer-Verlag, Berlin, 1969-1979."
+            },
+            {
+                "chemical_name": "STEARIC-ACID",
+                "activity_count": 8,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 60.0,
+                "high_parts_per_million": 233.0,
+                "standard_deviation": -0.26,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "SUCROSE",
+                "activity_count": 14,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 500.0,
+                "high_parts_per_million": 18400.0,
+                "standard_deviation": -0.62,
+                "ref": "List, P.H. and Horhammer, L., Hager's Handbuch der Pharmazeutischen Praxis, Vols. 2-6, Springer-Verlag, Berlin, 1969-1979."
+            },
+            {
+                "chemical_name": "THREONINE",
+                "activity_count": 4,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 340.0,
+                "high_parts_per_million": 1321.0,
+                "standard_deviation": -0.71,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "TOCOPHEROL",
+                "activity_count": 93,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 2.0,
+                "high_parts_per_million": 11.0,
+                "standard_deviation": -0.64,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "TRYPTOPHAN",
+                "activity_count": 29,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 120.0,
+                "high_parts_per_million": 466.0,
+                "standard_deviation": -0.54,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "TYROSINE",
+                "activity_count": 8,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 240.0,
+                "high_parts_per_million": 932.0,
+                "standard_deviation": -0.62,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "VALINE",
+                "activity_count": 3,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 460.0,
+                "high_parts_per_million": 1826.0,
+                "standard_deviation": -0.54,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ZINC",
+                "activity_count": 77,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1.0,
+                "high_parts_per_million": 6.5,
+                "standard_deviation": -0.72,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "กล้วยน้ำว้า",
+            "common_name_th_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย  เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557"
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "Banana",
+            "common_name_en_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย  เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557"
+            ]
+        },
+        "local_name": {
+            "local_name": [
+                "กล้วยโกก",
+                "กล้วยใต้",
+                "กล้วยไข่",
+                "กล้วยกล้าย",
+                "กล้วยกะลิอ่อง",
+                "กล้วยนาค",
+                "กล้วยส้ม",
+                "กล้วยหอมจันทร์",
+                "กล้วยหักมุก",
+                "มะลิอ่อง",
+                "ยาไข่",
+                "สะกุย"
+            ],
+            "local_name_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย  เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557"
+            ]
+        },
+        "clinical_studies": [
+            {
+                "clinical": "บำรุงผิว",
+                "clinical_content": "การศึกษาพัฒนาตำรับโลชันบำรุงผิวสารสกัดเปลือกกล้วยเล็บมือนาง (ไม่ระบุที่มาของตัวอย่างพืช) เตรียมสารสกัดด้วยวิธีแช่สกัดเปลือกกล้วยเล็บมือนางใน 70% เอทานอล อัตราส่วน 1:5 เป็นเวลา 3 วันเตรียมตำรับโลชันมาตรฐาน จำนวน 2 สูตร ซึ่งมีความแตกต่างของของปริมาณกรดสเตียริก (Hand and body Lotion, BF Goodrich Specialty Chemicals) ที่มีส่วนผสมของสารสกัดจากเปลือกกล้วยเล็บมือนาง 5% ประเมินผลทางกายภาพวัดค่าpH วัดค่าสีและทดสอบความคงสภาพ โดยเก็บตัวอย่างผลิตภัณฑ์ที่อุณหภูมิ (4±2) องศาเซลเซียสเป็นเวลา 24 ชั่วโมง แล้วนําไปเก็บที่อุณหภูมิ (45±2) องศาเซลเซียส เป็นเวลา 24 ชั่วโมง และทดสอบการยอมรับของผู้บริโภคที่มีต่อผลิตภัณฑ์โลชันผสมสารสกัดเปลือกกล้วยโดยการวัดค่าการยอมรับทางประสาทสัมผัสด้วยวิธี descriptive analysis ในอาสาสมัครจํานวน 30 คน ผลการศึกษาพบว่าคุณสมบัติของโลชันผสมสารสกัดเปลือกกล้วย สูตร 1 และ สูตร 2 มีความเป็นกรด-ด่าง ระหว่าง 7.35-7.55 ซึ่งตรงตามมาตรฐานผลิตภัณฑ์ชุมชน สีของโลชันเป็นสีขาว โลชันทั้งสองสูตรเป็นโลชั่นที่มีความคงตัวไม่แยกชั้น อาสาสมัครให้การยอมรับในด้านคุณลักษณะ สี กลิ่น ความเป็นเนื้อเดียวกัน ความชุ่มชื่นของผิว กลิ่นหลังการทา และการยอมรับโดยรวมในระดับที่ไม่แตกต่างกันทางสถิติ แต่อาสาสมัครให้การยอมรับความละเอียดของเนื้อโลชั่น ความยากง่ายในการทา และความเหนียวเหนอะหนะ ของโลชั่นผสมสารสกัดเปลือกกล้วย สูตร 2 มากกว่าสูตรที่ 1 เนื่องจากมีการปรับลดปริมาณของกรดสเตียริกซึ่งเป็นกรดไขมันที่มีคุณสมบัติในการเพิ่มความข้นหนืดในโลชัน อย่างไรก็ตามความพึงพอใจโดยรวมของอาสาสมัครต่อโลชั่นผสมสารสกัดเปลือกกล้วยเล็บมือนางทั้ง 2 สูตรไม่มีความแตกต่างกันทางสถิติ จึงสรุปได้ว่าโลชันที่มีส่วนผสมของสารสกัดเปลือกกล้วยเล็บมือนาง 5% มีความเหมาะสมในการผลิตโลชันต่อไป (26, 27)",
+                "clinical_ref": [
+                    "เพ็ญจันทร์ สุทธานุกูล. รายงานโครงการวิจัยคัดเลือกพันธุ์และพัฒนาเทคโนโลยีการผลิตกล้วยเพื่อการบริโภคสด เพิ่มมูลค่าเป็นผลิตภัณฑ์และการนำาสาระสำคัญจากกล้วยไปใช้ประโยชน์. กรมวิชาการเกษตร. 2558.",
+                    "วิมลวรรณ วัฒนวิจิตร, โกเมศ สัตยาวุธ, ประยูร เอ็นมาก, ศิริพร เต็งรัง. การศึกษาฤทธิ์ต้านการออกซิเดชันของสารสกัดจากเปลือกกล้วยและการประยุกต์ใช้ในการผลิตโลชัน. กองวิจัยและพัฒนาวิทยาการหลังการเก็บเกี่ยวและแปรรูปผลิตผลเกษตรกรมวิชาการเกษตร. หน้า 47-59."
+                ]
+            },
+            {
+                "clinical": "รักษาแผล",
+                "clinical_content": "การศึกษาแบบ uni-centre, open label, phase III, comparative studyถึงประสิทธิภาพในการรักษาแผลของครีมสมุนไพรที่มีส่วนผสมของสมุนไพร 7 ชนิดได้แก่ ชะเอมเทศ (0.20%) กล้วย (19.42%) ขมิ้นชัน (2.43%) เตยทะเล (9.70%) ว่านหางจระเข้ (4.85%) และน้ำมันมะพร้าว (วัตถุดิบทั้งหมดจากประเทศอินเดียและไม่ระบุชนิดสารสกัด) ทำการศึกษาในผู้ป่วยเบาหวานชนิดที่ 2จำนวน 38 คน ที่มีแผลเปื่อยบริเวณเท้า ขนาด 2-50 ตร.ซม. ความรุนแรงระดับ 1-3 ตามเกณฑ์การประเมินของ Wagner’s สุ่มแบ่งกลุ่มผู้ป่วยออกเป็น 2 กลุ่ม กำหนดให้ทาครีมสมุนไพรหรือยา silversulphadiazine cream ติดต่อกันเป็นเวลา 5 เดือน ผลการศึกษาพบว่าครีมสมุนไพรมีฤทธิ์รักษาแผล โดยมีผลลดขนาด ความกว้างและความยาวแผลอย่างมีนัยสำคัญ ระยะเวลาเฉลี่ยของการรักษาแผลของทั้งสองกลุ่มไม่มีความแตกต่างกัน (43 วัน)  การศึกษานี้แสดงให้เห็นว่าครีมสมุนไพรดังกล่าวมีฤทธิ์รักษาแผลในผู้ป่วยเบาหวานได้ไม่ต่างจากการใช้ยารักษามาตรฐาน silver sulphadiazine cream (28)",
+                "clinical_ref": [
+                    "Viswanathan V, Kesavan R, Vajayan KK, Kumpatla S. A pilot study on the effects of a polyherbal formulation cream on diabetic foot ulcers. Indian J Med Res. 2011;134:168-73."
+                ]
+            }
+        ],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "ต้านเชื้อราบนหนังศีรษะ",
+                "pharmacological_content": "การศึกษาผลของสารสกัดน้ำเปลือกกล้วยในการยับยั้งเชื้อราบนหนังศีรษะ ได้แก่ Aspergillus niger, Aspergillus flavus และ Penicillium sp. ในการทดสอบใช้สารสกัดน้ำเปลือกผลกล้วยสุก จำนวน 3 ชนิด ได้แก่ กล้วย Musa paradiasiaca (kadali), กล้วย M.acuminata Cavendish subgroup (Cavendish) และกล้วยM. acuminata nendra subgroup (Nendra) จากประเทศอินเดีย (ไม่ระบุ voucher specimen) เตรียมโดยนำเปลือกกล้วยมาตากแห้งและบดเป็นผง จากนั้นนำไปสกัดด้วยวิธีแช่สกัดในน้ำกลั่น เป็นเวลา 48 ชั่วโมง และเตรียมสารสกัดน้ำจากเถ้าเปลือกกล้วยด้วยการนำผงเปลือกกล้วยมาเผาจนกลายเป็นเถ้า และนำเถ้าแช่น้ำกลั่น นาน 48 ชม. กรองเฉพาะส่วนของเหลวมาใช้ทดสอบผลการทดสอบฤทธิ์ต้านเชื้อราในจานเพาะเชื้อพบว่ามีเพียงสารสกัดน้ำและสารสกัดน้ำจากเถ้าของเปลือกกล้วย Musa paradiasiaca มีฤทธิ์ยับยั้งเชื้อรา A.niger ด้วยค่าโซนใส (clear zone) ในการยับยั้งเท่ากับ 26 มม. ผลการตรวจสอบสารพฤกษเคมีพบว่าฤทธิ์ยับยั้งเชื้อราของสารสกัดเปลือกกล้วยมาจากสารกลุ่มฟีนอลและเทอร์ปีนอยด์ที่พบในเปลือกกล้วยแต่ละชนิด (29)2 การศึกษาเกี่ยวกับผิวหน้า",
+                "pharmacological_ref": [
+                    "Prakash B, Sumangala CH, Melappa G, Gavimeth C. Evaluation of antifungal activity of banana peel against scalp fungi. Materials Today: Proceedings. 2017;4:11977-83."
+                ]
+            },
+            {
+                "pharmacological": "ทำให้ผิวหน้าขาว",
+                "pharmacological_content": "ยับยั้งเอนไซม์ไทโรซิเนสการศึกษาผลของสารสกัดเอทานอลจากเนื้อผลดิบและเปลือกผลดิบของกล้วย 4 ชนิด คือ กล้วยน้ำว้า กล้วยหอมทอง กล้วยเล็บมือนาง และกล้วยไข่ (ตัวอย่างพืชจากจังหวัดปทุมธานี ไม่ระบุ voucher specimen)ต่อการทำงานของเอนไซม์ไทโรซิเนส เตรียมสารสกัดโดยแยกส่วนเนื้อผลและเปลือกผลออกจากกัน หั่นเป็นชิ้นเล็กๆ นำไปอบในตู้อบอุณหภูมิ 55 องศาเซลเซียล บดเป็นผง จากนั้นนำมาสกัดด้วยวิธีแช่สกัดใน 95%เอทานอลเป็นเวลา 3 สัปดาห์ การทดสอบฤทธิ์ต่อการทำงานของเอนไซม์ไทโรซิเนสใน 96-well microplate พบว่าสารสกัดเอทานอลจากเปลือกกล้วยหอมทองมีฤทธิ์ดีที่สุดในการยับยั้งการทำงานของเอนไซม์ไทโรซิเนส ด้วยค่า IC50 2.25±0.91มคก./มล. แต่น้อยกว่าสารเปรียบเทียบมาตรฐาน kojic acid (IC500.12±0.01 มคก./มล. รองลงมาคือสารสกัดเนื้อผลกล้วยน้ำว้าเนื้อผลกล้วยหอมทองเปลือกกล้วยน้ำว้าเปลือกกล้วยไข่เนื้อผลกล้วยเล็บมือนางเปลือกกล้วยเล็บมือนางและเนื้อผลกล้วยไข่ ด้วยค่า IC50 3.29±1.18, 3.49±1.12, 3.80±1.49, 3.86±1.66, 5.21±2.91, 5.47±1.03และ22.21±2.58 มคก./มลตามลำดับ (30)",
+                "pharmacological_ref": [
+                    "Noysang C, Buranasukhon W, Khuanekkaphan M. Phytochemicals and pharmacological activities from banana fruits of several Musa species for using as cosmetic raw materials. Appl Mech Mater. 2018;894:30-40."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ยับยั้งเชื้อก่อสิว",
+                "pharmacological_content": "การศึกษาฤทธิ์ของสารสกัดเปลือกกล้วยหอมดิบต่อการยับยั้งแบคทีเรียก่อสิวและการติดเชื้อทางผิวหนังที่พบบ่อย ได้แก่ Staphylococcus aureus, S. epidermis, methicilin-resistant S. aureus (MRSA) และ Propionibacterium acnes เตรียมสารสกัดโดยนำเปลือกกล้วยหอมดิบ (ไม่ระบุที่มาตัวอย่างพืชและvoucher specimen) มาแช่สกัดในตัวทำละลาย 3 ชนิด ได้แก่ เอทานอล เมทานอล และคลอโรฟอร์ม เป็นเวลา 48 ชั่วโมง นำสารสกัดมาทดสอบฤทธิ์ต้านแบคทีเรียด้วยวิธี agar well diffusion ผลการศึกษาพบว่าสารสกัดคลอโรฟอร์มมีฤทธิ์ดีที่สุดในการยับยั้งเชื้อแบคทีเรียทั้ง 4 ชนิด โดยค่าความเข้มข้นต่ำสุดของสารสกัดคลอโรฟอร์มที่สามารถยับยั้งเชื้อแบคทีเรีย(minimum inhibitory concentration: MIC)ต่อเชื้อ S. aureus และ S. epidermis เท่ากับ 2.5 มก./มล. และต่อเชื้อ MRSA และ P. acnesเท่ากับ 5 มก./มล. ค่าความเข้มข้นต่ำสุดที่สามารถฆ่าเชื้อแบคทีเรียได้ (minimum bactericidal concentration: MBC) ต่อเชื้อแบคทีเรียทั้ง 4 ชนิดของสารสกัดคลอโรฟอร์ม เท่ากับ 5 มก./มล. สารสกัดเอทานอล ≥5 มก./มล. และสารสกัดเมทานอลต่อเชื้อ S. aureus, S. epidermis และ MRSA เท่ากับ 5 มก./มล. และP. acnes เท่ากับ ≥5 มก./มล. จึงคัดเลือกนำสารสกัดคลอโรฟอร์มมาเตรียมตำรับผลิตภัณฑ์ยับยั้งการเจริญเติบโตของเชื้อแบคทีเรียแบบยาน้ำใส (clear lotion)ที่ประกอบด้วยสารสกัดคลอโรฟอร์มเปลือกกล้วยหอมดิบ 2.5% หรือ 10% น้ำกลั่นและเอทานอลพบว่าผลิตภัณฑ์ตำรับยาน้ำใสที่ความเข้มข้น 2.5% มีฤทธิ์ยับยั้งเชื้อแบคทีเรียS. aureus, S. epidermis และ MRSAและผลิตภัณฑ์ตำรับยาน้ำใสที่ความเข้มข้น 10% มีฤทธิ์ยับยั้ง P. acnesผลิตภัณฑ์ทั้งสองตำรับมีความคงตัวดีลักษณะเป็นน้ำใสสีเหลืองอ่อน ไม่มีตะกอน เมื่อทาลงบนผิวแล้วมีความรู้สึกเย็น ไม่ทิ้งคราบบนผิว เหมาะสมกับการนำไปพัฒนาเป็นผลิตภัณฑ์ยับยั้งเชื้อก่อสิว (31)3 การศึกษาเกี่ยวกับผิวกาย3.1 ฤทธิ์ปกป้องผิวจากรังสี UV (S008) การศึกษาฤทธิ์ปกป้องผิวจากการทำลายของรังสี UVB ของกล้วยน้ำไข่และกล้วยน้ำว้า(ตัวอย่างพืชจากจังหวัดพิษณุโลก ไม่ระบุ voucher specimen)การทดสอบแบ่งหนูเม้าส์ออกเป็น 5 กลุ่ม คือ กลุ่มที่ 1 คือ กลุ่มหนูควบคุม กลุ่มที่ 2-3 ป้อนด้วยเนื้อกล้วยไข่ และเนื้อกล้วยน้ำว้า ขนาด 1 มก./กก. กลุ่มที่ 4 ป้อนด้วยวิตามินซี (L-ascobic acid) 0.4 มล. และกลุ่มที่ 5 ป้อนด้วยน้ำเปล่า เป็นเวลา 12 สัปดาห์ โดยหนูกลุ่มที่ 2-5 จะได้รับรังสี UVB ผ่านหลอดไฟ ที่ระยะห่าง 30 ซม. จากผิวหนัง 3 ครั้งต่อสัปดาห์ และใช้ระยะเวลา 15-40 นาทีและเพิ่มความเข้มแสงตามระยะเวลาการศึกษา 12 สัปดาห์ คือ สัปดาห์ที่ 1-4, 54 มิลลิจูล/ตร.ซม.; สัปดาห์ที่ 5-7, 72 มิลลิจูล/ตร.ซม.; สัปดาห์ที่8-10, 108 มิลลิจูล/ตร.ซม.และสัปดาห์ที่11-12, 126 มิลลิจูล/ตร.ซม.ผลการศึกษาพบว่ารังสี UV ก่อให้เกิดความเสียหายต่อผิวหนัง โดยจะทำให้ชั้นผิวหนังกำพร้าจะหนาตัว (epidermal thickening) และขยายขนาดเพิ่มขึ้น (epidermal hyperplasia) รวมถึงเกิดความเสียหายต่อเนื้อเยื่อเกี่ยวพัน (dermal connective tissues) การป้อนวิตามินซีและเนื้อกล้วยให้แก่หนูเม้าส์สามารถป้องกันความเสียหายจากรังสี UVB กล้วยไข่ป้องกันการหนาตัวของผิวหนังกำพร้าได้ดีกว่ากล้วยน้ำว้า แต่ให้ฤทธิ์น้อยกว่าวิตามินซี โดยพบความหนาของชั้นผิวหนังในกลุ่มควบคุม (กลุ่มที่ 1) กลุ่มกล้วยไข่ (กลุ่มที่ 2) กลุ่มวิตามินซี (กลุ่มที่ 4) และกลุ่มที่ได้น้ำเปล่า (กลุ่มที่ 5) เท่ากับ 20.17±1.94, 21.95±2.04, 19.01±1.66 และ 27.95 ± 3.85 มคม. ตามลำดับ (ในการศึกษาไม่ระบุความหนาของชั้นหนังกำพร้าในกลุ่มที่ป้อนกล้วยน้ำว้า) ในขณะที่เนื้อกล้วยน้ำว้ามีผลป้องกันการเพิ่มจำนวนและป้องกันความเสียหายของเนื้อเยื่อเกี่ยวพัน (dermal connective tissues) ได้ดีกว่ากลุ่มที่ได้รับกล้วยไข่ผลจากการย้อมสีเนื้อเยื่อ (immunofluorescent staining) พบว่าระดับการเกิด lipid peroxidation และ protein oxidation ในสัตว์ทดลองที่ได้รับกล้วยไข่ลดลง ระดับของ MDA ในกลุ่มที่ได้รับน้ำเปล่ากลุ่มกล้วยไข่ และกลุ่มวิตามินซี เท่ากับ 213.10±24.32, 130.71±7.55 และ 59.97±17.51% ตามลำดับ และค่า 4-hydroxynonenal ในทั้ง 3 กลุ่ม เท่ากับ 199.09±13.42, 133.38±22.31 และ 95.60±13.06% ตามลำดับ กล้วยไข่ยังให้ผลยับยั้งการเกิด protein carbonyls ซึ่งบ่งถึงการเกิดprotein oxidation อย่างมีนัยสำคัญ และแนวโน้มการลดลงของ MMP-1 และ γ-glutamylcysteine synthetase ในกลุ่มที่ได้รับกล้วยไข่ แต่ยังไม่มีความแตกต่างอย่างมีนัยสำคัญทางสถิติ จากการศึกษานี้จะเห็นว่าการป้อนเนื้อกล้วยไข่ให้กับสัตว์ทดลอง สามารถลดความเสียหายของผิวหนังจากการได้รับรังสี UV ได้ โดยกล้วยไข่มีฤทธิ์เหนือกว่ากล้วยน้ำว้า แต่ให้ฤทธิ์น้อยกว่าสารเปรียบเทียบวิตามินซี โดยคาดเป็นผลมาจากสารฟีนอลิกและเบต้าแคโรทีนที่พบในกล้วยไข่มากกว่ากล้วยน้ำว้า (32) การศึกษาฤทธิ์ป้องกันความเสียหายของผิวหนังจากการได้รับรังสี UV ของของกล้วยน้ำว้าและกล้วยไข่ (ตัวอย่างพืชจากจังหวัดพิษณุโลกไม่ระบุ voucher specimens) ทำการทดสอบด้วยการป้อนเนื้อกล้วยสุกขนาด 0.5, 1 และ 1.5 มก./กก. ให้แก่หนูเม้าส์เป็นเวลา 12 สัปดาห์ เปรียบเทียบกับกลุ่มควบคุมที่ได้รับน้ำเปล่าและกลุ่มควบคุมบวกที่ได้รับ ascorbic acid ขนาด 50 มก./กก. โดยหนูเม้าส์จะได้รับรังสี UV ผ่านหลอดไฟ ที่ระยะห่าง 30 ซม. จากผิวหนัง ครั้งละ 1 ชั่วโมง โดยเพิ่มความเข้มแสงตามระยะเวลาการศึกษา 12 สัปดาห์ คือ สัปดาห์ที่ 1-4, 54 มิลลิจูล/ตร.ซม.; สัปดาห์ที่ 5-7, 72 มิลลิจูล/ตร.ซม.; สัปดาห์ที่ 8-10, 108 มิลลิจูล/ตร.ซม. และสัปดาห์ที่ 11-12, 126 มิลลิจูล/ตร.ซม. ผลการศึกษาพบว่าผิวหนังของหนูเม้าส์กลุ่มที่ได้รับน้ำเปล่ามีจุดผื่นแดงและผิวหนังไม่เรียบเนียนมากกว่ากลุ่มที่ได้รับเนื้อกล้วยน้ำว้า กล้วยไข่ และ ascorbic acid อย่างมีนัยสำคัญ ผลจากการประเมินความยืดหยุ่นของผิวหนังพบว่ากลุ่มที่ได้รับ ascorbic acid และกล้วยไข่ขนาด 1.5 มก./กก. ป้องกันการลดลงความยืดหยุ่นของผิวหนัง ลดความเสียหายของเนื้อเยื่อเกี่ยวพันและการลดลงของกลูต้าไธโอนในผิวหนังได้ใกล้เคียงกับหนูปกติที่ไม่ได้รับรังสี UV ในขณะที่ผลของกล้วยน้ำว้าต่อความยืดหยุ่นในผิวหนังพบเพียงเล็กน้อยและไม่แตกต่างอย่างมีนัยสำคัญทางสถิติ (33) การศึกษาฤทธิ์ปกป้องแสงแดดของสารสกัดจากเปลือกผลกล้วย (ตัวอย่างพืชจากประเทศอินเดีย ไม่ระบุ voucher specimen) โดยนำเปลือกกล้วยมาตากแห้งที่อุณหภูมิห้องเป็นเวลา 3 วัน บดเป็นผง จากนั้นนำไปสกัดด้วยวิธีการสกัด 2 แบบ คือ การสกัดแบบต่อเนื่องด้วยเครื่อง soxhlet extractorและวิธีแช่สกัด โดยทั้ง 2 วิธีใช้ n-butanol เป็นตัวทำละลายประเมินฤทธิ์ปกป้องแสงแดดของสารสกัดด้วยวิธีวัดค่าการผ่านของแสงด้วยเครื่อง elico UV visible double beam spectrophotometer ที่ช่วงความยาวแสง 280-400 นาโนเมตร ผลการทดสอบพบว่าสารสกัดบิวทานอลจากเปลือกกล้วยที่สกัดด้วยวิธีการสกัดแบบต่อเนื่อง มีค่าการปกป้องแสงแดดได้ดีกว่าวิธีการแช่สกัด โดยสารสกัดความเข้มข้น 1% จากทั้งสองวิธี มีค่าการปกป้องแสงแดด Sun Protection Factor (SPF) ได้เท่ากับ 7.164 และ 6.830 ตามลำดับผลจากการวิเคราะห์องค์ประกอบทางพฤกษเคมีในสารสกัด พบว่าประกอบด้วย alkaloids, saponins, carbohydrate, tannins, amino acids, flavonoids และ glycosides (34)",
+                "pharmacological_ref": [
+                    "นิธิ ตั้งสิริทรัพย์. การศึกษาฤทธิ์ของสารสกัดจากเปลือกกล้วยหอมดิบต่อการยับยั้งแบคทีเรียก่อสิวและการติดเชื้อผิวหนังที่พบได้บ่อย.[วิทยานิพนธ์ปริญญาวิทยาศาสตรมหาบัณฑิต สาขาวิชาตจวิทยา]. กรุงเทพฯ: มหาวิทยาลัยศรีนครินทรวิโรฒ. 2555."
+                ]
+            },
+            {
+                "pharmacological": "ต้านสิวบนผิวกาย",
+                "pharmacological_content": "ต้านเชื้อแบคทีเรียการศึกษาประสิทธิภาพในการยับยั้งแบคทีเรียก่อโรคของเจลล้างมือผสมสารสกัดจากเปลือกกล้วยน้ำว้าดิบ (ไม่ระบุแหล่งที่มาและ voucher specimen) ที่ทำการสกัดด้วยตัวทำละลาย 4 ชนิด คือ สารสกัดเฮกเซน ใช้วิธีการสกัดแบบแช่สกัดผงเปลือกกล้วยดิบในเฮกเซน เป็นเวลา 5 วันจากนั้นนำสารละลายชั้นเฮกเซนไประเหยตัวทำละลายออกด้วยเครื่องระเหยตัวทำละลาย (rotary evaporator) จากนั้นนำกากสกัดต่อด้วยไดคลอโรมีเทน และ95%เอทานอล ตามลำดับ และสารสกัดจากเหล้าขาว เตรียมโดยวิธีการแช่สกัดผงเปลือกกล้วยน้ำว้าในเหล้าขาว 40 ดีกรี เป็นเวลา 5 วัน เช่นกัน จากนั้นนำสารสกัดที่ได้มาทดสอบประสิทธิภาพในการยับยั้งเชื้อแบคทีเรียก่อโรค 5 สายพันธุ์ ได้แก่ Bacillus cereus, Escherichia coli, Staphylococcus aureus, S. epidermidis และ Salmonella typhimurium ด้วยวิธี agar well diffusion โดยใช้ยาแอมพิซิลินเป็นสารมาตรฐานเปรียบเทียบ พบว่าเมื่อใช้สารสกัดที่ความเข้มข้น 500 มคก./หลุม สารสกัดไดคลอโรมีเทนจากเปลือกกล้วยน้ำว้ามีฤทธิ์ยับยั้งเชื้อ S. typhimurium ได้ดีที่สุด โดยมีขนาดโซนยับยั้ง 12.2±0.26 มม. รองลงมาคือ E. coli, S. epidermidis, S. aureusและ B. cereus ตามลำดับ โดยมีขนาดโซนยับยั้ง 11.3±0.44, 10.0±0.42, 10.0±0.42 และ 10.0±0.19 มม. ตามลำดับ และพบค่าความเข้มข้นต่ำสุดที่มีฤทธิ์ในการยับยั้งการเจริญของเชื้อ (MIC) ของสารสกัดทั้ง 4 ชนิด มีค่าเท่ากับ 625-1250 มคก./มล. และความเข้มข้นต่ำสุดที่มีฤทธิ์ในการฆ่าเชื้อ (MBC) ของสารสกัดในแต่ละตัวทำละลาย มีค่าอยู่ระหว่าง 625-2500 มคก./มล. และการศึกษาประสิทธิภาพในการยับยั้งแบคทีเรียก่อโรคของเจลล้างมือที่ผสมสารสกัดไดคลอโรมีเทนจากเปลือกกล้วยน้ำว้าดิบ โดยใช้สารสกัดหนัก 0.3 ก. ละลายใน DMSO 2 มล. ผสมลงในเจลเบส พบว่ายังคงมีฤทธิ์ในการยับยั้งเชื้อแบคทีเรียทั้ง 5 ชนิดได้ดี และเมื่อเก็บรักษาที่อุณหภูมิห้อง (27-30 องศาเซลเซียล) เป็นเวลา 28 วัน พบว่าประสิทธิภาพในการยับยั้งเชื้อลดลงเพียงเล็กน้อย แต่ยังอยู่ในเกณฑ์ ทั้งนี้อาจเนื่องจากความไม่เสถียรหรือการเสื่อมสภาพของสารสกัดจากเปลือกกล้วย ส่วนผสมของเจลล้างมือ และค่าความเป็นกรด-ด่างที่อาจส่งผลต่อโครงสร้างของสารสกัดจากเปลือกกล้วย จึงทำให้ประสิทธิภาพของเจลล้างมือในการยับยั้งเชื้อแบคทีเรียก่อโรคลดลง (35)การศึกษาพัฒนาแผ่นปิดแผลที่มีส่วนผสมของไคโตซานและผงเปลือกกล้วยดิบ (ตัวอย่างพืชจากประเทศอิยิปต์ (ไม่ระบุ voucher specimens) เตรียมโดยนำเปลือกกล้วยมาตัดเป็นชิ้นเล็กๆ และอบที่อุณหภูมิ 120 ํC เป็นเวลา 24 ชม. แล้วนำไปบดละเอียด ในการทดสอบทำการเตรียมแผ่นปิดแผลที่มีส่วนผสมของไคโตซานและผงเปลือกกล้วย เตรียม chitosan solution โดยนำผงไคโตซาน 1 ก. ละลายใน acetic acid 2% คนต่อเนื่องเป็นเวลา 4 ชม. จากนั้นเติมกลีเซอรอล 1 มล. จากนั้นเติมเปลือกกล้วยผสมลงใน chitosan solution ในความเข้มข้น 0, 2, 5, 10% โดยน้ำหนักนำไปขึ้นรูปและทำให้เป็นแผ่นโดยอบที่ 40 ํC เป็นเวลา 24 ชม. ทำการทดสอบฤทธิ์ต้านเชื้อจุลชีพ S. aureus ATCC 25923, E. coli ATCC 25988, Pseudomonas aeruginosa ATCC 25619 และ Candida albicans ATCC10231 และเชื้อดื้อยา MDRE. coli, MDR P. aeruginosa, MDR S. aureus, MDR Acinetobacter sp. ด้วยวิธี disc diffusion ผลการศึกษาพบว่าการใช้ไคโตซานร่วมกับผงเปลือกกล้วยมีผลเสริมฤทธิ์ในการต้านเชื้อจุลชีพ โดยแผ่นปิดแผลที่มีส่วนผสมของผงเปลือกกล้วย 10% มีฤทธิ์ดีที่สุดในการยับยั้งเชื้อทั้ง 8 ชนิด โดยเฉพาะเชื้อยีสต์ C. albicans รองลงคือเชื้อ E. coli, MDR E. coli, S. aureus MDR S. aureus, P. aeruginosa, MDR P. aeruginosaและ MDR Acinetobacter sp. ตามลำดับ และการศึกษาคุณสมบัติทางกายภาพของแผ่นปิดแผลไคโตซานและผงเปลือกกล้วยดิบพบว่าแผ่นปิดแผลดังกล่าวมีความสามารถในการอุ้มน้ำได้ดี ซึ่งเหมาะสมในการนำไปดูดซับสารคัดหลั่งจากแผล (36)",
+                "pharmacological_ref": [
+                    "Phuaklee P, Ruangnoo S, Itharat A. Anti-inflammatory and antioxidant activities of extracts from Musa sapientum peel. J Med Assoc Thai. 2012;95(Suppl 1):S142-6."
+                ]
+            },
+            {
+                "pharmacological": "ต้านอนุมูลอิสระ",
+                "pharmacological_content": "การศึกษาผลของปริมาณและความเข้มข้นของเอทานอลต่อความสามารถในการต้านอนุมูลอิสระและปริมาณสารประกอบฟีนอลในเปลือกกล้วย 4 ชนิด คือ กล้วยน้ำว้า กล้วยหอมทอง กล้วยไข่ กล้วยเล็บมือนาง (ไม่ระบุแหล่งที่มาและ voucher specimen) ขั้นแรกทำการศึกษาอัตราส่วนที่เหมาะสมของตัวทำลายต่อปริมาณเปลือกกล้วย ทดสอบโดยนำเปลือกกล้วยที่ปั่นละเอียดมาทำการสกัดด้วยวิธีการแช่สกัดใน 95% เอทานอล ในอัตราส่วน 1:10 และ 1:5 โดยน้ำหนัก/ปริมาตร เป็นเวลา 3 วัน และในการทดสอบหาความเข้มข้นที่เหมาะสมของตัวทำลาย ทำการทดสอบโดยการแช่สกัดเปลือกกล้วยปั่นละเอียดใน 95% เอทานอล หรือ 70% เอทานอล เป็นเวลา 3 วัน ผลการศึกษาพบว่าอัตราส่วนของเปลือกกล้วยต่อเอทานอลที่เหมาะสมคือ 1:5 และการสกัดเปลือกกล้วยโดยใช้ 70% เอทานอลสามารถสกัดเปลือกกล้วยที่มีความสามารถต้านอนุมูลอิสระและปริมาณสารประกอบฟีนอลทั้งหมดสูงกว่าการสกัดด้วย95% เอทานอล โดยในการศึกษาความสามารถในการต้านอนุมูลอิสระของสารสกัดจากเปลือกกล้วยทั้ง 4 ชนิด ด้วยวิธี 2,2’-diphenyl-1-picrylhydrazyl radical scavenging (DPPH) และ 2,2'-azino-bis (3-ethylbenzthiazoline-6-sulphonic acid) (ABTS) พบว่าสารสกัด 70% เอทานอลจากเปลือกกล้วยเล็บมือนางมีความสามารถในการต้านอนุมูลอิสระสูงสุด โดยมีค่าการต้านอนุมูลอิสระเท่ากับ 147.90 และ 286.08 มก. สมมูลวิตามินซี/100 ก. น้ำหนักสด เมื่อทดสอบด้วยวิธี DPPHและ ABTS ตามลำดับรองลงมาได้แก่ กล้วยหอมทอง กล้วยไข่ และกล้วยน้ำว้า โดยมีค่า vitamin C equivalent antioxidant capacity (VCEAC) อยู่ระหว่าง 36.53-147.90 มก./100 ก. น้ำหนักสดและผลจากการตรวจสอบปริมาณสารประกอบฟีนอลิกทั้งหมดโดยวิธี Folin-Ciocalteu และปริมาณสารประกอบฟลาโวนอยด์ทั้งหมดในรูปมิลลิกรัมของcatechinพบว่าสารสกัด 70%เอทานอลจากเปลือกกล้วยเล็บมือนาง มีปริมาณสารทั้งสองกลุ่มเท่ากับ 179.01 มก.สมมูลกรดแกลลิก/100 ก.น้ำหนักสด และ 50.92 มก.สมมูล catechin/100 ก. น้ำหนักสด ตามลำดับ ส่วนกล้วยอีก 3 ชนิดพบประมาณสารประกอบฟีนอลิกระหว่าง104.40-128.97มก.สมมูลกรดแกลลิก/100 ก.น้ำหนักสด และมีปริมาณสารประกอบฟลาโวนอยด์ทั้งหมดอยู่ระหว่าง 0.581-13.85 มก.สมมูลcatechin/100 ก.น้ำหนักสด (27)การศึกษาองค์ประกอบทางเคมีและฤทธิ์ต้านอนุมูลอิสระของสารสกัดเอทานอลจากเนื้อผลดิบและเปลือกผลดิบของกล้วยไทย 4 ชนิด คือ กล้วยน้ำว้า กล้วยหอมทอง กล้วยเล็บมือนาง และกล้วยไข่ (ตัวอย่างพืชจากจังหวัดปทุมธานี ไม่ระบุ voucher specimen) ทำการเตรียมตัวอย่างโดยแยกส่วนเนื้อผลและเปลือกผลออกจากกัน หั่นเป็นชิ้นเล็กๆ และนำไปอบในตู้อบที่อุณหภูมิ 55 องศาเซลเซียส ทำการสกัดโดยวิธีแช่สกัดด้วย 95%เอทานอลเป็นเวลา 3 สัปดาห์ ทำการทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assayพบว่าสารสกัดเอทานอลจากส่วนเปลือกผลมีฤทธิ์ต้านอนุมูลอิสระสูงกว่าส่วนเนื้อผล โดยเปลือกกล้วยหอมทองมีฤทธิ์ดีที่สุด ด้วยค่า IC50เท่ากับ 3.25±0.52 มคก./มล. รองลงมาคือเปลือกกล้วยเล็บมือนาง เปลือกกล้วยน้ำว้า และเปลือกกล้วยไข่ ด้วยค่า IC50เท่ากับ 3.40±0.61, 3.46±0.36 และ 3.58±0.25 มคก./มล. ตามลำดับ ในขณะที่สารสกัดจากส่วนเนื้อผลของกล้วย พบว่ากล้วยเล็บมือนางมีฤทธิ์ต้านอนุมูลอิสระสูงสุด รองลงมาคือ กล้วยหอมทอง กล้วยน้ำว้า และกล้วยไข่ ด้วยค่า IC50เท่ากับ 5.28±2.23, 7.77±1.28, 25.75±13.23 และ 30.77±22.47 มคก./มล. ตามลำดับ โดยฤทธิ์ต้านอนุมูลอิสระของเปลือกและผลกล้วยนี้ สัมพันธ์กับปริมาณสารอัลคาลอยด์ ฟลาโวนอยด์ แทนนิน และโพลีฟีนอลที่พบในสารสกัด (30) การศึกษาฤทธิ์ต้านอนุมูลอิสระของเปลือกกล้วยน้ำว้าแบบสดและอบแห้ง การทดสอบใช้ตัวอย่างเปลือกกล้วยน้ำว้าจากจังหวัดนครราชสีมา (ไม่ระบุ voucher specimen) ในการศึกษาแบ่งตัวอย่างพืชเป็น 4 ส่วน คือเปลือกผลดิบ เปลือกผลดิบอบแห้ง เปลือกผลสุก และเปลือกผลสุกอบแห้ง และนำไปสกัด 4 วิธี ได้แก่ แช่สกัดใน 95% เอทานอล หรือ 50% เอทานอล เป็นเวลา 3 วัน ต้มกับน้ำนาน 15 นาที และแช่สกัดในน้ำ นาน 24 ชม. ผลการทดสอบฤทธิ์ด้วยวิธี DPPH assay พบว่าสารสกัดจากเปลือกผลดิบมีฤทธิ์ต้านอนุมูลอิสระมากกว่าเปลือกผลสุก โดยสารสกัด 50% จากเปลือกผลดิบอบแห้ง มีฤทธิ์ต้านอนุมูลอิสระสูงที่สุดและมีความแรงมากกว่าสารเปรียบเทียบมาตรฐาน BHT ด้วยค่า EC50 = 7.33±0.55 และ 11.05±0.40 มคก./มล. ตามลำดับ รองลงมาคือสารสกัดน้ำต้มเปลือกผลดิบ (7.81±0.62 มคก./มล.) และสารสกัด 95%จากเปลือกผลดิบอบแห้ง (13.92±0.21 มคก./มล.) ส่วนสารสกัดจากเปลือกผลสุกพบค่าต้านอนุมูลอิสระสูงสุดในสารสกัดน้ำต้ม รองลงมาคือสารสกัดน้ำต้มจากเปลือกผลสุกอบแห้ง และสกัด 50%เอทานอลจากเปลือกผลสุกอบแห้ง ด้วยค่า EC50 19.90±1.74, 27.55±3.10, 32.08±1.07 มคก./มล.ตามลำดับและผลการตรวจสอบปริมาณสารฟีนอลิกรวมในสารสกัดด้วยวิธี Folin-Ciocalteu พบว่าปริมาณสารฟีนอลิกที่พบมีความสัมพันธ์กับฤทธิ์ต้านอนุมูลอิสระ ในเปลือกผลสดจะพบสารฟีนอลิกรวม 9.90-117.68 มก. สมมูลกรดแกลลิค/ก. และในเปลือกผลอบแห้งจะพบสารฟีนอลิกรวมเท่ากับ 26.56-72.65 มก. สมมูลกรดแกลลิค/ก. (37)การศึกษาปริมาณสารประกอบฟีนอลิกจากส่วนประกอบกล้วยน้ำว้าแบบสดและแบบแห้ง จำนวน 6 ส่วน คือ เปลือก, เนื้อ, ปลี, ใบตอง, ก้านเครือ และ ก้านหวี ทำการสกัดด้วยวิธีแช่สกัดใน 95% เอทานอล ในอัตราส่วน 1:2 เป็นเวลา 3 วัน วิเคราะห์องค์ประกอบทางเคมีด้วยเทคนิคHPLC และปริมาณฟีนอลิกทั้งหมดด้วยวิธี Folin-Ciocalteu ผลการศึกษาพบว่าส่วนต่างๆของกล้วยมีปริมาณฟีนอลิกทั้งหมดสูงกว่าส่วนเนื้อผล โดยตัวอย่างสารสกัดตัวอย่างแห้งมีปริมาณสารฟีนอลิกทั้งหมดจากมากไปน้อย ดังนี้ ก้านหวีแห้ง538.36 ± 0.15 สมมูลกรดแกลลิค/100 ก. รองลงมาคือ ใบตองแห้ง (519.63 ± 0.09) เปลือกแห้ง(432.88 ± 0.12) ก้านเครือแห้ง (350.23 ± 0.10) ปลีแห้ง (194.47 ± 0.04) และ เนื้อผลแห้ง (78.08 ± 0.20) สารสกัดจากตัวอย่างสด เรียงจากมากไปน้อย ดังนี้ ใบตองสด (349.77 ± 0.04) ก้านเครือสด (296.35 ± 0.05) ก้านหวีสด (258.90 ± 0.27) ปลีสด (242.46 ± 0.45) เปลือกสด (303.65 ± 0.05) และเนื้อผลสด (138.36 ± 0.18) ตามลำดับผลจากการวิเคราะห์องค์ประกอบทางเคมีด้วย HPLC พบว่าสารสกัดตัวอย่างแห้งจะพบปริมาณฟีนอลลิกรวมมากกว่าตัวอย่างสด แต่การสกัดตัวอย่างสดจะได้สารสำคัญที่ใช้ประโยชน์ในการต้านอนุมูลอิสระและการใช้ประโยชน์ด้านเครื่องสำอางมากกว่าตัวอย่างแห้งโดยเฉพาะคาเทชิน กรดพารา-คูมาริก และกรดเฟอรูลิก เป็นต้น (38)การศึกษาเปรียบเทียบฤทธิ์การต้านอนุมูลอิสระ และสารประกอบฟีนอลิกรวมจากสารสกัดเปลือกกล้วยไข่ที่สุกด้วยวิธีและเวลาต่างกัน คือ เปลือกกล้วยไข่ดิบ (ห่าม) เปลือกกล้วยไข่สุกตามธรรมชาติ และเปลือกกล้วยไข่สุก (บ่มแก๊ส) (ไม่ระบุแหล่งที่มาและ voucher specimen) โดยนำเปลือกกล้วยไข่ที่บดละเอียด แช่ใน 80% เอทานอล เป็นเวลา 24 ชั่วโมง ผลทดสอบฤทธิ์การต้านอนุมูลอิสระด้วยวิธี DPPH assay โดยใช้ butylated hydroxytoluene (BHT)100 มคก./มล. เป็นสารมาตรฐานเปรียบเทียบ พบว่าสารสกัดจากเปลือกกล้วยไข่ดิบ (ห่าม) ให้ฤทธิ์สูงสุด โดยมีค่า IC50 เท่ากับ 142.93 มคก./มล รองลงมาคือสารสกัดเปลือกกล้วยไข่สุก (บ่มแก๊ส) และสารสกัดเปลือกกล้วยไข่สุกโดยมีค่า IC50 เท่ากับ 153.03 และ 239.15มคก./มล. ตามลำดับ และการสารประกอบฟีนอลิกรวมพบว่าสารสกัดจากเปลือกกล้วยไข่ดิบ (ห่าม) มีปริมาณสูงที่สุด คือ 39.495มก.สมมูลกรดแกลลิค/ก. (39)    การศึกษาเปรียบเทียบฤทธิ์ต้านอนุมูลอิสระของเปลือกกล้วยน้ำว้า 2 ระยะ คือ ระยะดิบและระยะสุก (ไม่ระบุแหล่งที่มาและ voucher specimen) ที่สกัดด้วยวิธีและตัวทำลายแตกต่างกัน คือ การสกัดโดยใช้ชุดสกัดแบบต่อเนื่องsoxhlet extractorและการสกัดด้วยวิธีการตุ๋น (digestion) จากตัวทำละลายที่แตกต่างกัน คือ 95% เอทานอลและน้ำ จากนั้นทำการวิเคราะห์หาปริมาณฟีนอลิกรวมด้วยวิธี Folin-Ciocalteu และทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH และ FRAP ผลการศึกษาพบว่าปริมาณฟีนอลลิกรวมของสารสกัดจากเปลือกกล้วยดิบที่ได้จากการตุ๋นด้วยเอทานอลมีค่าสูงสุด คือ 56.48±0.004 มก.สมมูลกรดแกลลิค/ก. น้ำหนักแห้ง ส่วนเปลือกกล้วยน้ำว้าสุกพบปริมาณสารฟีนอลิกรวมสูงสุดในสารสกัดน้ำด้วยวิธีการตุ๋น (44.69±0.002 มก.สมมูลกรดแกลลิค/ก. น้ำหนักแห้ง) ผลจากการตรวจสอบฤทธิ์ต้านอนุมูลอิสระพบว่าสารสกัดจากเปลือกกล้วยดิบที่ได้จากการตุ๋นด้วยเอทานอลมีความสามารถในการต้านอนุมูลอิสระดีที่สุด โดยมีค่า IC50จากวิธี DPPH เท่ากับ 2.2 มคก./มล. และค่า FRAP เท่ากับ 0.98 มิลลิโมลาร์ของเหล็ก/ก. (40)การศึกษาปริมาณฟีนอลิกรวมและฤทธิ์ต้านอนุมูลอิสระของสารสกัดที่ได้จากการสกัดส่วนต่างๆของกล้วยหอมทอง โดยหาสภาวะการสกัดและส่วนของกล้วยที่ให้ปริมาณฟีนอลิกรวมและฤทธิ์ต้านอนุมูลอิสระจากการทดสอบด้วยวิธี FRAP, DPPH และ ABTS จากส่วนต่าง ๆ ของกล้วยหอมทอง ได้แก่ ใบกล้วย ก้านใบ ต้นกล้วยก้านเครือ เปลือกกล้วยสุก และเปลือกกล้วยดิบ (ตัวอย่างพืชจากจังหวัดเพชรบุรี ไม่ระบุ voucher specimen) ด้วยวิธีการสกัดด้วยน้ำที่อุณหภูมิ 30 องศาเซลเซียสเป็นเวลา 4 ชั่วโมง แล้วนำไปทำแห้งด้วยเทคนิคการทำแห้งแบบเยือกแข็ง (lyophilization) พบว่าส่วนของกล้วยที่มีปริมาณฟีนอลิกรวมสูงสุดคือเปลือกกล้วยดิบ (32.76มก.สมมูลกรดแกลลิค/ก.) รองลงมาคือใบกล้วย (23.71มก.สมมูลกรดแกลลิค/ก.) และก้านเครือมีปริมาณฟีนอลิกรวมต่ำที่สุด (4.67 มก.สมมูลกรดแกลลิค/ก.) ส่วนสารสกัดจากก้านใบ ต้นกล้วย และเปลือกกล้วยสุกมีปริมาณฟีนอลิกรวมอยู่ในช่วง 9.42 - 11.27 มก.สมมูลกรดแกลลิค/ก.จึงคัดเลือกนำส่วนของเปลือกกล้วยดิบไปศึกษาเปรียบเทียบสภาวะการสกัดที่มีผลต่อปริมาณฟีนอลิกรวมและฤทธิ์ต้านอนุมูลอิสระ พบว่าการสกัดด้วย 70% เอทานอล ที่อุณหภูมิ 55 องศาเซลเซียส เป็นเวลา 4 ชั่วโมง จะให้ปริมาณสารฟีนอลิกรวมสูงที่สุด คือ 55.94มก.สมมูลกรดแกลลิค/ก.และฤทธิ์ต้านอนุมูลอิสระเท่ากับ 59.58, 138.63 และ 276.60มก. สมมูลกรดแอสคอบิก/ก.เมื่อทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี FRAP, DPPH และ ABTS ตามลำดับ (41)การศึกษาการสกัดสารประกอบฟีนอลิกทั้งหมดจากเปลือกกล้วยหอมทองแห้งจากจังหวัดเชียงใหม่ (ไม่ระบุ voucher specimen) ด้วยเทคนิคการสกัดด้วยตัวทำละลายที่สภาวะต่ำกว่าจุดวิกฤติ และปัจจัยที่มีผลต่อการสกัดสารประกอบฟีนอลิกทั้งหมด ได้แก่ ชนิดของตัวทำละลาย (เอทานอล น้ำ และตัวทำละลายผสมน้ำและเอทานอลในอัตราส่วนโดยน้ำหนัก 1:1) อัตราส่วนโดยน้ำหนักของเปลือกกล้วยหอมทองต่อตัวทำละลาย (1:7.5, 1:15, 1:25 และ 1:30) อุณหภูมิ (60, 80, 100 และ 120 องศาเซลเซียส) และเวลาในการสกัด (5, 15, 30 และ 60 นาที) ในการศึกษานี้ใช้ตัวอย่างกล้วยหอมที่มีความสุกระดับ 6 ตาม Banana ripening chart ผลการศึกษาพบว่าปัจจัยดังกล่าวมีผลต่อปริมาณสารประกอบฟีนอลิกทั้งหมดที่สกัดได้จากเปลือกกล้วยหอมทองแห้งตัวทำละลายผสมน้ำและเอทานอลในอัตราส่วนโดยน้ำหนัก 1: 1 เป็นตัวทำละลายที่เหมาะสมที่สามารถสกัดสารประกอบฟีนอลิกทั้งหมดได้ในปริมาณที่มาก เมื่อปริมาณตัวทำละลายผสมที่ใช้ในการสกัดมากขึ้นสามารถสกัดสารประกอบฟีนอลิกทั้งหมดได้เพิ่มขึ้น อุณหภูมิและเวลาในการสกัดเพิ่มขึ้นปริมาณสารประกอบฟีนอลิกทั้งหมดที่ได้มีค่าสูงขึ้น อย่างไรก็ตามปริมาณสารประกอบฟีนอลิกทั้งหมดจะลดลงเมื่ออุณหภูมิและเวลาในการสกัดมากกว่า 100 องศาเซลเซียส และนานกว่า 15 นาที ตามลำดับ สภาวะที่เหมาะสมในการสกัดสารประกอบฟีนอลิกทั้งหมดได้ในปริมาณมากที่สุดจากเปลือกกล้วยหอมทองแห้งด้วยเทคนิคการสกัดโดยใช้ตัวทำละลายที่สภาวะต่ำกว่าจุดวิกฤติ คือ ที่อัตราส่วนโดยน้ำหนักของเปลือกกล้วยหอมทองแห้งต่อตัวทำละลายผสม (น้ำและเอทานอลในอัตราส่วนโดยน้ำหนักเท่ากับ 1:1) เท่ากับ 1:25 อุณหภูมิและเวลาในการสกัดเท่ากับ 100 องศาเซลเซียส และ 15 นาที ตามลำดับ สามารถสกัดสารประกอบฟีนอลิกทั้งหมดมีค่าเฉลี่ยเท่ากับ 59.23มก. สมมูลกรดแกลลิค/ก. และการทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH พบค่าความเข้มข้นที่สามารถยับยั้งอนุมูลอิสระได้ร้อยละ 50 คือ 1.40 มก./มล. (42)การศึกษาฤทธิ์ต้านอนุมูลอิสระของผลกล้วยเล็บมือนางจากจังหวัดชุมพร (ไม่ระบุ voucher specimen) ที่มีระยะการสุกแตกต่างกัน 3 แบบ คือ ผลดิบ (เก็บเกี่ยวที่ระยะเวลา 2 เดือนหลังติดผล) ผลสุก (บ่มไว้ 4 วันหลังเก็บเกี่ยว) และผลสุกงอม (บ่มไว้ 8 วันหลังเก็บเกี่ยว) เตรียมตัวอย่างโดยนำเนื้อผลมาบ่มใน 80% เมทานอล เป็นเวลา 15 นาที จากนั้นกรองเอาส่วนของเหลวไปปั่นเหวี่ยงและแยกเอาส่วนของเหลวเหนือตะกอนไปทำการทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าค่าการต้านอนุมูลอิสระรวมมีค่าสูงสุดในช่วงผลสุก รองลงคือผลสุกงอมและผลดิบ ตามลำดับ โดยค่าต้านอนุมูลอิสระของกล้วยไข่ในระยะต่างๆ มีความสัมพันธ์กับปริมาณสารฟีนอลิกรวมซึ่งพบมากที่สุดในช่วงผลสุก (43) การศึกษาฤทธิ์ต้านอนุมูลอิสระของสาร syringin สารสำคัญที่พบในกล้วยและสารสกัดเมทานอลจากส่วนปลี ผล และลำต้นเทียมของกล้วยในประเทศมาเลเซีย (ไม่ระบุ voucher specimen) ด้วยวิธี cold extract technique ทดสอบฤทธิ์ต้านอนุมูลอิสระด้วย DPPH assay พบว่าสารสกัดเมทานอลจากกล้วยมีฤทธิ์ต้านอนุมูลอิสระได้ตามขนาดของสารสกัดที่ได้รับ โดยสารสกัดเมทานอลจากส่วนปลีกล้วยให้ฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุดรองลงมาคือสารสกัดจากส่วนเปลือกผล สาร syringin และสารสกัดจากเนื้อผล ด้วยค่า IC50เท่ากับ 22.5, 66, 71 และ 82 มคก./มล. ตามลำดับ ซึ่งฤทธิ์ต้านอนุมูลอิสระจากส่วนต่างๆ ของกล้วยนี้ สอดคล้องกับผลการศึกษาสารกลุ่มฟีนอลิกในกล้วย ซึ่งพบในสารสกัดเมทานอลจากปลีกล้วยสารสกัดเอทานอลจากปลีกล้วย สารสกัดเมทานอลจากเปลือกผล สาร syringin และสารสกัดเมทานอลจากเนื้อผล เท่ากับ 8,000, 6,240, 3.450, 2.530 และ 2.150 มก.สมมูลกรดแกลลิก/ก. สารสกัด (44) การศึกษาฤทธิ์ต้านอนุมูลอิสระของเนื้อผลและเปลือกผลกล้วยในประเทศมาลาเซีย (ไม่ระบุ voucher specimen)ที่ทำการสกัดด้วยตัวทำละลาย 3 ชนิด คือ เฮกเซน เอทานอล และน้ำ จากนั้นนำสารสกัดดังกล่าวมาทดสอบฤทธิ์ต้านอนุมูลอิสระโดย DPPH assay และ FRAP พบว่าสารสกัดเอทานอลจากส่วนเปลือกผลมีฤทธิ์ต้านอนุมูลอิสระดีที่สุด โดยพบค่า IC50เท่ากับ 19.10 มคก./มล. และ 55.10ไมโครโมลาร์/มล.ตามลำดับ รองลงมาคือสารสกัดเอทานอลจากส่วนเปลือกผล มีค่าIC50เท่ากับ 44.07มคก./มล. และ 46.40 ไมโครโมลาร์/มล.ตามลำดับ (45) การศึกษาเปรียบเทียบฤทธิ์ต้านอนุมูลอิสระของส่วนเนื้อผลและเปลือกผลของกล้วยดิบจากประเทศบังคลาเทศ (ไม่ระบุ voucher specimen) ทำการสกัดเปลือกและเนื้อผลกล้วยด้วยวิธีการแช่สกัดในเมทานอล นาน 24 ชั่วโมง ทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay ผลการศึกษาพบว่าส่วนเปลือกกล้วยมีฤทธิ์ต้านอนุมูลอิสระมากกว่าส่วนเนื้อผล โดยสารสกัดที่ความเข้มข้น 100 มคก./มล. มีผลยับยั้งอนุมูลอิสระได้ 70.62 และ 54.79% ตามลำดับ ซึ่งมีฤทธิ์น้อยกว่าสารเปรียบเทียบ ascorbic acid เมื่อใช้ในความเข้มข้นเดียวกัน เมื่อหาปริมาณสารฟีนอลรวมด้วยวิธี Folin–Ciocalteu พบว่าปริมาณสารฟีนอลิกที่พบมีความสัมพันธ์กับฤทธิ์ต้านอนุมูลอิสระ โดยพบว่าส่วนเปลือกผลมีปริมาณสารฟีนอลิกมากกว่าส่วนเนื้อผล โดยพบสารฟีนอลรวม เท่ากับ 92.76 และ 71.49 มก.สมมูลกรดแกลลิค/ก. น้ำหนักแห้ง ตามลำดับ (46) การศึกษาฤทธิ์ต้านอนุมูลอิสระและปริมาณสารโพลีฟีนอลในกล้วยดิบที่ผ่านการต้มในประเทศไนจีเรีย (ไม่ระบุ voucher specimens) เตรียมสารสกัดเนื้อผลกล้วยดิบด้วย 80% อะซีโตน จากนั้นนำไปสกัดแยกกลุ่มสารที่เป็นกรดและด่างด้วยเอธิลอะตีเตท และนำไปทดสอบฤทธิ์ต้านอนุมูลอิสระด้วย DPPH, ABTS, Fe(II)-chelating ability, OH radical-scavenging ability และ reducing power ผลการทดสอบพบว่าในเนื้อกล้วยต้มสุกจะมีกรดฟีนอลิกแบบอิสระ (free phenolic acid) มากกว่ากรดฟีนอลิกแบบยึดเหนี่ยว (bound phenolic acid) โดยพบปริมาณ 101 มก. และ 87.02 มก./เนื้อกล้วย 100 ก. ตามลำดับ ซึ่งปริมาณกรดฟีนอลิกนี้มีผลต่อฤทธิ์ต้านอนุมูลอิสระของสารสกัดโดยพบค่าความเข้มข้นของกรดฟีนอลิกแบบอิสระที่สามารถต้านอนุมูลอิสระได้ 50% (EC50) เท่ากับ 4.34±0.21, 0.81±0.14, 0.78±0.36 มก./มล. เมื่อทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH, OH radical-scavenging ability และ Fe(II)-chelating abilityและพบค่า EC50 ของกรดฟีนอลิกแบบยึดเหนี่ยว เท่ากับ 6.68±030, 1.01±0.11, 1.05±0.14 มก./มล.ตามลำดับ อย่างไรก็ตามเมื่อทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี reducing power และ ABTS พบว่ากรดฟีนอลิกแบบอิสระมีค่าต้านอนุมูลอิสระน้อยกว่ากรดฟีนอลิกแบบยึดเหนี่ยวโดยกรดฟีนอลิกแบบอิสระมีค่าต้านอนุมูลอิสระเมื่อทดสอบด้วยวิธี reducing power และ ABTSเท่ากับ 13.21±0.01 และ 9.01±0.01ไมโครโมร์/100 ก. และกรดฟีนอลิกแบบยึดเหนี่ยวมีค่าต้านอนุมูลอิสระเท่ากับ 0.63±0.01 และ 0.25±0.05 ไมโครโมลาร์/100 ก. ตามลำดับ (47) การศึกษาเปรียบเทียบฤทธิ์ต้านอนุมูลอิสระและองค์ประกอบทางเคมีของกล้วยที่สุกในระยะต่างกัน ทำการศึกษาในประเทศไนจีเรีย (ไม่ระบุ voucher specimens) ทำการเตรีมสารสกัดโดยนำผงเนื้อผลดิบและเนื้อผลสุกมาแช่สกัดในน้ำกลั่นเป็นเวลา 24 ชั่วโมง ทำการวิเคราะห์ปริมาณสารฟีนอลิกด้วย Folin-ciocalteauและปริมาณสารฟลาโวนอยด์โดยคำนวณเทียบเท่ากับสมมูลกรดแกลลิค และเคอร์ซิติน ตามลำดับ ผลการทดสอบพบว่าปริมาณสารฟีนอลิกรวมในเนื้อผลกล้วยดิบและกล้วยสุก เท่ากับ 16.2±0.75 และ 8.3±055 มก.สมมูลกรดแกลลิค/ก. และมีปริมาณสารฟลาโวนอยด์เท่ากับ 15.2±0.45 และ 9.5±0.21 มก.สมมูลเคอร์ซิติน/ก. ตามลำดับ สารสกัดน้ำจากเนื้อผลกล้วยดิบมีความสามารถในการต้านอนุมูลอิสระสูงกว่าสารสกัดน้ำจากเนื้อผลกล้วยสุก เมื่อทดสอบด้วยวิธี DPPH, Iron(II)-chelating activity, FRAPและOH radical-scavenging และการทดสอบฤทธิ์ป้องกันการเกิด oxidative stress ในเนื้อเยื่อสมองและเนื้อเยื่อตับของหนูแรทพบว่าสารสกัดน้ำจากเนื้อผลกล้วยดิบและกล้วยสุกมีผลป้องกันการเกิด lipid peroxidation อย่างมีนัยสำคัญตามขนาดของสารสกัดที่ได้รับ (48) การศึกษาฤทธิ์ต้านอนุมูลอิสระของผงเปลือกกล้วย (ตัวอย่างพืชจากประเทศบราซิล ไม่ระบุเลข voucher specimen) โดยเตรียมเปลือกกล้วย ล้างให้สะอาด หั่นเป็นชิ้นขนาดเล็ก แล้วนำไปลวกในน้ำ 95ºC เป็นเวลา 5 นาที ก่อนนำไปอบให้แห้งที่อุณหภูมิ 55 ºC แล้วบดให้เป็นผงละเอียด ผลการศึกษาฤทธิ์ต้านอนุมูลอิสระด้วยวิธี FRAP, ABTS และ Oxygen radical absorbance capacity (ORAC) พบค่าการต้านอนุมูลอิสระเท่ากับ 14.0±1.7, 242.2±34.8 และ 435.5±60.2 ไมโครโมลาร์โทรลอกซ์/ก. ผลจากการวิเคราะห์องค์ประกอบทางเคมีพบสารฟีนอลิกรวม 29.2±0.8 มก.สมมูลกรดแกลลิค/ก. และสารกลุ่มฟลาโวนอยด์ 3,952 มก.คาเตชิน/ก. สารสกัด (10)",
+                "pharmacological_ref": [
+                    "วิมลวรรณ วัฒนวิจิตร, โกเมศ สัตยาวุธ, ประยูร เอ็นมาก, ศิริพร เต็งรัง. การศึกษาฤทธิ์ต้านการออกซิเดชันของสารสกัดจากเปลือกกล้วยและการประยุกต์ใช้ในการผลิตโลชัน. กองวิจัยและพัฒนาวิทยาการหลังการเก็บเกี่ยวและแปรรูปผลิตผลเกษตรกรมวิชาการเกษตร. หน้า 47-59."
+                ]
+            },
+            {
+                "pharmacological": "ต้านการอักเสบ",
+                "pharmacological_content": "การศึกษาฤทธิ์ต้านการอักเสบของเปลือกกล้วยน้ำว้าแบบสดและอบแห้ง ด้วยการทดสอบฤทธิ์ยับยั้งการสร้าง nitric oxide (NO)ในเซลล์แมคโครฟาจของหนูเม้าส์ (RAW264.7 cell)  ใช้ตัวอย่างเปลือกกล้วยน้ำว้าจากจังหวัดนครราชสีมา (ไม่ระบุ voucher specimen) ในการศึกษาแบ่งตัวอย่างพืชเป็น 4 ส่วน คือเปลือกผลดิบ เปลือกผลดิบอบแห้ง เปลือกผลสุก และเปลือกผลสุกอบแห้ง นำไปการสกัด 4 วิธี ได้แก่ แช่สกัดใน 95%เอทานอลหรือ 50%เอทานอล เป็นเวลา 3 วัน สารสกัดน้ำต้มโดยต้มนาน 15 นาที และแช่สกัดในน้ำเปล่า เป็นเวลา 24 ชม. ผลการทดสอบพบว่าสารสกัดจากการแช่น้ำเปลือกผลสุกมีฤทธิ์ยับยั้งการสร้าง NO ได้สูงสุด ด้วยค่า IC50 6.68±0.34 มคก./มล. ซึ่งมีฤทธิ์แรงกว่าสารเปรียบเทียบ indomethacin (IC50=20.32±3.68 มคก./มล.) ตามมาด้วยสารสกัด 95%เอทานอลจากเปลือกผลดิบอบแห้ง และสารสกัด 50%เอทานอลจากเปลือกผลดิบ ด้วยค่า IC50 เท่ากับ 36.62±3.68 และ 54.69±1.71 มคก./มล. ตามลำดับ (37) การศึกษาฤทธิ์ต้านการอักเสบของสารสกัดเอทานอลจากผลกล้วยดิบในประเทศอินเดีย (voucher specimen: CG-1123) เตรียมสารสกัดโดยใช้วิธีการสกัดแบบต่อเนื่องด้วยเครื่องSoxhlet extractorที่ใช้ 95% เอทานอลเป็นตัวทำละลาย จากนั้นนำสารสกัดที่ได้มาทำการสกัดแบบลำดับส่วนด้วยปิโตรเลียมอีเธอร์ คลอโรฟอร์ม และน้ำ ตามลำดับ นำสารสกัดดังกล่าวมาการทดสอบฤทธิ์ต้านอักเสบในหนูแรท ด้วยการแบ่งหนูแรทออกเป็น 6 กลุ่ม คือ กลุ่มที่ 1 กลุ่มควบคุม กลุ่มที่ 2 ป้อนด้วยยา diclofenac sodium ขนาด 30 มก./กก. กลุ่มที่ 3, 4, 5 และ 6 ป้อนด้วยสารสกัด 95% เอทานอล ส่วนสกัดปิโตรเลียมอีเธอร์ คลอโรฟอร์ม และน้ำ ขนาด 200 มก./กก. ตามลำดับ ที่เวลา 1 ชั่วโมงก่อนการเหนี่ยวนำให้เกิดการอักเสบบริเวณอุ้งเท้าด้วยคาราจีแนน ผลการทดสอบพบว่าสารสกัดเอทานอลและส่วนสกัดน้ำจากผลกล้วยดิบ ขนาด 200 มก./กก. แสดงฤทธิ์ยับยั้งการอักเสบ ลดขนาดการบวมของอุ้งเท้าได้อย่างมีนัยสำคัญตั้งแต่ชั่วโมงที่ 2 ของการศึกษา และเมื่อทำการสังเกตผลครบ 6 ชั่วโมง พบว่าสารสกัดเอทานอลจากเปลือกกล้วยดิบสามารถยับยั้งการบวมเท่ากับ 67.36% ใกล้เคียงกับกลุ่มที่ได้รับยา diclofenac sodium (69.47%) รองลงมาคือส่วนสกัดน้ำจากเปลือกกล้วยดิบ (63.15%) อย่างไรก็ตามในการศึกษานี้ไม่พบฤทธิ์ต้านอักเสบของส่วนสกัดปิโตรเลียมอีเธอร์ และส่วนสกัดคลอโรฟอร์ม จึงคาดว่าฤทธิ์ต้านการอักเสบนี้เป็นผลมาจากสารกลุ่มฟลาโวนอยด์ที่พบในสารสกัด (49)",
+                "pharmacological_ref": [
+                    "ปราณี เลิศแก้ว, ธิดารัตน์ พรมมา, ศุภวัตน์ วิสิฐศิริกุล, นเรศ ขำเจริญ, อธิรดา บุญเดช, ภัสดี ภูกองไชยและคณะ. เปรียบเทียบฤทธิ์การต้านอนุมูลอิสระและสารประกอบฟีนอลิกรวมของเปลือกกล้วยไข่. การประชุมวิชาการระดับชาติพะเยาวิจัยครั้งที่ 7 “Entrepreneurial University โอกาส ความหวัง อนาคต ?” วันที่ 25-26 มกราคม 2561 ณ หอประชุมพญางำเมือง มหาวิทยาลัยพะเยา"
+                ]
+            },
+            {
+                "pharmacological": "รักษาแผล",
+                "pharmacological_content": "ทำการเตรียมสารสกัด50% เอทานอลจากเนื้อผลกล้วย (ไม่ระบุที่มาและ voucher specimen ของตัวอย่างพืช)ด้วยวิธีการแช่เนื้อผลกล้วยใน 50% เอทานอล เป็นเวลา 3 วัน จากนั้นนำมาทดสอบฤทธิ์รักษาแผลในหนูแรทที่มีแผลรอยกรีด (incision wound) ด้วยการป้อนสารสกัด 50% เอทานอลจากเนื้อผลขนาด 50, 100 และ 200 มก./กก. วันละครั้ง ติดต่อกัน 10 วัน เปรียบเทียบกับกลุ่มควบคุมบวกที่ได้รับวิตามินอีขนาด 200 มก./กก. ทำการประเมินผลด้วยการตรวจวัดwound breaking strength ซึ่งบ่งถึงความแข็งแรงของแผล ผลการทดสอบพบว่า wound breaking strengthของกลุ่มควบคุม กลุ่มที่ได้รับสารสกัดจากผลกล้วย 50, 100 และ 200 มก./กก. และกลุ่มที่ได้รับวิตามินอี เท่ากับ 338.3 ± 13.5, 363.3 ± 6.8, 445.0 ± 9.7 , 438.3 ± 8.4 และ 528.3 ± 6.9 ก. ตามลำดับ และผลจากการตรวจวัดพื้นที่ช่องว่างในชั้นเนื้อเยื่อ (dead space) เพื่อประเมินความสามารถในการสร้างชั้นคอลลาเจนในแผล พบว่าทั้งกลุ่มที่ได้รับสารสกัดจากผลกล้วยและกลุ่มที่ได้รับวิตามินอีมีผลเพิ่มน้ำหนักแห้งของเนื้อเยื่อและปริมาณโปรตีนในเนื้อเยื่อได้ ปริมาณ hydroxylproline, hexuronic และ hexosamine ในเนื้อเยื่อแกรนูเลชันเพิ่มขึ้นอย่างมีนัยสำคัญหลังได้รับสาร การทดสอบด้วยการจำลองโปรแกรมคอมพิวเตอร์ (In silico) ด้วยการจำลองใช้สาร leucocyanidin ที่พบในกล้วยกับกลุ่มเอนไซม์ matrix metalloproteinases (MMPs) ได้แก่ collagenase, gelatinase, elastase และ stromelysin มีค่าพลังงานการจับกับระหว่างสารดังกล่าวกับเอนไซม์เท่ากับ -9.67, -8.67, -8.27 และ -10.17 Kcal/molตามลำดับ ซึ่งความสามารถในการยับยั้ง MMP นี้จะช่วยป้องกันการพัฒนาของแผลในการเป็นแผลเรื้อรังได้ (50) การศึกษาฤทธิ์รักษาแผลของสารสกัดน้ำและสารสกัดเมทานอลจากเปลือกกล้วยดิบ (ตัวอย่างพืชจากประเทศอินเดีย ไม่ระบุ voucher specimens) เตรียมสารสกัดน้ำโดยนำเปลือกกล้วยดิบมาหั่นเป็นชิ้น ตากให้แห้งที่อุณหภูมิห้อง จากนั้นเติมน้ำกลั่น 200 มล. ต่อผงเปลือกกล้วย 200 ก. แช่ไว้เป็นเวลา 2 วัน และเตรียมสารสกัดเมทานอล โดยแช่ผงเปลือกกล้วย 200 ก. ด้วยเมทานอล 1 ลิตร ต่อ เป็นเวลา 2 วัน การทดสอบฤทธิ์รักษาแผลโดยป้อนสารสกัดน้ำ และสารสกัดเมทานอลจากเปลือกกล้วยดิบ ขนาด 50, 100 และ 200 มก./กก. วันละ 1 ครั้ง เป็นเวลา 21 วัน ให้แก่หนูแรทที่มีแผลรอยตัด (excision wound) บริเวณด้านหลังลำตัว ผลการศึกษาโดยประเมินผลการหดตัวของแผล (wound contraction) และการสร้างเนื้อเยื่อ พบว่ากลุ่มที่ได้รับสารสกัดน้ำและสารสกัดเมทานอลจากเปลือกกล้วยสามารถเพิ่มอัตราการหดตัวของแผลได้อย่างมีนัยสำคัญตามขนาดที่ได้รับ โดยบาดแผลปิดโดยสมบูรณ์ในวันที่ 16 ของการศึกษา และมีระยะเวลาในการสร้างเนื้อเยื่อบุผิวเฉลี่ย 15-17 วัน กลุ่มที่ได้รับสารสกัดน้ำมีขนาดแผลเป็นเฉลี่ย 33.8-38.0 มม. และกลุ่มที่ได้รับสารสกัดเมทานอล มีขนาดแผลเป็นเฉลี่ย 35.2-41.8 มม. ในขณะที่กลุ่มควบคุมมีระยะเวลาในการสร้างเยื่อบุผิว 20.6 วัน และขนาดแผลเป็นเฉลี่ย 50.6 มม. และให้ผลดีกว่ากลุ่มควบคุมบวกที่ได้รับวิตามินอี 200 มก./กก. ซึ่งพบค่าเฉลี่ยในการสร้างเนื้อเยื่อบุผิวและขนาดแผลเป็นเท่ากับ 19.2 วัน และ 40.4 มม. ตามลำดับ เมื่อทำการศึกษาต่อในหนูแรทที่มีแผลรอยกรีด (incision wound) พบว่าสารสกัดน้ำและสารสกัดเมทานอลจากเปลือกกล้วยมีฤทธิ์รักษาแผลได้ใกล้เคียงกับวิตามินอี เมื่อประเมินผลโดยการตรวจวัดความแข็งแรงของแผลจากแรงประลัย มีค่าเท่ากับ 470.0, 377.3 และ 386.2 ก. ตามลำดับ ซึ่งมากกว่ากลุ่มควบคุม ที่พบแรงประลัยเท่ากับ 266.7 ก. และการประเมิน dead space ในบาดแผล ในกลุ่มที่ได้รับสารสกัดน้ำและสารสกัดเมทานอลจากเปลือกกล้วยดิบพบการสร้างเนื้อเยื่อ granulation และเนื้อเยื่อเกี่ยวพันรวมถึงเพิ่มระดับของhydroxyproline, hexuronic acid และ hexosamine อย่างมีนัยสำคัญซึ่งบ่งชี้ถึงกระบวนการหายของแผล นอกจากนี้ยังพบว่าระดับของ malondialdehyde สารก่ออนุมูลอิสระในแผลลดลงใกล้เคียงกับกลุ่มที่ได้รับวิตามินอี (51) การศึกษาผลของสารสกัดจากผงเปลือกกล้วยดิบในประเทศเม็กซิโก (ไม่ระบุ voucher specimen) เตรียมสารสกัดด้วยวิธีการแช่ผงเปลือกกล้วยดิบในเมทานอล เฮกเซน และคลอโรฟอร์ม อัตราส่วน 1:2โดยน้ำหนัก/ปริมาตรเป็นเวลา 3 ชม. จากนั้นนำสารสกัดมาทดสอบฤทธิ์รักษาแผลในหนูเม้าส์ที่มีบาดแผลรอยกรีดบริเวณด้านหลังลำตัว ขนาด 2 ซม. ในการทดสอบแบ่งหนูเม้าส์ออกเป็น 5 กลุ่ม ได้แก่ กลุ่มควบคุมลบซึ่งทาแผลด้วยน้ำเกลือ กลุ่มที่สองคือกลุ่มควบคุมบวกทาด้วยยา recoveron ขนาด 10 มก./กก. กลุ่มที่ 3 -5 ทาด้วยสารสกัดเมทานอล สารสกัดเฮกเซน และสารสกัดคลอโรฟอร์มจากเปลือกกล้วยดิบ ขนาด 100 มก./กก. ตามลำดับ วันละ 1 ครั้ง ติดต่อกัน 21 วัน ประเมินผลจากจากความคืบหน้าการหายของแผลและการตรวจสอบเนื้อเยื่อด้วยวิธีการย้อมสี hematoxylin และ eosin ผลพบว่าสารสกัดเมทานอลและสารสกัดเฮกเซนจากเปลือกกล้วยมีประสิทธิภาพในการรักษาแผล โดยสามารถสร้างชั้นเนื้อเยื่อบุผิว เพิ่มความหนาของชั้นเยื่อบุผิว และกระตุ้นการสร้างเส้นใยคอลลาเจนบริเวณบาดแผลอย่างมีนัยสำคัญ ได้เช่นเดียวกับกลุ่มควบคุมบวกที่ได้รับยา recoveronและสารสกัดเมทานอลให้ฤทธิ์ดีว่าสารสกัดเฮกเซนเนื่องจากสามารถเพิ่มการสร้างหลอดเลือดฝอยบริเวณบาดแผล ซึ่งจะช่วยให้การสร้างเนื้อเยื่อบุผิวแผลเกิดได้เร็วขึ้น และไม่พบฤทธิ์นี้ในสัตว์ทดลองที่ได้รับสารสกัดคลอโรฟอร์มในการศึกษานี้ระบุว่าฤทธิ์รักษาแผลของสารสกัดจากเปลือกกล้วยมีความเกี่ยวข้องกับปริมาณสารอัลคาลอยด์ แทนนิน ซาโปนิน และฟีนอล ซึ่งพบในปริมาณแตกต่างกันในแต่ละตัวทำละลาย (52) การศึกษาประสิทธิภาพในการรักษาแผลของเจลที่มีส่วนผสมของผงเปลือกกล้วยดิบในประเทศบราซิล (ไม่ระบุ voucher specimen) ทำการทดสอบในหนูแรทที่มีแผลรอยกรีดบริเวณด้านหลังลำตัว แบ่งกลุ่มการรักษาโดยใช้เจลปิดแผลที่มีส่วนผสมของผงเปลือกกล้วยดิบ ขนาด 2, 4 และ 10% เป็นเวลา 7 วัน ผลการศึกษาพบว่าขนาดของบาดแผลในกลุ่มที่ได้รับเจลเปลือกกล้วยความเข้มข้น 4% ลดลงอย่างมีนัยสำคัญเมื่อเทียบกับกลุ่มควบคุมที่ไม่ได้รับสารใดเลย โดยประสิทธิภาพในการรักษาแผลของเจลเปลือกกล้วยความเข้มข้น 4% ไม่มีความแตกต่างกับเจลเปลือกกล้วยความเข้มข้น 10% ผลจากการตรวจสอบด้วยการย้อมสีเนื้อเยื่อบริเวณบาดแผล ด้วยhematoxylin และ eosin พบว่ากลุ่มที่ได้รับเจลเปลือกกล้วยทั้ง 3 กลุ่ม เริ่มมีการสร้างเนื้อเยื่อบุผิว (re-epithelialization) และสร้างเส้นใยคอลลาเจนในผิวอย่างมีนัยสำคัญในวันที่ 3 ของการศึกษา และไม่พบผลนี้ในกลุ่มควบคุม ในการศึกษานี้พบการตายของสัตว์ทดลองในกลุ่มควบคุม กลุ่มเจลผงเปลือกกล้วยความเข้มข้น 2, 4 และ 10% เท่ากับ 3, 0, 2 และ 3 ตัวตามลำดับ อย่างไรก็ตามทางคณะผู้วิจัยไม่ได้ระบุถึงสาเหตุการตายของสัตว์ทดลองในแต่ละกลุ่ม (53)พบการศึกษาในประเทศบราซิลถึงฤทธิ์ของเจลผงเปลือกกล้วยดิบ (ไม่ระบุ voucher specimen) ต่อการรักษาแผลผ่าตัดในหนูแรท ทำการทดสอบในหนูแรท 60 ตัว โดยแบ่งออกเป็น 2 กลุ่ม คือกลุ่มควบคุมที่ได้รับ natrogel ที่ไม่มีส่วนผสมของผงเปลือกกล้วย และกลุ่มทดสอบที่ได้รับเจลผงเปลือกกล้วย 10% (เตรียมโดยผสมผงเปลือกกล้วยดิบ 10 ก. กับ natrogel 90 ก.) ขนาดวันละ 0.1 ก. ทาบริเวณแผลรอยกรีดบริเวณด้านหลังของของหนูแรท (ขนาดแผล 4x4 ซม.) เป็นเวลา 28 วัน ผลการศึกษาพบว่าในกลุ่มที่ได้รับเจลผงเปลือกกล้วยดิบมีการสร้างเส้นเลือดและเนื้อเยื่อเกี่ยวพัน รวมถึงพบการเจริญของเยื่อบุผิวและเซลล์ monocyte บริเวณบาดแผลอย่างมีนัยสำคัญเมื่อเทียบกับกลุ่มควบคุม ตั้งแต่วันที่ 14 ของการศึกษา เมื่อทำการสังเกตผลจนครบ 21 วัน พบว่าระดับของ polymorphonuclear cells ซึ่งแสดงถึงภาวะติดเชื้อมีค่าลดลงอย่างมีนัยสำคัญในกลุ่มที่ได้รับเจลผงเปลือกกล้วย การศึกษานี้แสดงให้เห็นว่าเจลที่ส่วนผสมของผงเปลือกกล้วยดิบ 10% มีฤทธิ์ต้านการอักเสบและกระตุ้นการหายของแผลได้ดีกว่าเจลที่ไม่มีส่วนผสมของเปลือกกล้วย (54)",
+                "pharmacological_ref": [
+                    "Padilla-Camberos E, Flores-Fernández JM, Canales-Aguirre AA, Barragán-Álvarez CP, Gutiérrez-Mercado Y, Lugo-Cervantes E. Wound healing and antioxidant capacity of Musa paradisiaca Linn. peel extracts. J Pharm Pharmacogn Res. 2016;4(5):165-73"
+                ]
+            }
+        ]
+    }
+}

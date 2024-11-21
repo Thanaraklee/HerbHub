@@ -1,0 +1,302 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Cymbopogon citratus",
+            "authorship": "Augustin Pyramus de Candolle",
+            "updated_by": "Otto Stapf",
+            "name_ref": "Bull. Misc. Inform. Kew 1906: 322 (1906)",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:396896-1"
+        },
+        "synonyms": [
+            {
+                "name": "Andropogon ceriferus",
+                "author": "Eduard Hackel 1850-1926",
+                "protologue": "Fl. Bras. 2(3): 281 (1883)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000846319"
+            },
+            {
+                "name": "Andropogon citratus",
+                "author": "Augustin Pyramus de Candolle 1778-1841",
+                "protologue": "Cat. Pl. Horti Monsp. : 78 (1813)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000846340"
+            },
+            {
+                "name": "Andropogon citriodorus",
+                "author": "René Louiche Desfontaines 1750-1833",
+                "protologue": "Tabl. École Bot. , ed. 2: 15 (1815)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000846343"
+            },
+            {
+                "name": "Andropogon nardus subsp. ceriferus",
+                "author": "Eduard Hackel 1850-1926",
+                "protologue": "Monogr. Phan. 6: 605 (1889)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000847079"
+            },
+            {
+                "name": "Andropogon nardus var. ceriferus",
+                "author": "Eduard Hackel 1850-1926",
+                "protologue": "Monogr. Phan. 6: 605 1889",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000847085"
+            },
+            {
+                "name": "Andropogon roxburghii",
+                "author": "Christian Gottfried Daniel Nees von Esenbeck 1776-1858",
+                "protologue": "Cat. Ind. Pl. : 100 (1834)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000847368"
+            },
+            {
+                "name": "Andropogon cerifer",
+                "author": "Eduard Hackel 1850-1926",
+                "protologue": "Fl. Bras. 2(3): 281 (1883)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001095774"
+            },
+            {
+                "name": "Cymbopogon nardus subvar. citratus",
+                "author": "Augustin Pyramus de Candolle 1778-1841",
+                "protologue": "Boissiera 9: 174 (1960)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200033219"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Poales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000483"
+            },
+            "genus": {
+                "genus_name": "Poaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000010376"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Cymbopogon+citratus&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "GERANIOL",
+                "activity_count": 35,
+                "plant_part": "Plant",
+                "low_parts_per_million": 10.0,
+                "high_parts_per_million": 36.0,
+                "standard_deviation": -0.44,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "ตะไคร้",
+            "common_name_th_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันทน์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้ สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "Lemon grass, Lapine",
+            "common_name_en_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันทน์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้ สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "local_name": {
+            "local_name": [
+                "คาหอม,",
+                "ไคร,",
+                "จะไคร,",
+                "เซิดเกรย,",
+                "ห่อวอตะโป่,",
+                "หัวสิงไค,",
+                "เหลอะเกรย"
+            ],
+            "local_name_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันทน์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้ สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "clinical_studies": [
+            {
+                "clinical": "ระงับกลิ่นปาก",
+                "clinical_content": "การศึกษาทางคลินิกเพื่อทดสอบประสิทธิภาพของน้ำยาบ้วนปากที่มีน้ำมันตะไคร้ (ไม่ระบุแหล่งที่มาและ voucher specimen) ความเข้มข้น 1% v/v เปรียบเทียบกับยาบ้วนปากหลอกในการลดกลิ่นปากตอนเช้าของอาสาสมัครสุขภาพดีจำนวน 20 คน โดยใช้วิธีสุ่มเลือก อาสาสมัครจะได้รับการประเมินสภาพช่องปากก่อนและหลังการใช้น้ำยาบ้วนปากโดยทันตแพทย์ แล้วนำน้ำยาบ้วนปากกลับไปใช้ต่อเป็นเวลา 7 วัน โดยบ้วนปากครั้งละ 15 มล. นาน 1 นาที วันละ 2 ครั้งเช้าและเย็น การประเมินกลิ่นปากทำโดยการวัดค่าไอระเหยของสารประกอบซัลเฟอร์ (volatile sulfur compounds; VSC) ของเช้าวันที่ 0, หลังทำการบ้วน 30 นาทีและ เช้าวันที่ 8 ผลศึกษาพบว่า กลิ่นปากของกลุ่มที่ได้รับน้ำยาบ้วนปากจากน้ำมันตะไคร้ที่เวลา 30 นาทีหลังบ้วนมีค่าเฉลี่ยของ VSC ต่ำกว่ากลุ่มที่ได้รับยาบ้วนปากหลอกอย่างมีนัยสำคัญทางสถิติ และเปรียบเทียบในกลุ่มเดียวกันพบว่า กลุ่มที่ได้รับน้ำยาบ้วนปากจากน้ำมันตะไคร้มีค่าเฉลี่ยของ VSC ก่อนบ้วนมากกว่าหลังบ้วนที่เวลา 30 นาทีและวันที่ 8 อย่างมีนัยสำคัญทางสถิติ จึงสรุปว่าน้ำมันตะไคร้ 1% v/v มีประสิทธิภาพในการยับยั้งกลิ่นปากตอนเช้า (64)",
+                "clinical_ref": [
+                    "ภัทรียา ทิมาบุตร, วัชรี คุณกิตติ, สุวิมล ทวีชัยศุภพงษ์, และคณะ. ประสิทธิภาพของน้ำยาบ้วนปากจากน้ำมันตะไคร้ในการลดกลิ่นปากตอนเช้าในอาสาสมัครปกติสุขภาพดี. Congress On Science And Technology Of Thailand, 34th, Bangkok Thailand, Dec 31 -Nov 2, 2008;O_O0017  422396"
+                ]
+            }
+        ],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "ฤทธิ์ต้านเชื้อราบนหนังศีรษะ",
+                "pharmacological_content": "การทดสอบฤทธิ์ต้านเชื้อรา Malassezia furfur ซึ่งเป็นสาเหตุสำคัญของรังแคบนหนังศีรษะ ของน้ำมันหอมระเหยของตะไคร้ (ไม่ระบุแหล่งที่มาและ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) โดยนำมาทดสอบฤทธิ์ต้านเชื้อราด้วยวิธี broth dilution พบว่าน้ำมันหอมระเหยของตะไคร้มีค่าความเข้มข้นต่ำสุดที่สามารถยับยั้งเชื้อรา (MIC) เท่ากับ 31.25 มคล./มล. (24)การทดสอบฤทธิ์ต้านเชื้อรา Malassezia furfur ซึ่งเป็นสาเหตุสำคัญของรังแคบนหนังศีรษะ ของน้ำมันหอมระเหยจากกาบใบของตะไคร้ (ไม่ระบุแหล่งที่มาและ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) โดยนำมาทดสอบฤทธิ์ต้านเชื้อราด้วยวิธี broth dilution พบว่าน้ำมันหอมระเหยของตะไคร้มีค่าความเข้มข้นต่ำสุดที่สามารถยับยั้งเชื้อรา (MIC) และค่าความเข้มข้นต่ำสุดที่สามารถฆ่าเชื้อรา (MFC) เท่ากันคือ 6.25 มคล./มล. ในขณะที่สารมาตรฐาน citral มีค่า MIC และ MFC เท่ากับ 3.13และ 12.50 มคล./มล. ตามลำดับ เมื่อนำมาพัฒนาเป็นผลิตภัณฑ์แชมพูซึ่งมีส่วนผสมของน้ำมันหอมระเหยของตะไคร้ 1-5% พบว่า แชมพูซึ่งมีส่วนผสมของน้ำมันหอมระเหยของตะไคร้ 2% มีลักษณะทางกายภาพและความคงตัวดีที่สุด และยังคงมีฤทธิ์ยับยั้งเชื้อ M. furfurโดยแชมพูที่เตรียมใหม่, แชมพูที่เก็บไว้ที่อุณหภูมิ 28-30 oC นาน 6 สัปดาห์, และแชมพูที่เก็บไว้ที่อุณหภูมิ 45 oC (สภาวะเร่ง) นาน 6 สัปดาห์ มีค่า MFC เท่ากับ 75.0, 75.0, และ 18.8 มคล./มล. ตามลำดับ ซึ่งคาดว่าฤทธิ์ต้านเชื้อราที่เพิ่มขึ้นในสภาวะเร่งนี้ อาจเกิดจากการสูญเสียน้ำของผลิตภัณฑ์ ทำให้น้ำมันหอมระเหยของตะไคร้มีความเข้มข้นเพิ่มขึ้น จึงทำให้ออกฤทธิ์ได้ดีขึ้น (25-26)2 การศึกษาเกี่ยวกับผิวกาย",
+                "pharmacological_ref": [
+                    "เกศิณี เลิศแสงสุวรรณ, วิภาวี รอดจันทร์. แชมพูสมุนไพรขจัดรังแค (Antidandruff herbal shampoo). กรุงเทพฯ : คณะเภสัชศาสตร์ มหาวิทยาลัยมหิดล, 2551."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ทำให้ผิวขาว",
+                "pharmacological_content": "การทดสอบฤทธิ์ยับยั้งการทำงานของเอนไซม์ tyrosinase ของสารสำคัญที่พบได้ในน้ำมันหอมระเหยของใบตะไคร้ ได้แก่ geranic acid (trans-และ cis-) และ geranial (Sigma-Aldrich Japan) ด้วยวิธี tyrosinase Inhibition assay พบว่าtrans-geranic acid, cis- geranic acid และ geranial มีค่าความเข้มข้นที่สามารถยับยั้งเอนไซม์ tyrosinase ได้ครึ่งหนึ่ง (IC50) เท่ากับ 0.14, 2.3, และ 1.62 มิลลิโมลาร์ ตามลำดับ ในขณะที่สารมาตรฐาน kojic acid มีค่า IC50 เท่ากับ 0.017 มิลลิโมลาร์ (27)การทดสอบฤทธิ์ยับยั้งการทำงานของเอนไซม์ tyrosinase ของน้ำมันหอมระเหยจากส่วนเหนือดินของตะไคร้จากจังหวัดเชียงใหม่ (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) นาน 3 ชม. และกำจัดน้ำออกด้วยanhydrous sodium sulfate นำมาทดสอบฤทธิ์ยับยั้งการทำงานของเอนไซม์ tyrosinase ด้วยวิธีdopachrome method ใน 96-well microtiter plate โดยใช้น้ำมันหอมระเหยของตะไคร้ 40 มคล./หลุม(ไม่ระบุความเข้มข้น) พบว่าน้ำมันตะไคร้สามารถยับยั้งเอนไซม์ tyrosinase ได้ 69±4% (29) และพบว่าน้ำมันตะไคร้มีค่า IC50เท่ากับ 0.5 มล./มล. (28) การวิเคราะห์ทางเคมีพบว่าสารที่เป็นส่วนประกอบหลักในน้ำมันหอมระเหยของตะไคร้คือสาร geranial และ neral (28, 29) การทดสอบฤทธิ์ยับยั้งการทำงานของเอนไซม์ tyrosinase ของน้ำมันหอมระเหยของใบตะไคร้จากสาธารณรัฐมอริเชียส (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) นาน 3 ชม. และกำจัดน้ำออกด้วยanhydrous magnesium sulfate นำมาทดสอบฤทธิ์ยับยั้งการทำงานของเอนไซม์ tyrosinase ด้วยวิธี tyrosinase Inhibition assay พบว่าน้ำมันหอมระเหยของตะไคร้มีค่า IC50เท่ากับ 132.16 มคก./มล. ในขณะที่สารมาตรฐาน kojic acid มีค่า IC50 เท่ากับ 2.28 มคก./มล. (30)",
+                "pharmacological_ref": [
+                    "Masuda T, Odaka Y, Ogawa N, Nakamoto K, Kuninaga H. Identification of geranic acid, a tyrosinase inhibitor in lemongrass (Cymbopogon citratus). J Agric Food Chem. 2008; 23;56(2):597-601. doi: 10.1021/jf072893l."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านสิวและเชื้อแบคทีเรีย",
+                "pharmacological_content": "การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากตะไคร้ของ บริษัท อุตสาหกรรมเครื่องหอมไทย-จีน จำกัดซึ่งสกัดด้วยวิธีกลั่นด้วยไอน้ำ (steam distillation) จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อPropionibacterium acnes DMST 14916การทดสอบด้วยวิธี disc diffusion method โดยใช้น้ำมันหอมระเหยความเข้มข้น 0.25% v/v, 0.50% v/v, 1.00% v/v, และ 2.00% v/v พบว่า มีค่าเส้นผ่านศูนย์กลางของบริเวณที่มีการยับยั้งเชื้อ (inhibition zone) เท่ากับ 9.2, 10.5, 13.2, และ 14.0 มม. ตามลำดับ และการทดสอบด้วยวิธีbroth microdilution method พบว่าน้ำมันหอมระเหยจากตะไคร้มีค่าความเข้มข้นต่ำสุดที่สามารถยับยั้งการเจริญเติบโตของเชื้อได้ (minimum inhibitory concentration; MIC) และค่าความเข้มข้นต่ำสุดที่สามารถฆ่าเชื้อได้ (minimum bactericidal concentration; MBC) เท่ากันคือ 0.6 มคล./มล. (34)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้ของบริษัท อุตสาหกรรมเครื่องหอมไทย-จีน จำกัดโดยทดสอบกับเชื้อที่เป็นสาเหตุของสิว ได้แก่ P. acnes DMST 14916 และ Staphylococcus epidermidis TISTR 518 เมื่อทำการทดสอบด้วยวิธี disc diffusion method โดยใช้น้ำมันหอมระเหยขนาด 15 มคล. พบว่า มีinhibition zone เท่ากับ 21.47 และ 17.80 มม. ตามลำดับ และเมื่อนำน้ำมันหอมระเหยจากใบตะไคร้และสาร citral (Sigma-Aldrich, Inc. St. Louis. Mo, USA) มาทดสอบด้วยวิธีbroth dilution method พบว่าน้ำมันหอมระเหยจากใบตะไคร้มีค่าMIC ต่อเชื้อทั้ง 2 ชนิดเท่ากับ 6.25 มก./มล. ในขณะที่สาร citral มีค่า MIC ต่อ P. acnes และ S. epidermidisเท่ากับ 0.125 และ 0.25 มก./มล. ตามลำดับ(31)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากตะไคร้ (Flora Perpétua, Tremsbüttel, Germany) โดยใช้น้ำมันหอมระเหยขนาด 10 มคล.มาทดสอบกับเชื้อ Staphylococcus aureus NCIB 6571 ด้วยวิธี antimicrobial assay พบว่า มี inhibition zone เท่ากับ 29.2 มม.(32)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยใบตะไคร้จากสาธารณรัฐประชาธิปไตยคองโก(ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) นาน 7 ชม. ด้วยอุปกรณ์Clevenger-type และกำจัดน้ำออกด้วย anhydrous sodium sulfateจากนั้นนำมาทดสอบกับเชื้อที่แยกได้จากฝีหนอง (abscess) ได้แก่ Bacillus subtilis, Klebsiella oxytoca, Klebsiella pneumonia, และ S. aureus โดยใช้วิธี diffusion method และใช้น้ำมันหอมระเหยขนาด 5 มคล.พบว่า มี inhibition zone เท่ากับ 12, 14, 16, และ 15 มม. ตามลำดับ ในขณะที่ยามาตรฐาน tetracyclinehydrochloride ความเข้มข้น 20 มคก./ล.มีinhibition zone เท่ากับ22, 28, 25, และ <10 มม. ตามลำดับ (33)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้จากประเทศไนจีเรีย (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) นาน 4 ชม. ด้วยอุปกรณ์ Clevenger-type และกำจัดน้ำออกด้วย anhydrous sodium sulfate จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อS. aureusด้วยวิธี agar disc diffusion method โดยจุ่ม disc ขนาด 7 มม. ลงในน้ำมันหอมระเหยความเข้มข้น 50%w/v และทิ้งให้ disc แห้งก่อนนำไปทดสอบ พบว่า มี inhibition zone เท่ากับ 14 มม. ในขณะที่ยามาตรฐาน gentamicin ความเข้มข้น 10 มคก./ล.และ amoxicillin ความเข้มข้น 15 มคก./ล. มี inhibition zone เท่ากับ 17 และ 25 มม. ตามลำดับ (35)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้ของ บริษัท อุตสาหกรรมเครื่องหอมไทย-จีน จำกัดโดยนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureus พบว่า มีค่า MIC และค่า MBC เท่ากันคือ 0.54 มคล./มล. (36) การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้จากประเทศอินเดีย (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) นาน 3 ชม. ด้วยอุปกรณ์ Clevenger-type และกำจัดน้ำออกด้วยanhydrous sodium sulfate จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureusการทดสอบด้วยวิธี disc diffusion methodโดยใช้น้ำมันหอมระเหยขนาด 5 มคล.พบว่า มี inhibition zone เท่ากับ 40.33 มม. และการทดสอบด้วยวิธี agar dilution method พบว่ามีค่า MIC และค่า MBC เท่ากับ 8 และ ≤16 มคล./มล. ตามลำดับ (37)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากตะไคร้ (ไม่ระบุแหล่งที่มาและ voucher specimen) ซึ่งเตรียมรูปแบบผลิตภัณฑ์ทำความสะอาดโดยใช้น้ำมันหอมระเหย และน้ำมันหอมระเหยที่เจือจางในอัตราส่วน 1:1, 1:2, 1:4 เปรียบเทียบผลกับผลิตภัณฑ์ทำความสะอาดมาตรฐาน Lysol และ Lysol ที่เจือจางในขนาด 12 มล. ในน้ำ 4 ล. จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureusด้วยวิธีdisc diffusion method พบว่าน้ำมันหอมระเหยจากตะไคร้,น้ำมันหอมระเหยที่เจือจางในอัตราส่วน 1:1, 1:2, 1:4,Lysol, และ Lysol ที่เจือจาง มี inhibition zone เท่ากับ 4.2, 2.6, 1.4, 0.8, 6.4, และ 4.6 ซม. ตามลำดับ (38)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้จากประเทศซูดาน (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) นาน 4ชม. ด้วยอุปกรณ์ Clevenger-type และกำจัดน้ำออกด้วย anhydrous sodium sulfate จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureus ด้วยวิธี cup-plate agar diffusion methodพบว่ามี inhibition zone เท่ากับ 38 มม. (39)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากตะไคร้ (Absolute Aromas, Covilhã, Portugal)ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) โดยนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureus ATCC 25923 และ methicillin-resistant S. aureus (MRSA 10/08)ด้วยวิธี disc diffusion assay โดยใช้น้ำมันหอมระเหยขนาด 10 มคล.พบว่ามีinhibition zone เท่ากับ 45.90 และ 50.88 มม. ตามลำดับ (40)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้ประเทศเอกวาดอร์ (voucher specimen:HERUTEQ1056) ซึ่งสกัดด้วยวิธีกลั่นด้วยไอน้ำ (steam distillation) นาน 6 ชม.จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureus ATCC 25923 พบว่า มีค่า MIC เท่ากับ 0.005 มคล./มล. (41)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากตะไคร้(ไม่ระบุแหล่งที่มาและ voucher specimen) โดยทดสอบกับเชื้อ S. aureus การทดสอบด้วยวิธี agar well diffusion method โดยใช้น้ำมันหอมระเหยความเข้มข้น50 มคล. ใน ethanol 100 มคล. พบว่า มีinhibition zone เท่ากับ 9.98 มม. ในขณะที่ยามตรฐาน chloramphenicol ขนาด 100 มคก.มีค่าinhibition zone เท่ากับ 20.27 มม. และการทดสอบด้วยวิธี broth dilution method พบว่าน้ำมันหอมระเหยจากตะไคร้มีค่า MIC และค่า MBC เท่ากันคือ 1 มก./มล. ในขณะที่ยามาตรฐาน chloramphenicol มีค่า MIC และ MBC เท่ากับ 0.25 มก./มล. ตามลำดับ (42)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้จากประเทศบราซิล (voucher specimen:UVS530) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (water distillation) ด้วยอุปกรณ์ Clevenger-typeจากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureus และ Staphylococcus non-aureus การทดสอบด้วยวิธีdisk diffusion test โดยใช้น้ำมันหอมระเหยขนาด 5 มคล.พบว่า มีค่าเฉลี่ยเส้นผ่านศูนย์กลางของบริเวณที่มีการยับยั้งเชื้อ (halo diameter) เท่ากับ 31.4 และ 30.47 มม. ตามลำดับ ในขณะที่ยามาตรฐาน vancomycin มีค่า halo diameter เท่ากับ 21.52 และ 21.1 มม. ตามลำดับ และการทดสอบด้วยวิธีmicrodilution method พบว่าน้ำมันหอมระเหยจากใบตะไคร้ขนาด 0.625 มก./มล. สามารถฆ่าเชื้อทดสอบทุกชนิดได้ 100% และที่ความเข้มข้น 0.312 มก./มล. สามารถฆ่าเชื้อ S. aureus ได้ 99.06% และฆ่าเชื้อ Staphylococcus non-aureus ได้ 100% การทดสอบเพิ่มเติมในหนูแรทที่ถูกเหนี่ยวนำให้เกิดแผลติดเชื้อโดยทำให้เกิดบาดแผลขนาดเส้นผ่านศูนย์กลาง 2.5 ซม. บริเวณหลังและใส่เชื้อ S. aureus DRJ080 ลงไปในแผลขนาด0.5 มล. (มีเชื้อ 1.0 x 108CFU/มล.) ปิดแผลด้วยTegaderm® transparent film 48 ชม. จากนั้นแบ่งหนูเป็น 3 กลุ่ม กลุ่มที่ 1 ใส่แผลด้วย carbopol polymer gel 1 มล. กลุ่มที่ 2 ใส่แผลด้วยยามาตรฐาน 1% vancomycin ใน carbopol polymer gel ขนาด 1 มล. และกลุ่มที่ 3 ใส่แผลด้วยน้ำมันหอมระเหยจากใบตะไคร้ความเข้มข้น 1% ใน carbopol polymer gel ขนาด 1 มล. ทำการศึกษานาน 11 วัน พบว่าประสิทธิภาพในการกำจัดเชื้อเรียงลำดับจากมากไปน้อยดังนี้ ยามาตรฐานvancomycin>น้ำมันหอมระเหยจากใบตะไคร้>กลุ่มควบคุมที่ได้รับ carbopol polymer gel(43)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยของตะไคร้(ไม่ระบุส่วนที่ใช้ แหล่งที่มา และ voucher specimen) ซึ่งสกัดโดยการนำตะไคร้มาแช่ในน้ำ และต้มจนเดือด เก็บส่วนของน้ำมันที่ออกมากับไอน้ำ แยกน้ำออก และนำมาทำให้แห้งด้วยเครื่อง rotavaporจากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อก่อโรคบนผิวหนัง ได้แก่S. aureus, methicillin-resistant S. aureus (MRSA), และ B. subtilisการทดสอบด้วยวิธี disc volatilization assayโดยใช้น้ำมันหอมระเหยขนาด 15 มคล. พบว่า มี inhibition zone เท่ากับ 36.00, 36.00, และ 28.33 มม. ตามลำดับ ในขณะที่ยามาตรฐาน erythromycin ความเข้มข้น 10 มก./มล. มีค่าinhibition zone เท่ากับ 37, ไม่ยับยั้ง, และ 35.66 มม. ตามลำดับการทดสอบด้วยวิธี disc-diffusion assay พบว่าน้ำมันหอมระเหยความเข้มข้น 2.5% สามารถฆ่าเชื้อทดสอบทุกชนิด (44)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้จากสาธารณรัฐเบนิน (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) ด้วยอุปกรณ์ Clevenger-typeจากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureus ATCC 29213 การทดสอบด้วยวิธี disc method โดยใช้น้ำมันหอมระเหยความเข้มข้น 20 มก./มล. ขนาด 30มคล.พบว่า มี inhibition zone เท่ากับ 15.5 มม. และการทดสอบด้วยวิธีmacro dilution method พบว่ามีค่า MIC เท่ากับ 0.625 มก./มล. (45)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้จากสาธารณรัฐคองโก (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) และกำจัดน้ำออกด้วย anhydrous sodium sulfate จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureus ด้วยวิธี Mueller Hinton diffusion method พบว่ามี inhibition zone เท่ากับ 7.3 มม. (46)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้จากประเทศบราซิล (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) นาน 3 ชม. ด้วยอุปกรณ์ Clevenger-type และกำจัดน้ำออกด้วย anhydrous sodium sulfate จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureus (ATCC 25923) การทดสอบด้วยวิธี disc diffusion technique โดยใช้น้ำมันหอมระเหยขนาด 50 มคล.พบว่า มี inhibition zone เท่ากับ 25 มม. และการทดสอบด้วยวิธี Mueller Hinton broth dilution technique พบว่า มีค่า MIC และ MBC เท่ากับ 25 และ 200 มคก./มล. ตามลำดับ (47)การทดสอบฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันหอมระเหยจากใบตะไคร้จากประเทศอินเดีย (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยไอน้ำ (steam distillation) จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อ S. aureus (MTCC 3160)ด้วยวิธี agar well diffusion method โดยใช้น้ำมันหอมระเหยขนาด 150 มคล.พบว่ามีinhibition zone เท่ากับ 32 มม. ในขณะที่ยามาตรฐาน azithromycin ความเข้มข้น 40 มก./มล.ขนาด 150 มคล. พบว่ามีค่า inhibition zone เท่ากับ 29 มม. (48)",
+                "pharmacological_ref": [
+                    "Lertsatitthanakorn P, Taweechaisupapong S, Aromdee C, Khunkitti W. In vitro bioactivities of essential oils used for acne control. Int J Aromather. 2006;16(1):43-9. doi: 10.1016/j.ijat.2006.01.006."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านอนุมูลอิสระ",
+                "pharmacological_content": "การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากตะไคร้ของ บริษัท อุตสาหกรรมเครื่องหอมไทย-จีน จำกัดซึ่งสกัดด้วยวิธีกลั่นด้วยไอน้ำ (steam distillation) จากนั้นนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี 2,2′-diphenyl-1-picrylhydrazyl (DPPH) assay พบว่า มีค่าความเข้มข้นที่สามารถยับยั้งอนุมูลอิสระได้ครึ่งหนึ่ง (IC50) เท่ากับ 27.0 ± 0.7 มคล./มล. ในขณะที่สารมาตรฐาน ascorbic acid, α-tocopherol และ butylated hydroxyl toluene (BHT) มีค่า IC50เท่ากับ7.9 ± 0.2, 16.7 ± 1.0, และ 31.4 ± 0.7 มคก./มล. ตามลำดับ (34) การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากส่วนเหนือดินของตะไคร้ (ไม่ระบุแหล่งที่มาและ voucher specimen) ซึ่งสกัดได้ด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า มีค่า IC50เท่ากับ 26.773 มก./มล. ในขณะที่สารมาตรฐาน quercetin, trolox, และkaempferal มีค่า IC50เท่ากับ 5.9, 10.5, และ 11.3 มคก./มล. ตามลำดับ (49)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากใบตะไคร้ของ บริษัท อุตสาหกรรมเครื่องหอมไทย-จีน จำกัด โดยทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า มีค่า IC50เท่ากับ 3.33 มคล./มล. ในขณะที่สารมาตรฐาน ascorbic acid, vitamin E acetate และ BHT มีค่า IC50เท่ากับ 0.27, 10.83, และ 1.16 มคก./มล. ตามลำดับ (36)  การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากส่วนเหนือดินของตะไคร้จากประเทศอียิปต์ (ไม่ระบุ voucher specimen) ซึ่งสกัดได้ด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) โดยใช้อุปกรณ์ Clevenger-type นาน 3 ชม. และกำจัดน้ำออกด้วย anhydrous sodium sulfate 0.5 ก. นำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธีต่างๆ ดังนี้ การทดสอบด้วยวิธี DPPH assay พบว่ามีค่า IC50เท่ากับ 199.63 ก./ล. (สารมาตรฐาน ascorbic acid และ BHT มีค่า IC50เท่ากับ 0.42 และ 0.53 ก./ล. ตามลำดับ) เมื่อทดสอบด้วยวิธี Ferric Reducing Antioxidant Capacity (FRAC) พบว่าที่ความเข้มข้น 50 ก./ล. มีฤทธิ์ต้านอนุมูลอิสระเทียบเท่ากับสารมาตรฐาน trolox 2.95 มิลลิโมล/ล. (สารมาตรฐานascorbic acid และBHT มีค่า 4.07 และ 3.29 มิลลิโมล/ล. ตามลำดับ) เมื่อทดสอบด้วยวิธี thiobarbituric acid reactive substance (TBARS) assay พบว่ามีค่า IC50เท่ากับ 3.99 ก./ล. (สารมาตรฐานascorbic acid และBHT มีค่า3.70 และ 0.001 ก./ล. ตามลำดับ) เมื่อทดสอบด้วยวิธี Ferrous Ion Chelating (FIC) assay พบว่ามีค่า IC50เท่ากับ 0.004 ก./ล.  (สารมาตรฐานascorbic acid และBHT มีค่า 79.51 และ 138.42 ก./ล. ตามลำดับ) และเมื่อทดสอบด้วยวิธี Rancimat assay พบว่าที่ความเข้มข้น 50 ก./ล. มีค่าantioxidant activity index (AAI) เท่ากับ 0.23 (สารมาตรฐานascorbic acid และBHT มีค่า AAI เท่ากับ 1.44และ 2.42 ตามลำดับ) (50)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากกาบใบและใบของตะไคร้ (ไม่ระบุแหล่งที่มาและ voucher specimen) ซึ่งสกัดได้ด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) โดยใช้อุปกรณ์ Clevenger-type ใช้ไดคลอโรมีเทนช่วยในการแยกน้ำมันหอมระเหยออกจากชั้นน้ำ และกำจัดน้ำออกด้วย anhydrous sodium sulfate เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าน้ำมันหอมระเหยจากกาบใบและใบของตะไคร้ที่ความเข้มข้น 50% สามารถยับยั้งอนุมูลอิสระได้ 89.5% และ 78.9% ตามลำดับ (51)การทดสอบฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยของตะไคร้จากประเทศอินเดีย (ไม่ระบุ voucher specimen) ซึ่งนำมาสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) จากนั้นนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี lipophilic oxygen radical absorbance capacity (L-ORAC) พบว่าน้ำมันหอมระเหยของตะไคร้มีฤทธิ์ต้านอนุมูลอิสระที่ได้โดยน้ำมันหอมระเหยของตะไคร้ 1 กรัม ออกฤทธ์ต้านอนุมูลอิสระเทียบเท่ากับสารมาตรฐาน trolox >0.02 โมล (moles of trolox equivalent per gram; mol of TE/g) (52)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยของใบตะไคร้จากจังหวัดขอนแก่น (ไม่ระบุ voucher specimen) โดยนำใบตะไคร้มาผึ่งให้แห้งที่อุณหภูมิ ~30 oC นาน 3 วัน บดให้ละเอียด นำมาสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) นาน 3 ชม. และกำจัดน้ำออกด้วย anhydrous sodium sulfate เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าน้ำมันหอมระเหยของตะไคร้มีค่า IC50เท่ากับ 4.73 มคล./มล. ในขณะที่สารมาตรฐาน α-tocopherol และeugenol มีค่า IC506.20 x 10-3 และ 1.34 มคล./มล. ตามลำดับ (53)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากใบตะไคร้ในประเทศเม็กซิโก (ไม่ระบุ voucher specimen) โดยนำใบตะไคร้สดมาผึ่งให้แห้งที่อุณหภูมิห้องและพลิกกลับด้านวันละ 3 ครั้ง นาน 1 สัปดาห์ จากนั้นนำสกัดโดยใช้คลื่นไมโครเวฟช่วย (microwave assisted extraction) โดยนำใบตะไคร้แห้ง 50 ก. มาบด ใส่ในขวดก้นกลมขนาด 500 มล. เติมน้ำกลั่น 200 มล. นำไปกลั่น 30 นาที โดยชุดกลั่นจะถูกติดตั้งอยู่ในเตาไมโครเวฟ Daewoo DC model KOR 6LYB กำลังไฟ 600 W จากนั้นนำน้ำมันหอมระเหยที่ได้มาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า น้ำมันหอมระเหยจากใบตะไคร้ 100 มล. มีฤทธิ์ต้านอนุมูลอิสระเทียบเท่ากับสารมาตรฐาน trolox 44.06 มก. (18)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากกาบใบของตะไคร้จากจังหวัดเชียงใหม่ (ไม่ระบุ voucher specimen) ซึ่งสกัดได้ด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) โดยใช้อุปกรณ์ Clevenger-type นาน 5 ชม. และกำจัดน้ำออกด้วย anhydrous sodium sulfate เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่ามีค่า IC50เท่ากับ 26.7727 มก./มล. ในขณะที่สารมาตรฐาน quercetin, trolox, kaempferol, และ thyme oil มีค่า IC50เท่ากับ 0.0059, 0.0105, 0.0113, และ 1.0002 มก./มล. ตามลำดับ และเมื่อนำมาทดสอบด้วยวิธี thiobarbituric acid reactive substance (TBARS) assay พบว่ามีค่า IC50เท่ากับ1.0665 มก./มล. ในขณะที่สารมาตรฐาน quercetin, trolox, kaempferol, และ thyme oil มีค่า IC50เท่ากับ 38.3, 401.4, 121.2, และ 230.3 มคก./มล. ตามลำดับ (54)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากใบตะไคร้จากประเทศอินเดีย (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) นาน 3 ชม. ด้วยอุปกรณ์ Clevenger-type และกำจัดน้ำออกด้วยanhydrous sodium sulfate จากนั้นนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay  และ 2,2-azinobis (3-ethylbenzothiazoline-6-sulfonic acid) (ABTS)assay พบว่า มีค่า IC50เท่ากับ 17.92 และ 17.21 มคล./มล. ตามลำดับ (37)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากตะไคร้ (Absolute Aromas, Covilhã, Portugal)ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า มีค่า IC50เท่ากับ 0.03 %v/v ในขณะที่สารมาตรฐาน gallic acid มีค่า IC50เท่ากับ 0.22 %w/v และการทดสอบด้วยβ-carotene bleaching test พบว่า มีค่า IC50เท่ากับ 2.27 %v/v ในขณะที่สารมาตรฐาน BHTมีค่า IC50เท่ากับ 3.58 %w/v (40)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากส่วนกาบใบของตะไคร้จากประเทศอินโดนีเซีย (ไม่ระบุ voucher specimen) โดยนำตะไคร้มาผึ่งให้แห้งที่อุณหภูมิห้อง นาน 7 วัน จากนั้นนำมาสกัดได้ด้วยวิธีกลั่นด้วยไอน้ำ โดยใช้อุปกรณ์ Karlsruhe นำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า มีค่า IC50เท่ากับ 15,914 ppm ในขณะที่สารมาตรฐาน ascorbic acid มีค่า IC50เท่ากับ 5.8 ppm (55)การศึกษาเปรียบเทียบฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากส่วนใบ กาบใบ และส่วนเหนือดิน (ใบ+กาบใบ) ของตะไคร้อายุ 6 เดือน จากประเทศอินโดนีเซีย (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วย2 วิธี คือ วิธีที่ 1 steam-water distillation (indirect distillation) และวิธีที่ 2 water distillation(direct distillation) ซึ่งจะใช้พืชสดน้ำหนัก 5 กก. ใช้เวลาในการสกัด 4 ชม. อุณหภูมิ 100 oC จากนั้นนำน้ำมันหอมระเหยที่ได้ มาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า เมื่อสกัดด้วยวิธี steam-water distillation น้ำมันหอมระเหยจากส่วนใบ กาบใบ และส่วนเหนือดินสามารถยับยั้งอนุมูลอิสระได้ 60.8%, 72.3%, และ 48.0% ตามลำดับ และเมื่อสกัดด้วยวิธี water distillation น้ำมันหอมระเหยจากส่วนใบ กาบใบ และส่วนเหนือดินสามารถยับยั้งอนุมูลอิสระได้ 57.3%,51.0%, และ 70.1% ตามลำดับ(56)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยของตะไคร้จากประเทศจีน (ไม่ระบุ voucher specimen) โดยนำพืชสด 10 กก. มาทำให้แห้ง ซึ่งจะได้พืชแห้ง 8.8 กก. แช่ในน้ำ 100 กก. เก็บไว้ที่อุณหภูมิห้อง 24 ชม. นำไปใส่ในชุดกลั่น ต้มให้เดือดที่อุณหภูมิ 100 oC นาน 3 ชม. จะได้ส่วนที่กลั่นได้ ประมาณ 1.5 ล. ถ่ายใส่ขวดรูปชมพู่ขนาด 5 ล. แยกส่วนน้ำมันหอมระเหยออกมาด้วยการสกัดด้วย petroleum ether 1.5 ล. 2 ครั้ง รวมส่วนของ petroleum ether ใส่ลงขวดรูปชมพู่ขนาด 5 ล.และกำจัดน้ำออกด้วย anhydrous sodium sulfate ซึ่งจะได้น้ำมันหอมระเหย C.EO นำ C.EO มาเตรียมให้อยู่ในรูปของ microemulsion ซึ่งจะได้น้ำมันหอมระเหย M-EOจากนั้นนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธีต่าง ๆ ดังนี้การทดสอบด้วยวิธี oxygen radical absorbance capacity (ORAC) assay พบว่า C.EO และ M-EO ขนาด 1 ก. มีฤทธิ์ต้านอนุมูลอิสระเทียบเท่าสารมาตรฐาน Trolox 582 และ 857 ไมโครโมล ตามลำดับ การทดสอบด้วยวิธี peroxyl radical scavenging capacity (PSC) assay พบว่า C.EO และ M-EO ขนาด 1 ก. มีฤทธิ์ต้านอนุมูลอิสระเทียบเท่าสารมาตรฐาน ascorbic acid 761 และ 2,161 ไมโครโมล ตามลำดับและการทดสอบด้วยวิธี cellular antioxidant activity (CAA) assayในเซลล์ตับชนิด HepG2 พบว่า M-EO ขนาด 1 มก. มีฤทธิ์ต้านอนุมูลอิสระเทียบเท่าสารมาตรฐาน quercetin 151 ไมโครโมล ส่วน C.EO ไม่มีผลการทดสอบเนื่องจากละลายในตัวทำละลายได้น้อย ซึ่งจะเห็นว่า น้ำมันหอมระเหยของตะไคร้ที่เตรียมในรูปแบบของ microemulsion มีฤทธิ์ต้านอนุมูลอิสระดีกว่าน้ำมันหอมระเหยของตะไคร้ในรูปแบบปกติ (57)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยของใบตะไคร้จากประเทศบราซิล (ไม่ระบุ voucher specimen) ซึ่งสกัดได้ด้วยวิธีกลั่นด้วยไอน้ำ (steam distillation) และนำมาเตรียมให้อยู่ในรูปของ microencapsulation ซึ่งมีน้ำมันหอมระเหยของตะไคร้ 5% (M1), 10% (M2), และ 15% (M3) (การเตรียมในรูปแบบของ microencapsulation จะช่วยให้น้ำมันหอมระเหยทนต่อความร้อนและภาวะออกซิเดชันได้มากขึ้น รวมทั้งช่วยลดการระเหยและการปนเปื้อนจากสิ่งแวดล้อม) จากนั้นนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าน้ำมันหอมระเหยของใบตะไคร้, M1, M2, และM3 ขนาด 1 ก. มีฤทธิ์ต้านอนุมูลอิสระเทียบเท่าสารมาตรฐาน Trolox 22.16, 2.46, 7.74, และ 12.10 มก. ตามลำดับ (58)การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันหอมระเหยจากส่วนเหนือดินของตะไคร้จากประเทศจีน (voucher specimen: 2018-100A) ซึ่งสกัดโดยวิธีกลั่นด้วยไอน้ำ (steam distillation) นาน 3-4 ชม. และกำจัดน้ำออกด้วย anhydrous sodium sulfate จากนั้นนำไปทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าน้ำมันหอมระเหยของตะไคร้มีค่า IC50เท่ากับ 0.101% ในขณะที่สารมาตรฐานวิตามินซี มีค่า IC50เท่ากับ 0.010% (59)",
+                "pharmacological_ref": [
+                    "Lertsatitthanakorn P, Taweechaisupapong S, Aromdee C, Khunkitti W. In vitro bioactivities of essential oils used for acne control. Int J Aromather. 2006;16(1):43-9. doi: 10.1016/j.ijat.2006.01.006."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านการอักเสบ",
+                "pharmacological_content": "การทดสอบฤทธิ์ต้านการอักเสบของน้ำมันหอมระเหยจากตะไคร้ (บริษัท Sanoflore ประเทศฝรั่งเศส, ไม่ระบุ voucher specimen) ด้วยวิธี Neutrophil preparation and adherence assay ซึ่งเซลล์เม็ดเลือดขาวชนิด neutrophil จะถูกกระตุ้นให้เกิดการอักเสบด้วย tumor necrosis factor-alpha (TNF-α), lipopolysaccharide (LPS), และ phorbol 12-myristate 13-acetate (PMA) โดยใช้น้ำมันหอมระเหยของตะไคร้ที่เจือจาง 0.05%, 0.025%, 0.0125%, และ 0.00625% พบว่าเมื่อถูกกระตุ้นด้วย TNF-αน้ำมันหอมระเหยจากตะไคร้สามารถยับยั้ง neutrophil adhesion ได้ดีมากที่ความเข้นข้น 0.00625% และยับยั้งได้เพิ่มขึ้นเล็กน้อยที่ความเข้นข้น 0.025% และคงที่ (อิ่มตัว) ที่ความเข้มข้น 0.05%โดยที่ความเข้นข้น 0.00625% สามารถยับยั้งได้>50% จึงสรุปว่า มีค่า IC50 <0.00625% เช่นเดียวกับการกระตุ้นด้วย LPS ซึ่งพบว่ามีค่า IC50<0.00625% ส่วนการกระตุ้นด้วย PMA พบว่ามีค่า IC50เท่ากับ 0.018% และเมื่อนำสาร citral ซึ่งเป็นสารสำคัญในน้ำมันหอมระเหยจากตะไคร้มาทดสอบก็พบว่า มีค่า IC50<0.00625% เมื่อกระตุ้นด้วย TNF-αแสดงให้เห็นว่าน้ำมันหอมระเหยจากตะไคร้และสาร citral มีฤทธิ์ต้านการอักเสบที่ดี (60) การทดสอบฤทธิ์ต้านการอักเสบของน้ำมันหอมระเหยของตะไคร้จากประเทศอินเดีย (ไม่ระบุ voucher specimen) ซึ่งนำมาสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) จากนั้นนำมาทดสอบฤทธิ์ต้านการอักเสบในเซลล์แมคโครฟาจชนิด RAW264.7 ที่ถูกเหนี่ยวนำด้วย LPS ขนาด 100 นาโนกรัม/มล. โดยใช้น้ำมันหอมระเหยความเข้มข้น 100 มคก./มล. พบว่าน้ำมันหอมระเหยของตะไคร้สามารถยับยั้งการสร้าง TNF-α จากเซลล์ได้ >50% จึงนำน้ำมันตะไคร้มาแยกองค์ประกอบด้วยวิธี GC-MS ซึ่งพบว่ามีสารที่เป็นองค์ประกอบหลัก 6 ชนิด ได้แก่ คือ citral (ประกอบด้วย geranial 40.16% และ neral 34.24%), geraniol, geranyl acetate, linalool และ camphene จากนั้นจึงนำมาทดสอบฤทธิ์อีกครั้ง ซึ่งพบว่าน้ำมันตะไคร้, สาร citral และสารgeranialสามารถยับยั้งการสร้าง TNF-αได้ดี โดยยับยั้งได้มากกว่า 50% จึงนำสารทั้ง 3 ชนิดมาทดสอบฤทธิ์ยับยั้งกระบวนการ nuclear translocation ของ nuclear factor-κB (NF-κB) ในเซลล์ RAW264.7 ซึ่งถูกเหนี่ยวนำด้วย LPS โดยใช้สารทดสอบความเข้มข้น 10 มคล./มล. พบว่าสาร citral และสาร geranial ออกฤทธิ์ได้ดี โดยสามารถยับยั้งได้ 40 และ 52% ตามลำดับ ส่วนน้ำมันหอมระเหยของตะไคร้มีฤทธิ์ใกล้เคียงกับสาร citral และสาร geranial โดยประสิทธิภาพเรียงลำดับจากมากไปน้อยดังนี้ สาร geranial >น้ำมันหอมระเหยของตะไคร้ >สาร citral และการทดสอบฤทธิ์ต้านการอักเสบในหนูเม้าส์ด้วยวิธี Gschwendt’s method โดยเตรียมสารทดสอบด้วยการละลายน้ำมันหอมระเหยของตะไคร้, สาร citral, และสาร geranial ขนาด 500 มคก. ในacetone 20 มคล. นำไปทาที่หูด้านในของหนูทิ้งไว้ 30 นาที จากนั้นจึงเหนี่ยวนำให้เกิดการอักเสบด้วยการทาบริเวณดังกล่าวด้วยสารละลาย 12-O-tetradecanoylphorbol-13-acetate (TPA) ขนาด0.5 มคก. ในacetone 20 มคล. หลังจากนั้น 7 ชม. จึงวิเคราะห์ผลเปรียบเทียบกับสารมาตรฐาน glycyrrhetinic acid ที่ความเข้มข้นเดียวกัน พบว่าสารทดสอบทั้งหมดสามารถลดอาการบวมที่หูหนูได้มากกว่า 50% โดยมีประสิทธิภาพเรียงลำดับจากมากไปน้อยดังนี้ สาร geranial >น้ำมันหอมระเหยของตะไคร้>สาร citral และสารทดสอบทั้ง 3 ชนิดมีประสิทธิภาพดีกว่าสารมาตรฐาน glycyrrhetinicacid ขนาด 500 มคก./หู ซึ่งสามารถลดอาการบวมที่หูหนูได้ 40.5% แสดงให้เห็นว่าน้ำมันตะไคร้มีฤทธิ์ต้านการอักเสบ และคาดว่าสารออกฤทธิ์คือ สาร citral และสารgeranial (61)การทดสอบฤทธิ์ต้านการอักเสบของน้ำมันหอมระเหยใบตะไคร้จากสาธารณรัฐประชาธิปไตยประชาชนแอลจีเรีย (ไม่ระบุ voucher specimen) ซึ่งสกัดโดยวิธีกลั่นด้วยไอน้ำ (steam distillation)จากนั้นนำไปทดสอบกับหนูเม้าส์ โดยทาน้ำมันหอมระเหยใบตะไคร้ขนาด 5 และ 10 มคล./หู ที่บริเวณใบหูข้างซ้าย หลังจากนั้น 30 นาที จึงเหนี่ยวนำให้เกิดการอักเสบและการบวมด้วยการทาน้ำมันสลอดความเข้มข้น 5% ขนาด 10 มคล. และสังเกตอาการ 4 ชม. เปรียบเทียบผลที่ได้กับการทายามาตรฐาน Voltaren® Emulgel 1% (diclofenac sodium) ในขนาด 5 มก./หู พบว่าน้ำมันหอมระเหยใบตะไคร้ขนาด 5 และ10 มคล. สามารถยับยั้งการบวมที่ใบหูได้ 62.50% และ 75.00% ตามลำดับ ส่วนยามาตรฐาน Voltaren สามารถยับยั้งการบวมที่ใบหูได้ 56.25% แสดงให้เห็นว่าน้ำมันหอมระเหยใบตะไคร้มีฤทธิ์ต้านการอักเสบและลดอาการบวมได้ดีกว่ายา Voltaren ในขนาดที่ทำการทดสอบ และประสิทธิภาพจะขึ้นกับขนาดที่ให้ (62)การทดสอบฤทธิ์ต้านการอักเสบของน้ำมันหอมระเหยใบตะไคร้จากประเทศอินเดีย (ไม่ระบุ voucher specimen) ซึ่งสกัดโดยใช้อุปกรณ์ Clevenger และ reflux นาน 4 ชม. นำน้ำมันที่สกัดได้มาเตรียมเป็นยาทาถูนวด (liniment) โดยใช้น้ำมันหอมระเหยใบตะไคร้ : tween 80 (ความเข้มข้น 10%)อัตราส่วน 1 : 0.5 จากนั้นนำไปทดสอบฤทธิ์ต้านการอักเสบในหนูแรท โดยถูนวดยาน้ำมันหอมระเหยใบตะไคร้ 1 มล. ที่บริเวณอุ้งเท้าด้านขวา หลังจากนั้น 30 นาที จึงเหนี่ยวนำให้เกิดการอักเสบและการบวมด้วยการฉีดสารคาราจีแนนความเข้มข้น 1% ขนาด 0.1 มล. เข้าไปในบริเวณดังกล่าว สังเกตอาการ 4 ชม. เปรียบเทียบผลที่ได้กับหนูกลุ่มควบคุมที่ได้รับน้ำเกลือ (saline), หนูที่ทายานวดน้ำมันสน (ยานวดมาตรฐาน) 1 มล. และหนูที่ป้อนยามาตรฐาน indomethacin ขนาด10มก./กก. พบว่า ที่เวลา 2 ชม. สารทดสอบทุกชนิดสามารถยับยั้งการบวมได้สูงสุด โดยหนูที่ได้รับยา indomethacin, หนูที่ทายานวดน้ำมันสน, และหนูที่ทายานวดน้ำมันหอมระเหยใบตะไคร้ สามารถยับยั้งการบวมได้ 67.36%, 56.84%, และ 63.15% ตามลำดับ แสดงให้เห็นว่า ยานวดน้ำมันหอมระเหยใบตะไคร้ออกฤทธิ์ต้านการอักเสบและลดอาการบวมได้ดีกว่ายานวดน้ำมันสน และมีประสิทธิภาพใกล้เคียงกับยา indomethacin (63)การทดสอบฤทธิ์ต้านการอักเสบของน้ำมันหอมระเหยจากกส่วนเหนือดินของตะไคร้จากประเทศจีน (voucher specimen: 2018-100A) ซึ่งสกัดโดยวิธีกลั่นด้วยไอน้ำ (steam distillation)นาน 3-4 ชม. และกำจัดน้ำออกด้วย anhydrous sodium sulfate จากนั้นนำไปทดสอบกับหนูเม้าส์ที่ถูกเหนี่ยวนำให้เกิดการบวมที่หูบวมด้วยการทาสารละลาย TPA ความเข้มข้น 100มคก./มล. ขนาด 10 มคล. บริเวณด้านในและด้านนอกของใบหู หลังจากนั้น 30 นาที จึงทาน้ำมันหอมระเหยของตะไคร้ความเข้มข้น 25, 50, และ 100 มก./กก. ขนาด 10 มคล. ที่บริเวณดังกล่าว สังเกตอาการหลังจากเริ่มทา TPA 6 ชม. พบว่าน้ำมันหอมระเหยของตะไคร้ความเข้มข้น 25, 50, และ 100 มก./กก. สามารถยับยั้งการบวมที่ใบหูได้ 30.23%, 41.88%, และ 50.70% ตามลำดับ การวิเคราะห์เนื้อเยื่อบริเวณใบหูพบว่า น้ำมันหอมระเหยของตะไคร้ทำให้ระดับสารก่อการอักเสบชนิด cyclooxygenase-2 (COX-2), NF-κB, interleukin-6 (IL-6), และ TNF-αลดลง เมื่อเทียบกับกลุ่มที่ได้รับ TPA เพียงอย่างเดียว แสดงให้เห็นว่าน้ำมันหอมระเหยของตะไคร้มีฤทธิ์ลดการบวมและต้านการอักเสบ (59)",
+                "pharmacological_ref": [
+                    "Abe S, Maruyama N, Hayama K, Ishibashi H, Inoue S, Oshima H, Yamaguchi H. Suppression of tumor necrosis factor-alpha-induced neutrophil adherence responses by essential oils. Mediators Inflamm 2003;12(6):323-8.doi: 10.1080/09629350310001633342."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านการแพ้",
+                "pharmacological_content": "การทดสอบฤทธิ์ต้านการแพ้ของน้ำมันหอมระเหยของตะไคร้จากประเทศอินเดีย (ไม่ระบุ voucher specimen) ซึ่งนำมาสกัดด้วยวิธีกลั่นด้วยน้ำ (hydrodistillation) จากนั้นนำมาทดสอบฤทธิ์ต้านการแพ้ด้วยวิธี β-hexosaminidase release assay ในเซลล์เซลล์เม็ดเลือดขาวของหนู (rat basophilic leukemia) ชนิด RBL-2H3 ซึ่งถูกเหนี่ยวนำด้วย A23187 (calcium ionophore) ขนาด 5 ไมโครโมลาร์ โดยใช้น้ำมันหอมระเหยความเข้มข้น 100 มคก./มล. พบว่าน้ำมันหอมระเหยของตะไคร้สามารถยับยั้งการปลดปล่อยเอนไซม์β-hexosaminidase จากเซลล์ได้ >50% โดยไม่มีผลต่อการเจริญเติบโตของเซลล์และการทำงานของเอนไซม์ดังกล่าว แสดงให้เห็นว่า น้ำมันหอมระเหยของตะไคร้สามารถยับยั้งการเกิด mast cell degranulation ซึ่งคาดว่ากลไกการออกฤทธิ์น่าจะเกี่ยวข้องกับการทำงานของ protein kinase C(52, 61) การศึกษาเพิ่มเติมโดยแยกสารสำคัญที่เป็นองค์ประกอบหลักในน้ำมันตะไคร้ และนำมาทดสอบฤทธิ์อีกครั้งพบว่า สาร citral (geranial 40.16% และ neral 34.24%), และสาร geranial ออกฤทธิ์ยับยั้งการปลดปล่อยเอนไซม์β-hexosaminidase ได้ดี โดยสาร geranial ออกฤทธิ์ได้ดีที่สุด (61)3 การศึกษาเกี่ยวกับริมฝีปากและช่องปาก3.1. ฤทธิ์ฆ่าเชื้อในช่องปาก (L001)การทดสอบฤทธิ์ต้านเชื้อในช่องปากของน้ำมันหอมระเหยจากใบตะไคร้จากประเทศอินโดนีเซีย (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยไอน้ำและน้ำ (steam-hydro distillation) นาน 6 ชม. จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อStreptococcus mutansATCC 21752 รวมทั้งฤทธิ์ยับยั้งการสร้าง biofilm ด้วยวิธีต่าง ๆ โดยการทดสอบด้วยวิธี microtiter broth method พบว่าน้ำมันหอมระเหยจากใบตะไคร้มีค่าความเข้มข้นต่ำสุดที่สามารถยับยั้งการเจริญเติบโตของเชื้อได้ 90% (minimum inhibitory concentration; MIC90) เท่ากับ 0.06% และมีค่าความเข้มข้นต่ำสุดที่สามารถฆ่าเชื้อได้ (minimum bactericidal concentration; MBC) เท่ากับ 0.6% การทดสอบด้วยวิธี adherence assay พบว่า น้ำมันหอมระเหยจากใบตะไคร้มีค่าความเข้มข้นต่ำสุดที่สามารถยับยั้งการเกิด biofilm เชื้อได้ครึ่งหนึ่ง (50% inhibitory concentration; IC50) เท่ากับ 0.008% และมีค่าความเข้มข้นต่ำสุดที่มีประสิทธิภาพในการกำจัด biofilm เชื้อได้ครึ่งหนึ่ง (50% effective concentration; EC50) เท่ากับ 0.026% และการทดสอบด้วยวิธี bioautography assay โดยใช้น้ำมันหอมระเหยจากใบตะไคร้ความเข้มข้น 1% พบว่ามีขนาดเส้นผ่านศูนย์กลางของบริเวณที่มีการยับยั้งเชื้อ (inhibition zone) 6.25 มม. แสดงให้เห็นว่าน้ำมันหอมระเหยจากใบตะไคร้ออกฤทธิ์ต้านเชื้อ S. mutans และ biofilm ได้ดี (65)การทดสอบฤทธิ์ต้านเชื้อในช่องปากของน้ำมันหอมระเหยจากใบตะไคร้จากสาธารณรัฐเบนิน(ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ(hydrodistillation) โดยใช้อุปกรณ์ Clavenger-typeจากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อที่พบในช่องปากจำนวน 5 ชนิด ได้แก่ Micrococcus luteus ATCC 10240, Staphylococcus aureus ATCC 29213, Proteus mirabilis ATCC 24974, Pseudomonas aeruginosa ATCC 27853, และ Candida albicans IP 4872ด้วยวิธี microdilution method พบว่าน้ำมันหอมระเหยจากใบตะไคร้มีค่าความเข้มข้นต่ำสุดที่สามารถยับยั้งการเจริญเติบโตของเชื้อ (minimum inhibitory concentration; MIC) M. luteus, S. aureus, P. mirabilis, P. aeruginosa, และ C. albicansเท่ากับ 0.078, 0.156, 0.078, 0.078, และ 0.078 มก./มล. ตามลำดับ และมีค่าความเข้มข้นต่ำสุดที่สามารถฆ่าเชื้อได้ (minimum bactericidal concentration; MBC) เท่ากับ 0.078, 0.156, 0.625, 0.312, และ 0.078 มก./มล. ตามลำดับ จากนั้นจึงนำมาพัฒนาเป็นน้ำยาบ้วนปาก (mouth bath) โดยในสารละลาย100มล. ประกอบด้วยน้ำมันหอมระเหยจากใบตะไคร้0.2มล., citric acid 0.6ก., aspartame0.4ก, sodium hydroxide 0.6ก, methyl salicylate 0.15ก, Tween 800.5ก, alcohol 95°5มล.และปรับปริมาตรให้เป็น 100 มล. ด้วยน้ำ นำมาเตรียมเป็นสารละลายเจือจาง (dilution) ด้วยอัตราส่วน 1/2, 1/4, 1/8, 1/16, 1/32, 1/64, และ 1/128 เปรียบเทียบผลกับน้ำยาบ้วนปากมาตรฐานEludril® และ Givalex® พบว่าน้ำยาบ้วนปากที่มีน้ำมันหอมระเหยจากใบตะไคร้เป็นส่วนประกอบมีค่า MIC ต่อM.luteus, S. aureus, P. mirabilis, P. aeruginosa,และ C. albicansเท่ากับ 1/16, 1/8, 1/8, 1/8, และ 1/2 ตามลำดับ และมีค่า MBC เท่ากับ 1/4, 1/8, 1/8, 1/8, และ 1/2 ตามลำดับ ในขณะที่ Eludril® และ Givalex® สามารถยับยั้งเชื้อทุกชนิดที่ความเข้มข้น 1/128 การวิเคราะห์องค์ประกอบทางเคมีพบว่าน้ำมันหอมระเหยจากใบตะไคร้มีสาร geranial, neral, และ myrcene เป็นส่วนประกอบหลัก แสดงให้เห็นว่าน้ำมันหอมระเหยจากใบตะไคร้มีฤทธิ์ยับยั้งเชื้อในช่องปาก (66)การทดสอบฤทธิ์ต้านเชื้อในช่องปากของน้ำมันหอมระเหยจากใบตะไคร้จากประเทศบราซิล (ไม่ระบุ voucher specimen) ซึ่งสกัดด้วยวิธีกลั่นด้วยน้ำ (water distillation) โดยใช้อุปกรณ์ Clavenger-typeนาน 3 ชม. ล้างด้วยสารไดคลอโรมีเทน 50 มล. และกำจัดน้ำออกด้วย anhydrous sodium sulfateจากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อที่พบในช่องปากจำนวน 5 ชนิด ได้แก่Candida albicans CBS 562, Streptococcus sanguis ATCC 10556, Streptococcus mitis ATCC 903, Porphyromonas gingivalis ATCC 33277, และ Fusobacterium nucleatum ATCC 25586 ด้วยวิธี microdilution method พบว่าน้ำมันหอมระเหยจากใบตะไคร้มีค่าMIC ต่อเชื้อ C. albicans, S. sanguis, S. mitis, P.gingivalis, และ F. nucleatumเท่ากับ 0.015, 0.500, 0.250, 0.250, และ 0.250 มก./มล. ตามลำดับ และมีค่าMBC เท่ากับ 0.125, >1.000, 0.500, 0.250, และ 0.250 มก./มล. ตามลำดับแสดงให้เห็นว่าน้ำมันหอมระเหยจากใบตะไคร้มีฤทธิ์ยับยั้งเชื้อในช่องปาก (67)การทดสอบฤทธิ์ต้านเชื้อในช่องปากของน้ำมันหอมระเหยจากใบตะไคร้ของบริษัท อุตสาหกรรมเครื่องหอมไทย-จีน จำกัดซึ่งสกัดด้วยวิธีกลั่นด้วยไอน้ำ (steam distillation) และสาร citral จาก Sigma-Aldrich, Inc (St. Louis MO, USA)โดยนำมาทดสอบฤทธิ์ต้านเชื้อที่พบในช่องปาก ได้แก่ Porphyromonas gingivalis, Streptococcus sanguinis, และ Streptococcus mutans ด้วยวิธีต่าง ๆ โดยการทดสอบด้วยวิธี broth dilution method พบว่า น้ำมันหอมระเหยจากใบตะไคร้มีค่า MIC ต่อเชื้อ P. gingivalis, S. sanguinis, และ S. mutansเท่ากับ 0.015%v/v, 0.015%v/v, และ 0.03 %v/v ตามลำดับ และมีค่าMBC เท่ากับ 0.03%v/v, 0.062%v/v, และ 0.03 %v/v ตามลำดับส่วนสาร citralมีค่า MIC เท่ากับ 0.023%v/v, 0.046%v/v, และ 0.011 %v/v ตามลำดับ และมีค่า MBC เท่ากับ 0.023%v/v, 0.093%v/v, และ 0.046 %v/v ตามลำดับ การทดสอบฤทธิ์ต้าน biofilm ของเชื้อ S. mutans ด้วยวิธี microtiter-plate screening method พบว่า น้ำมันหอมระเหยจากใบตะไคร้ความเข้มข้น 0.5%v/v สามารถยับยั้งการเกิด biofilm ได้ 99.82% และที่ความเข้มข้นต่ำ (0.062%v/v) สามารถยับยั้งการเกิด biofilm ได้ 96.36% และการทดสอบด้วยวิธี time kill assay พบว่า น้ำมันหอมระเหยจากใบตะไคร้ความเข้มข้น 4 เท่าของค่า MIC (4 x MIC) สามารถลดจำนวนเชื้อ P. gingivalisที่มีชีวิตได้อย่างรวดเร็ว และสามารถฆ่าเชื้อได้หมดภายในระยะเวลา 2 ชม. และที่ความเข้มข้น 2 เท่าของค่า MIC (2 x MIC) สามารถฆ่าเชื้อได้หมดภายในระยะเวลา 4 ชม. และน้ำมันหอมระเหยจากใบตะไคร้ทั้ง 2 ความเข้มข้นนี้ สามารถฆ่าเชื้อ S. sanguinis, และ S. mutans ได้หมดภายในระยะเวลา 12 ชม. แสดงให้เห็นว่าน้ำมันหอมระเหยจากใบตะไคร้และสาร citral มีฤทธิ์ฆ่าเชื้อในช่องปาก (68)การทดสอบฤทธิ์ต้านเชื้อในช่องปากของน้ำมันหอมระเหยจากตะไคร้(ไม่ระบุส่วนที่ใช้)จากประเทศโคลัมเบีย (voucher specimen: 4952 20/10/2014) ซึ่งสกัดด้วยวิธีกลั่นด้วยไอน้ำ(steam distillation) จากนั้นนำมาทดสอบฤทธิ์ต้านเชื้อ Streptococcus mutans ATCC 35668 strain biofilms ด้วยวิธี minimum biofilm eradication concentration (MBEC) assay โดยใช้น้ำมันหอมระเหยจากตะไคร้ความเข้มข้น 0.1มก./100มล., 0.01มก./100มล., และ0.001มก./100มล.เปรียบเทียบผลกับยาฆ่าเชื้อมาตรฐาน chlorhexidine  ความเข้มข้น 0.5%, 1%, และ2%พบว่าน้ำมันหอมระเหยจากตะไคร้ความเข้มข้น 0.1มก./100มล., 0.01มก./100มล., และ0.001มก./100มล.สามารถกำจัด biofilm ได้ 95.4%, 95.4%, และ 93.1% ตามลำดับ ในขณะที่ยา chlorhexidine ความเข้มข้น 1%และ2%สามารถกำจัด biofilm ได้ 100% และที่ความเข้มข้น 0.5%  สามารถกำจัด biofilm ได้ 99.4% การวิเคราะห์องค์ประกอบทางเคมีพบว่าน้ำมันหอมระเหยจากตะไคร้มีสาร geranial, neral, และ myrcene เป็นส่วนประกอบหลัก แสดงให้เห็นว่าน้ำมันหอมระเหยจากตะไคร้สามารถกำจัด biofilm ได้ดี (69)การทดสอบฤทธิ์ต้านเชื้อในช่องปากของน้ำมันหอมระเหยจากใบตะไคร้ของ Laszlo Aromaterapia Ltd. (Belo Horizonte, Brazil) และสาร citral จาก Sigma-Aldrich Co. (St. Louis, USA) โดยนำมาทดสอบฤทธิ์ต้านเชื้อที่พบในช่องปาก ได้แก่ Actinomyces naeslundii ATCC 19039, Lactobacillus acidophilus ATCC 4356, Streptococcus gordonii ATCC 10558, Streptococcus mitis ATCC 9811, S. mutans ATCC 35688, Streptococcus sanguinis ATCC 10556, และ Streptococcus sobrinus ATCC 33478 ด้วยวิธีต่าง ๆ โดยการทดสอบด้วยวิธี agar well diffusion test พบว่า น้ำมันหอมระเหยจากใบตะไคร้ความเข้มข้น 9:1 (v/v) ใน propylene glycol มีเส้นผ่านศูนย์กลางของบริเวณที่มีการยับยั้งเชื้อ (halo diameter) ต่อเชื้อ A. naeslundii, L. acidophilus, S. gordonii, S. mitis, S. mutans, S. sanguinis, และ S. sobrinusเท่ากับ 16, 8, 10, 19, 11, 10, และ 11 มม. ตามลำดับ ในขณะที่น้ำยาบ้วนปากมาตรฐานที่มีส่วนผสมของยาฆ่าเชื้อ chlorhexidine digluconate 1.2 มก./มล. มีค่า halo diameter เท่ากับ 25, 13, 20, 22, 17, 19, และ 24 มม. ตามลำดับ การทดสอบด้วยวิธี microdilution reference method พบว่า น้ำมันหอมระเหยจากใบตะไคร้ความเข้มข้น 9:1 (v/v) ใน propylene glycol มีค่าMIC ต่อเชื้อA. naeslundii, L. acidophilus, S. gordonii, S. mitis, S. mutans, S. sanguinis, และ S. sobrinusเท่ากับ 1.32, 1.32, 1.32, 2.61, 2.61, 2.61, และ 2.61 มก./มล. ตามลำดับ และมีค่า MBC เท่ากับ 5.23, 2.61, 5.23, 5.23, 10.54, 10.54, และ 10.54 มก./มล. ตามลำดับในขณะที่น้ำยาบ้วนปาก chlorhexidine digluconate 1.2 มก./มล. มีค่า MIC เท่ากับ 0.02, 0.02, 0.09, 0.18, 0.04, 0.04, และ 0.02 มก./มล. ตามลำดับและมีค่า MBC เท่ากับ 0.04, 0.02, 0.09, 0.18, 0.04, 0.04, และ 0.02 มก./มล. ตามลำดับเมื่อนำสาร citral มาทดสอบฤทธิ์ยับยั้งเชื้อ S. mutansและ L. acidophilus พบว่ามีค่า MIC เท่ากับ 2.75 และ 1.33 มก./มล. ตามลำดับ และมีค่า MBC เท่ากับ11.1และ 2.75 มก./มล. ตามลำดับ การทดสอบฤทธิ์ยับยั้งการยึดเกาะของเชื้อแบคทีเรียบนเคลือบฟันที่แยกมาจากผู้ป่วยพบว่า น้ำมันหอมระเหยจากใบตะไคร้และน้ำยาบ้วนปาก chlorhexidine digluconate 1.2 มก./มล. สามารถลดจำนวนเชื้อแบคทีเรียที่เกาะบนเคลือบฟัน (adhered cell) ได้ 100% และ 69% ตามลำดับ และค่าเฉลี่ย colony forming units (CFUs)/specimen ของกลุ่มควบคุม (ไม่ได้รับสารทดสอบใด ๆ), น้ำมันหอมระเหยจากใบตะไคร้ความเข้มข้น 1/2 MIC, และน้ำยาบ้วนปาก chlorhexidine digluconate 1.2 มก./มล. เท่ากับ (8.7 ± 10.7)× 106, 0, และ (2.7 ± 8.0)×105 ตามลำดับการทดสอบฤทธิ์ยับยั้ง biofilm ของเชื้อ S. mutans และ L. acidophilus (short treatment exposure time) พบว่ากลุ่มควบคุม, น้ำมันหอมระเหยจากใบตะไคร้ความเข้มข้น 2 เท่า, 4 เท่า, 10 เท่าของ MIC, และน้ำยาบ้วนปาก chlorhexidine digluconate 1.2 มก./มล. มีค่า CFUs)/specimen ต่อ biofilm ของเชื้อS. mutansเท่ากับ (7.4 ± 8.3) × 108, (2.4 ± 5.3) × 108, (9.5 ± 20.8) × 107, (4.1 ± 9.4) × 107, และ (1.7 ± 2.7) × 108ตามลำดับ และมีค่า CFUs)/specimen ต่อ biofilm ของเชื้อ L. acidophilusเท่ากับ(4.9 ± 6.7) × 108, (2.3 ± 3.0) ×107, (1.9 ± 3.2) × 107, (2.0 ± 2.5) × 106, (1.0 ± 2.2) ×107 ตามลำดับการทดสอบฤทธิ์ยับยั้ง polymicrobial biofilm จากน้ำลายของผู้ป่วย (medium treatment exposure time) พบว่ากลุ่มควบคุม, น้ำมันหอมระเหยจากใบตะไคร้ความเข้มข้น 2 เท่า, 4 เท่า, 10 เท่าของ MIC, และน้ำยาบ้วนปาก chlorhexidine digluconate 1.2 มก./มล. มีค่า CFUs)/specimen เท่ากับ (1.4 ± 0.3) × 107, 0, 0,0 และ (1.2 ± 0.2) × 105ตามลำดับและการทดสอบฤทธิ์ยับยั้ง biofilm ของเชื้อ S. mutansบนเคลือบฟันของสาร citral ความเข้มข้น 27.5 มก./มล. และน้ำยาบ้วนปาก chlorhexidine digluconate 1.2 มก./มล. พบว่าสารทดสอบทั้ง 2 ชนิดสามารถลดจำนวน CFUs)/specimen ได้อย่างชัดเจนเมื่อเทียบกับกลุ่มควบคุม และสาร citral มีประสิทธิภาพดีกว่าน้ำยาบ้วนปาก chlorhexidine digluconate ในขนาดที่ทำการทดสอบ แสดงให้เห็นว่าน้ำมันหอมระเหยจากใบตะไคร้และสาร citral มีฤทธิ์ยับยั้งเชื้อและ biofilm ในช่องปาก (70)การทดสอบฤทธิ์ต้านเชื้อในช่องปากของน้ำมันหอมระเหยจากตะไคร้ (ไม่ระบุส่วนที่ใช้) ของบริษัท อุตสาหกรรมเครื่องหอมไทย-จีน จำกัด ซึ่งเตรียมเป็นผลิตภัณฑ์ฉีดพ่นลำคอและปาก (oral spray) ที่มีน้ำมันหอมระเหยจากตะไคร้ 2%, 4% และ 6% โดยทำการทดสอบกับเชื้อ Streptococcus mutans (ATCC 25175), S. sobrinus (ATCC 6715) และเชื้อ S. mutans ที่แยกได้จากเด็กอีก 3 ชนิดคือ N006, N029, และ N113 เมื่อทดสอบด้วยวิธี microbroth dilution method พบว่า oral spray ที่มีน้ำมันหอมระเหยจากตะไคร้ 2% มีค่าMIC ต่อเชื้อ S. mutans (ATCC 25175), N006, N029, N113, และ S. sobrinus (ATCC 6715) เท่ากับ 0.5, 0.5, 0.25, 0.5, และ 0.5 มคก./มล. ตามลำดับ และมีค่าMBC เท่ากับ 0.5, 0.5, 0.5, 0.5, และ 0.5 มคก./มล. ตามลำดับ oral spray ที่มีน้ำมันหอมระเหยจากตะไคร้ 4% มีค่า MIC เท่ากับ 1, 1, 0.125, 0.125, และ 1 มคก./มล. ตามลำดับ และมีค่า MBC เท่ากับ 1, 1, 0.25, 0.25, และ 1 มคก./มล. ตามลำดับและ oral spray ที่มีน้ำมันหอมระเหยจากตะไคร้ 6% มีค่า MIC เท่ากับ 1.5, 3, 1.5, 1.5, และ 3 มคก./มล. ตามลำดับ และมีค่า MBC เท่ากับ 3, 6, 6, 3, และ 6 มคก./มล. ตามลำดับเมื่อทดสอบฤทธิ์ยับยั้ง biofilm ด้วยวิธี biofilm susceptibility test พบว่า oral spray ที่มีน้ำมันหอมระเหยจากตะไคร้ 2%มีค่า MIC ต่อ biofilm ของเชื้อ S. mutans (ATCC 25175), N006, N029, N113, และ S. sobrinus (ATCC 6715) เท่ากับ 6.25, 3.125, 6.25, 6.25, และ 6.25 มคล. ตามลำดับ oral spray ที่มีน้ำมันหอมระเหยจากตะไคร้ 4% มีค่า MICเท่ากับ 3.125, 3.125, 1.56, 3.125, และ 1.56 มคล. ตามลำดับ และ oral spray ที่มีน้ำมันหอมระเหยจากตะไคร้ 6%มีค่า MICเท่ากับ 1.56, 1.56, 1.56, 1.56, และ 1.56 มคล. ตามลำดับ แสดงให้เห็นว่าน้ำมันหอมระเหยจากตะไคร้มีฤทธิ์ยับยั้งเชื้อและ biofilm ในช่องปาก (71)การทดสอบฤทธิ์ต้านเชื้อในช่องปากของน้ำมันหอมระเหยจากตะไคร้ (ไม่ระบุส่วนที่ใช้) (Quinari Casa das Essências, Ponta Grossa, PR, Brazil) ต่อเชื้อ Streptococcus mutans UA159 และ Candida albicans ATCC 90029 โดยทำการทดสอบด้วยวิธี microdilution technique พบว่า น้ำมันหอมระเหยจากตะไคร้มีค่า MIC เท่ากับ 1 มก./มล. และ 125 มคก./มล. ตามลำดับ (72)การทดสอบฤทธิ์ต้านเชื้อในช่องปากของสาร citral (Alfa Aesar®, Heysham, UK) และสาร myrcene (Sigma-Aldrich®, Dorset, UK) ซึ่งเป็นองค์ประกอบหลักในน้ำมันหอมระเหยของตะไคร้โดยนำมาทดสอบฤทธิ์ต้านเชื้อที่พบในช่องปากจำนวน 5 ชนิด ได้แก่Enterococcus faecalis ATCC 29212, Streptococcus mutans ATCC 25175, S. mutans ATCC 35668, S. mutans ATCC UA159, Lactobacillus rhamnosus ATCC 53103 เมื่อทดสอบด้วยวิธี agar dilution assays พบว่า สาร citral มีค่าMIC ต่อเชื้อE. faecalis ATCC 29212, S. mutans ATCC 25175, S. mutans ATCC 35668, S. mutans ATCC UA159, และL. rhamnosus ATCC 53103เท่ากับ 1.5, 1.0, 1.0, 1.0, และ 1.5 มก./มล. ตามลำดับ ส่วนสาร myrcene มีค่า MIC ต่อเชื้อทดสอบทุกชนิด >8.0 มก./มล.ในขณะที่ยามาตรฐาน chlorhexidine มีค่า MIC เท่ากับ 2.9 x 10-3, 8.7x 10-4, 1.3x 10-3, 1.3x 10-3, และ 1.3x 10-3มก./มล. ตามลำดับ จากนั้นจึงนำเฉพาะสาร citral ไปหาค่า MBC ต่อเชื้อทั้ง 5 ชนิด และเชื้อS. mutansที่แยกได้จากเด็กอีก 8 ชนิด (strain 1, 2, 3, 6, 10, 11, 13, 14) โดยเตรียมสาร citral ความเข้มข้น 0.25, 0.5, 1.0, 1.5, และ 2.0 มก./มล.พบว่า สาร citral ที่ความเข้มข้น 1.0 มก./มล. สามารถฆ่าเชื้อทุกชนิดได้  และที่ความเข้มข้น 0.5 มก./มล.สามารถฆ่าเชื้อ S. mutans strain 1, 2, 3, 6, 10, 13 ได้ แสดงให้เห็นว่าสาร citral มีฤทธิ์ฆ่าเชื้อในช่องปาก (73)",
+                "pharmacological_ref": [
+                    "Mitoshi M, Kuriyama I, Nakayama H, Miyazato H, Sugimoto K, Kobayashi Y, et al. Effects of essential oils from herbal plants and citrus fruits on DNA polymerase inhibitory, cancer cell growth inhibitory, antiallergic, and antioxidant activities. J Agric Food Chem. 2012;60(45):11343-50. doi: 10.1021/jf303377f.",
+                    "Mitoshi M, Kuriyama I, Nakayama H, Miyazato H, Sugimoto K, Kobayashi Y, et al. Suppression of allergic and inflammatory responses by essential oils derived from herbal plants and citrus fruits. Int J Mol Med. 2014;33(6):1643-51. doi: 10.3892/ijmm.2014.1720."
+                ]
+            }
+        ]
+    }
+}

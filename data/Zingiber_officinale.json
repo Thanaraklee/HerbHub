@@ -1,0 +1,607 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Zingiber officinale",
+            "authorship": "William Roscoe",
+            "updated_by": "",
+            "name_ref": "Trans. Linn. Soc. London 8:348. (1807)",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:50886797-1"
+        },
+        "synonyms": [
+            {
+                "name": "Amomum angustifolium",
+                "author": "Richard Anthony Salisbury 1761-1829",
+                "protologue": "Prod. stirp. Chap. Allerton 4",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000338897"
+            },
+            {
+                "name": "Amomum zingiber",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "Sp. pl. 1",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000339326"
+            },
+            {
+                "name": "Zingiber aromaticum",
+                "author": "Francisco Noronha 1748-1788",
+                "protologue": "Verh. Batav. Genootsch. Kunsten 5:28. (1790)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000615885"
+            },
+            {
+                "name": "Zingiber blancoi",
+                "author": "Justus Carl Hasskarl 1811-1894",
+                "protologue": "Flora 22:20. (1864)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000615938"
+            },
+            {
+                "name": "Zingiber officinale f. macrorhizonum",
+                "author": "Tomitarô Makino 1862-1957",
+                "protologue": "Pl. Basho's & Buson's Hokku Lit. 258",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000617418"
+            },
+            {
+                "name": "Zingiber officinale f. rubens",
+                "author": "Tomitarô Makino 1862-1957",
+                "protologue": "Pl. Basho's & Buson's Hokku Lit. 258",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000617439"
+            },
+            {
+                "name": "Zingiber sichuanense",
+                "author": "Zheng Yin Zhu 1944-",
+                "protologue": "Bull. Sichuan School Chin. Mat. Med. 1987 (1):39. (1987)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000617841"
+            },
+            {
+                "name": "Zingiber zingiber",
+                "author": "Gustav Karl Wilhelm Hermann Karsten 1817-1908",
+                "protologue": "Deut. fl. (5):471",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000618281"
+            },
+            {
+                "name": "Curcuma longifolia",
+                "author": "Nathaniel Wolff Wallich 1786-1854",
+                "protologue": "–",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001146278"
+            },
+            {
+                "name": "Zingiber majus",
+                "author": "Georg Eberhard Rumphius 1627-1702",
+                "protologue": "–",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001146283"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Zingiberales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000651"
+            },
+            "genus": {
+                "genus_name": "Zingiberaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000041232"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Zingiber+officinale&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "ALANINE",
+                "activity_count": 3,
+                "plant_part": "Root",
+                "low_parts_per_million": 310.0,
+                "high_parts_per_million": 1793.0,
+                "standard_deviation": -0.81,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ALPHA-LINOLENIC-ACID",
+                "activity_count": 15,
+                "plant_part": "Root",
+                "low_parts_per_million": 340.0,
+                "high_parts_per_million": 3190.0,
+                "standard_deviation": 1.96,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ALPHA-TERPINENE",
+                "activity_count": 13,
+                "plant_part": "Rhizome",
+                "low_parts_per_million": 0.5,
+                "high_parts_per_million": 35.0,
+                "standard_deviation": 1.0,
+                "ref": "Duke, J. A. Writeups or information summaries on approximately 2,000 economic plants, USDA, ARS, Beltsville, MD 20705."
+            },
+            {
+                "chemical_name": "ARGININE",
+                "activity_count": 14,
+                "plant_part": "Root",
+                "low_parts_per_million": 430.0,
+                "high_parts_per_million": 2486.0,
+                "standard_deviation": -0.41,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ASPARTIC-ACID",
+                "activity_count": 3,
+                "plant_part": "Root",
+                "low_parts_per_million": 2080.0,
+                "high_parts_per_million": 11990.0,
+                "standard_deviation": 0.27,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "BETA-ELEMENE",
+                "activity_count": 5,
+                "plant_part": "Rhizome",
+                "low_parts_per_million": 2.0,
+                "high_parts_per_million": 500.0,
+                "standard_deviation": 0.27,
+                "ref": "Duke, J. A. Writeups or information summaries on approximately 2,000 economic plants, USDA, ARS, Beltsville, MD 20705."
+            },
+            {
+                "chemical_name": "BORON",
+                "activity_count": 4,
+                "plant_part": "Root",
+                "low_parts_per_million": 1.0,
+                "high_parts_per_million": 4.0,
+                "standard_deviation": -0.74,
+                "ref": "Betting on Boron, Unpublished draft by J. A. Duke on file at USDA, draft and papers relating to boron percentages. Includes Internat. Z. Vit. Ern. Forschung 43:1973 (boron)."
+            },
+            {
+                "chemical_name": "CAMPESTEROL",
+                "activity_count": 2,
+                "plant_part": "Root",
+                "low_parts_per_million": 10.0,
+                "high_parts_per_million": 100.0,
+                "standard_deviation": -0.29,
+                "ref": "Spiller, G. A. 1996 (Spiller, G. A. Ed. 1996. CRC Handbook of Lipids in Human Nutrition. CRC Press. Boca Raton, FL. 233 pp.)"
+            },
+            {
+                "chemical_name": "CYSTINE",
+                "activity_count": 2,
+                "plant_part": "Root",
+                "low_parts_per_million": 80.0,
+                "high_parts_per_million": 462.0,
+                "standard_deviation": -0.89,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "DELTA-CADINENE",
+                "activity_count": 9,
+                "plant_part": "Rhizome",
+                "low_parts_per_million": 1.0,
+                "high_parts_per_million": 65.0,
+                "standard_deviation": -0.67,
+                "ref": "Duke, J. A. Writeups or information summaries on approximately 2,000 economic plants, USDA, ARS, Beltsville, MD 20705."
+            },
+            {
+                "chemical_name": "GLUTAMIC-ACID",
+                "activity_count": 8,
+                "plant_part": "Root",
+                "low_parts_per_million": 1620.0,
+                "high_parts_per_million": 9328.0,
+                "standard_deviation": -0.5,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "GLYCINE",
+                "activity_count": 12,
+                "plant_part": "Root",
+                "low_parts_per_million": 430.0,
+                "high_parts_per_million": 2486.0,
+                "standard_deviation": -0.23,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "HISTIDINE",
+                "activity_count": 7,
+                "plant_part": "Root",
+                "low_parts_per_million": 300.0,
+                "high_parts_per_million": 1738.0,
+                "standard_deviation": -0.05,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ISOLEUCINE",
+                "activity_count": 3,
+                "plant_part": "Root",
+                "low_parts_per_million": 510.0,
+                "high_parts_per_million": 2926.0,
+                "standard_deviation": -0.28,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LAURIC-ACID",
+                "activity_count": 7,
+                "plant_part": "Root",
+                "low_parts_per_million": 390.0,
+                "high_parts_per_million": 3630.0,
+                "standard_deviation": 1.41,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LEUCINE",
+                "activity_count": 2,
+                "plant_part": "Root",
+                "low_parts_per_million": 740.0,
+                "high_parts_per_million": 4257.0,
+                "standard_deviation": -0.06,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LINOLEIC-ACID",
+                "activity_count": 27,
+                "plant_part": "Root",
+                "low_parts_per_million": 1200.0,
+                "high_parts_per_million": 11220.0,
+                "standard_deviation": 3.02,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LYSINE",
+                "activity_count": 4,
+                "plant_part": "Root",
+                "low_parts_per_million": 570.0,
+                "high_parts_per_million": 3110.0,
+                "standard_deviation": -0.58,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "METHIONINE",
+                "activity_count": 15,
+                "plant_part": "Root",
+                "low_parts_per_million": 130.0,
+                "high_parts_per_million": 737.0,
+                "standard_deviation": -0.59,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MUFA",
+                "activity_count": 13,
+                "plant_part": "Root",
+                "low_parts_per_million": 1540.0,
+                "high_parts_per_million": 8400.0,
+                "standard_deviation": 2.51,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MYRISTIC-ACID",
+                "activity_count": 6,
+                "plant_part": "Root",
+                "low_parts_per_million": 180.0,
+                "high_parts_per_million": 1650.0,
+                "standard_deviation": 1.73,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "OLEIC-ACID",
+                "activity_count": 18,
+                "plant_part": "Root",
+                "low_parts_per_million": 1190.0,
+                "high_parts_per_million": 11000.0,
+                "standard_deviation": 3.06,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PALMITIC-ACID",
+                "activity_count": 13,
+                "plant_part": "Root",
+                "low_parts_per_million": 1200.0,
+                "high_parts_per_million": 11220.0,
+                "standard_deviation": 0.14,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PALMITOLEIC-ACID",
+                "activity_count": 2,
+                "plant_part": "Root",
+                "low_parts_per_million": 210.0,
+                "high_parts_per_million": 1145.0,
+                "standard_deviation": 0.06,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PANTOTHENIC-ACID",
+                "activity_count": 11,
+                "plant_part": "Root",
+                "low_parts_per_million": 2.0,
+                "high_parts_per_million": 11.0,
+                "standard_deviation": -0.94,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PHENYLALANINE",
+                "activity_count": 7,
+                "plant_part": "Root",
+                "low_parts_per_million": 450.0,
+                "high_parts_per_million": 2455.0,
+                "standard_deviation": -0.39,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PHYTOSTEROLS",
+                "activity_count": 2,
+                "plant_part": "Root",
+                "low_parts_per_million": 150.0,
+                "high_parts_per_million": 913.0,
+                "standard_deviation": 0.02,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PUFA",
+                "activity_count": 4,
+                "plant_part": "Root",
+                "low_parts_per_million": 1540.0,
+                "high_parts_per_million": 8400.0,
+                "standard_deviation": 1.33,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "STEARIC-ACID",
+                "activity_count": 8,
+                "plant_part": "Root",
+                "low_parts_per_million": 170.0,
+                "high_parts_per_million": 1540.0,
+                "standard_deviation": 2.81,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "STIGMASTEROL",
+                "activity_count": 12,
+                "plant_part": "Root",
+                "low_parts_per_million": 40.0,
+                "high_parts_per_million": 200.0,
+                "standard_deviation": 0.33,
+                "ref": "Spiller, G. A. 1996 (Spiller, G. A. Ed. 1996. CRC Handbook of Lipids in Human Nutrition. CRC Press. Boca Raton, FL. 233 pp.)"
+            },
+            {
+                "chemical_name": "THREONINE",
+                "activity_count": 4,
+                "plant_part": "Root",
+                "low_parts_per_million": 360.0,
+                "high_parts_per_million": 2057.0,
+                "standard_deviation": -0.49,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "TRYPTOPHAN",
+                "activity_count": 29,
+                "plant_part": "Root",
+                "low_parts_per_million": 120.0,
+                "high_parts_per_million": 693.0,
+                "standard_deviation": -0.49,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "TYROSINE",
+                "activity_count": 8,
+                "plant_part": "Root",
+                "low_parts_per_million": 200.0,
+                "high_parts_per_million": 1122.0,
+                "standard_deviation": -1.43,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "VALINE",
+                "activity_count": 3,
+                "plant_part": "Root",
+                "low_parts_per_million": 730.0,
+                "high_parts_per_million": 4202.0,
+                "standard_deviation": 0.08,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "ขิง",
+            "common_name_th_ref": [
+                "ราชันย์ภู่มา, สมรานสุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทยเต็มสมิตินันท์ฉบับแก้ไขเพิ่มเติมพ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืชกรมอุทยานแห่งชาติสัตว์ป่าและพันธุ์พืช; 2557."
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "Ginger",
+            "common_name_en_ref": [
+                "ราชันย์ภู่มา, สมรานสุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทยเต็มสมิตินันท์ฉบับแก้ไขเพิ่มเติมพ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืชกรมอุทยานแห่งชาติสัตว์ป่าและพันธุ์พืช; 2557."
+            ]
+        },
+        "local_name": {
+            "local_name": [
+                "ขิงแกลง",
+                "ขิงแดง",
+                "ขิงเผือก",
+                "สะเอ"
+            ],
+            "local_name_ref": [
+                "ราชันย์ภู่มา, สมรานสุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทยเต็มสมิตินันท์ฉบับแก้ไขเพิ่มเติมพ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืชกรมอุทยานแห่งชาติสัตว์ป่าและพันธุ์พืช; 2557."
+            ]
+        },
+        "clinical_studies": [
+            {
+                "clinical": "ลดริ้วรอย",
+                "clinical_content": "การศึกษาทางคลินิกในอาสาสมัครสุขภาพดีจำนวน31รายอายุ 44 ± 7 ปี  โดยแบ่งออกเป็นกลุ่มที่ใช้ครีมที่มีส่วนผสมของสารสกัดจากขิง 1% acetyl zingerone (trade name: Synoxyl® AZ; Sytheon Ltd. Sytheon Ltd.) โดยทาครีมให้ทั่วใบหน้า ยกเว้นบริเวณรอบ ๆ ดวงตา ทา 2 ครั้ง/วัน เป็นเวลา 8 สัปดาห์ เปรียบเทียบกับกลุ่มยาหลอก ประเมินผลการทดสอบในช่วงเริ่มการทดสอบเปรียบเทียบกับช่วงสัปดาห์ที่ 4 และ 8 ของการทดสอบ ผลการทดสอบพบว่ากลุ่มที่ได้รับการทาครีมที่มีส่วนผสมของสาร acetyl zingerone มีผลต่อการลดค่าเฉลี่ยความรุนแรงของการเกิดริ้วรอย (average wrinkle severity: p = .019; mean = −25.7% change), ปริมาณริ้วรอยทั้งหมด (total wrinkle volume: p = .003; mean = −30.1% change), ปริมาณของเม็ดสี (pigment intensity: p = .021; mean = −25.6% change), ปริมาณของรอยแดง (redness intensity: p = .035; mean = −20.7% change) ในช่วงสัปดาห์ที่ 8 ของการทดสอบ เมื่อเปรียบเทียบกับกลุ่มยาหลอก และจากการประเมินการเกิดอาการข้างเคียง ได้แก่ อาการผิวหนังเป็นขุย (scaling), รอยแดง (erythema), ลักษณะของผิวที่มีสีอ่อนกว่าสีผิวปกติ (hypopigmentation) และลักษณะของผิวที่มีสีเข้มกว่าสีผิวปกติ(hyperpigmentation) ไม่พบความแตกต่างกันของทั้งสองกลุ่ม จากผลการทดสอบสรุปได้ว่า ครีมที่มีส่วนผสมของสารacetyl zingerone มีผลช่วยในการบรรเทาอาการของผิวหนังที่ถูกทำลายจากแสงแดด ลดการเกิดริ้วรอย ความผิดปกติของเม็ดสี และการเกิดรอยแดง (21)2 การศึกษาเกี่ยวกับช่องปาก/ริมฝีปาก2.1 น้ำยาบ้วนปาก/ฆ่าเชื้อในช่องปาก (L001)       การศึกษาทางคลินิกในอาสาสมัครจำนวน 31ราย ทั้งเพศหญิงและชาย อายุ 12 – 35 ปี ที่ติดเครื่องมือทางทันตกรรมจัดฟันแบบติดแน่น (fixed orthodontic appliance) โดยแบ่งออกเป็นกลุ่มที่ให้ใช้น้ำยาบ้วนปากที่มีส่วนผสมของ 0.12% chlorhexidine และน้ำยาบ้วนปากที่มีส่วนผสมของ 0.5% น้ำมันหอมระเหยจากขิง (LASZLO company: Belo Horizonte, Minas Gerais, Brazil) และกลุ่มยาหลอก โดยใช้น้ำยาบ้วนปาก 10 มล. นาน 60 วินาที เป็นเวลา 7 วัน เก็บตัวอย่างน้ำลายในช่วงก่อนใช้น้ำยาบ้วนปาก ช่วง 1 และ 15 นาทีหลังจากใช้น้ำยาบ้วนปากในวันแรกและวันที่ 7 ของการทดสอบ เพื่อประเมินผลการทดสอบ ผลการทดสอบพบว่ากลุ่มที่ใช้น้ำยาบ้วนปากที่มีส่วนผสมของน้ำมันหอมระเหยจากขิงมีผลต่อการยับยั้งแบคทีเรียต้นเหตุของปัญหาช่องปาก Streptococcus mutans ใกล้เคียงกับกลุ่มที่ให้ใช้น้ำยาบ้วนปากที่มีส่วนผสมของ chlorhexidine แต่คุณสมบัติการคงอยู่ในช่องปาก (substantivity) ต่ำ น้ำยาบ้วนปากที่มีส่วนผสมของน้ำมันหอมระเหยจากขิงมีผลในการควบคุมคราบจุลินทรีย์ dental biofilm และลดอาการเลือดออกบริเวณเหงือก จาการประเมินเกี่ยวกับรสสัมผัส (sensory analysis: flavor) มีคะแนนต่ำทั้งกลุ่มที่ใช้น้ำยาบ้วนปากที่มีส่วนผสมของ chlorhexidine และน้ำมันหอมระเหยจากขิง จากผลการทดสอบสรุปได้ว่าน้ำยาบ้วนปากที่มีส่วนผสมของ 0.5% น้ำมันหอมระเหยจากขิงมีผลต้านการอักเสบ บรรเทาอาการเลือดออกบริเวณเหงือก อย่างไรก็ตามควรมีการปรับเปลี่ยนเกี่ยวกับรสชาติของน้ำยาบ้วนปาก (24)",
+                "clinical_ref": [
+                    "Dhaliwal S, Rybak I, Pourang A, Burney W, Haas K, Sandhu S. Randomized double-blind vehicle controlled study of the effects of topical acetyl zingerone on photoaging. J Cosmet Dermatol. 2021;20(1):166-73. doi: 10.1111/jocd.13464."
+                ]
+            },
+            {
+                "clinical": "ทำให้ริมฝีปากชุ่มชื้น",
+                "clinical_content": "การศึกษาทางคลินิกในอาสาสมัครเพศหญิงอายุระหว่าง 18 – 40 ปี จำนวน 60 ราย โดยแบ่งออกเป็นกลุ่มละ 30 ราย กลุ่มทดสอบให้ใช้ลิปสติก (lip plumper) ที่มีส่วนผสมของขิง (Incarose Extreme Lips Piu Volume is a cosmetic produced by DI-VA Health and Beauty; Cinisello Balsamo, Italy) (ไม่ระบุรายละเอียดของวัตถุดิบหรือสารสกัดที่ใช้) ทาบริเวณริมฝีปาก (vermilion) ครั้งเดียว เปรียบเทียบกับกลุ่มยาหลอก ประเมินผลการทดสอบในช่วงเริ่มการทดสอบ 15, 30, 60, 90 และ120 นาที หลังจากทาลิปสติก ประเมินผลต่อการขยายตัวของหลอดเลือด (vasodilating effect) ด้วย Mexameter MX 16® ประเมินผลต่อปริมาตรริมฝีปาก (volumizing effect) ด้วย 3D scanning electron microscope (SEM) ผลการทดสอบพบว่ากลุ่มที่ให้ใช้ลิปสติกที่มีส่วนผสมของขิงมีผลในการเพิ่ม lip vascularization ในช่วง 15 นาทีแรก และคงอยู่จนกระทั่ง 30 นาที และเพิ่มปริมาตรของลักษณะริมฝีปากจากการวัด maximum height of protrusion (MHP) ได้ 0.50 มม. ในช่วง 15 นาทีแรก จากผลการทดสอบสรุปได้ว่า ลิปสติกที่มีส่วนผสมของขิงมีผลในการกระตุ้นการขยายตัวของหลอดเลือด (vasodilation) และเพิ่มปริมาตรของริมฝีปาก (lip volume) ได้ (25)",
+                "clinical_ref": [
+                    "Mazzarello V, Solinas G, Bandiera P, Pomponi V, Piu G, Ferrari M. How long does the volumizing effect of a Zingiber officinale-based lip plumper last? Int J Cosmet Sci. 2017;39(4):373-8. doi: 10.1111/ics.12383."
+                ]
+            }
+        ],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "ฤทธิ์ทำให้ผิวขาว",
+                "pharmacological_content": "การทดสอบสารฤทธิ์ของสาร [6]-gingerol ที่สกัดแยกได้จากขิง (Wako: Osaka, Japan) ในการยับยั้งเอนไซม์ tyrosinase และผลต่อปริมาณเม็ดสีเมลานิน โดยทำการทดสอบในเซลล์เซลล์มะเร็งเม็ดสีผิวชนิด B16F10 พบว่า [6]-gingerol ขนาด 25 – 100 ไมโครโมลาร์ มีฤทธิ์ในการยับยั้งเอนไซม์ tyrosinase และลดปริมาณของเม็ดสีเมลานินขึ้นอยู่กับขนาดของสารสกัด นอกจากนี้ ยังมีผลในการลดการเกิดอนุมูลอิสระภายในเซลล์ขึ้นอยู่กับขนาดของสารสกัดเช่นเดียวกัน (11)การทดสอบสารฤทธิ์ของสาร zerumbone ที่แยกได้จากขิง และสารสกัดขิง(สกัดด้วย 99% เมทานอลและทำให้แห้งด้วยวิธี freeze dry) (Korea plant extract bank (KPEB); Daejeon, Korea and Korea research institute of bioscience and biotechnology (KRIBB); Daejeon, Korea) ในการลดปริมาณเม็ดสีเมลานิน โดยทำการทสอบในเซลล์มะเร็งเม็ดสีผิวชนิด B16F10 ที่ถูกกระตุ้นให้เกิดการสร้างเม็ดสีเมลานิน ด้วย α-melanocyte-stimulating hormone (α-MSH)และวิเคราะห์กลไกที่เกี่ยวข้องกับการสร้างเม็ดสีเมลานิน การแสดงออกของ microphthalmia-associated transcription factor (MITF) ซึ่งทำหน้าที่ในการควบคุมเซลล์เมลาโนไซต์ในการสร้างเม็ดสีเมลานินและยีนที่เกี่ยวข้อง ได้แก่ tyrosinase, tyrosinase-related protein 1 (TYRP1) และ tyrosinase-related protein 2 (TYRP2) ผลการทดสอบพบว่าสารzerumbone มีฤทธิ์ในการยับยั้งการแสดงออกของโปรตีน MITF(protein expression levels of MITF) และการแสดงออกของยีน MITF (gene expression of MITF)ที่กระตุ้นการแสดงออกของยีนที่เกี่ยวข้องกับการสร้างเม็ดสีเมลานิน ยับยั้งการแสดงออกของยีนtyrosinase, TYRP1 และTYRP2 และการทำงานของ tyrosinaseนอกจากนี้ทั้งสาร zerumbone และสารสกัดขิงยังมีฤทธิ์ในการเพิ่ม extracellular signal-regulated kinases 1และ2 (ERK1/2) phosphorylationซึ่งเกี่ยวข้องกับการทำลายกลไกของ MITF (22)การทดสอบฤทธิ์ของน้ำมันหอมระเหยจากขิง (Tianjin; China) ผลต่อการสร้างเม็ดสีเมลานิน และผลต่อการต้านอนุมูลอิสระวัดผลของน้ำมันหอมระเหยจากขิงต่อการแบ่งตัวของเซลล์ ปริมาณเม็ดสีเมลานิน และการทำงานของเอนไซม์ tyrosinase ด้วย microplate readerวัดการแสดงออกของโปรตีนที่เกี่ยวข้องกับการสร้างเม็ดสีเมลานินด้วย western blottingพบว่าน้ำมันหอมระเหยจากขิงมีผลในการยับยั้งการแบ่งตัวของเซลล์และยับยั้งการสร้างเม็ดสีเมลานิน มีผลในการดักจับอนุมูลอิสระ ลดการเกิด lipid peroxidation นอกจากนี้น้ำมันหอมระเหยจากขิงยังมีผลในการปรับปรุงเอนไซม์ต้านอนุมูลอิสระ glutathione (GSH), superoxide dismutase (SOD)และcatalase (CAT) ในเซลล์ B16 melanoma จากผลการทดสอบนักวิจัยระบุว่าน้ำมันหอมระเหยจากขิงมีผลในการยับยั้งการสร้างเม็ดสีเมลานินผ่านกลไกการต้านอนุมูลอิสระและยับยั้งเอนไซม์ tyrosinase และโปรตีนที่เกี่ยวข้องกับการสร้างเม็ดสีเมลานิน (26)",
+                "pharmacological_ref": [
+                    "Huang HC, Chiu SH, Chang TM. Inhibitory effect of [6]-gingerol on melanogenesis in B16F10 melanoma cells and a possible mechanism of action. Biosci Biotechnol Biochem. 2011;75(6):1067-72. doi: 10.1271/bbb.100851."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านอนุมูลอิสระ",
+                "pharmacological_content": "การทดสอบฤทธิ์ของสาร [6]-shogaol ที่แยกได้จากขิง (Sigma; St. Louis, MO, USA) โดยทำการทดสอบในเซลล์ผิวหนังมนุษย์ human primary epidermal melanocytes (HEMn-MPs)ที่ถูกเหนี่ยวนำให้เกิดอนุมูลอิสระด้วย hydrogen peroxide (H2O2)ในหลอดทดลอง พบว่าสาร [6]-shogaol มีฤทธิ์ในการปกป้องเซลล์จากการเหนี่ยวนำด้วย H2O2ที่กระตุ้นให้เกิดเซลล์ตาย โดยการยับยั้งภาวะเครียดที่เกิดจากออกซิเดชัน นอกจากนี้ยังกระตุ้นวิถีการส่งสัญญาณ Nuclear factor erythroid 2-related factor 2 (Nrf2) มีผลต่อการต้านอนุมูลอิสระเพิ่มการควบคุมการแสดงออกของเอนไซม์ต้านอนุมูลอิสระ heme oxygenase 1 (HO-1), การแสดงออกของโปรตีน Nrf2, NAD(P)H: quinine oxidoreductase 1 (Nqo1) และ HO-1 นอกจากนี้ยังมีผลในการปกป้องเซลล์จากการเหนี่ยวนำให้เกิดอนุมูลอิสระด้วย Rhododendrol จากผลการทดสอบนักวิจัยสรุปว่าสาร [6]-shogaol มีฤทธิ์ยั้งยั้งภาวะเครียดออกซิเดชันในหลอดทดลอง ปกป้องเซลล์ด้วยการกระตุ้นวิถีการส่งสัญญาณ Nrf2 เป็นข้อมูลเพื่อการศึกษาเพิ่มเติมฤทธิ์ในการปกป้องเซลล์ผิวหนังในระยะเริ่มต้นของโรคด่างขาว (vitiligo) หรือความผิดปกติอื่น ๆ ของเม็ดสีผิวหนัง (12) การทดสอบฤทธิ์ของสารกลุ่ม phenylpropanoidsโดยใช้ผงเหง้าขิง 40 ก. สกัดด้วยเมทานอล 200 มล. หรือน้ำกลั่น (distilled deionized water)ที่อุณหภูมิห้องเป็นเวลา 24 ชั่วโมง โดยเขย่าที่ 120 rpm. หลังจากสกัด นำไปปั่นด้วยเครื่องหมุนเหวี่ยงcentrifugation ด้วยความแรง 3000 ก. ที่อุณหภูมิ 25 องศาเซลเซียส เป็นเวลา 10 นาที และกรองด้วยเยื่อกรอง (membrane filter) ขนาด 0.22 ไมโครเมตร ระเหยเมทานอลออกด้วย SpeedVac (Thermo Scientific) ที่อุณหภูมิ 45 องศาเซลเซียส ละลายใน dimethyl sulfoxide (DMSO) กรองด้วยเยื่อกรอง 0.22 ไมโครเมตร เก็บที่ -80 องศาเซลเซียส วิเคราะห์สารกลุ่ม phenylpropanoids ด้วย ultrahigh performance liquid chromatography (UHPLC)และทดสอบฤทธิ์ของสารสกัดขิง สารกลุ่ม phenylpropanoids ต่อวิถีการส่งสัญญาณ Nrf2 ซึ่งมีผลต่อการต้านอนุมูลอิสระ และผลต่อเอนไซม์ phase II detoxificationglutathione-S-transferase P1 (GSTP1) ทำการทดสอบในเซลล์เพาะเลี้ยง human BJ foreskin fibroblasts และ HaCaT keratinocytes เทียบกับฤทธิ์ของสาร quercetin(Sigma-Aldrich)พบว่าทั้งสารสกัดจากขิง สารกลุ่ม phenylpropanoids และquercetin มีฤทธิ์ในการเพิ่มระดับของ Nrf2 และGSTP1 ในเซลล์ human BJ foreskin fibroblasts แต่ไม่มีผลในเซลล์ HaCaT keratinocytes (13) การทดสอบฤทธิ์ในการต้านอนุมูลอิสระของสารประกอบจากขิง ได้แก่ สาร [6]-gingerol, [8]-gingerol, [10]-gingerol และ [6]-shogaol(Shenzhen Chemstrong Scientific Co., Ltd; Shenzhen, China) เปรียบเทียบกับสาร butylated hydroxytoluene โดยใช้เทคนิค oxygen consumption test และ oxidized fatty acids ใน canola oil พบว่าสารประกอบจากขิงมีฤทธิ์ในการต้านอนุมูลอิสระ โดยสาร [6]-shogaol และ 10-gingerol มีฤทธิ์ต้านอนุมูลอิสระสูง ที่ 60 องศาเซลเซียส มากกว่า [6]-gingerol และ [10]-gingerol และการต้านอนุมูลอิสระที่ต่ำ วัดที่อุณหภูมิ 120/180 องศาเซลเซียส สารประกอบจากขิงมีฤทธิ์ในการต้านอนุมุลอิสระขึ้นอยู่กับปริมาณของสาร โดยเฉพาะที่อุณหภูมิสูง (14)",
+                "pharmacological_ref": [
+                    "Yang L, Yang F, Teng L, Katayama I. 6-Shogaol protects human melanocytes against oxidative stress through activation of theNrf2-antioxidant response element signaling pathway. Int J Mol Sci. 2020;21(10):3537. doi: 10.3390/ijms21103537."
+                ]
+            },
+            {
+                "pharmacological": "ต้านการอักเสบ",
+                "pharmacological_content": "การทดสอบฤทธิ์ต้านการอักเสบของสารสกัดขิงที่ทำให้แห้ง (ไม่ระบุวิธีการสกัด) [ginger dry extract (DE) containing 5 % gingerols, EPO; Milan, Italy] และสารสกัดขิงที่ทำให้แห้งที่มีสาร gingerols ในปริมาณสูง [gingerols-enriched dry extract (EDE)มี [6]-gingerol ใน DE และ EDE เท่ากับ 1.6 และ 5% w/wเตรียมได้จากละลาย DE 5 ก. ใน isopropyl alcohol 80 มล. คนเป็นเวลา 30 ชม. ที่อุณหภูมิห้อง และปั่นเหวี่ยงที่ 5000 rpm เป็นเวลา 30 นาที นำส่วนที่ไม่ละลายออก (UNIVERSAL 30 RF; Hettich, Germany) นำส่วน supernatant ทำให้แห้งที่อุณหภูมิห้อง(ไม่ระบุวิธีการค่ะThe supernatant was dried at room temperature until constant weight was reached) และศึกษาการใช้พลาสเตอร์ปิดแผลที่มีส่วนผสมของสารสกัดขิง DE หรือ EDE 1 มก./ซม.2 (Oberhasli; Zürich, Switzerland) เพื่อบรรเทาอาการอักเสบ โดยทำการทดสอบในหนูเม้าส์ที่ถูกเหนี่ยวนำให้เกิดการอักเสบด้วยน้ำมันสลอด (croton oil) 80 ไมโครกรัม ในอะซีโตน ทาบริเวณหูข้างขวาเป็นบริเวณประมาณ 1 ซม.2 เพื่อทำให้หูเกิดอาการบวม หลังจากนั้นทาสารสกัดขิงที่ละลายในอะซีโตนเปรียบเทียบกับกลุ่มที่ใช้ยาต้านการอักเสบ indomethacin หรือทดสอบโดยใช้พลาสเตอร์ที่มีส่วนผสมขอสารสกัดขิงแปะลงไปเปรียบเทียบกับกลุ่มที่ใช้พลาสเตอร์ยาหลอก ผลการทดสอบพบว่าสารสกัดขิง DE มีฤทธิ์ต้านการอักเสบ มีค่า ID50เท่ากับ 142 ไมโครกรัม/ซม.2 กลุ่มที่ใช้ indomethacin มีค่า ID50เท่ากับ 93 ไมโครกรัม/ซม.2 และสารสกัดขิง EDE มีฤทธิ์ต้านการอักเสบ มีค่า ID50เท่ากับ 181 ไมโครกรัม/ซม.2 ต่ำกว่ากลุ่ม DE เล็กน้อย นักวิจัยระบุว่าการเพิ่มความเข้มข้นของ [6]-gingerol ไม่มีผลในการเพิ่มฤทธิ์การต้านการอักเสบ สำหรับการทดสอบการใช้พลาสเตอร์ที่มีส่วนผสมของสารสกัดขิง DE หรือ EDE 1 มก./ซม.2 ให้ผลในการต้านการอักเสบอย่างมีนัยสำคัญและการศึกษาการซึมผ่านผิวหนัง (ex vivo skin permeation study) ด้วยเทคนิค modified Franz diffusion cell method พบว่าปริมาณสาร [6]-gingerol โดยประมาณที่สามารถซึมผ่านผิวหนังมนุษย์ (human epidermis) ได้อยู่ที่ 6.9 ไมโครกรัม/ซม.2 ในขณะที่การซึมผ่านผิวหนังหนูเม้าส์ (mouse skin) อยู่ที่ 22.1 ไมโครกรัม/ซม.2 อย่างไรก็ตามปริมาณสาร [6]-gingerol ที่ซึมผ่านผิวหนังมนุษย์และผิวหนังหนูเม้าส์จะอยู่ที่ช่วง 8 ชั่วโมงแรก (27)    การทดสอบฤทธิ์ต้านการอักเสบของสาร [6]-gingerol (Wako Pure Chemicals; purity >98.0%, Osaka, Japan) ในหนูเม้าส์ที่ถูกเหนี่ยวนำด้วย phorbol 12-myristate 13-acetate (PMA) เพื่อกระตุ้นให้เกิด cyclooxygenase-2 (COX-2), NF-κB และp38 mitogen-activated protein kinase (p38 MAPK)บริเวณผิวหนัง โดยให้สาร [6]-gingerol ขนาด 5 หรือ 25 ไมโครโมล ทาบริเวณผิวหนังด้านหลัง เป็นเวลา 30 นาที หลังจากนั้นให้สาร PMA 10 นาโนโมล พบว่าสาร [6]-gingerol มีฤทธิ์ในการยับยั้ง PMA ในการกระตุ้น COX-2ยับยั้ง NF-κB และ p38 MAPK (16) การทดสอบฤทธิ์ต้านการอักเสบของสาร [6]-gingerol(Wako Pure Chemicals; purity >98.0%, Osaka, Japan) ในหนูเม้าส์ที่ถูกเหนี่ยวนำด้วย 12-O-tetradecanoylphorbol-13-acetate (TPA)เพื่อกระตุ้นให้เกิดNF-κBโดยให้สาร [6]-gingerol ขนาด 5 หรือ 30 ไมโครโมล ทาบริเวณผิวหนัง เป็นเวลา 30 นาที หลังจากนั้นให้สาร TPA 10 นาโนโมล พบว่าสาร [6]-gingerol มีฤทธิ์ในการยับยั้ง COX-2และควบคุมการกระตุ้น p38MAPและ NF-κB (17) การทดสอบฤทธิ์ต้านการอักเสบของสาร [6]-shogaol ในเซลล์ RAW 264.7 ที่ถูกกระตุ้นให้เกิดการอักเสบด้วย LPS และสร้าง nitric oxide synthase (NOS) และ COX-2จากการวิเคราะห์ด้วย western blotting และ reverse transcription-PCR analyses พบว่าสาร [6]-shogaolมีฤทธิ์ในการควบคุมการแสดงออกของโปรตีนและ mRNA ของ  inducible NOS (iNOS) และ COX-2 และการทดสอบในสัตว์ทดลอง โดยทดสอบในหนูเม้าส์ที่ถูกกระตุ้นให้ผิวหนังอักเสบด้วย TPA พบว่าสาร [6]-shogaol มีฤทธิ์ในการยับยั้งการแสดงออกของโปรตีน  iNOS และ COX-2 ยับยั้ง NF-κB และยับยั้งการส่งสัญญาณของ inhibitor κB (IκB)αและ p65 และการสลายตัวของ IκBαสาร [6]-shogaol มีฤทธิ์ในการต้านการอักเสบผ่านการยับยั้ง NF-κB ด้วยการรบกวนการกระตุ้นของ PI3K/Akt/IκB kinases IKK และ MAPK (18)",
+                "pharmacological_ref": [
+                    "Minghetti P, Sosa S, Cilurzo F, Casiraghi A, Alberti E, Tubaro A. Evaluation of the topical anti-inflammatory activity of ginger dry extracts from solutions and plasters. Planta Med. 2007;73(15):1525-30. doi: 10.1055/s-2007-993741."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์กันแดด",
+                "pharmacological_content": "การทดสอบฤทธิ์กันแดดของสาร[6]-gingerol [Wako Pure Chemicals; Osaka, Japan  (purity > 98%)] ในเซลล์เพาะเลี้ยง HaCaT ที่ถูกเหนี่ยวนำด้วยการฉายรังสี UVB280 - 320 นาโนเมตร 6.25 J/ม.2/s ในหลอดทดลองพบว่าสาร [6]-gingerol มีฤทธิ์ลดระดับของการเกิดอนุมูลอิสระภายในเซลล์ การกระตุ้นของ caspase-3, 8 และ 9 และ Fass expression ที่เกี่ยวข้องกับการตายของเซลล์รวมทั้งลดการแสดงออกของ COX-2 และยับยั้ง NF-κB ผ่านกลไกการยับยั้งการส่งสัญญาณ IκBa และการทดสอบในสัตว์ทดลอง โดยทำการทดสอบในหนูเม้าส์ ให้ทาสารละลาย [6]-gingerol บริเวณผิวหนัง ขนาด 30 ไมโครโมลาร์ ก่อนจะถูกเหนี่ยวนำด้วยการฉายรังสีUVB290 - 320 นาโนเมตร15 kJ/ม.2 พบว่าสาร [6]-gingerol มีฤทธิ์ในการยับยั้งการสร้าง mRNA และโปรตีนของ COX-2 และ NF-κB จากผลการทดสอบนักวิจัยสรุปว่าสาร [6]-gingerol มีฤทธิ์ในการป้องกันรังสี UVB ที่กระตุ้นให้เกิดความผิดปกติของผิวหนังได้ (19)การทดสอบฤทธิ์กันแดดของสาร [6]-shogaol (Biopurify, China) ในเซลล์เพาะเลี้ยง HaCaT ที่ถูกเหนี่ยวนำด้วยการฉายรังสี UVB180 mJ/ซม.2ในหลอดทดลอง พบว่าสาร [6]-shogaol มีฤทธิ์ในการปกป้องเซลล์จากรังสี UVB โดยป้องกันการแสดงออกของMAPKs [ERK1, c-Jun N-terminal kinase (JNK) และp38)สาร [6]-shogaol ขนาด 20 ไมโครกรัม มีฤทธิ์ยับยั้งการแสดงออกของBax และ Bcl-2 ที่มีผลในการกระตุ้นการตายของเซลล์ (20) การทดสอบฤทธิ์กันแดดของสารสกัดจากขิง (Tochimoto Corporation; Osaka, Japan) โดยใช้เหง้าขิงแห้ง 200 ก. สกัดใน 20% เอทานอล 1ลิตร เป็นเระยะเวลา 7 วัน ที่อุณหภูมิห้อง และกรอง และคนเป็นเวลา 2 ชม. ที่อุณหภูมิห้อง ด้วย activated charcoal 30 ก. แล้วกรองอีกครั้ง ภายใต้สภาวะลดความดัน ทำการทดสอบในหนูเม้าส์และหนูแรทโดยแบ่งทั้งหนูแรทและหนูเม้าส์ออกเป็น 3 กลุ่ม กลุ่มแรกจะถูกเหนี่ยวนำให้เกิดริ้วรอยบริเวณผิวหนังด้วยรังสี UVB  และให้ทา1.0% สารสกัดขิงใน50% เอทานอล บริเวณผิวหนังขาหลังของหนูแรท และบริเวณด้านหลังของหนูเม้าส์ กลุ่มที่ 2 จะถูกเหนี่ยวนำให้เกิดริ้วรอยบริเวณผิวหนังด้วยรังสี UVB และให้ทา 50% เอทานอล เพียงอย่างเดียว กลุ่มที่ 3 เป็นกลุ่มควบคุมปกติ ไม่ให้รังสี UVB และไม่ทาสารใด ๆ ผลการทดสอบพบว่ากลุ่มที่ได้รับการทาสารสกัดจากขิงมีฤทธิ์ในการยับยั้งการเกิดริ้วรอยที่ถูกเหนี่ยวนำจากรังสี UVB มีผลในการป้องกันการลดลงของความยืดหยุ่นของผิวหนัง ทั้งในหนูเม้าส์และหนูแรท มีผลในการยับยั้งเอนไซม์อีลาสเทส (elastase) ในเซลล์ไฟโบรบลาสต์ที่เป็นสาเหตุของการเสื่อมสภาพของผิวได้ (28) การทดสอบฤทธิ์กันแดดของสารสกัดน้ำจากขิง (Suwon, Gyeonggi-do, Republic of Korea) และสาร gingerol และ shogaol (Wako Pure Chemical Industries; Osaka, Japan) ในเซลล์เพาะเลี้ยง HaCaT และ C57BL/6 ที่ถูกเหนี่ยวนำด้วยการฉายรังสี UVB290 - 320 นาโนเมตรในหลอดทดลอง พบว่าสารสกัดจากขิง สาร gingerol และ shogaol มีฤทธิ์ในการยับยั้งการอักเสบ ยับยั้ง IL-1β, TNF-α, IL-6และ IL-8 ที่เพิ่มสูงขึ้นจากการเหนี่ยวนำด้วยรังสี UVB และการทดสอบในสัตว์ทดลองในหนูเม้าส์ โดยแบ่งออกเป็น 4 กลุ่ม ได้แก่ กลุ่มแรกเป็นกลุ่มควบคุมปกติ ไม่ถูกเหนี่ยวนำด้วยรังสี UVB และไม่ให้สารใด ๆ กลุ่มที่ 2 ถูกเหนี่ยวนำด้วยรังสี UVB เพียงอย่างเดียว กลุ่มที่ 3 ถูกเหนี่ยวนำด้วยรังสี UVB และให้ 1% สารสกัดขิง กลุ่มที่ 4 ถูกเหนี่ยวนำด้วยรังสี UVB และให้ 2.5% สารสกัดขิง โดยเหนี่ยวนำด้วยรังสี UVB 200 mJ/ซม.2 ทุกวัน เป็นเวลา 2 สัปดาห์ หลังจากนั้นจึงให้สารสกัดขิง หลังจากทำการทดสอบในครั้งสุดท้าย 24 ชม. จึงแยกส่วนหลังของหนูออกมาเพื่อประเมินผลการทดสอบ พบว่าสารสกัดขิงมีฤทธิ์ยับยั้งการสร้างไซโตไคน์ที่เกี่ยวข้องกับการอักเสบลดการเพิ่มจำนวนของเซลล์ (hyperplasia) การคั่งของเม็ดเลือดขาว (infiltration of leukocytes) และการขยายของหลอดเลือด (dilation of blood vessels )จากการถูกเหนี่ยวนำด้วยรังสี UVB ที่ทำให้เกิดการทำลายของเซลล์ผิวหนัง (29)",
+                "pharmacological_ref": [
+                    "Kim JK, Kim Y, Na KM, Surh YJ, Kim TY. [6]-Gingerol prevents UVB-induced ROS production and COX-2 expression in vitro and in vivo. Free Radic Res. 2007;41(5):603-14. doi: 10.1080/10715760701209896."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านการแพ้",
+                "pharmacological_content": "การทดสอบฤทธิ์ของสาร [6]-shogaol(Waco Pure Chemical Industries, Ltd. Osaka, Japan) ต่อเม็ดเลือดขาว (mast cell) ที่เกิดปฏิกิริยาอาการแพ้ (allergic reactions) ทั้งในสัตว์ทดลองและหลอดทดลอง โดยทำการทดสอบในหนูแรทที่ถูกเหนี่ยวนำให้เกิดภาวะภูมิไวเกินที่รุนแรง (passive cutaneous anaphylaxis; PCA) ด้วยการฉีด anti-dinitrophenyl immunoglobulin E (anti-DNP IgE) เข้าใต้ผิวหนังบริเวณด้านหลัง หลังจากนั้น 48 ชม. ให้สาร [6]-shogaol ขนาด 1 และ 5 มก./กก. ทางปาก หลังจากนั้น1 ชม. ให้ DNP-HAS (human serum albumin) ในน้ำเกลือที่ประกอบด้วย 4% Evans blue ผ่านทางหลอดเลือดดำบริเวณองคชาต ทำการแยกเม็ดเลือดขาว peritoneal mast cell (RPMCs) ออกมาเพื่อวัดการหลั่ง histamine และการทดสอบในหลอดทดลองวัดผลของสาร [6]-shogaol ต่อระดับของการอักเสบใน human mast cells (HMC-1) ที่ถูกกระตุ้นด้วย phorbol 12-myristate 13-acetate plus calcium ionomycin A23187 ผลการทดสอบพบว่าสาร [6]-shogaol ขนาด 1 และ 5 มก./กก. มีฤทธิ์ยับยั้งการเกิด PCA ได้ 44.9%และ72.1% ตามลำดับ เปรียบเทียบกับกลุ่มควบคุมที่ไม่ให้สาร [6]-shogaol ไม่แสดงผลในการยับยั้ง และยังมีผลในการลดการหลั่งของ histamine สำหรับการทดสอบในหลอดทดลองพบว่าสาร [6]-shogaol มีผลในการยับยั้ง TNF-α, IL-6และ IL-8ควบคุมการกระตุ้นของ NF-κB และควบคุมวิถีการส่งสัญญาณc-Jun N-terminal kinase phosphorylation(JNK)(15) การทดสอบฤทธิ์ของสาร [6]-shogaol(Chengdu Biopurify Phytochemicals Ltd.; Biopurify, Sichuan, China) ในหนูเม้าส์ที่ถูกเหนี่ยวนำให้เกิดภาวะผื่นภูมิแพ้ผิวหนัง(allergic dermatitis) ด้วย 2,4-dinitrochlorobenzene (DNCB)โดยแบ่งออกเป็นกลุ่มทดสอบ 2 กลุ่ม ได้แก่กลุ่มที่ให้ทาสาร DNCB บริเวณผิวหนังด้านหลังร่วมกับการให้สาร [6]-shogaol ขนาด 10 และ 50 มก./กก. ใน 5% DMSO ในน้ำเกลือ ทางปาก ตามลำดับ เปรียบเทียบกับกลุ่มที่ไม่ให้สาร [6]-shogaol และกลุ่มที่ให้ยา 1% dexamethasoneผลการทดสอบพบว่าสาร [6]-shogaol มีฤทธิ์ในการยับยั้ง DNCB ในการกระตุ้นภาวะผื่นภูมิแพ้ผิวหนังโดยการให้สาร [6]-shogaol ขนาด 10 และ 50 มก./กก. สามารถลดความรุนแรงของอาการผื่นภูมิแพ้ผิวหนังได้ และมีค่าคะแนนความรุนแรงของอาการทางผิวหนัง (skin severity scores) เท่ากับ 2.67 ± 0.37 และ1.67 ± 0.37 ตามลำดับ และลดพฤติกรรมการเกา (scratching behavior) มีคะแนน 102.20 ± 12.53 และ58.20 ± 13.93 ตามลำดับ โดยเปรียบเทียบกับกลุ่มที่ให้สาร DNCB เพียงอย่างเดียวมีคะแนนความรุนแรงของอาการทางผิวหนัง เท่ากับ 4.33 ± 0.37 และมีคะแนนพฤติกรรมการเกาเท่ากับ 271.00 ± 18.67 จากผลการทดลองพบว่าการให้สาร [6]-shogaol ขนาด 50 มก./กก. ให้ผลลดอาการผื่นภูมิแพ้ผิวหนังใกล้เคียงกับการให้ยา 1% dexamethasone ซึ่งมีคะแนนความรุนแรงของอาการทางผิวหนังเท่ากับ 1.17 ± 0.18 และคะแนนพฤติกรรมการเกาเท่ากับ 49.00 ± 7.79 นอกจากนี้สาร [6]-shogaolยังมีผลในการลดระดับของไซโตไคน์ที่เกี่ยวข้องกับการอักเสบอย่างมีนัยสำคัญ ได้แก่ Th2/1-mediated inflammatory cytokines, IgE, TNF-α, IFN-γ, thymus และ activation-regulated chemokine, IL-1, IL-4, IL-12 และIL-13, cyclooxygenase-2 และ nitric oxide synthase และการทดสอบในหลอดทดลองพบว่าสาร [6]-shogaol มีฤทธิ์ในการยับยั้งการเกิดอนุมูลอิสระ และยับยั้งวิถีการส่งสัญญาณ mitogen-activated protein kinase (MAPK) signaling pathways เพิ่มระดับของสารต้านอนุมูลอิสระ ได้แก่  glutathione ทั้งหมด heme oxygenase-1 และ quinone 1 ผ่านการกระตุ้น nuclear factor erythroid 2 related factor 2 (Nrf2) จากผลการทดสอบนักวิจัยสรุปว่าสาร [6]-shogaolมีฤทธิ์ในการบรรเทาอาการผื่นภูมิแพ้ผิวหนังโดยผ่านกลไกการปรับปรุงระบบภูมิคุ้มกัน ควบคุมการเกิดอนุมูลอิสระ และวิถีการส่งสัญญาณของMAPKs และ Nrf2(30)2 การศึกษาเกี่ยวกับช่องปาก/ริมฝีปาก2.1 น้ำยาบ้วนปาก/ฆ่าเชื้อในช่องปาก (L001) การศึกษาฤทธิ์ของสารสกัดเอทานอลและเฮกเซนจากขิงต่อการยับยั้งเชื้อแบคทีเรีย Porphyromonas gingivalis ATCC 53978, P. endodontalis ATCC 35406 และ Prevotella intermedia ATCC 25611 ที่เป็นสาเหตุของโรคปริทันต์อักเสบ (periodontal disease) ทำการสกัดขิง (Noeun agricultural market in Daejeon of Korea) ใช้เหง้าขิงที่แห้งและนำมาบด สกัดขิง 100 ก. ใน 95% เอทานอล 3 ล. นาน 48 ชม. ที่อุณหภูมิห้อง กรองผ่านกระดาษกรอง นำไประเหยด้วย rotary evaporator และทำให้แห้งด้วยการแช่เยือกแข็ง lyophilized และทำการสกัดอีกครั้งโดยนำสารสกัด 5 ก. มาละลายใน n-hexane ทำการแยกวิเคราะห์สารจากขิงด้วย high-performance liquid chromatographic method แล้วทดสอบฤทธิ์ต้านแบคทีเรียพบว่าสาร [10]-gingerol และ [12]-gingerol มีฤทธิ์ในการยับยั้งเชื้อแบคทีเรียทั้ง 3 ชนิด มีค่าความเข้มข้นต่ำสุดในการยับยั้งเชื้อแบคทีเรีย (minimum inhibitory concentration; MIC) อยู่ที่ 6 – 30 มคก./มล. มีค่าความเข้มข้นต่ำสุดในการฆ่าเชื้อแบคทีเรีย (minimum bactericidal concentration; MBC) อยู่ที่ 4 – 20 มคก./มล. สาร [10]-gingerol มีค่า MIC ต่อเชื้อ P. gingivalis, P. endodontalis และ P. intermedia เท่ากับ 6, 8 และ 14 มคก./มล. ตามลำดับ และมีค่า MBC ต่อเชื้อ P. gingivalis, P.  endodontalis และ P.  intermedia เท่ากับ 6, 4 และ 14 มคก./มล. ตามลำดับ สาร [12]-gingerol มีค่า MIC ต่อเชื้อ P. gingivalis, P. endodontalis และ P. intermedia เท่ากับ 15, 15 และ 30 มคก./มล. ตามลำดับ และมีค่า MBC ต่อเชื้อ P. gingivalis, P. endodontalis และ P. intermedia เท่ากับ 10, 10 และ 20 มคก./มล. ตามลำดับ ในขณะที่ 5-acetoxy-[6]-gingerol, 3,5-diacetoxy-[6]-gingerdiol และ galanolactone ไม่มีฤทธิ์ในการฆ่าเชื้อแบคทีเรีย (31)",
+                "pharmacological_ref": [
+                    "Sohn Y, Han NY, Lee MJ, Cho HJ, Jung HS. [6]-Shogaol inhibits the production of proinflammatory cytokines via regulation of NF-kB and phosphorylation of JNK in HMC-1 cells. Immunopharmacol Immunotoxicol. 2013;35(4):462-70. doi: 10.3109/08923973.2013.782318"
+                ]
+            }
+        ]
+    }
+}

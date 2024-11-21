@@ -1,0 +1,883 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Cocos nucifera",
+            "authorship": "Carl Linnaeus",
+            "updated_by": "",
+            "name_ref": "Sp. Pl. : 1188 (1753)",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:666160-1"
+        },
+        "synonyms": [
+            {
+                "name": "Palma cocos",
+                "author": "Philip Miller 1691-1771",
+                "protologue": "Gard. Dict., ed. 8. : n.° 2 (1768)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000263280"
+            },
+            {
+                "name": "Calappa nucifera",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "Revis. Gen. Pl. 2: 982 (1891)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000766492"
+            },
+            {
+                "name": "Cocos nucifera var. synphyllica",
+                "author": "Odoardo Beccari 1843-1920",
+                "protologue": "Agric. Colon. 10: 586 (1916)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000793027"
+            },
+            {
+                "name": "Cocos indica",
+                "author": "John Forbes Royle 1799-1858",
+                "protologue": "Ill. Bot. Himal. Mts. : 395 (1840)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000903391"
+            },
+            {
+                "name": "Cocos mamillaris",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Fl. Filip. : 722 (1837)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000903457"
+            },
+            {
+                "name": "Cocos nana",
+                "author": "William Griffith 1810-1845",
+                "protologue": "Not. Pl. Asiat. 3: 166 (1851)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000903529"
+            },
+            {
+                "name": "Diplothemium henryanum",
+                "author": "Forest B. H. Brown 1873-1954",
+                "protologue": "Bull. Bernice P. Bishop Mus. 84: 128 (1931)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000944152"
+            },
+            {
+                "name": "Cocos nucifera var. microcarpa",
+                "author": "Justus Carl Hasskarl 1811-1894",
+                "protologue": "Cocos nucifera Handb. Kennis Cocos-palm Ned.-Ind. , ed. 2: 46 (1916)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317037"
+            },
+            {
+                "name": "Cocos nucifera var. javanica",
+                "author": "G.V.Narayana",
+                "protologue": "Indian Coconut J. 2: 216 (1949)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317045"
+            },
+            {
+                "name": "Cocos nucifera var. alangan",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 84 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317119"
+            },
+            {
+                "name": "Cocos nucifera var. alba",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 86 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317120"
+            },
+            {
+                "name": "Cocos nucifera var. angustifolia",
+                "author": "Justus Carl Hasskarl 1811-1894",
+                "protologue": "Cat. Hort. Bot. Bogor. Alt. : 66 (1844)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317121"
+            },
+            {
+                "name": "Cocos nucifera var. aurea",
+                "author": "Anon.",
+                "protologue": "Gard. Chron. , ser. 3, 43: 257 (1908)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317122"
+            },
+            {
+                "name": "Cocos nucifera var. austera",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 84 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317123"
+            },
+            {
+                "name": "Cocos nucifera var. bego",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 84 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317124"
+            },
+            {
+                "name": "Cocos nucifera var. buri",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 84 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317125"
+            },
+            {
+                "name": "Cocos nucifera var. calimbahin",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 84 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317126"
+            },
+            {
+                "name": "Cocos nucifera var. capuliformis",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 87 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317127"
+            },
+            {
+                "name": "Cocos nucifera var. cistiformis",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 87 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317128"
+            },
+            {
+                "name": "Cocos nucifera var. como",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317129"
+            },
+            {
+                "name": "Cocos nucifera var. crassissima",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 84 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317130"
+            },
+            {
+                "name": "Cocos nucifera var. delicata",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317131"
+            },
+            {
+                "name": "Cocos nucifera var. eburnea",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 88 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317132"
+            },
+            {
+                "name": "Cocos nucifera var. edulis",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317133"
+            },
+            {
+                "name": "Cocos nucifera var. elongata",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317134"
+            },
+            {
+                "name": "Cocos nucifera var. fibrosa",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 86 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317135"
+            },
+            {
+                "name": "Cocos nucifera var. fragilis",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 88 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317136"
+            },
+            {
+                "name": "Cocos nucifera var. humilis",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317137"
+            },
+            {
+                "name": "Cocos nucifera var. iners",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317138"
+            },
+            {
+                "name": "Cocos nucifera var. laetevirens",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317139"
+            },
+            {
+                "name": "Cocos nucifera var. lansiformis",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 88 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317140"
+            },
+            {
+                "name": "Cocos nucifera var. lolog",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317141"
+            },
+            {
+                "name": "Cocos nucifera var. machaeroides",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 86 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317142"
+            },
+            {
+                "name": "Cocos nucifera var. macrocarpa",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 86 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317143"
+            },
+            {
+                "name": "Cocos nucifera var. maldivica",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 88 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317144"
+            },
+            {
+                "name": "Cocos nucifera var. mamillaris",
+                "author": "Francisco Manuel Blanco 1779-1845",
+                "protologue": "Rumphia 3: 84 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317145"
+            },
+            {
+                "name": "Cocos nucifera var. nana",
+                "author": "William Griffith 1810-1845",
+                "protologue": "Indian Coconut J. 2: 216 (1949)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317146"
+            },
+            {
+                "name": "Cocos nucifera var. ossea",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317147"
+            },
+            {
+                "name": "Cocos nucifera var. pinang",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 88 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317148"
+            },
+            {
+                "name": "Cocos nucifera var. pretiosa",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 87 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317149"
+            },
+            {
+                "name": "Cocos nucifera var. pruniformis",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 84 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317150"
+            },
+            {
+                "name": "Cocos nucifera var. pumila",
+                "author": "Justus Carl Hasskarl 1811-1894",
+                "protologue": "Flora 25(2, Beibl. 1): 16 (1842)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317151"
+            },
+            {
+                "name": "Cocos nucifera var. regia",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 87 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317152"
+            },
+            {
+                "name": "Cocos nucifera var. rubescens",
+                "author": "Justus Carl Hasskarl 1811-1894",
+                "protologue": "Flora 25(2, Beibl. 1): 18 (1842)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317153"
+            },
+            {
+                "name": "Cocos nucifera var. rutila",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 86 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317154"
+            },
+            {
+                "name": "Cocos nucifera var. saccharina",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 86 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317155"
+            },
+            {
+                "name": "Cocos nucifera var. sapida",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 86 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317156"
+            },
+            {
+                "name": "Cocos nucifera var. spicata",
+                "author": "Kurumthottical Cherian Jacob 1890-1972",
+                "protologue": "J. Bombay Nat. Hist. Soc. 41: 906 (1940)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317157"
+            },
+            {
+                "name": "Cocos nucifera var. stupposa",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 88 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317158"
+            },
+            {
+                "name": "Cocos nucifera var. suavis",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 84 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317159"
+            },
+            {
+                "name": "Cocos nucifera var. subamara",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 86 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317160"
+            },
+            {
+                "name": "Cocos nucifera var. subcandida",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317161"
+            },
+            {
+                "name": "Cocos nucifera var. tabogog",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317162"
+            },
+            {
+                "name": "Cocos nucifera var. tamisan",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 85 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317163"
+            },
+            {
+                "name": "Cocos nucifera var. tenuissima",
+                "author": "Carl Ludwig Blume 1796-1862",
+                "protologue": "Rumphia 3: 84 (1847)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317164"
+            },
+            {
+                "name": "Cocos nucifera var. viridis",
+                "author": "Justus Carl Hasskarl 1811-1894",
+                "protologue": "Flora 25(2, Beibl. 1): 16 (1842)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001317165"
+            },
+            {
+                "name": "Cocos nucifera f. palmyrensis",
+                "author": "Odoardo Beccari 1843-1920",
+                "protologue": "Bull. Coll. Hawaii Publ. 4: 44 (1916)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200010238"
+            },
+            {
+                "name": "Cocos nucifera var. palmyrensis",
+                "author": "Odoardo Beccari 1843-1920",
+                "protologue": "Agric. Colon. 10: 588 (1916)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200010539"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Arecales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000046"
+            },
+            "genus": {
+                "genus_name": "Arecaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000008759"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Cocos+nucifera&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "ALANINE",
+                "activity_count": 3,
+                "plant_part": "Seed",
+                "low_parts_per_million": 1700.0,
+                "high_parts_per_million": 3205.0,
+                "standard_deviation": -1.48,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ARGININE",
+                "activity_count": 14,
+                "plant_part": "Seed",
+                "low_parts_per_million": 5460.0,
+                "high_parts_per_million": 10300.0,
+                "standard_deviation": -0.61,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ASCORBIC-ACID",
+                "activity_count": 112,
+                "plant_part": "Seed",
+                "low_parts_per_million": 20.0,
+                "high_parts_per_million": 88.0,
+                "standard_deviation": -0.29,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "ASPARTIC-ACID",
+                "activity_count": 3,
+                "plant_part": "Seed",
+                "low_parts_per_million": 3250.0,
+                "high_parts_per_million": 6130.0,
+                "standard_deviation": -1.46,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "CAPRIC-ACID",
+                "activity_count": 3,
+                "plant_part": "Seed",
+                "low_parts_per_million": 2628.0,
+                "high_parts_per_million": 69743.0,
+                "standard_deviation": 2.63,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "CAPRYLIC-ACID",
+                "activity_count": 5,
+                "plant_part": "Seed",
+                "low_parts_per_million": 3154.0,
+                "high_parts_per_million": 68305.0,
+                "standard_deviation": 1.99,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "CYSTINE",
+                "activity_count": 2,
+                "plant_part": "Seed",
+                "low_parts_per_million": 660.0,
+                "high_parts_per_million": 1245.0,
+                "standard_deviation": -1.33,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "GLUTAMIC-ACID",
+                "activity_count": 8,
+                "plant_part": "Seed",
+                "low_parts_per_million": 7610.0,
+                "high_parts_per_million": 14355.0,
+                "standard_deviation": -1.15,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "GLYCINE",
+                "activity_count": 12,
+                "plant_part": "Seed",
+                "low_parts_per_million": 1580.0,
+                "high_parts_per_million": 2980.0,
+                "standard_deviation": -1.15,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "HISTIDINE",
+                "activity_count": 7,
+                "plant_part": "Seed",
+                "low_parts_per_million": 770.0,
+                "high_parts_per_million": 1455.0,
+                "standard_deviation": -1.24,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ISOLEUCINE",
+                "activity_count": 3,
+                "plant_part": "Seed",
+                "low_parts_per_million": 1310.0,
+                "high_parts_per_million": 2470.0,
+                "standard_deviation": -1.02,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LEUCINE",
+                "activity_count": 2,
+                "plant_part": "Seed",
+                "low_parts_per_million": 2470.0,
+                "high_parts_per_million": 4660.0,
+                "standard_deviation": -1.19,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LINOLEIC-ACID",
+                "activity_count": 27,
+                "plant_part": "Seed",
+                "low_parts_per_million": 584.0,
+                "high_parts_per_million": 18694.0,
+                "standard_deviation": -0.76,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "LYSINE",
+                "activity_count": 4,
+                "plant_part": "Seed",
+                "low_parts_per_million": 1470.0,
+                "high_parts_per_million": 2775.0,
+                "standard_deviation": -1.26,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MAGNESIUM",
+                "activity_count": 65,
+                "plant_part": "Seed",
+                "low_parts_per_million": 300.0,
+                "high_parts_per_million": 770.0,
+                "standard_deviation": -0.86,
+                "ref": "Furr, A.K., et al. 1979"
+            },
+            {
+                "chemical_name": "METHIONINE",
+                "activity_count": 15,
+                "plant_part": "Seed",
+                "low_parts_per_million": 620.0,
+                "high_parts_per_million": 1170.0,
+                "standard_deviation": -0.81,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MUFA",
+                "activity_count": 13,
+                "plant_part": "Seed",
+                "low_parts_per_million": 14250.0,
+                "high_parts_per_million": 26880.0,
+                "standard_deviation": -0.6,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MYRISTIC-ACID",
+                "activity_count": 6,
+                "plant_part": "Seed",
+                "low_parts_per_million": 7650.0,
+                "high_parts_per_million": 133015.0,
+                "standard_deviation": 1.45,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "NIACIN",
+                "activity_count": 39,
+                "plant_part": "Seed",
+                "low_parts_per_million": 5.0,
+                "high_parts_per_million": 10.0,
+                "standard_deviation": -0.98,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "OLEIC-ACID",
+                "activity_count": 18,
+                "plant_part": "Seed",
+                "low_parts_per_million": 2920.0,
+                "high_parts_per_million": 58958.0,
+                "standard_deviation": -0.49,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "PHENYLALANINE",
+                "activity_count": 7,
+                "plant_part": "Seed",
+                "low_parts_per_million": 1690.0,
+                "high_parts_per_million": 3190.0,
+                "standard_deviation": -1.0,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PHYTOSTEROLS",
+                "activity_count": 2,
+                "plant_part": "Seed",
+                "low_parts_per_million": 470.0,
+                "high_parts_per_million": 885.0,
+                "standard_deviation": -0.41,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PUFA",
+                "activity_count": 4,
+                "plant_part": "Seed",
+                "low_parts_per_million": 3660.0,
+                "high_parts_per_million": 26880.0,
+                "standard_deviation": -0.6,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "RIBOFLAVIN",
+                "activity_count": 15,
+                "plant_part": "Seed",
+                "low_parts_per_million": 0.2,
+                "high_parts_per_million": 0.7,
+                "standard_deviation": -1.08,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "THIAMIN",
+                "activity_count": 31,
+                "plant_part": "Seed",
+                "low_parts_per_million": 0.3,
+                "high_parts_per_million": 1.0,
+                "standard_deviation": -1.33,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "THREONINE",
+                "activity_count": 4,
+                "plant_part": "Seed",
+                "low_parts_per_million": 1210.0,
+                "high_parts_per_million": 2285.0,
+                "standard_deviation": -1.31,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "TRYPTOPHAN",
+                "activity_count": 29,
+                "plant_part": "Seed",
+                "low_parts_per_million": 390.0,
+                "high_parts_per_million": 735.0,
+                "standard_deviation": -0.88,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "TYROSINE",
+                "activity_count": 8,
+                "plant_part": "Seed",
+                "low_parts_per_million": 1030.0,
+                "high_parts_per_million": 1945.0,
+                "standard_deviation": -1.34,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "VALINE",
+                "activity_count": 3,
+                "plant_part": "Seed",
+                "low_parts_per_million": 2020.0,
+                "high_parts_per_million": 3810.0,
+                "standard_deviation": -1.01,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "มะพร้าว",
+            "common_name_th_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันทน์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้ สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "coconut",
+            "common_name_en_ref": []
+        },
+        "local_name": {
+            "local_name": [
+                "ดุง",
+                "โดง",
+                "มะแพร้ว",
+                "ย่อ",
+                "หมากอุ๋น",
+                "หมากอูน"
+            ],
+            "local_name_ref": []
+        },
+        "clinical_studies": [
+            {
+                "clinical": "บำรุงเส้นผม",
+                "clinical_content": "การศึกษาในอาสาสมัครเพศหญิงจำนวน 60 รายอายุ 20-30 ปีโดยแบ่งเป็น กลุ่มที่ทาผมด้วยน้ำมันมะพร้าว (ไม่ระบุที่มาของตัวอย่าง) ทุกวันก่อนสระผมเป็นเวลา16สัปดาห์และกลุ่มควบคุมที่ไม่ได้ทาน้ำมันมะพร้าวหรือผลิตภัณฑ์อื่นๆประเมินผลโดยทำการวัดค่าhair breakage index (HBI) ซึ่งเป็นตัวชี้วัดผมเสียที่เกิดการแตกหักเนื่องจากการสระและหวีผม (ค่า HBI สูงแสดงว่ามีผมเสียมาก)และวัดค่า break stress ซึ่งแสดงถึงความแข็งแรงของเส้นผม ที่เวลาเริ่มต้น (baseline) และสิ้นสุดการทดลองพบว่ากลุ่มที่ทาผมด้วยน้ำมันมะพร้าวจะมีค่า HBI ลดลงและมี break stress เพิ่มขึ้นเมื่อเทียบกลุ่มควบคุมแสดงว่าน้ำมันมะพร้าวมีผลในการป้องกันผมเสียจากการแตกหักได้ (19)2 การศึกษาเกี่ยวกับผิวกาย 2.1 ทำให้ผิวชุ่มชื้น/ทำให้ผิวนุ่ม (S004) การศึกษาในทารกที่คลอดก่อนกำหนดซึ่งมีน้ำหนักตัวน้อยจำนวน 74 ราย แบ่งออกเป็น กลุ่มที่ให้ทาผิวด้วยน้ำมันมะพร้าว (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) โดยไม่ต้องนวด ครั้งละ 4 มล. วันละ 2 ครั้ง เริ่มตั้งแต่หลังคลอด 12 ชม. เป็นเวลา 7 วัน และกลุ่มควบคุมที่ไม่ได้ทาน้ำมัน ทำการวัดการสูญเสียนํ้าทางผิวหนัง (trans-epidermal water loss) ตรวจสภาพผิว และเชื้อแบคทีเรียบนผิวหนัง พบว่ากลุ่มที่ทาน้ำมันมะพร้าวจะมีการสูญเสียน้ำทางผิวหนังลดลง สภาพของผิวดีขึ้น และจำนวนเชื้อแบคทีเรียบนผิวหนังลดลง เมื่อเทียบกับกลุ่มควบคุม (23) การศึกษาผลของน้ำมันมะพร้าวบริสุทธิ์ (virgin coconut oil) (ตัวอย่างจากบริษัท Nature Pacific, ประเทศออสเตรเลีย) ในทารกที่คลอดก่อนกำหนด (อายุครรภ์น้อยกว่า 30 สัปดาห์)จำนวน 72 ราย โดยแบ่งออกเป็น กลุ่มที่ให้ทาผิวด้วยน้ำมันมะพร้าว โดยไม่ต้องนวดครั้งละ 5 มล. วันละ 2 ครั้ง เริ่มตั้งแต่ภายใน 24 ชม. ที่เกิด เป็นเวลา 21 วัน โดยยกเว้นผิวบริเวณใบหน้า หนังศีรษะ และบริเวณที่ใส่สายสวนหรือท่อ และกลุ่มควบคุมซึ่งได้รับการดูแลตามมาตรฐานการดูแลทารกแรกเกิดวิกฤติ และไม่ได้ทาน้ำมันประเมินผลสภาพผิวโดยใช้แบบประเมินNeonatal Skin Condition Scale (NSCS) พบว่าน้ำมันมีผลทำให้สภาพผิวของทารกที่คลอดก่อนกำหนดดีขึ้น และไม่เกิดผลข้างเคียงที่เป็นอันตรายเมื่อเทียบกับกลุ่มที่ไม่ได้ทาน้ำมัน (24) การศึกษาผลของน้ำมันมะพร้าว(ตัวอย่างจากบริษัท Natures Blessings, ประเทศฟิลิปปินส์) ในผู้ป่วยโรคผื่นภูมิแพ้ผิวหนัง(atopic dermatitis) ระดับไม่รุนแรงไปจนถึงระดับปานกลางจำนวน 117 รายอายุ 1-13 ปี เปรียบเทียบกับน้ำมันแร่ (mineral oil) ซึ่งนิยมใช้เป็นสารเพิ่มความชุ่มชื้นแก่ผิวในผลิตภัณฑ์โดยให้ทาผิวทั่วร่างกาย ยกเว้นบริเวณที่ใส่ผ้าอ้อม, ขาหนีบและหนังศีรษะ ครั้งละ 5 มล. วันละ 2 ครั้ง หลังอาบน้ำ และตอนกลางคืน เป็นเวลา 8 สัปดาห์ ประเมินผลความรุนแรงของโรคจากตัวชี้วัด scoring atopic dermatitis (SCORAD), การสูญเสียนํ้าทางผิวหนังและวัดค่าความจุไฟฟ้าของน้ำที่ผิวหนัง (skin capacitance) (แสดงถึงระดับน้ำหรือความชื้นที่อยู่ที่ผิวหนัง ถ้ามีค่าสูงแสดงว่าผิวมีปริมาณน้ำมากและมีความชุ่มชื้นสูง) พบว่าน้ำมันมะพร้าวมีผลทำให้ความรุนแรงของโรคลดลง 68.23% เมื่อเทียบกับเวลาเริ่มต้น ขณะที่น้ำมันแร่ลดลงได้ 38.13% น้ำมันมะพร้าวทำให้ลดการสูญเสียน้ำทางผิวหนัง และเพิ่มค่าความจุไฟฟ้าของน้ำที่ผิวหนังได้ดีกว่าน้ำมันแร่ แสดงว่าการทาผิวด้วยน้ำมันมะพร้าวมีผลช่วยให้อาการของโรคดีขึ้น และเพิ่มความชุ่มชื้นให้แก่ผิวของผู้ป่วยโรคผื่นภูมิแพ้ผิวหนังได้ดีกว่าน้ำมันแร่ (25)การศึกษาในผู้ป่วยโรคผื่นภูมิแพ้ผิวหนัง จำนวน52ราย อายุ 18-40 ปี ซึ่งแบ่งออกเป็น กลุ่มที่ได้รับน้ำมันมะพร้าวบริสุทธิ์ (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) และกลุ่มควบคุมที่ได้รับน้ำมันมะกอกฝรั่ง โดยให้ทาน้ำมัน ครั้งละ 5 มล. แล้วนวดเบาๆ ให้ทั่วบริเวณผิว วันละ 2 ครั้ง เป็นเวลา 4 สัปดาห์ พบว่าน้ำมันทั้ง 2 ชนิด มีผลลดจำนวนของเชื้อ Staphylococcusaureusที่ผิวหนัง และลดความรุนแรงของโรคได้(ประเมินจากคะแนน SCORAD) เมื่อเทียบกับเวลาเริ่มต้น แต่น้ำมันมะพร้าวบริสุทธิ์จะให้ผลดีกว่าน้ำมันมะกอกฝรั่ง (26)การศึกษาประสิทธิภาพและความปลอดภัยของน้ำมันมะพร้าวบริสุทธิ์เปรียบเทียบกับน้ำมันแร่ในผู้สูงอายุที่มีผิวหนังแห้งคันแบบเล็กน้อยถึงปานกลาง (mild to moderatexerosis) บริเวณขา จำนวน 148 คน อายุเฉลี่ย 68 ปี โดยแบ่งออกเป็น กลุ่มที่ทาน้ำมันมะพร้าวบริสุทธิ์ (ตัวอย่างจากบริษัท Peter Paul, ประเทศฟิลิปปินส์) และกลุ่มที่ทาน้ำมันแร่ โดยให้ทาน้ำมัน ปริมาณ 8 fingertips unit/ขาวันละ 2 ครั้ง หลังอาบน้ำและก่อนนอน เป็นเวลา 2 สัปดาห์ พบว่าน้ำมันมะพร้าวบริสุทธิ์และน้ำมันแร่มีผลทำให้อาการผิวแห้งดีขึ้น เพิ่มความชุ่มชื้นและเพิ่มไขมันที่ผิวโดยน้ำมันมะพร้าวจะให้ผลในการรักษาได้ดีกว่าน้ำมันแร่ และไม่เกิดผลข้างเคียงที่เป็นอันตราย (27)การศึกษาในอาสาสมัคร จำนวน 60 ราย อายุ 18-60 ปี โดยแบ่งออกเป็นกลุ่มควบคุมซึ่งใช้ผลิตภัณฑ์แอลกอฮอล์ทำความสะอาดมือ (70% เอทานอล) 6 ครั้ง/วัน และกลุ่มทดสอบซึ่งใช้ผลิตภัณฑ์แอลกอฮอล์ทำความสะอาดมือ6 ครั้ง/วัน และให้ทามือด้วยน้ำมันมะพร้าว (Coco SoulTM, ตัวอย่างจากประเทศอินเดีย) 4-8 หยด ก่อนนอนทุกวัน เป็นเวลา 15 วัน ประเมินผลด้วยแบบประเมิน WHO Self-Assessment Scaleพบว่าน้ำมันมะพร้าวบริสุทธิ์มีผลปกป้องผิวที่ถูกทำลายจากการใช้แอลกอฮอล์ทำความสะอาดมือได้ โดยทำให้ผิวมีความนุ่ม ชุ่มชื้นเพิ่มขึ้น ปกป้องผิวได้ยาวนาน และมีความปลอดภัยในการใช้ (28)",
+                "clinical_ref": [
+                    "Mhaskar S, Kalghatgi B, Chavan M, Rout S, Gode V. Hair breakage index: an alternative tool for damage assessment of human hair. J Cosmet Sci. 2011;62(2):203-7."
+                ]
+            },
+            {
+                "clinical": "รักษาแผล",
+                "clinical_content": "มีรายงานผู้ป่วยที่มีแผลไฟไหม้ น้ำร้อนลวก ระดับ 2 จำนวน 10 ราย อายุ 9 เดือน-41 ปี ซึ่งได้รับการรักษาตามมาตรฐานทั่วไปของโรงพยาบาลในการรักษาแผลไฟไหม้ แต่มีใช้น้ำมันมะพร้าวในการทาแผลแทนครีมซิลเวอร์ซัลฟาไดอะซีน 1% ผลปรากฏว่าแผลหายเร็วใกล้เคียงกับการใช้ครีมซิลเวอร์ซัลฟาไดอะซีน 1% แต่สามารถลดความเจ็บปวดจากการทำแผลได้มากกว่า ลดจำนวนครั้งในการล้างแผล และลดการสูญเสียน้ำหรือของเหลวที่ซึมออกทางแผล น้ำมันมะพร้าวมีความเหนียวเหนอะหนะน้อยกว่า ไม่มีกลิ่นเหม็น ผู้ป่วยสามารถกลับไปทำแผลได้ด้วยตนเองที่บ้านหลังจากออกจากโรงพยาบาล และมีราคาถูกกว่าครีมซิลเวอร์ซัลฟาไดอะซีน 1% (30)3 การศึกษาเกี่ยวกับริมฝีปากและช่องปาก",
+                "clinical_ref": [
+                    "สมคิด วิระเทพสุภรณ์. รายงานผู้ป่วยแผลไฟไหม้รักษาด้วยน้ำมันมะพร้าว. วารสารการแพทย์แผนไทยและการแพทย์ทางเลือก.2556;11(3):227-32."
+                ]
+            },
+            {
+                "clinical": "น้ำยาบ้วนปาก",
+                "clinical_content": "3.1.1 ยับยั้งการเกิดคราบจุลินทรีย์  การศึกษาประสิทธิภาพในการยับยั้งการเกิดคราบจุลินทรีย์ (plaque) ของน้ำมันมะพร้าว(Maxcare® edible coconut oil,ตัวอย่างจากประเทศอินเดีย) โดยทดสอบในนักศึกษาทันตแพทย์ จำนวน 40 ราย อายุ 18-22 ปี แบ่งออกเป็น กลุ่มที่อมกลั้วปากด้วยน้ำมันมะพร้าวแบบวิธีoil pulling และกลุ่มควบคุมที่กลั้วปากด้วยน้ำแร่ โดยกลั้วปากครั้งละ 10-15 มล. นาน 10 นาที วันละ 1 ครั้ง ในตอนเช้า เป็นเวลา 7 วัน ประเมินผลดัชนีคราบจุลินทรีย์(plaque index) ในวันที่ 0, 3 และ 7พบว่าน้ำมันมะพร้าวมีผลยับยั้งคราบจุลินทรีย์ได้ โดยสามารถลดคะแนนคราบจุลินทรีย์ (plaque scores) ได้ 28.87±14.07% เมื่อวัดที่วันที่ 7 ของการศึกษา ขณะที่กลุ่มควบคุมลดได้ 13.79±13.38% (33)        การศึกษาเปรียบเทียบผลในการยับยั้งการเกิดคราบจุลินทรีย์ของการอมกลั้วปากแบบ oil pulling ด้วยน้ำมันมะพร้าวหรือน้ำมันงา (ตัวอย่างจากบริษัท Oneva, Neva, ประเทศตุรกี) ในอาสาสมัคร จำนวน 24 คน อายุ 19-39 ปี แบ่งออกเป็น กลุ่มที่ให้อมกลั้วปากด้วยน้ำมันงาสกัดเย็น และกลุ่มให้อมกลั้วปากด้วยน้ำมันมะพร้าวสกัดเย็น โดยกลั้วปากครั้งละ 10 มล. นาน 15-20 นาที วันละ 2 ครั้ง หลังอาหารเช้าและเย็น เป็นเวลา 4 วัน หลังจากนั้นทำการสลับกลุ่มทดสอบ โดยมีช่วงหยุดพัก (wash out) 14 วัน ประเมิน ผลจากตัวชี้วัด ได้แก่ ดัชนีคราบจุลินทรีย์, ดัชนีสภาพเหงือก (gingival index, GI), ดัชนีคราบสีของฟัน (stain index, SI) และการมีเลือดออกภายหลังใช้เครื่องมือตรวจปริทันต์ (bleeding on probing, BOP) พบว่าการอมกลั้วปากด้วยน้ำมันงาหรือน้ำมันมะพร้าว สามารถยับยั้งการเกิดคราบจุลินทรีย์ และขจัดคราบสีของฟันได้ไม่แตกต่างกัน (34) การศึกษาในอาสาสมัคร จำนวน 29 ราย อายุ 18-52 ปีซึ่งแบ่งออกเป็น กลุ่มที่ให้อมกลั้วปากแบบ oil pulling ด้วยน้ำมันมะพร้าว (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) ครั้งละ 10 มล. นาน 15-20 นาที วันละ 2 ครั้ง และกลุ่มให้กลั้วปากด้วยน้ำยาบ้วนปาก chlorhexidinegluconate0.2% ครั้งละ 10 มล. นาน 30วินาที วันละ 2 ครั้ง โดยกลั้วปากหลังอาหารเช้าและเย็น เป็นเวลา 4 วัน หลังจากนั้นทำการสลับกลุ่มทดสอบ โดยมีช่วงหยุดพัก 14 วัน พบว่าน้ำมันมะพร้าวสามารถยับยั้งการเกิดคราบจุลินทรีย์ได้ไม่แตกต่างจากน้ำยาบ้วนปาก chlorhexidine gluconate (ค่า PI เท่ากับ 1.67±0.24และ 1.61±0.20 ตามลำดับ) แต่ลดคราบสีของฟันได้มากกว่า (SI เท่ากับ 0.21±0.13 และ 0.47±0.27 ตามลำดับ) (35) การศึกษาในผู้ป่วยโรคเหงือกอักเสบที่เกิดจากคราบจุลินทรีย์จำนวน 20 ราย อายุ 18-35 ปี แบ่งออกเป็น กลุ่มที่ให้อมกลั้วปากด้วยน้ำมันมะพร้าวบริสุทธิ์ในรูปของน้ำยาบ้วนปาก (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) ปริมาณ 10 มล. นาน 5-10 นาที หลังแปรงฟันและก่อนนอน เป็นเวลา 30 วัน และกลุ่มควบคุมที่ไม่ได้ใช้น้ำยาบ้วนปาก พบว่าน้ำมันมะพร้าวบริสุทธิ์มีผลลดการเกิดคราบจุลินทรีย์และเหงือกอักเสบในผู้ป่วยได้ดีกว่าเมื่อเทียบกับกลุ่มควบคุม และไม่ทำให้เกิดผลข้างเคียงที่เป็นอันตราย โดยน้ำมันมะพร้าวบริสุทธิ์สามารถลดค่าดัชนีคราบจุลินทรีย์และดัชนีการมีเลือดออก (bleeding index) ได้ 66.72% และ 85.07%ตามลำดับ ขณะที่ในกลุ่มควบคุมลดได้ 46.01% และ 51.64% ตามลำดับ (36) การเปรียบเทียบผลของน้ำมันมะพร้าวและน้ำยาบ้วนปาก chlorhexidine gluconate 0.12% ในผู้ป่วยโรคเหงือกอักเสบที่เกิดจากคราบจุลินทรีย์ จำนวน 30 ราย อายุ 18-25 ปี โดยแบ่งออกเป็น กลุ่มที่ให้อมกลั้วปากด้วยน้ำมันมะพร้าว(ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด)ปริมาณ 1 ช้อนโต๊ะ จนกระทั่งน้ำมันมีลักษณะหนืดจึงบ้วนทิ้ง โดยอมกลั้วปากก่อนแปรงฟันในตอนเช้า ทุกวัน เป็นเวลา 4 สัปดาห์ และกลุ่มที่ให้กลั้วปากด้วยน้ำยาบ้วนปาก chlorhexidine gluconate 0.12% ปริมาณ 15 มล. นาน 30 วินาที วันละ 2 ครั้งพบว่าน้ำมันมะพร้าวมีประสิทธิภาพเทียบเท่ากับน้ำยาบ้วนปาก chlorhexidine gluconate 0.12% ในการช่วยลดการเกิดคราบจุลินทรีย์และลดเหงือกอักเสบ (37) การศึกษาในผู้ที่ใส่ฟันปลอมชนิดติดแน่น จำนวน 40 ราย โดยแบ่งออกเป็น กลุ่มทดสอบที่ให้บ้วนปากด้วยน้ำมันมะพร้าวบริสุทธิ์ ความเข้มข้น 12.5% (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด)และกลุ่มควบคุมที่ให้บ้วนปากด้วยน้ำกลั่น โดยบ้วนปาก ครั้งละ 15 มล. นาน 30 วินาที วันละ 2 ครั้ง หลังการแปรงฟันในตอนเช้า และตอนกลางคืนก่อนนอน เป็นเวลา 4 วัน พบว่าน้ำมันมะพร้าวบริสุทธิ์มีผลลดดัชนีคราบจุลินทรีย์ในผู้ที่ใส่ฟันปลอมชนิดติดแน่นได้ (38) 3.1.2 ยับยั้งเชื้อแบคทีเรียในช่องปาก การศึกษาผลของน้ำมันมะพร้าวบริสุทธิ์ต่อการลดปริมาณเชื้อแบคทีเรียทั้งหมด และ Streptococcus mutans ในน้ำลาย เปรียบเทียบกับน้ำยาบ้วนปาก chlorhexidine 0.12% โดยทดสอบในนักศึกษาทันตแพทย์ จำนวน 40 รายอายุ 18-25 ปี แบ่งออกเป็น 2 กลุ่ม คือ กลุ่มทดลองที่ให้กลั้วปากด้วยน้ำมันมะพร้าวบริสุทธิ์ (Coco Delight®, lot: NP580021, ตัวอย่างจากองค์การเภสัชกรรม) ปริมาณ 15 มล. นาน 10 นาที ในเวลากลางคืนหลังจากการแปรงฟัน และกลุ่มควบคุมที่ให้กลั้วปากด้วยน้ำยาบ้วนปาก chlorhexidine 0.12% ปริมาณ 15 มล. นาน 1 นาที วันละ 2 ครั้ง หลังมื้ออาหาร ทำการทดสอบเป็นเวลา 14 วัน แปรงฟันตามถนัดและไม่มีการสอนวิธีการดูแลอนามัยช่องปากเพิ่มเติม ประเมินผลโดยตรวจในช่องปากและเก็บน้ำลาย ณ วันแรก และเมื่อใช้น้ำยาบ้วนปาก 14 วัน พบว่ามีอาสาสมัคร 35 ราย ใช้น้ำยาบ้วนปากครบตามระยะเวลา ซึ่งน้ำมันมะพร้าวสามารถลดปริมาณเชื้อแบคทีเรียทั้งหมด และ S. mutans ในน้ำลายได้ไม่แตกต่างจากน้ำยาบ้วนปาก chlorhexidine 0.12% ดังนั้นน้ำมันมะพร้าวบริสุทธิ์จึงเป็นทางเลือกหนึ่งในงานทันตกรรมป้องกันสำหรับใช้ดูแลอนามัยช่องปากได้ (39) การศึกษาผลต่อปริมาณเชื้อ S. mutans ในน้ำลายของน้ำมันมะพร้าวเปรียบเทียบกับน้ำยาบ้วนปากchlorhexidine ในอาสาสมัคร จำนวน 60 รายอายุ 18-22 ปี โดยแบ่งออกเป็น 3 กลุ่ม คือ กลุ่มที่ให้อมกลั้วปากแบบ oil pulling ด้วยน้ำมันมะพร้าว (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) ปริมาณ 10มล. นาน 10 นาที, กลุ่มที่ให้กลั้วปากด้วยน้ำยาบ้วนปาก chlorhexidine (Rexidine®, ประเทศอินเดีย) ปริมาณ 5 มล. นาน 1 นาที และกลุ่มควบคุมซึ่งให้กลั้วปากด้วยน้ำกลั่น 5 มล. นาน 1 นาที ในตอนเช้าก่อนแปรงฟัน ทำการทดสอบเป็นเวลา 2 สัปดาห์ พบว่าน้ำมันมะพร้าวและน้ำยาบ้วนปาก chlorhexidine มีผลลดปริมาณของเชื้อ S. mutansในน้ำลายได้ เมื่อเทียบกับกลุ่มควบคุม โดยน้ำยาบ้วนปาก chlorhexidine สามารถลดปริมาณของเชื้อได้มากกว่าน้ำมันมะพร้าว (40) การศึกษาผลของน้ำมันมะพร้าวในการลดปริมาณของเชื้อ S. mutans ในน้ำลาย ทดสอบในอาสาสมัคร จำนวน 30 ราย อายุ 20-23 ปี แบ่งออกเป็น กลุ่มที่อมกลั้วปากแบบoil pulling ด้วยน้ำมันมะพร้าว (ไม่ระบุที่มาของตัวอย่าง, สกัดน้ำมันจากเนื้อมะพร้าวแห้งโดยใช้เครื่องบีบอัด), กลุ่มที่อมกลั้วปากด้วยน้ำมันงา (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) และกลุ่มควบคุมที่อมกลั้วปากด้วยน้ำเกลือ ปริมาณ 1 ช้อนโต๊ะ (10 มล.) นาน 10-15 นาที ในตอนเช้าขณะที่ท้องว่าง ประเมินผลโดยเก็บน้ำลายก่อนและหลังการอมกลั้วปากด้วยน้ำมัน พบว่าน้ำมันมะพร้าวมีประสิทธิภาพเท่าเทียมกับน้ำมันงาในการลดปริมาณของเชื้อ S. mutans ในน้ำลาย เมื่อเทียบกับกลุ่มควบคุม (41) เมื่อให้ผู้ที่ใส่ครอบฟันเซรามิคที่มีโลหะเป็นโครงสร้างภายใน (porcelain fused to metal crown) จำนวน 23 ราย กลั้วปากด้วยน้ำมันมะพร้าวบริสุทธิ์ความเข้มข้น 12.5% (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) ครั้งละ 30 มล. นาน 1 นาที วันละ2 ครั้งหลังการแปรงฟันในตอนเช้า และตอนกลางคืนก่อนนอน เป็นเวลา 4 วัน พบว่าน้ำมันมะพร้าวบริสุทธิ์มีผลปริมาณของเชื้อแบคทีเรีย Porphyromonas gingivalis และ Treponema denticola บริเวณขอบของครอบฟันได้ (42)",
+                "clinical_ref": [
+                    "Nagilla J, Kulkarni S, Madupu PR, Doshi D, Bandari SR, Srilatha A. Comparative evaluation of antiplaque efficacy of coconut oil pulling and a placebo, among dental college students: A randomized controlled trial. J Clin Diagn Res. 2017;11(9):ZC08-ZC11. doi: 10.7860/JCDR/2017/26656.10563."
+                ]
+            }
+        ],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "บำรุงเส้นผม",
+                "pharmacological_content": "การทดสอบฤทธิ์ป้องกันผมเสียของน้ำมันมะพร้าว (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) เปรียบเทียบกับน้ำมันทานตะวันและน้ำมันแร่ (mineral oil) โดยทดสอบกับตัวอย่างเส้นผมที่เป็นผมปกติและผมที่ถูกทำให้เกิดการเสียหายด้วยสภาวะต่างๆได้แก่การทำสีผมการแช่ในน้ำร้อนและการตากแดดโดยทาน้ำมันในปริมาณ 0.2 มล. ลงบนผมทิ้งไว้อย่างน้อย 14 ชม. หลังจากนั้นนำไปสระและหวีผมด้วยหวีไนลอนทำการวัดการสูญเสียโปรตีนในเส้นผมก่อนสระกับหลังสระเปรียบเทียบผลกับตัวอย่างเส้นผมที่ไม่ได้ใส่น้ำมันพบว่าน้ำมันมะพร้าวสามารถลดการสูญเสียโปรตีนในเส้นผมทั้งเส้นผมปกติและผมแห้งเสีย เมื่อใช้ก่อนสระและหลังสระได้ขณะที่น้ำมันทานตะวันและน้ำมันแร่ไม่มีผลทั้งนี้อาจเป็นเพราะlauric acid ในน้ำมันมะพร้าวมีความสามารถในการจับตัวกับโปรตีนในเส้นผมสูงเนื่องจากมีน้ำหนักโมเลกุลต่ำและโครงสร้างทางเคมีเป็นสายตรงจึงสามารถแทรกซึมเข้าสู่ภายในเส้นผมได้ดีกว่าน้ำมันอีก 2 ชนิด (20) การเปรียบเทียบผลของน้ำมันมะพร้าว (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) น้ำมันสะเดาและน้ำมันมัสตาร์ดในการลดการสูญเสียโปรตีนในเส้นผมที่เกิดจากถูกทำลายด้วยการสระการกัดสีผมและการยืดผม ทดสอบในตัวอย่างเส้นผม โดยให้ทาน้ำมัน (ไม่ระบุปริมาณที่ใช้) ก่อนการทำให้ผมเกิดการเสียหายด้วยการสระ 15 ครั้งการกัดสีผมด้วย hydrogen peroxide 6% และการยืดผมด้วย sodium hydroxide 3% พบว่าน้ำมันทั้ง 3 ชนิด มีผลลดการสูญเสียโปรตีนในเส้นผมได้ เมื่อเทียบกับเส้นผมที่ไม่ได้ทาน้ำมัน โดยน้ำมันสะเดาให้ผลดีที่สุดรองลงมาคือน้ำมันมะพร้าวและน้ำมันมัสตาร์ด (21)การทดสอบในตัวอย่างเส้นผมของตำรับอีมัลชันชนิดที่ไม่ต้องล้างออก (leave-on emulsion) ซึ่งมีส่วนผสมของน้ำมันมะพร้าว ความเข้มข้น 0.5% และ 1% (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) พบว่ามีผลในการป้องกันผมชี้ฟูได้ โดยอีมัลชันซึ่งมีส่วนผสมของน้ำมันมะพร้าว 1% จะให้ผลดีที่สุด (22)2 การศึกษาเกี่ยวกับผิวหน้า",
+                "pharmacological_ref": [
+                    "Rele AS, Mohile RB. Effect of mineral oil, sunflower oil, and coconut oil on prevention of hair damage. J Cosmet Sci. 2003;54(2):175-92."
+                ]
+            },
+            {
+                "pharmacological": "ต้านสิว",
+                "pharmacological_content": "สารสกัดจากเนื้อมะพร้าว (ตัวอย่างจากประเทศอินโดนีเซีย) เตรียมโดยการแช่สกัดใน 96% เอทานอล เป็นเวลา 1 วัน ทำการสกัดซ้ำ 3 รอบ จากนั้นตั้งทิ้งให้ตกตะกอน แยกเอาเฉพาะชั้นน้ำมัน และทำการระเหยตัวทำละลายที่เหลืออยู่ในน้ำมันด้วยเครื่อง rotary evaporator ที่ความเข้มข้น 1%, 2.5% และ 5% มีฤทธิ์ต้านเชื้อ Propionibacterium acnes ซึ่งทำให้เกิดสิวได้ โดยมีค่าของโซนใส เท่ากับ 6.2, 6.5 และ 8.2 มม. ตามลำดับ ขณะที่สาร  benzoyl peroxide ความเข้มข้น 2.5% ซึ่งเป็นตัวควบคุมบวก มีค่าของโซนใส เท่ากับ 6.2 มม. เมื่อนำสารสกัดความเข้มข้น 1% และ 5% มาเป็นส่วนผสมในเจลมาสก์หน้าแบบลอกออก (peel-off emulgel mask) พบว่ามีผลในการต้านเชื้อP. acnes ได้เช่นกัน โดยตำรับเจลมาสก์หน้าที่มีส่วนผสมของสารสกัดมะพร้าว 5% และสารสร้างเนื้อเจล carbomer 940 1% จะให้ผลดีที่สุด มีค่าของโซนใส เท่ากับ 11.68 ±0.30 มม. และดีกว่าสาร benzoyl peroxide (ค่าของโซนใส 9.55±0.25 มม.) (43) การทดสอบฤทธิ์ของตำรับเจลมาสก์หน้าแบบลอกออกที่มีส่วนผสมของน้ำมันมะพร้าวบริสุทธิ์ 20% และ 30% (ตัวอย่างจากประเทศอินโดนีเซีย) เตรียมโดยนำเนื้อมะพร้าวมาคั้นน้ำกะทิ จากนั้นแยกเอาชั้นไขมันซึ่งอยู่ด้านบนมาปั่นแยกส่วนด้วยเครื่อง centrifuge ที่อัตราเร็ว 2500 รอบ/นาที เป็นเวลา 60 นาที ทำการแยกชั้นน้ำมันซึ่งอยู่ด้านบนมาทดสอบพบว่ามีฤทธิ์ในการต้านเชื้อ P. acnes ได้ โดยมีค่าของโซนใส 10.77±0.03-12.0±0.16 มม. (44) การศึกษาฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันมะพร้าวบริสุทธิ์ (PalemMustika®, ตัวอย่างจากประเทศอินโดนีเซีย) และน้ำมันมะพร้าวบริสุทธิ์ที่ผ่านกระบวนการไฮโดรไลซิสด้วยเอนไซม์ liapse (hydrolyzed virgin coconut oil) ความเข้มข้น 3.125%, 6.25%, 12.5%, 25% และ 50% พบว่าน้ำมันมะพร้าวบริสุทธิ์ที่ผ่านกระบวนการไฮโดรไลซิสด้วยเอนไซม์ มีฤทธิ์ต้านเชื้อ P. acnes และ methicillin-resistant S. aureus (MRSA) ได้ ขณะที่น้ำมันมะพร้าวบริสุทธิ์ไม่มีผล โดยน้ำมันมะพร้าวบริสุทธิ์ที่ผ่านกระบวนการไฮโดรไลซิสด้วยเอนไซม์ที่ความเข้มข้น 50% จะให้ผลดีที่สุด มีค่าของโซนใสต่อเชื้อ P. acnesและ MRSA เท่ากับ 10.88±0.15 และ 10.20±0.14 มม. ตามลำดับ (45) การศึกษาฤทธิ์ต้านเชื้อแบคทีเรียของน้ำมันมะพร้าว (ตัวอย่างจากประเทศไนจีเรีย)เตรียมโดยนำเนื้อมะพร้าวสดขูดมาคั้นน้ำกะทิ จากนั้นนำมาหมักเป็นเวลา 48 ชม. ภายใต้สภาวะไร้ออกซิเจน (anaerobic condition) ทำการแยกชั้นน้ำมันออกจากชั้นน้ำ ทำให้ร้อนเล็กน้อยเพื่อขจัดความชื้นที่เหลืออยู่ในน้ำมันและนำไปกรองและสาร lauric acid ซึ่งแยกได้จากน้ำมันมะพร้าวด้วยวิธีการแช่แข็งที่อุณหภูมิ 25.1 oC พบว่าน้ำมันมะพร้าวความเข้มข้น 30-100% ไม่มีฤทธิ์ต้านเชื้อ S. aureus ขณะที่ lauric acid สามารถต้านเชื้อ S. aureus ได้ โดยมีค่าของโซนใส เท่ากับ 10.50 มม. (14) สารlauric acid ซึ่งแยกได้จากน้ำมันมะพร้าว (ตัวอย่างจากประเทศอินโดนีเซีย) ความเข้มข้น 5%, 10%, 15% และ 20% (v/v) มีฤทธิ์ต้านเชื้อ S. aureus โดยมีค่าของโซนใส เท่ากับ 25, 28, 37 และ 40 มม. ตามลำดับ โดย lauric acid ที่ความเข้มข้น 15% และ 20% จะมีฤทธิ์ดีกว่าเมื่อเทียบกับยา ciprofloxacin ความเข้มข้น 0.5% ซึ่งมีค่าของโซนใส เท่ากับ 30 มม. (13)3 การศึกษาเกี่ยวกับผิวกาย",
+                "pharmacological_ref": [
+                    "Hariyadi DM, Isnaeni I, Sudarma S, Suciati S, Rosita N. Peel-off emulgel mask of Cocos nucifera L. extract using gelling agent carbomer 940 as antiacne against Propionibacterium acnes ATCC 11827. J Adv Pharm Technol Res. 2020;11:220-5. doi: 10. 4103/japtr.JAPTR_51_20."
+                ]
+            },
+            {
+                "pharmacological": "ทำให้ผิวขาว",
+                "pharmacological_content": "การศึกษาฤทธิ์ยับยั้งเอนไซม์ tyrosinase ของน้ำมันมะพร้าวบริสุทธิ์ (ตัวอย่างจากประเทศไทย) เตรียมโดยสกัดแยกน้ำกะทิจากเนื้อผลด้วยวิธีการสกัดเย็น(cold pressed) จากนั้นนำน้ำกะทิมาปั่นแยกส่วนด้วยเครื่อง centrifuge อัตราเร็ว 5,000รอบ/นาที ที่อุณหภูมิ 30 oC เป็นเวลา 30 นาที ความเข้มข้น 300-1,500 มก./มล. พบว่ามีฤทธิ์ยับยั้งเอนไซม์ tyrosinase ได้โดยมีค่าความเข้มข้นของสารสกัดที่ยับยั้งได้ครึ่งหนึ่ง (IC50) เท่ากับ 761.89±18.85 มก./มล. แต่ฤทธิ์ตํ่ากว่าเมื่อเทียบกับกรดโคจิก (kojic acid) ที่มีค่า IC50 0.39±0.01 มก./มล. (46)",
+                "pharmacological_ref": [
+                    "Jamjai U, Pongpaibul Y, Lailerd N, Amornlerdpison D. Antioxidant, anti-tyrosinase and anti-collagenase activities of virgin coconut oil and stability of its cream. Maejo Int J Sci Technol. 2020;14(2):166-76."
+                ]
+            },
+            {
+                "pharmacological": "ทำให้ผิวชุ่มชื้น",
+                "pharmacological_content": "การทดสอบในเซลล์ human keratinocyte (HaCaT) พบว่าน้ำมันมะพร้าวบริสุทธิ์ (ตัวอย่างจาก Central Plantation Crops Research Institute, ประเทศอินเดีย) มีฤทธิ์เพิ่มปริมาณของโปรตีนที่เกี่ยวข้องกับความชุ่มชื้นของผิว ได้แก่ involucrin และ filaggrin ได้ โดยน้ำมันมะพร้าว ความเข้มข้น 100 และ 200 มคก./มล. มีผลเพิ่มปริมาณของ involucrin ได้ 32.36±2.3%และ 47.53±2.1% ตามลำดับ เมื่อเทียบกับสาร kinetin ความเข้มข้น 100 ไมโครโมลาร์ ที่เพิ่มปริมาณ involucrin ได้ 62.44±2.6% และน้ำมันมะพร้าว ความเข้มข้น 50 และ 100 มคก./มล.มีผลเพิ่มปริมาณของ filaggrin ได้ 27.95±2.3% และ 40.45±1.2%ตามลำดับ ขณะที่สาร kinetin ความเข้มข้น 100 ไมโครโมลาร์ สามารถเพิ่มได้ 53.72±3.1% นอกจากนี้ยังมีผลเพิ่มการแสดงออกของยีนของ aquaporin-3, involucrin และ filaggrin (11)สารสกัดจากน้ำมันมะพร้าวบริสุทธิ์ (cultured coconut extract, CCE) (ตัวอย่างจากประเทศเกาหลี) ซึ่งได้จากการหมักบ่มน้ำมันมะพร้าวด้วยวิธีการธรรมชาติ เป็นเวลา 24 ชม. จากนั้นนำไปปั่นแยกด้วยเครื่อง centrifuge ทำการกรอง และนำไปใส่ในอาหารเลี้ยงเชื้อความเข้มข้น 1% และ 5% มีฤทธิ์เพิ่มปริมาณและเพิ่มแสดงออกของ loricrin, involucrin และ filaggrin เมื่อทดสอบในเซลล์ผิวหนังที่แยกได้จากเนื้อเยื่อผิวหนังของคน โดยสารสกัดที่ความเข้มข้น 5% จะให้ผลดีที่สุด (29)",
+                "pharmacological_ref": [
+                    "VarmaSR, SivaprakasamTO, ArumugamI, DilipN, RaghuramanM, PavanKB, et al. In vitro anti-inflammatory and skin protective properties of virgin coconut oil. J Tradit Complement Med. 2019;9(1):5-14. doi: 10.1016/j.jtcme.2017.06.012."
+                ]
+            },
+            {
+                "pharmacological": "ต้านอนุมูลอิสระ",
+                "pharmacological_content": "การศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันมะพร้าวบริสุทธิ์ (ตัวอย่างจากประเทศไทย) เตรียมโดยสกัดแยกน้ำกะทิจากเนื้อผลด้วยการบีบเย็น(cold press) จากนั้นนำน้ำกะทิมาปั่นแยกส่วนด้วยเครื่อง centrifuge อัตราเร็ว 5,000รอบ/นาที ที่อุณหภูมิ 30 oC เป็นเวลา 30 นาที ทดสอบด้วยวิธี 2,2′-azinobis-(-ethyl-benzthiazoline-6-sulfonic acid) (ABTS), 1,1-diphenyl-2-picrylhydrazyl radical scavenging (DPPH) และ superoxide anion scavenging พบว่ามีฤทธิ์ต้านอนุมูลอิสระได้ในการทดสอบทั้ง 3 วิธี โดยมีค่า IC50เท่ากับ 1.39±0.01, 78.16±0.60 และ 27.43±0.37มก./มล. ตามลำดับ (46)น้ำมันมะพร้าวบริสุทธิ์(ไม่ระบุวิธีการสกัด) (ตัวอย่างจาก จ.เชียงใหม่) มีฤทธิ์ต้านอนุมูลอิสระ เมื่อทดสอบด้วยวิธี DPPH โดยมีค่าความเข้มข้นของสารที่ทำให้จำนวนของอนุมูลอิสระลดลงครึ่งหนึ่ง (EC50) เท่ากับ 44.7±2.0 ppm (47) การศึกษาฤทธิ์ต้านอนุมูลอิสระของสารสกัดน้ำมันมะพร้าว (ตัวอย่างจากประเทศอินเดีย)เตรียมโดยละลายน้ำมันมะพร้าวที่ไม่ผ่านกระบวนการทำให้บริสุทธิ์ (unrefined coconut oil) ด้วยเฮกเซน จากนั้นนำสารสกัดเฮกเซนมาสกัดต่อด้วย 60% เมทานอล พบว่ามีฤทธิ์ต้านอนุมูลอิสระได้ เมื่อทดสอบด้วยวิธี DPPH (IC50 229.76 มคก./มล.), ABTS (IC50 51.75 มคก./มล.), superoxide radical scavenging และ nitric oxide radical scavenging (IC50 11.14 มคก./มล.) ปริมาณของสารฟีนอลิกรวมในสารสกัดน้ำมันมะพร้าว เท่ากับ 1.8 มก. สมมูลของgallic acid (gallic acid equivalence, GAE)/100 ก.(8) น้ำมันมะพร้าวที่ได้จากการสกัดด้วยวิธีการสกัดต่างๆ ได้แก่ การสกัดด้วยความเย็นและใช้เครื่องเหวี่ยง (chilling and centrifugation), การสกัดด้วยวิธีการหมัก(fermentation) และการสกัดโดยใช้เครื่องบีบแบบสกรู (direct micro expelling) มีฤทธิ์ต้านอนุมูลอิสระ เมื่อทดสอบด้วยวิธี DPPH โดยค่า IC50ของน้ำมันมะพร้าวอยู่ระหว่าง 7.49-104.52 มก./มล. และมีปริมาณของสารฟีนอลิกรวม อยู่ระหว่าง 1.16-12.54 มก. GAE/ก.น้ำมันมะพร้าวที่ได้จากการหมักจะมีฤทธิ์ดีที่สุดในการต้านอนุมูลอิสระ (IC507.49 มก./มล.) และมีปริมาณสารฟีนอลิกรวมสูงสุด (12.54±0.96มก. GAE/ก.) (48)",
+                "pharmacological_ref": [
+                    "Jamjai U, Pongpaibul Y, Lailerd N, Amornlerdpison D. Antioxidant, anti-tyrosinase and anti-collagenase activities of virgin coconut oil and stability of its cream. Maejo Int J Sci Technol. 2020;14(2):166-76."
+                ]
+            },
+            {
+                "pharmacological": "ทำให้ผิวอ่อนเยาว์",
+                "pharmacological_content": "การศึกษาฤทธิ์ยับยั้งเอนไซม์collagenaseของน้ำมันมะพร้าวบริสุทธิ์(ตัวอย่างจากประเทศไทย) เตรียมโดยสกัดแยกน้ำกะทิจากเนื้อผลด้วยวิธีการสกัดเย็น(cold pressed) จากนั้นนำน้ำกะทิมาปั่นแยกส่วนด้วยเครื่อง centrifuge อัตราเร็ว 5,000 รอบ/นาที ที่อุณหภูมิ 30 oC เป็นเวลา 30 นาที ความเข้มข้น 100, 300 และ 600 มก./มล. พบว่าสามารถยับยั้งเอนไซม์ collagenase ได้ 9.51±1.03%, 23.99±1.02% และ 47.47±0.89% ตามลำดับ และมีค่า IC50 เท่ากับ 625.93±11.62 มก./มล. แต่ฤทธิ์ตํ่ากว่าเมื่อเทียบกับสาร epigallocatechin gallate (EGCG) ที่มีค่า IC50 0.015±0.004 มก./มล. (46)สารสกัดจากน้ำมันมะพร้าวบริสุทธิ์ (cultured coconut extract, CCE) (ตัวอย่างจากประเทศเกาหลี) ซึ่งได้จากการหมักบ่มน้ำมันมะพร้าวด้วยวิธีการธรรมชาติ เป็นเวลา 24 ชม. จากนั้นนำไปปั่นแยกด้วยเครื่อง centrifuge ทำการกรอง และนำไปใส่ในอาหารเลี้ยงเชื้อความเข้มข้น 0.1-1% มีฤทธิ์เพิ่มการแสดงออกของคอลลาเจน III และเอนไซม์ hyaluronan synthase-3 ได้ เมื่อทดสอบในเซลล์primary human dermal fibroblasts และการทดสอบในเซลล์ผิวหนังที่แยกได้จากเนื้อเยื่อผิวหนังของคน พบว่าสารสกัด CCE ความเข้มข้น 1% และ 5%มีผลเพิ่มปริมาณและเพิ่มแสดงออกของคอลลาเจนI และ III ในเซลล์โดยสารสกัดที่ความเข้มข้น 5% จะให้ผลดีที่สุด (29)",
+                "pharmacological_ref": [
+                    "Jamjai U, Pongpaibul Y, Lailerd N, Amornlerdpison D. Antioxidant, anti-tyrosinase and anti-collagenase activities of virgin coconut oil and stability of its cream. Maejo Int J Sci Technol. 2020;14(2):166-76."
+                ]
+            },
+            {
+                "pharmacological": "ป้องกันแสงแดด",
+                "pharmacological_content": "การทดสอบฤทธิ์ป้องกันแสงแดดของน้ำมันมะพร้าว (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) ความเข้มข้น 0.1%(v/v) โดยการวัดค่า sun protection factor (SPF) ด้วยเครื่อง UV-Visible spectrophoto-meter พบว่ามีค่า SPF เท่ากับ 7.119 (49) น้ำมันมะพร้าว (Eldia Pure™, ตัวอย่างจากประเทศอินเดีย) ความเข้มข้น 0.05-1% (v/v) มีค่า SPF เท่ากับ 0.48-1.36 ซึ่งน้อยกว่าเมื่อเทียบกับสารป้องกันแสงแดด benzophenone 3, octocrylene และ ethylhexyl salicylate ความเข้มข้น0.05-1% (v/v) ที่มีค่า SPF เท่ากับ 20.23-21.28, 20.87-21.00 และ 20.48-20.79 ตามลำดับ(9)การทดสอบฤทธิ์ป้องกันรังสี UV ของครีมซึ่งมีส่วนผสมของน้ำมันมะพร้าว (ไม่ระบุที่มาของตัวอย่างและวิธีการสกัด) ความเข้มข้น 10%, 18% และ 26% (w/w) ด้วยเครื่องUV spectrophotometer พบว่าครีมน้ำมันมะพร้าวมีผลในการป้องกันรังสีในช่วง UV-C ได้ ขณะที่ครีมซึ่งมีส่วนผสมของไททาเนียมไดออกไซด์ (titanium dioxide) ความเข้มข้น 5%, 10% และ 15% (w/w) มีผลป้องกันรังสีในช่วง UV-C ถึง UV-A และครีมซึ่งมีส่วนผสมของbenzophenone-3 ความเข้มข้น 0.5%, 1% และ 1.5% (w/w) มีผลป้องกันรังสีในช่วง UV-B ถึง UV-A (50)",
+                "pharmacological_ref": [
+                    "Kaur CD, Saraf S. In vitro sun protection factor determination of herbal oils used in cosmetics. Pharmacogn Res. 2010;2(1):22-5. doi: 10.4103/0974-8490.60586."
+                ]
+            },
+            {
+                "pharmacological": "ต้านการอักเสบ",
+                "pharmacological_content": "การทดสอบฤทธิ์ต้านการอักเสบในเซลล์ human monocytes (THP-1) ที่ถูกเหนี่ยวนำให้เกิดการอักเสบด้วยสาร lipopolysaccharide (LPS) ของน้ำมันมะพร้าวบริสุทธิ์ (ตัวอย่างจากCentral Plantation Crops Research Institute, ประเทศอินเดีย) ความเข้มข้น 100 และ 200 มคก./มล. พบว่าน้ำมันมะพร้าวบริสุทธิ์มีฤทธิ์ยับยั้งการหลั่งสารไซโตไคน์ที่เกี่ยวข้องกับการอักเสบ ได้แก่ tumor necrosis factor (TNF)-alpha, interferon (IFN)-gamma, interleukine (IL)-6, IL-8และ IL-5 ได้ โดยน้ำมันมะพร้าวที่ความเข้มข้น 200 มคก./มล. สามารถยับยั้ง TNF)-alpha, IFN)-gamma, IL-6, IL-8 และ IL-5 ได้ 62.34±3.2%, 42.66±2.9%, 52.07±2.0%, 53.98±1.8%และ 51.57±2.6%ตามลำดับ ขณะที่dexamethasone ความเข้มข้น 100 ไมโครโมลาร์ ซึ่งเป็นตัวควบคุมบวก มีผลยับยั้งได้ 76.78±2.8%, 64.16±2.2%, 64.62±2.5%, 70.26±1.9% และ66.80±2.8%ตามลำดับ (11)สารสกัดจากน้ำมันมะพร้าวบริสุทธิ์ (cultured coconut extract, CCE) (ตัวอย่างจากประเทศเกาหลี) ซึ่งได้จากการหมักบ่มน้ำมันมะพร้าวด้วยวิธีการธรรมชาติ เป็นเวลา 24 ชม. จากนั้นนำไปปั่นแยกด้วยเครื่อง centrifuge ทำการกรอง และนำไปใส่ในอาหารเลี้ยงเซลล์ความเข้มข้น 1%, 5% และ 10% มีฤทธิ์ต้านการอักเสบ เมื่อทดสอบในเซลล์ primary human dermal fibroblasts (HDFs) ที่ถูกเหนี่ยวนำด้วยรังสี UVB โดยลดการแสดงออกของ TNF-alpha และการทดสอบในเซลล์ผิวหนังที่แยกได้จากเนื้อเยื่อผิวหนังของคนที่ถูกกระตุ้นด้วยรังสี UVB พบว่าสารสกัด CCE ความเข้มข้น 5%มีฤทธิ์ลดการแสดงออกของ nuclear factor (NF)-kappaB และเอนไซม์ cyclooxygenase (COX)-2 ได้ (29) การศึกษาฤทธิ์ต้านการอักเสบของน้ำมันมะพร้าวบริสุทธิ์ (ตัวอย่างจาก จ.เชียงราย, voucher specimen: QBG 29961) เตรียมโดยการคั้นน้ำกะทิจากผลสด จากนั้นนำไปหมัก เป็นเวลา 48 ชม. ทำการแยกชั้นน้ำมันออกจากน้ำกะทิ และนำน้ำมันที่ได้มากรอง ทดสอบในหนูแรทที่ถูกเหนี่ยวนำให้เกิดการบวมที่ใบหูด้วยethyl phenylpropiolate โดยทาน้ำมันมะพร้าว ขนาด 1, 2และ4 มก./20 มคล./หูก่อนเหนี่ยวนำให้เกิดการอักเสบ พบว่าน้ำมันมะพร้าวขนาด 2 และ 4 มก./20 มคล./หู มีผลลดการบวมของหนูได้ ขณะที่ขนาด 1 มก./20 มคล./หู ไม่มีผล การทดสอบโดยป้อนน้ำมันมะพร้าว ขนาด 1, 2และ4 ก./กก. เป็นเวลา 1 ชม. ก่อนเหนี่ยวนำให้เกิดการบวมของอุ้งเท้าหนูแรทด้วยคาราจีแนน และ arachidonic acid พบว่าน้ำมันมะพร้าวสามารถลดการบวมของอุ้งเท้าหนูได้ในการทดสอบทั้ง 2 วิธี และการศึกษาฤทธิ์ต้านการอักเสบแบบเรื้อรังในหนูแรทที่ถูกเหนี่ยวนำให้เกิดอักเสบด้วยวิธี cotton-pellet granuloma เมื่อป้อนสารสกัดขนาด 4 ก./กก. เป็นเวลา 7 วันพบว่าน้ำมันมะพร้าวมีผลต้านการอักเสบ โดยลดน้ำหนักของ transudate, ยับยั้งการเกิด granuloma (granuloma formation) และลดระดับเอนไซม์ alkaline phosphatase ในซีรั่ม(7)การศึกษาฤทธิ์ต้านการอักเสบของน้ำมันมะพร้าวผ่านกรรมวิธี (refined coconut oil) และน้ำมันมะพร้าวบริสุทธิ์ (ตัวอย่างจากบริษัท CalRoth, ประเทศเยอรมนี) ในหนูเม้าส์ โดยแบ่งออกเป็น กลุ่มที่ถูกเหนี่ยวนำด้วยการฉายรังสี UVB และให้ทาผิวด้วยน้ำมันมะพร้าวผ่านกรรมวิธี หรือน้ำมันมะพร้าวบริสุทธิ์ ขนาด 6 หยด (300 มคล.) 20 นาที ก่อนการฉายรังสี และหลังการฉายรังสี, 4 วัน/สัปดาห์ ทำการทดสอบเป็นเวลา 35 วัน, กลุ่มควบคุมบวกที่ถูกเหนี่ยวนำด้วยการฉายรังสี UVB เพียงอย่างเดียว และกลุ่มควบคุมลบที่เป็นหนูปกติซึ่งให้ทาผิวด้วยสารละลาย phosphate buffer saline พบว่าน้ำมันมะพร้าวบริสุทธิ์จะมีฤทธิ์ต้านอักเสบของผิวหนังได้ดีกว่าน้ำมันมะพร้าวผ่านกรรมวิธี โดยลดความหนาของชั้นผิวหนัง และลดการแสดงออกของ TNF-alpha และ transforming growth factor (TGF)-beta) ซึ่งเกี่ยวข้องกับการอักเสบ (51)",
+                "pharmacological_ref": [
+                    "VarmaSR, SivaprakasamTO, ArumugamI, DilipN, RaghuramanM, PavanKB, et al. In vitro anti-inflammatory and skin protective properties of virgin coconut oil. J Tradit Complement Med. 2019;9(1):5-14. doi: 10.1016/j.jtcme.2017.06.012."
+                ]
+            },
+            {
+                "pharmacological": "รักษาแผล",
+                "pharmacological_content": "การศึกษาในหนูแรทที่ถูกทำให้เกิดแผลแบบแผลถูกตัด (excision wound) ซึ่งแบ่งออกเป็น กลุ่มที่ให้ทาแผลด้วยน้ำมันมะพร้าวบริสุทธิ์ (ตัวอย่างจากประเทศอินเดีย) เตรียมโดยคั้นน้ำกะทิจากเนื้อมะพร้าว จากนั้นนำไปแช่เย็น เป็นเวลา 48 ชม. แยกเอาชั้นน้ำมันออกจากชั้นน้ำ แล้วนำไปให้ความร้อนในตู้อบ โดยใช้ไฟอ่อน (50 oC) ขนาด 0.5 และ 1 มล. เป็นเวลา 10 วัน และกลุ่มควบคุม พบว่าน้ำมันมะพร้าวบริสุทธิ์มีฤทธิ์รักษาแผล โดยทำให้แผลหายได้เร็วกว่า เมื่อเทียบกับกลุ่มควบคุม เพิ่มการสร้างหลอดเลือดใหม่และจำนวนของเซลล์ไฟโบรบลาสต์ เพิ่มปริมาณของคอลลาเจน, glycosaminoglycans, hexose, sialic acid, elastin และโปรตีนใน granulation tissue นอกจากนี้ยังมีผลเพิ่มระดับของ reduced glutathione, เอนไซม์ superoxide dismutase, glutathione peroxidase, glutathione reductase และลดระดับของ malondialdehyde ซึ่งแสดงถึงฤทธิ์ต้านอนุมูลอิสระของน้ำมันมะพร้าว (31) การศึกษาฤทธิ์รักษาแผลของน้ำมันมะพร้าว (ตัวอย่างจากประเทศอิรัก) เตรียมโดยนำเนื้อมะพร้าวและน้ำมะพร้าวมาปั่นรวมกันด้วยเครื่องปั่น จากนั้นนำมาคั้นแยกน้ำกะทิ แล้วนำไปให้ความร้อนเพื่อไล่น้ำที่หลงเหลืออยู่ ทำการแยกชั้นของน้ำมันที่อยู่ด้านบนออกมา กรองใส่ขวดเก็บไว้ที่อุณหภูมิห้อง  ทดสอบในหนูแรทที่ถูกทำให้เกิดแผลโดยแบ่งออกเป็น 4 กลุ่ม ได้แก่ กลุ่มที่ทาแผลด้วยน้ำมันมะพร้าว ขนาด 0.5 มก. วันละ 3 ครั้ง กลุ่มที่ทาแผลด้วยขี้ผึ้ง Fucidin® ขนาด 20 มก./ก. กลุ่มที่ทาแผลด้วยน้ำมันมะพร้าว ขนาด 0.5 มก. ร่วมกับ ขี้ผึ้ง Fucidin®ขนาด 20 มก./ก. และกลุ่มควบคุมที่ทาแผลด้วยน้ำกลั่น ทดสอบเป็นเวลา 10 วัน พบว่ากลุ่มที่ทาน้ำมันมะพร้าวร่วมกับขี้ผึ้ง Fucidin® แผลจะหายได้เร็วกว่า เมื่อเทียบกับกลุ่มอื่น โดยมีผลเพิ่มการหดตัวของแผล (wound contraction), เพิ่มปริมาณของคอลลาเจน และ elastin ใน granulation tissue (32)",
+                "pharmacological_ref": [
+                    "Nevin KG, RajamohanT. Effect of topical application of virgin coconut oil on skin components and antioxidant status during dermal wound healing in young rats. Skin Pharmacol Physiol. 2010;23:290-7. doi: 10.1159/000313516."
+                ]
+            }
+        ]
+    }
+}

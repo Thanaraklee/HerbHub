@@ -1,0 +1,362 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Terminalia bellirica",
+            "authorship": "Joseph Gaertner",
+            "updated_by": "William Roxburgh",
+            "name_ref": "Pl. Coromandel  2: t. 198 (1805)",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:170982-1"
+        },
+        "synonyms": [
+            {
+                "name": "Myrobalanus bellirica",
+                "author": "Joseph Gaertner 1732-1791",
+                "protologue": "Fruct. Sem. Pl.  2: 90 (1790)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000376705"
+            },
+            {
+                "name": "Myrobalanus punctata",
+                "author": "Albrecht Wilhelm Roth 1757-1834",
+                "protologue": "Revis. Gen. Pl.  1: 237 (1891)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000376849"
+            },
+            {
+                "name": "Terminalia biticaria",
+                "author": "William Roxburgh 1751-1815",
+                "protologue": "Hort. Bengal. : 90 (1814)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000406941"
+            },
+            {
+                "name": "Terminalia belirica",
+                "author": "Nathaniel Wolff Wallich 1786-1854",
+                "protologue": "Numer. List : n.° 3968 (1831)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000407005"
+            },
+            {
+                "name": "Terminalia attenuata",
+                "author": "Michael Pakenham Edgeworth 1812-1881",
+                "protologue": "Trans. Linn. Soc. London  20: 46 (1846)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000407016"
+            },
+            {
+                "name": "Terminalia punctata",
+                "author": "Albrecht Wilhelm Roth 1757-1834",
+                "protologue": "Nov. Pl. Sp. : 381 (1821)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000408533"
+            },
+            {
+                "name": "Terminalia laurinoides",
+                "author": "Johannes Elias Teijsmann 1808-1882",
+                "protologue": "Fl. Ned. Ind.  1: 600 (1856)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000408698"
+            },
+            {
+                "name": "Terminalia eglandulosa",
+                "author": "William Roxburgh 1751-1815",
+                "protologue": "Fl. Brit. India  2: 445 (1878)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000408741"
+            },
+            {
+                "name": "Terminalia gella",
+                "author": "Nicol Alexander Dalzell 1817-1878",
+                "protologue": "Hooker's J. Bot. Kew Gard. Misc.  3: 227 (1851)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000408765"
+            },
+            {
+                "name": "Buceras bellirica",
+                "author": "Joseph Gaertner 1732-1791",
+                "protologue": "Pl. Nam. : 71 (1900)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000573348"
+            },
+            {
+                "name": "Myrobalanus laurinoides",
+                "author": "Johannes Elias Teijsmann 1808-1882",
+                "protologue": "–",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001280562"
+            },
+            {
+                "name": "Terminalia bellirica var. laurinoides",
+                "author": "Johannes Elias Teijsmann 1808-1882",
+                "protologue": "Fl. Brit. India  2: 445 (1878)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001280563"
+            },
+            {
+                "name": "Terminalia myrobalana",
+                "author": "Benjamin Heyne 1770-1819",
+                "protologue": "Nov. Pl. Sp. : 378 (1821)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001280574"
+            },
+            {
+                "name": "Myrobalanus taria",
+                "author": "Francis Buchanan-Hamilton 1762-1829",
+                "protologue": "Trans. Linn. Soc. London  17: 159 (1837 publ. 1835)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200025214"
+            },
+            {
+                "name": "Terminalia taria",
+                "author": "Francis Buchanan-Hamilton 1762-1829",
+                "protologue": "Trans. Linn. Soc. London  17: 159 (1837 publ. 1835)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200025215"
+            },
+            {
+                "name": "Myrobalanus tania",
+                "author": "Francis Buchanan-Hamilton 1762-1829",
+                "protologue": "Allg. Med.-Pharm. Fl.  4: 1497 (1835)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200025216"
+            },
+            {
+                "name": "Terminalia moluccana",
+                "author": "William Roxburgh 1751-1815",
+                "protologue": "Fl. Ind., ed. 1832.  2: 432 (1832)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200025217"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Myrtales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000144"
+            },
+            "genus": {
+                "genus_name": "Combretaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000037799"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Terminalia+bellirica&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "LINOLEIC-ACID",
+                "activity_count": 27,
+                "plant_part": "Seed",
+                "low_parts_per_million": 72475.0,
+                "high_parts_per_million": 202930.0,
+                "standard_deviation": 0.82,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "OLEIC-ACID",
+                "activity_count": 18,
+                "plant_part": "Seed",
+                "low_parts_per_million": 108025.0,
+                "high_parts_per_million": 301470.0,
+                "standard_deviation": 1.5,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "PALMITIC-ACID",
+                "activity_count": 13,
+                "plant_part": "Seed",
+                "low_parts_per_million": 29500.0,
+                "high_parts_per_million": 82600.0,
+                "standard_deviation": 1.0,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "STARCH",
+                "activity_count": 5,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 99800.0,
+                "high_parts_per_million": 127000.0,
+                "standard_deviation": 2.44,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "TANNIN",
+                "activity_count": 35,
+                "plant_part": "Bark",
+                "low_parts_per_million": 14000.0,
+                "high_parts_per_million": 70000.0,
+                "standard_deviation": -0.62,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "สมอพิเภก",
+            "common_name_th_ref": [
+                "ราชันย์ภู่มา, สมรานสุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทยเต็มสมิตินันทน์ฉบับแก้ไขเพิ่มเติมพ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืชกรมอุทยานแห่งชาติสัตว์ป่าและพันธุ์พืช; 2557."
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "Beleric myrobalan, Ink nut",
+            "common_name_en_ref": [
+                "ราชันย์ภู่มา, สมรานสุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทยเต็มสมิตินันทน์ฉบับแก้ไขเพิ่มเติมพ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืชกรมอุทยานแห่งชาติสัตว์ป่าและพันธุ์พืช; 2557."
+            ]
+        },
+        "local_name": {
+            "local_name": [
+                "ชิบะดู่",
+                "ลัน",
+                "สมอแหน",
+                "สะคู้",
+                "แหน",
+                "แหนขาว",
+                "แหนต้น"
+            ],
+            "local_name_ref": [
+                "ราชันย์ภู่มา, สมรานสุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทยเต็มสมิตินันทน์ฉบับแก้ไขเพิ่มเติมพ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืชกรมอุทยานแห่งชาติสัตว์ป่าและพันธุ์พืช; 2557."
+            ]
+        },
+        "clinical_studies": [],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "ฤทธิ์ต้านสิวบนผิวกาย",
+                "pharmacological_content": "สารสกัดเนื้อผลสมอพิเภกด้วย 70% เมทานอลและน้ำ (ตัวอย่างจากประเทศอินเดีย) ความเข้มข้น 200 มคก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี broth microdilution method พบว่าค่า MIC (Minimum Inhibition Concentration) ที่สามารถยับยั้งเชื้อแบคทีเรีย Staphylococcus aureus มีค่าเท่ากับ 19 ± 0.5 และ 19± 0.2 มคก./มล. ในขณะที่ gentamycin และ tetracycline ความเข้มข้น 30 มคก./disc ค่า MIC เท่ากับ 15± 0.5 และ 17 ± 0.3 มคก./มล. (12)สารสกัดน้ำผลสมอพิเภก (ตัวอย่างจากประเทศอินเดีย) ความเข้มข้น 10, 20, 30 และ 40มก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี The Thornberry’s method พบว่าสามารถยับยั้งเชื้อแบคทีเรีย S. aureus โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 10, 12, 13 และ 14มม. ตามลำดับ และสารสกัดน้ำผลสมอพิเภกในรูปแบบนาโนพาร์ติเคิล (nanoparticles) โดยทำในรูปแบบอนุภาคนาโนเงิน อนุภาคนาโนทอง และอนุภาคนาโนเงินผสมทอง ที่ความเข้มข้น 10, 20, 30 และ 40มก./มล. พบว่าสามารถยับยั้งเชื้อแบคทีเรีย S. aureus โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 13, 15, 17.5 และ 18 มม., 12, 14.5, 15 และ 17มม., 14, 16, 18 และ 20 มม. ตามลำดับ  ในขณะที่ gentamycin ความเข้มข้น 20มก./มล. ขนาด 10 มคล. บริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 23 มม. จากการศึกษาสรุปได้ว่าสารสกัดน้ำผลสมอพิเภกในรูปแบบนาโนพาร์ติเคิลมีฤทธิ์ในการยับยั้งเชื้อแบคทีเรีย S. aureus ได้ดีกว่าสารสกัดน้ำผลสมอพิเภก (13)สารสกัดน้ำผลสมอพิเภกในรูปแบบนาโนพาร์ติเคิล (ตัวอย่างจากประเทศอินเดีย) ความเข้มข้น 1.25 มิลลิโมลาร์ เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี disc diffusion พบว่าสามารถยับยั้งเชื้อแบคทีเรีย S. aureus โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 14.67 ± 1.53มม. และมีค่า MIC เท่ากับ 156 - 313 ไมโครโมลาร์ ในขณะที่ streptomycin ความเข้มข้น 20มคก./มล.บริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 33.00 ± 2.00 มม.(14)สารสกัดผลสมอพิเภกด้วยน้ำและเมทานอล (ตัวอย่างจากประเทศอินเดีย)ความเข้มข้น 100 มก./มล. ขนาด 20 มคล./well เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี agar well diffusion พบว่าสามารถยับยั้งเชื้อแบคทีเรีย S. aureus โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 10.5 ± 0.5 และ 9.5±0.5 มม. ตามลำดับ ในขณะที่ ampicillin ไม่ระบุความเข้มข้น บริเวณที่มีการยับยั้งเชื้อ มีความกว้างเท่ากับ 24 มม. (15)สารสกัดน้ำผลสมอพิเภก ด้วยวิธี refluxmethod, bottle- shakermethod และ sonicationmethod(ตัวอย่างจากประเทศศรีลังกา) ความเข้มข้น 10 มก./มล.เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี agar dilution methodพบว่าสามารถยับยั้งเชื้อแบคทีเรีย methicillin-resistant Staphylococcus aureus (MRSA) โดยที่ค่า MIC ที่สามารถยับยั้งเชื้อแบคทีเรียดังกล่าวได้มีค่าเท่ากับ 0.25 - 0.5, 0.5 และ 0.25 - 0.5มก./มล.ตามลำดับ ในขณะที่สารสกัดลำดับส่วนของผลสมอพิเภกด้วยเมทานอลด้วยวิธี soxhlet method, bottle- shaker method และ sonicationmethodพบว่าค่า MIC มีค่าเท่ากับ 0.25, 0.5, 0.5มก./มล. ตามลำดับและสารสกัดลำดับส่วนของผลสมอพิเภกด้วยน้ำ ด้วยวิธี soxhlet method, bottle- shaker method และ sonication method พบว่าค่า MIC มีค่าเท่ากับ 0.5 มก./มล. เท่ากันทั้ง 3 วิธี (16)",
+                "pharmacological_ref": [
+                    "Gupta R, Singh RL, Gupta A. Antioxidant, DNA protective and antibacterial activities of Terminalia bellericaextracts. J Med Plants Res. 2019;13(18):431-42. doi: 10.5897/JMPR2017.6548."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านอนุมูลอิสระบนผิวกาย",
+                "pharmacological_content": "สารสกัดผลแห้งสมอพิเภกด้วย 70% เอทานอล ไม่ระบุความเข้มข้น (ตัวอย่างจากจังหวัดเชียงใหม่) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าความสามารถในการต้านอนุมูลอิสระมีค่าเท่ากับ97.47±0.06% (17)สารสกัดผลสมอพิเภกโดยตรงด้วยน้ำ และสารสกัดลำดับส่วนเมทานอลและ น้ำ(ตัวอย่างจากประเทศศรีลังกา) ด้วยวิธี soxhlet, bottle-shaker, sonication method เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assa y พบว่าค่าความเข้มข้นที่สามารถต้านอนุมูลอิสระได้ร้อยละ 50 (EC50) ของสารสกัด โดยสารสกัดทุกวิธีมีค่าอยู่ในช่วง 0.007 - 0.02 มก./มล.  และสารสกัดลำดับส่วนด้วยเมทานอลมีค่า EC50 น้อยที่สุด (0.007 มก./มล.) ในขณะที่วิตามินซี มีค่า EC50 เท่ากับ 0.037 มก./มล.(16)สารสกัดผลสมอพิเภกด้วยน้ำ และเมทานอล (ตัวอย่างจากประเทศอินเดีย) ที่ความเข้มข้น 1 มก./มล.เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าความสามารถในการต้านอนุมูลอิสระมีค่าเท่ากับ 76.02และ 80.15% ตามลำดับ  ในขณะที่วิตามินซีสามารถต้านอนุมูลอิสระได้ 91.25% (15)สารสกัดผลสมอพิเภกด้วยเอทานอล (ตัวอย่างจากประเทศอินเดีย) ความเข้มข้น 50 - 200 มคก./มล.เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี free radical scavenging activity (DPPH), superoxide anion radical scavenging activity, hydroxyl radical scavenging activityพบว่าค่าความเข้มข้นที่สามารถต้านอนุมูลอิสระได้ร้อยละ 50 (IC50) มีค่าเท่ากับ 62, 39 และ 27 มคก./มล. ตามลำดับ หรือสารสกัดที่ความเข้มข้น 200 มคก./มล. มีความสามารถในการต้านอนุมูลอิสระได้เท่ากับ 84.16, 78.39 และ 78.87% ตามลำดับ ส่วนสาร quercetinความเข้มข้น 200 มคก./มล.มีฤทธิ์ต้านอนุมูลอิสระด้วยวิธีดังกล่าวได้เท่ากับ 90.25, 91.77 และ 91.12% ตามลำดับ (18)สารสกัดผลสมอพิเภกด้วยด้วย 70% เมทานอล และน้ำ (ตัวอย่างจากประเทศอินเดีย) ความเข้มข้น 50 - 200 มคก./มล.เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี free radical scavenging activity (DPPH),superoxide anion radical scavenging activity, hydroxyl radical scavenging activity พบว่าสารสกัดความเข้มข้น 200 มคก./มล. สามารถในการต้านอนุมูลอิสระได้เท่ากับ 68.34 และ 51.58%, 75.86 และ 62.91%, 74.86 และ 56.23%ตามลำดับ และสารสกัดผลสมอพิเภกด้วยเมทานอล เมื่อนำมาทดสอบด้วยวิธีดังกล่าว มีค่าIC50เท่ากับ 118.70, 77.65และ73.76มคก./มล. ตามลำดับส่วนสาร quercetin ความเข้มข้น 200 มคก./มล.สามารถต้านอนุมูลอิสระด้วยวิธีดังกล่าวได้เท่ากับ 90.25, 91.77 และ 91.12% ตามลำดับ (12)สารฟลาโวนอยด์จากผลแห้งสมอพิเภกที่สกัดด้วยไดเอทิลอีเทอร์ และเอทิลอะซิเตด (ตัวอย่างจากประเทศอินเดีย) ความเข้มข้น 10 - 25 มคก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าค่า IC50 มีค่าเท่ากับ 10.21 และ 16.47 มคก./มล.ตามลำดับ ในขณะที่ IC50 ของวิตามินซีมีค่าเท่ากับ 11.33 มคก./มล. สารสกัดฟลาโวนอยด์ที่สกัดด้วยไดเอทิลอีเทอร์ และเอทิลอะซิเตด ที่ความเข้มข้น 50 - 200 มคก./มล.เมื่อทดสอบด้วยวิธี hydroxyl radical scavenging activity และ nitric oxide radical scavenging activity พบว่าค่า IC50 มีค่าเท่ากับ 138.70 และ 68.21 มคก./มล., 32.95 และ78.83 มคก./มล. ตามลำดับส่วนสาร gallic acid มีค่า IC50 เท่ากับ 167.95, 15.07 มคก./มล. ตามลำดับ (19)สารสกัดผลสมอพิเภกด้วยเมทานอล (ตัวอย่างจากประเทศอินเดีย) ความเข้มข้น 25 -300 มคก./มล.เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH scavenging activity.พบว่าความสามารถต้านอนุมูลอิสระได้เท่ากับ 21.22 - 73.23% โดยมีค่า IC50เท่ากับ87.29มคก./มล.ส่วนวิตามินซี มีค่า IC50เท่ากับ 60.23 มคก./มล.สารสกัดดังกล่าว เมื่อทดสอบด้วยวิธีnitric oxide radical scavenging activity พบว่าความสามารถต้านอนุมูลอิสระได้เท่ากับ 19.23 - 70.76% โดยมีค่า IC50มีค่าเท่ากับ97.08มคก./มล. ส่วนวิตามินซี มีค่าIC50เท่ากับ81.61มคก./มล.(20)สารสกัดผลสมอพิเภกด้วย 70% อะซิโตน (ตัวอย่างจากประเทศอินเดีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า IC50 มีค่าเท่ากับ 13.78 ± 0.72 มคก./มล.ส่วนสาร gallic acid มีค่าIC50 เท่ากับ 12.43 มคก./มล. (11)สารสกัดผลสมอพิเภกด้วยเมทานอล เอทิลอะซิเตด เอ็น-บิวทานอล และน้ำ (ตัวอย่างจากประเทศอินเดีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่ามีค่า IC50 เท่ากับ3.1, 2.8, 2.7 และ 3.5 มคก./มล. ตามลำดับ ส่วนวิตามินซี, butylated hydroxyl toluene (BHT), butylhydroquinone (BHQ) และ trolox มีค่าIC50 เท่ากับ 4.2, 4.3, 1.7 และ2.1 มคก./มล. ตามลำดับ (21)สารสกัดผลสมอพิเภกด้วยเมทานอลเอทิลอะซิเตดเอ็น-บิวทานอลและน้ำ (ตัวอย่างจากประเทศอินเดีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี ABTS radical assayพบว่ามีค่าIC50เท่ากับ 42.9, 40.8, 38.8 และ 52.6 มคก./มล. ตามลำดับ ส่วนสารวิตามินซี, butylated hydroxyl toluene (BHT), butylhydroquinone (BHQ), และtrolox มีค่าIC50 เท่ากับ 42.7, 116.5, 64.4 และ47.4 มคก./มล. ตามลำดับ (21)ส่วนสกัดผลสมอพิเภกด้วยเฮกเซน, คลอโรฟอร์ม, เอทิลอะซิเตด, บิวทานอล และน้ำ (ตัวอย่างจากประเทศอินเดีย)เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH scavenging activity พบว่ามีค่าIC50เท่ากับ4054.95 ± 807.27, 21.89 ± 0.43, 7.11 ± 0.31, 17.20 ± 0.13, 9.51 ± 0.07 มคก./มล. ตามลำดับวิตามินซีมีค่าIC50เท่ากับ 5.29 ± 0.28 มคก./มล. จะเห็นได้ว่าส่วนสกัดดังกล่าวมีฤทธิ์ต้านอนุมูลอิสระได้ดี ยกเว้นส่วนสกัดของเฮกเซน (22)สารสกัดผลสมอพิเภกด้วยเมทานอล (ตัวอย่างจากประเทศอินเดีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH scavenging activity พบว่า IC50มีค่าเท่ากับ 9.64 ± 0.13 มคก./มล.วิตามินซีมีค่า IC50 เท่ากับ 6.60 ± 0.66 มคก./มล.(23) สารสกัดผลสมอพิเภกด้วยอะซิโตนกับน้ำ (ตัวอย่างจากประเทศอินเดีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี nitric oxide radical scavenging activity พบว่าความสามารถต้านอนุมูลอิสระได้เท่ากับ 79.7% โดยมีค่า IC50เท่ากับ 413.05± 13.48 มคก./มล. วิตามินซีสามารถต้านอนุมูลอิสระได้เท่ากับ 92.8% และค่า IC50เท่ากับ 162.42± 8.98 มคก./มล. (24)ส่วนสกัดผลสมอพิเภกด้วยปิโตรเลียมอีเทอร์, คลอโรฟอร์ม, เอทิลอะซิเตด และเอ็นบิวทานอล (ตัวอย่างจากประเทศจีน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH scavenging activity พบว่าค่าIC50เท่ากับ13.88 ± 0.27, 11.04 ± 0.85,1.10 ± 0.08และ6.78 ± 0.23 มคก./มล. ตามลำดับวิตามินซีและ butylated hydroxytoluene (BHT) มีค่าIC50เท่ากับ 13.88 ± 0.27 และ 11.04 ± 0.85มคก./มล. ตามลำดับ ส่วนสกัดดังกล่าวเมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี ABTS พบว่า IC50 มีค่าเท่ากับ 5.30 ± 0.53, 2.03 ± 0.10, 0.82 ± 0.09, 1.89 ± 0.04 ส่วนวิตามินซี และ butylated hydroxytoluene (BHT) มีค่า IC50 เท่ากับ1.38 ± 0.15 และ1.63 ± 0.03 มคก./มล. ตามลำดับ ผลการศึกษาสรุปได้ว่าส่วนสกัดผลสมอพิเภกด้วยเอทิลอะซิเตด มีฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุด (7) สาร ellagic acidจากผลสมอพิเภกและสารสกัดผลสมอพิเภกด้วยเอทิลอะซิเตด และน้ำ (ตัวอย่างจากประเทศอินเดีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี ABTS radical assay พบว่าค่าIC50มีค่าเท่ากับ 1.71, 11.78, 14.44 มคก./มล. ตามลำดับส่วนวิตามินซีมีค่า IC50 เท่ากับ 1.46 มคก./มล.สรุปได้ว่าสาร ellagic acid มีฤทธิ์ต้านอนุมูลอิสระได้ใกล้เคียงกับวิตามินซี (10)",
+                "pharmacological_ref": [
+                    "Chaiyasut C, Kesika P, Chaiyasut K, Sittiyuno P, Peerajan S, Sivamaruthi BS. Total phenolic content and free radical scavenging activity of representative medicinal plants of Thailand. Asian J Pharm Clin Res. 2017;10(11):137-41. doi: 10.22159/ajpcr.2017.v10i11.20741."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านการอักเสบของผิวกาย",
+                "pharmacological_content": "เมื่อป้อนสารสกัดไฮโดรแอลกอฮอลิกผลสมอพิเภก (ตัวอย่างประเทศอินเดีย) ขนาด 100, 200, และ 400 มก./กก.ทางปาก ครั้งเดียว ให้กับหนูแรทที่เหนี่ยวนำให้เกิดการอักเสบที่อุ้งเท้าด้วยสารคาราจีแนน  หลังจากนั้น 3 ชม. พบว่าสารสกัดผลสมอพิเภกสามารถยับยั้งการอักเสบที่อุ้งเท้าหนูได้ 54.9, 57.6 และ 56.7% ตามลำดับ เมื่อเปรียบเทียบกับยา indomethacin ขนาด 3 มก./กก. สามารถยับยั้งการอักเสบที่อุ้งเท้าหนูได้ 63.8% (25)สารสกัดผลสมอพิเภกด้วยเอทิลอะซิเตด (ตัวอย่างจากประเทศอินเดีย) ขนาด 25, 50 และ 100 มคก./มล.เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบในเซลล์เม็ดเลือดขาว (RAW 264.7 Murine Macrophages) ที่ถูกกระตุ้นให้เกิดการอักเสบด้วยสารไลโปโพลีแซคคาไรด์ (lipopolysaccharide; LPS) พบว่าที่ความเข้มข้น 100 มคก./มล.สามารถลดสารที่ก่อให้เกิดการอักเสบ [cyclooxygenase (COX), 5-lipoxygenase (5-LOX), Inducible nitric oxide synthase (iNOS)] ได้ 67.68, 62.61 และ 70.0% ตามลำดับ ส่วนยา diclofenac ขนาด100 มคก./มล. มีฤทธิ์ลดการอักเสบได้ 89, 83 และ 88% ตามลำดับ (26)สาร ellagic acid, สารสกัดผลสมอพิเภกด้วยเอทิลอะซิเตด และน้ำ (ตัวอย่างจากประเทศอินเดีย) เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบโดยวิธีการยับยั้งการเสียสภาพของโปรตีนอัลบูมิน (inhibition of heat-induced albumin denaturation) พบว่าสารดังกล่าวมีค่า IC50 ต่อการยับยั้งการเสียสภาพของโปรตีนอัลบูมินเท่ากับ 7.64, 28.03 และ 36.22 มคก./มล. ตามลำดับ โดยที่สาร ellagic acid ที่ความเข้มข้น 16.7 มคก./มล. สามารถยับยั้งการเสียสภาพของโปรตีนอัลบูมินได้ 95.56 ± 0.56% สารสกัดผลสมอพิเภกด้วยเอทิลอะซิเตดและน้ำที่ความเข้มข้น 50มคก./มล. มีฤทธิ์ยับยั้งการเสียสภาพของโปรตีนอัลบูมินได้ 77.67 และ 67.57% ตามลำดับ ส่วนยา diclofenac ความเข้มข้น 16.7 มคก./มล.มีฤทธิ์ยับยั้งการเสียสภาพของโปรตีนอัลบูมินได้ 95.56 ± 0.56 % และมีค่า IC50 เท่ากับ 5.66 มคก./มล. (10)",
+                "pharmacological_ref": [
+                    "Chauhan P, Singh S, Gupta YK, Kumar U. Evaluation of toxicity studies and anti-inflammatory activity of Terminalia bellerica in carrageenan-induced paw edema in experimental rats. J Nat Sci Biol Med. 2018;9:169-74. doi: 10.4103/jnsbm.JNSBM_159_17."
+                ]
+            }
+        ]
+    }
+}

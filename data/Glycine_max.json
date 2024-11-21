@@ -1,0 +1,705 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Glycine max",
+            "authorship": "Carl Linnaeus",
+            "updated_by": "Elmer Drew Merrill",
+            "name_ref": "Interpr. Herb. Amboin. : 274 (1917)",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:60450240-2"
+        },
+        "synonyms": [
+            {
+                "name": "Phaseolus max",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "Sp. Pl. : 725 (1753)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000178147"
+            },
+            {
+                "name": "Soja max",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "U.S.D.A. Bur. Pl. Industr. Invent. Seeds 33: 53 (1915)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000187296"
+            },
+            {
+                "name": "Phalseolus max",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "–",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000207035"
+            },
+            {
+                "name": "Phaseolus sordidus",
+                "author": "Richard Anthony Salisbury 1761-1829",
+                "protologue": "Prodr. Stirp. Chap. Allerton : 335 (1796)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000469838"
+            },
+            {
+                "name": "Dolichos sofa",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "–",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001061780"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Fabales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000323"
+            },
+            "genus": {
+                "genus_name": "Fabaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000049061"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Glycine+max&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "ALANINE",
+                "activity_count": 3,
+                "plant_part": "Seed",
+                "low_parts_per_million": 17190.0,
+                "high_parts_per_million": 18795.0,
+                "standard_deviation": 1.84,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ALPHA-LINOLENIC-ACID",
+                "activity_count": 15,
+                "plant_part": "Seed",
+                "low_parts_per_million": 13300.0,
+                "high_parts_per_million": 14540.0,
+                "standard_deviation": -0.04,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ALPHA-TOCOPHEROL",
+                "activity_count": 32,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 29.0,
+                "high_parts_per_million": 280.0,
+                "standard_deviation": -0.18,
+                "ref": "Jim Duke's personal files.*"
+            },
+            {
+                "chemical_name": "ARGININE",
+                "activity_count": 14,
+                "plant_part": "Seed",
+                "low_parts_per_million": 28310.0,
+                "high_parts_per_million": 30950.0,
+                "standard_deviation": 0.27,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "ASCORBIC-ACID",
+                "activity_count": 112,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 290.0,
+                "high_parts_per_million": 942.0,
+                "standard_deviation": -0.23,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "ASCORBIC-ACID",
+                "activity_count": 112,
+                "plant_part": "Seed",
+                "low_parts_per_million": 0.0,
+                "high_parts_per_million": 849.0,
+                "standard_deviation": 0.17,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "ASCORBIC-ACID",
+                "activity_count": 112,
+                "plant_part": "Sprout Seedling",
+                "low_parts_per_million": 100.0,
+                "high_parts_per_million": 949.0,
+                "standard_deviation": -0.33,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "BETA-CAROTENE",
+                "activity_count": 53,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 4.1,
+                "high_parts_per_million": 13.4,
+                "standard_deviation": -0.12,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "BETA-CAROTENE",
+                "activity_count": 53,
+                "plant_part": "Sprout Seedling",
+                "low_parts_per_million": 0.2,
+                "high_parts_per_million": 3.5,
+                "standard_deviation": 1.84,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "CALCIUM",
+                "activity_count": 28,
+                "plant_part": "Plant",
+                "low_parts_per_million": 9400.0,
+                "high_parts_per_million": 13000.0,
+                "standard_deviation": -0.06,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "CALCIUM",
+                "activity_count": 28,
+                "plant_part": "Sprout Seedling",
+                "low_parts_per_million": 480.0,
+                "high_parts_per_million": 3504.0,
+                "standard_deviation": -0.26,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "CITRIC-ACID",
+                "activity_count": 23,
+                "plant_part": "Seed",
+                "low_parts_per_million": 8000.0,
+                "high_parts_per_million": 13000.0,
+                "standard_deviation": 1.22,
+                "ref": "List, P.H. and Horhammer, L., Hager's Handbuch der Pharmazeutischen Praxis, Vols. 2-6, Springer-Verlag, Berlin, 1969-1979."
+            },
+            {
+                "chemical_name": "CYSTEINE",
+                "activity_count": 13,
+                "plant_part": "Seed",
+                "low_parts_per_million": 5880.0,
+                "high_parts_per_million": 6430.0,
+                "standard_deviation": 0.35,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 14000.0,
+                "high_parts_per_million": 45000.0,
+                "standard_deviation": -0.91,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Plant",
+                "low_parts_per_million": 281000.0,
+                "high_parts_per_million": 355000.0,
+                "standard_deviation": 0.98,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Seed",
+                "low_parts_per_million": 19000.0,
+                "high_parts_per_million": 63000.0,
+                "standard_deviation": -0.57,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Sprout Seedling",
+                "low_parts_per_million": 7000.0,
+                "high_parts_per_million": 58000.0,
+                "standard_deviation": -0.8,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "FOLACIN",
+                "activity_count": 15,
+                "plant_part": "Seed",
+                "low_parts_per_million": 0.3,
+                "high_parts_per_million": 4.0,
+                "standard_deviation": 0.58,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "GLUCOSE",
+                "activity_count": 7,
+                "plant_part": "Seed",
+                "low_parts_per_million": 300.0,
+                "high_parts_per_million": 570.0,
+                "standard_deviation": -0.57,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "GLUTAMIC-ACID",
+                "activity_count": 8,
+                "plant_part": "Seed",
+                "low_parts_per_million": 70680.0,
+                "high_parts_per_million": 77280.0,
+                "standard_deviation": 1.5,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "GLYCINE",
+                "activity_count": 12,
+                "plant_part": "Seed",
+                "low_parts_per_million": 16870.0,
+                "high_parts_per_million": 18445.0,
+                "standard_deviation": 1.08,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "HISTIDINE",
+                "activity_count": 7,
+                "plant_part": "Seed",
+                "low_parts_per_million": 9840.0,
+                "high_parts_per_million": 10770.0,
+                "standard_deviation": 1.24,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "IRON",
+                "activity_count": 6,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 28.0,
+                "high_parts_per_million": 91.0,
+                "standard_deviation": -0.17,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "IRON",
+                "activity_count": 6,
+                "plant_part": "Sprout Seedling",
+                "low_parts_per_million": 10.0,
+                "high_parts_per_million": 73.0,
+                "standard_deviation": -0.98,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "LEUCINE",
+                "activity_count": 2,
+                "plant_part": "Seed",
+                "low_parts_per_million": 29720.0,
+                "high_parts_per_million": 32500.0,
+                "standard_deviation": 1.48,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "LINOLEIC-ACID",
+                "activity_count": 27,
+                "plant_part": "Seed",
+                "low_parts_per_million": 70335.0,
+                "high_parts_per_million": 126082.0,
+                "standard_deviation": 0.16,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "LYSINE",
+                "activity_count": 4,
+                "plant_part": "Seed",
+                "low_parts_per_million": 24290.0,
+                "high_parts_per_million": 26560.0,
+                "standard_deviation": 1.96,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MANGANESE",
+                "activity_count": 14,
+                "plant_part": "Seed",
+                "low_parts_per_million": 8.0,
+                "high_parts_per_million": 60.0,
+                "standard_deviation": 0.08,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "METHIONINE",
+                "activity_count": 15,
+                "plant_part": "Seed",
+                "low_parts_per_million": 4920.0,
+                "high_parts_per_million": 5380.0,
+                "standard_deviation": 0.28,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MUFA",
+                "activity_count": 13,
+                "plant_part": "Seed",
+                "low_parts_per_million": 44040.0,
+                "high_parts_per_million": 48150.0,
+                "standard_deviation": -0.44,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "MYRISTIC-ACID",
+                "activity_count": 6,
+                "plant_part": "Seed",
+                "low_parts_per_million": 550.0,
+                "high_parts_per_million": 600.0,
+                "standard_deviation": -0.29,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "NIACIN",
+                "activity_count": 39,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 14.0,
+                "high_parts_per_million": 46.0,
+                "standard_deviation": -0.2,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "NIACIN",
+                "activity_count": 39,
+                "plant_part": "Sprout Seedling",
+                "low_parts_per_million": 8.0,
+                "high_parts_per_million": 58.0,
+                "standard_deviation": -0.51,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "OLEIC-ACID",
+                "activity_count": 18,
+                "plant_part": "Seed",
+                "low_parts_per_million": 40230.0,
+                "high_parts_per_million": 72116.0,
+                "standard_deviation": -0.39,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "PALMITIC-ACID",
+                "activity_count": 13,
+                "plant_part": "Seed",
+                "low_parts_per_million": 14895.0,
+                "high_parts_per_million": 26862.0,
+                "standard_deviation": -0.15,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "PALMITOLEIC-ACID",
+                "activity_count": 2,
+                "plant_part": "Seed",
+                "low_parts_per_million": 550.0,
+                "high_parts_per_million": 600.0,
+                "standard_deviation": -0.28,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PHENYLALANINE",
+                "activity_count": 7,
+                "plant_part": "Seed",
+                "low_parts_per_million": 19050.0,
+                "high_parts_per_million": 20830.0,
+                "standard_deviation": 1.11,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "PHOSPHORUS",
+                "activity_count": 4,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 2250.0,
+                "high_parts_per_million": 7305.0,
+                "standard_deviation": 1.24,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "PHOSPHORUS",
+                "activity_count": 4,
+                "plant_part": "Plant",
+                "low_parts_per_million": 2400.0,
+                "high_parts_per_million": 5410.0,
+                "standard_deviation": 0.88,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "PHOSPHORUS",
+                "activity_count": 4,
+                "plant_part": "Sprout Seedling",
+                "low_parts_per_million": 580.0,
+                "high_parts_per_million": 4891.0,
+                "standard_deviation": -0.68,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "POTASSIUM",
+                "activity_count": 14,
+                "plant_part": "Sprout Seedling",
+                "low_parts_per_million": 2790.0,
+                "high_parts_per_million": 15081.0,
+                "standard_deviation": 0.18,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "RIBOFLAVIN",
+                "activity_count": 15,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 1.6,
+                "high_parts_per_million": 5.0,
+                "standard_deviation": 0.0,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "RIBOFLAVIN",
+                "activity_count": 15,
+                "plant_part": "Sprout Seedling",
+                "low_parts_per_million": 1.5,
+                "high_parts_per_million": 15.0,
+                "standard_deviation": 0.22,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "THIAMIN",
+                "activity_count": 31,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 4.4,
+                "high_parts_per_million": 14.0,
+                "standard_deviation": 1.11,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "THIAMIN",
+                "activity_count": 31,
+                "plant_part": "Sprout Seedling",
+                "low_parts_per_million": 1.9,
+                "high_parts_per_million": 17.0,
+                "standard_deviation": 0.08,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "THREONINE",
+                "activity_count": 4,
+                "plant_part": "Seed",
+                "low_parts_per_million": 15850.0,
+                "high_parts_per_million": 17330.0,
+                "standard_deviation": 2.06,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "TRYPTOPHAN",
+                "activity_count": 29,
+                "plant_part": "Seed",
+                "low_parts_per_million": 5300.0,
+                "high_parts_per_million": 5795.0,
+                "standard_deviation": 0.84,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "TYROSINE",
+                "activity_count": 8,
+                "plant_part": "Seed",
+                "low_parts_per_million": 13800.0,
+                "high_parts_per_million": 15090.0,
+                "standard_deviation": 1.7,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            },
+            {
+                "chemical_name": "VALINE",
+                "activity_count": 3,
+                "plant_part": "Seed",
+                "low_parts_per_million": 18210.0,
+                "high_parts_per_million": 19910.0,
+                "standard_deviation": 0.97,
+                "ref": "USDA's Ag Handbook 8 and sequelae)"
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "ถั่วเหลือง",
+            "common_name_th_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี(บรรณาธิการ). ชื่อพรรณไม้แห่งประเทศไทย  เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "Soybean",
+            "common_name_en_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี(บรรณาธิการ). ชื่อพรรณไม้แห่งประเทศไทย  เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "local_name": {
+            "local_name": [
+                "ถั่วพระเหลือง,",
+                "ถั่วแระ,",
+                "ถั่วเหลือง,",
+                "มะถั่วเน่า"
+            ],
+            "local_name_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี(บรรณาธิการ). ชื่อพรรณไม้แห่งประเทศไทย  เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "clinical_studies": [
+            {
+                "clinical": "บำรุงผิวหน้า ลดความหมองคล้ำของผิวหน้า",
+                "clinical_content": "การศึกษาทางคลินิกในอาสาสมัครผู้หญิงจำนวน 68 คน อายุ 30 - 61 ปี  โดยแบ่งออกเป็นกลุ่มที่ใช้ครีมให้ความชุ่มชื้นที่มีส่วนผสมของสารสกัดจากถั่วเหลือง(Aveeno® Positively RadiantTM Daily Moisturizer) ประกอบด้วย stabilized soy extracts และserine protease inhibitors (soybean trypsin inhibitor [STI] และ Bowman-Birk protease inhibitor [BBI])(ไม่ระบุวิธีการเตรียมและความเข้มข้นของสารสกัดและวิธีการใช้) เปรียบเทียบกับกลุ่มควบคุม โดยทาครีมบริเวณใบหน้า 2 ครั้งต่อวัน เช้าและเย็น เป็นระยะเวลา 12 สัปดาห์ ผลการทดสอบพบว่ากลุ่มที่ใช้ครีมให้ความชุ่มชื้นที่มีส่วนผสมของสารสกัดจากถั่วเหลืองมีผลในการปรับปรุงลักษณะของผิวที่เข้มเป็นหย่อม (mottled pigmentation) ความหมองคล้ำ (dullness) ริ้วรอยร่องตื้น (fine line) โครงสร้างผิวโดยรวม (overall texture) โทนสีผิวโดยรวม(overall skin tone) และลักษณะโดยรวมของผิว (overall appearance) เมื่อเปรียบเทียบกับกลุ่มควบคุม โดยให้ผลในช่วงสัปดาห์ที่ 2 ถึงสัปดาห์ที่ 12 ของการทดสอบ ยกเว้นผลต่อการปรับปรุงความหมองคล้ำที่เริ่มเห็นผลในช่วงสัปดาห์ที่ 4 ของการทดสอบและไม่พบอาการข้างเคียงใด ๆ จากผลการทดสอบสรุปได้ว่าครีมให้ความชุ่มชื้นที่มีส่วนผสมของสารสกัดจากถั่วเหลืองมีผลในการปรับปรุงสภาพผิวและมีความปลอดภัยในการใช้ (5) การศึกษาทางคลินิกของผลการใช้ครีมที่มีส่วนผสมของสารสกัดถั่วเหลืองในการลดอาการไม่พึงประสงค์จากการใช้เลเซอร์Nd: YAG laser (เลเซอร์สำหรับรักษาความผิดปกติของเม็ดสีบนผิวหนังใช้ลบรอยสักทั่วไป หรือกำจัดขน ซึ่งอาจทำให้เกิดอาการข้างเคียง เช่น อาการบวม แดง ระคายเคือง หรืออาการผิวไหม้ เป็นต้น) ในอาสาสมัครผู้หญิงจำนวน 45 คน อายุ 25 - 40 ปี ที่ไม่มีโรคทางผิวหนังและผื่นภูมิแพ้ผิวหนังโดยแบ่งออกเป็นกลุ่มที่ใช้ครีมที่มีส่วนผสมของสารสกัดจากถั่วเหลือง (Charsire Biotechnology Corporation in Tainan, Taiwan)(ไม่ระบุวิธีการเตรียมและความเข้มข้นของสารสกัดและวิธีการใช้) เปรียบเทียบกับกลุ่มควบคุม หลังจากที่อาสาสมัครแต่ละกลุ่มผ่านการใช้เลเซอร์Nd: YAG laser ทุก 2 สัปดาห์เป็นจำนวน 3 รอบ ผลการทดสอบพบว่าหลังจากอาสารสมัครผ่านการใช้เลเซอร์Nd: YAG laser ทำให้เกิดอาการอักเสบในอาสาสมัครทุกคน และพบว่ากลุ่มที่ใช้ครีมที่มีส่วนผสมของสารสกัดถั่วเหลืองส่งผลทำให้การเกิดรอยแดง รอยจุด ริ้วรอย ขนาดของรูขุมขน ลดลง จากผลการทดสอบสรุปได้ว่าครีมที่มีส่วนผสมของสารสกัดถั่วเหลืองมีผลช่วยลดอาการข้างเคียงจากการใช้เลเซอร์ Nd: YAG laser และยังมีผลช่วยในการฟื้นฟูสภาพผิว (6)2 การศึกษาเกี่ยวกับผิวกาย",
+                "clinical_ref": [
+                    "Wallo W, Nebus J, Leyden JJ. Efficacy of a soy moisturizer in photoaging: a double-blind, vehicle-controlled, 12-week study. J Drugs Dermatol. 2007;6(9):917-22."
+                ]
+            },
+            {
+                "clinical": "ลดริ้วรอย",
+                "clinical_content": "การศึกษาทางคลินิกในอาสาสมัครผู้หญิงสุขภาพผิวดี 21 คน อายุ 55 ± 6 ปี  เกี่ยวกับผลของสารสกัดเอทานอลถั่วเหลือง (ไม่ระบุวิธีการสกัด) ประกอบด้วย 10 - 12%isoflavonesต่อการเพิ่มจำนวน dermal papilla ส่วนของหนังแท้ที่ยึดติดกับหนังกำพร้า ซึ่งจำนวนและความยาวของ papilla จะลดลงเมื่ออายุมากขึ้น  โดยทาครีมที่มีส่วนผสมของ 2% สารสกัดถั่วเหลืองบริเวณท้องแขน 2 ครั้ง/วัน เป็นเวลา 2 สัปดาห์ เปรียบเทียบกับกลุ่มยาหลอก ประเมิน papilla index โดยส่องดูผิวหนังภายใต้กล้องจุลทรรศน์อิเล็กตรอน พบว่าครีมสารสกัดถั่วเหลืองมีผลเพิ่มจำนวน dermal papilla ได้(7)",
+                "clinical_ref": [
+                    "Südel KM, Venzke K, Mielke H, Breitenbach U, Mundt C, Jaspers S, et al. Novel aspects of intrinsic and extrinsic aging of human skin: beneficial effects of soy extract. PhotochemPhotobiol. 2005;81(3):581-7. doi: 10.1562/2004-06-16-RA-202."
+                ]
+            },
+            {
+                "clinical": "กันแดด",
+                "clinical_content": "การศึกษาทางคลินิกในอาสาสมัครสุขภาพดีจำนวน 6 คน อายุ 31± 9 ปี  เกี่ยวกับผลของน้ำมันจากจมูกถั่วเหลือง (soybean germ oil)(Italgreen-oil, a division of Casa Olearia; Verona, Italy) ต่อการป้องกันรังสี UVB ที่เหนี่ยวนำให้ผิวหนังเกิดรอยแดง (erythema)  โดยให้อาสาสมัครได้รับรังสี UVB บริเวณแขน ขนาด 1 ซม.2หลังจากนั้นให้ทาน้ำมันจากจมูกถั่วเหลือง 200 ไมโครโมล โดยใช้ Hill Top chamberเปรียบเทียบกับอนุพันธ์ของวิตามินอีtocopherol acetateประเมินผลการทดสอบโดยวัดการยับยั้งการเกิดรอยแดง (% inhibition erythema) ผลการทดสอบพบว่าน้ำมันจากจมูกถั่วเหลืองมีผลในการยับยั้งการเกิดรอยแดงมีค่า % inhibition erythema เท่ากับ 46.8 % ในขณะที่ tocopherol acetateมีค่า % inhibition erythema เท่ากับ 21.5% (8)",
+                "clinical_ref": [
+                    "Bonina F, Puglia C, Avogadro M, Baranelli E, Cravotto G. The topical protective effect of soybean-germ oil against UVB-induced cutaneous erythema: an in vivo evaluation. Arch Pharm (Weinheim). 2005;338(12):598-601. doi: 10.1002/ardp.200500159."
+                ]
+            }
+        ],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "ฤทธิ์ทำให้ผิวขาว",
+                "pharmacological_content": "การทดสอบสารอนุพันธ์ของ isoflavonesได้แก่ 8′-hydroxydaidzein (8′-ODI) และ 3′-hydroxydaidzein (3′-ODI) ที่แยกได้จากถั่วเหลืองหมัก โดยใช้ถั่วเหลืองหมักหรือเต้าเจี้ยวเกาหลี (doenjang) ที่หมัก 5 ปี ปริมาณ 100 ก. สกัดด้วย n-hexane3 ลิตร นาน 3 ชั่วโมง ทำการสกัด 3 ครั้ง สกัดต่อด้วยเมทานอลใน Soxhlet apparatus นาน 6 ชั่วโมง นำไปกรอง และนำไประเหยแห้งโดยการลดความดัน ได้สารสกัด doenjang extract 15.8 ก. แยกวิเคราะห์สารด้วย medium-pressure liquid chromatography(MPLC) systemและทำการทดสอบฤทธิ์ในการยับยั้งการสร้างเม็ดสีของผิวหนังในเซลล์มะเร็งผิวหนัง B16 murine melanomaในหลอดทดลองพบว่า 8′-ODI และ 3′-ODI 20 ไมโครโมลลดการสร้างเม็ดสีได้ 22.2% และ 46.7% เปรียบเทียบกับกลุ่มควบคุม kojic acid 703.6 ไมโครโมลลดการสร้างเม็ดสีได้39.8% ตามลำดับ ผ่านกลไกยับยั้งเอนไซม์ที่เกี่ยวข้องกับการสร้างเม็ดสี tyrosinaseรวมทั้ง tyrosinase protein 1, tyrosinase protein 2 และ microphthalmia - associated transcription factor ส่งผลให้การสร้างเม็ดสีลดลง (14)",
+                "pharmacological_ref": [
+                    "Goh MJ, Park JS, Bae JH, Kim DH, Kim HK, Na YJ. Effects of ortho-dihydroxyisoflavone derivatives from Korean fermented soybean paste on melanogenesis in B16 melanoma cells and human skin equivalents. Phytother Res. 2012;26(8):1107-12. doi: 10.1002/ptr.3682."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านอนุมูลอิสระ",
+                "pharmacological_content": "การทดสอบฤทธิ์ต้านอนุมูลอิสระในหนูแรทที่ให้ออกกำลังกายโดยการวิ่งบนสายพาน โดยแบ่งออกเป็น 4 กลุ่ม กลุ่มแรก ไม่ให้สาร isoflavonesและไม่ออกกำลังกาย กลุ่มที่ 2ไม่ให้สาร isoflavonesและออกกำลังกาย กลุ่มที่ 3ให้สาร isoflavonesและไม่ออกกำลังกายกลุ่มที่ 4ให้สาร isoflavonesและออกกำลังกาย หนูแรทกลุ่มที่ออกกำลังกายให้วิ่งบนสายพาน วันละ 30 นาที 5 วันต่อสัปดาห์ เป็นระยะเวลา 5 สัปดาห์ หนูแรทกลุ่มที่ให้สาร isoflavonesให้ผสมลงไปในอาหาร (isoflavones; daidzein6.6มก./ก., genistein 2.6 มก./ก., glycitein 4.7มก./ก., daidzin 166.3มก./ก., genistin 33.7มก./ก. และglycitin 120.3 มก./ก.) ผลการทดสอบพบว่าหนูที่ออกกำลังกายและให้สาร isoflavonesมีไขมันหน้าท้องน้อยกว่ากลุ่มที่ออกกำลังกายแต่ไม่ให้สาร isoflavonesและทั้งกลุ่มที่ออกกำลังกายและได้รับสาร isoflavonesมีผลในการลดระดับ triglyceride (TG) ในพลาสมา กลุ่มที่ให้สาร isoflavonesและออกกำลังกาย มีค่า TG ลดลงต่ำกว่ากลุ่มที่ไม่ให้สารisoflavonesและไม่ออกกำลังกาย 30.9% อย่างไรก็ตามไม่มีความแตกต่างของค่า cholesterol, HDL-C และอัตราส่วนของ cholesterol/HDL-C การวัดการต้านอนุมูลอิสระโดยการวัด thiobarbituric acid reactive substances (TBARS) กลุ่มที่ไม่ให้สาร isoflavonesและออกกำลังกายมีค่า TBARS สูงกว่าทุกกลุ่ม สำหรับกลุ่มที่ให้สารisoflavonesและออกกำลังกายพบว่ามีผลในการปรับปรุงค่า TBARS เท่าระดับของกลุ่มที่ให้สาร isoflavonesและไม่ออกกำลังกาย กลุ่มที่ให้สารisoflavonesและออกกำลังกายมีค่า superoxide dismutase (SOD) และ catalase สูงกว่ากลุ่มที่ไม่ให้สารisoflavonesและออกกำลังกาย  จากผลการทดสอบสรุปได้ว่าหนูกลุ่มที่ได้รับสาร isoflavonesมีผลในการกระตุ้นกระบวนการยับยั้งอนุมูลอิสระที่เกิดขึ้นในหนูแรทที่ออกกำลังกาย ลด TBARS และมีผลในการยับยั้งการสะสมของไขมันและค่า TG(15) ทดสอบฤทธิ์ต้านอนุมูลอิสระของสารกลุ่ม isoflavonesจากถั่วเหลือง เตรียมสารสกัดโดยใช้ถั่วเหลืองแห้ง 3 กก. สกัดด้วยเอทานอล 70% ทำการสกัด 3 ครั้ง ที่ 60 องศาเซลเซียส นำไประเหยแห้งได้สารสกัด 78 ก. ทดสอบฤทธิ์ต้านอนุมูลอิสระพบว่าสาร isoflavonesมีฤทธิ์ในการต้านอนุมูลอิสระจากการวัดด้วยวิธี low-density lipoprotein (LDL) oxidation, the ferric reducing-antioxidant power (FRAP) และ anti-DPPH free radical assays (16)",
+                "pharmacological_ref": [
+                    "Yoon GA, Park S. Antioxidant action of soy isoflavones on oxidative stress and antioxidant enzyme activities in exercised rats. Nutr Res Pract. 2014;8(6):618-24. doi: 10.4162/nrp.2014.8.6.618."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์กันแดด",
+                "pharmacological_content": "การทดสอบฤทธิ์กันแดดของสารกลุ่ม isoflavonesที่แยกได้จากจากกากถั่วเหลืองที่เหลือจากการน้ำมันถั่วเหลืองโดยใช้กากถั่วเหลือง50 ก. ผสมในน้ำกลั่น-เอทานอล (150 มล.1:1 v/v) เขย่าเป็นเวลา 2 ชั่วโมง นำไปปั่นที่ 6000 rpm นาน20 นาทีที่ 25 องศาเซลเซียส นำส่วน supernatant กรองผ่านกระดาษกรอง และนำไปแยกสารโดยใช้Diaion HP-20 adsorbent เป็น stationary phase และน้ำผสมเอทานอลเป็น mobile phase ได้ส่วนของสารสกัด3ส่วนซึ่งประกอบด้วย malonylglucosideisoflavones, isoflavone glucosides, และ aglyconeisoflavonesผสมกับ acetylglucosideisoflavones ตามลำดับ  และนำส่วนของสารสกัดที่ 3 ไปแยกต่อโดยใช้ Yamazen Hi-FlashTM silica gel column และใช้ mobile phase เป็น n-hexane-isopropanol-ethanol (8:9:1, v/v/v) เพื่อแยกส่วน aglycones ออกจาก acetylglucosidesและเมื่อวิเคราะห์ส่วนของสารสกัดทั้งหมดที่ได้ด้วย HPLCพบว่าประกอบด้วยisoflavonesกลุ่มmalonylglucosides (malonyldaidzin, malonylgenistin, malonylglycitin), glucosides (daidzin, genistin, glycitin), acetylglucosides (acetyldaidzin,acetylgenistin, acetylglycitin), และaglycones (daidzein, genistein, glycitein) ตามลำดับ การทดสอบฤทธิ์กันแดดต่อเซลล์ human immortalized keratinocytes (HaCaT cells)ของส่วนของสารสกัดที่ประกอบด้วยสารกลุ่ม isoflavones ที่ได้ในหลอดทดลองพบว่าส่วนของสารสกัดทั้งหมดมีฤทธิ์ปกป้องการถูกทำลายของเซลล์ผิวหนัง (keratinocyte) ของมนุษย์ที่สัมผัสรังสี ultraviolet B (UVB) โดยมีผลลดการตายของเซลล์ keratinocyte และมีฤทธิ์ต้านอนุมูลอิสระโดยยับยั้งการปล่อย hydrogen peroxide (H2O2) ภายในเซลล์ นอกจากนี้ส่วนของสารสกัดที่มีaglycones, glucosides, และ acetylglucosideisoflavonesยังมีฤทธิ์ยับยั้ง c-Jun N-terminal protein kinases (JNK) phosphorylation ส่งผลในการชะลอการแก่ของผิวที่เกิดจากรังสี UV (17)การทดสอบฤทธิ์กันแดดในหนูเม้าส์โดยให้ทาส่วนของสารสกัดที่ประกอบด้วยaglyconeisoflavonesผสมกับ acetylglucosideisoflavonesแล้วให้สัมผัสรังสี UVB (150 mJ/cm2 UVB irradiation) เป็นระยะเวลา 7 วัน เก็บตัวอย่างผิวหนังเพื่อประเมินลักษณะทางจุลกายวิภาคศาสตร์ผลการทดสอบพบว่าส่วนของสารสกัดดังกล่าวมีฤทธิ์ลดการแยกออกจากกันของเซลล์ผิวหนังหรือการหลุดลอกของผิวหนัง (desquamation) ลดการสูญเสียน้ำผ่านชั้นผิวหนัง (transepidermal water loss; TEWL)  ลดการเกิดผื่นแดงบริเวณผิวหนัง และลดการหนาตัวของผิวหนัง (epidermal thickness) ในหนูเม้าส์ที่ถูกชักนำให้ผิวหนังถูกทำลายด้วยการสัมผัสรังสี UVB นอกจากนี้ยังมีฤทธิ์ต้านอนุมูลอิสระโดยเพิ่มการทำงานของเอนไซม์ต้านอนุมูลอิสระ catalase และยับยั้งการทำงานของเอนไซม์ cyclooxygenase-2 ในกระบวนการอักเสบ และพบว่าในหนูที่ได้รับการทาส่วนของสารสกัดดังกล่าวบริเวณผิวหนังก่อนสัมผัสรังสี UVB  มีผลลดการแสดงออกของ proliferating cell nuclear antigen (PCNA) ที่เพิ่มสูงขึ้นเพื่อซ่อมแซม DNA เมื่อผิวหนังถูกทำลายจึงสรุปได้ว่าส่วนของสารสกัดที่มีสาร isoflavonesมีฤทธิ์ป้องกัน DNA จากการถูกทำลายด้วยรังสี UVB (18) การทดสอบฤทธิ์ยับยั้งการแสดงออกของ matrix metalloproteinases (MMPs) ที่เพิ่มสูงขึ้นเมื่อสัมผัสรังสี UV ซึ่งทำให้เกิดการทำลายของคอลลาเจนในผิวและเป็นสาเหตุของการเกิดริ้วรอย โดยพบว่า  6,7,4′- trihydroxyisoflavone สารเมตาบอไลต์หลักของ daidzein ที่แยกได้จากถั่วเหลือง (ไม่ระบุวิธีการสกัด)มีฤทธิ์ยับยั้ง matrix metalloproteinases1 ในเซลล์ผิวหนังไฟโบรบลาสต์ของมนุษย์(normal human dermal fibroblasts; NHDF) ที่สัมผ้สรังสี UV ในหลอดทดลอง (19)",
+                "pharmacological_ref": [
+                    "Chiang HS, Wu WB, Fang JY, Chen BH, Kao TH, Chen YT, Huang CC, Hung CF. UVB-protective effects of isoflavone extracts from soybean cake in human keratinocytes. Int J Mol Sci. 2007;8(7):651-61."
+                ]
+            }
+        ]
+    }
+}

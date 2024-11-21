@@ -1,0 +1,489 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Aloe vera",
+            "authorship": "Carl Linnaeus",
+            "updated_by": "Nicolaas Laurens Burman",
+            "name_ref": "Fl. Indica : 83 (1768)",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:530017-1"
+        },
+        "synonyms": [
+            {
+                "name": "Aloe barbadensis",
+                "author": "Philip Miller 1691-1771",
+                "protologue": "Gard. Dict. ed. 8 : n.º 2 (1768)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000757903"
+            },
+            {
+                "name": "Aloe barbadensis var. chinensis",
+                "author": "Adrian Hardy Haworth 1767-1833",
+                "protologue": "Suppl. Pl. Succ. 45. 1819",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000757904"
+            },
+            {
+                "name": "Aloe chinensis",
+                "author": "Ernst Gottlieb von Steudel 1783-1856",
+                "protologue": "Nomencl. Bot. [Steudel], ed. 2. 1: 56; Baker, in Bot. Mag. t. 6301. 1840",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758015"
+            },
+            {
+                "name": "Aloe elongata",
+                "author": "Johan Andreas Murray 1740-1791",
+                "protologue": "Commentat. Soc. Regiae Sci. Gott. 9: 191 (1789)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758159"
+            },
+            {
+                "name": "Aloe flava",
+                "author": "Christiaan Hendrik Persoon 1761-1836",
+                "protologue": "Syn. Pl. 1: 378 (1805)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758195"
+            },
+            {
+                "name": "Aloe indica",
+                "author": "John Forbes Royle 1799-1858",
+                "protologue": "Ill. Bot. Himal. Mts. : 390 (1839)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758323"
+            },
+            {
+                "name": "Aloe lanzae",
+                "author": "Agostino Todaro 1818-1892",
+                "protologue": "Hort. Bot. Panorm. 2: 39 (1889)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758369"
+            },
+            {
+                "name": "Aloe maculata",
+                "author": "Peter Forsskål 1732-1763",
+                "protologue": "Fl. Aegypt.-Arab.: 73 (1775)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758446"
+            },
+            {
+                "name": "Aloe perfoliata var. barbadensis",
+                "author": "Philip Miller 1691-1771",
+                "protologue": "Hort. Kew. 1: 466 (1789)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758640"
+            },
+            {
+                "name": "Aloe perfoliata var. vera",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "Sp. Pl. 1: 320. 1753 [1 Mai 1753",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758653"
+            },
+            {
+                "name": "Aloe rubescens",
+                "author": "Augustin Pyramus de Candolle 1778-1841",
+                "protologue": "Pl. Hist. Succ. : 15 (1799)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758769"
+            },
+            {
+                "name": "Aloe variegata",
+                "author": "Peter Forsskål 1732-1763",
+                "protologue": "Fl. Aegypt.-Arab.: 74 (1775)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758970"
+            },
+            {
+                "name": "Aloe vera var. chinensis",
+                "author": "Ernst Gottlieb von Steudel 1783-1856",
+                "protologue": "J. Linn. Soc., Bot. 18: 230 1880",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758981"
+            },
+            {
+                "name": "Aloe vera var. lanzae",
+                "author": "John Gilbert Baker 1834-1920",
+                "protologue": "J. Linn. Soc., Bot. 18: 230. 1880",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758982"
+            },
+            {
+                "name": "Aloe vera var. littoralis",
+                "author": "Johann Gerhard König 1728-1785",
+                "protologue": "J. Linn. Soc., Bot. 18: 176 (1880)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000758983"
+            },
+            {
+                "name": "Aloe vulgaris",
+                "author": "Jean-Baptiste de Lamarck 1744-1829",
+                "protologue": "Encycl. 1: 86 (1783)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000759007"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Asparagales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000659"
+            },
+            "genus": {
+                "genus_name": "Asphodelaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000001341"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Aloe+vera&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "FOLIC-ACID",
+                "activity_count": 23,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 27.0,
+                "high_parts_per_million": 200.0,
+                "standard_deviation": 1.0,
+                "ref": "Aloe Research Council - Duke writeup of non-peer reviewd book by Coats and draft by Henry"
+            },
+            {
+                "chemical_name": "IRON",
+                "activity_count": 6,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 30.0,
+                "high_parts_per_million": 300.0,
+                "standard_deviation": -0.16,
+                "ref": "Aloe Research Council - Duke writeup of non-peer reviewd book by Coats and draft by Henry"
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "ว่านหางจระเข้",
+            "common_name_th_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย  เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "Aloe",
+            "common_name_en_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย  เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "local_name": {
+            "local_name": [
+                "ว่านไฟไหม้",
+                "ว่านหางจะเข้",
+                "หางจะเข้"
+            ],
+            "local_name_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย  เต็ม สมิตินันท์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้  สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "clinical_studies": [
+            {
+                "clinical": "ลดเลือนฝ้า",
+                "clinical_content": "การศึกษาพัฒนาตำรับไลโซมกักเก็บวุ้นว่านหางจระเข้ ที่เตรียมจาก soybean lecithin 1% ด้วยวิธี mechanochemical methodได้ตำรับไลโปโซมกักเก็บวุ้นว่านหางจระเข้ 0.25% โดยน้ำหนัก ขนาดอนุภาคน้อยกว่า 200 นาโนเมตร ค่าการกระจายตัวดีไม่แยกชั้น การทดสอบประสิทธิภาพในการลดเลือนฝ้าในอาสาสมัครหญิงตั้งครรภ์ 180 ราย ที่มีปัญหาฝ้าบนใบหน้าเนื่องจากการตั้งครรภ์ โดยแบ่งกลุ่มให้อาสาสมัครทาเจลไลโปโซมกักเก็บวุ้นว่านหางจระเข้ หรือเจลวุ้นว่านหางจระเข้ บนใบหน้า (ไม่ระบุขนาดและวิธีการใช้) เป็นเวลา 5 สัปดาห์ ประเมินความรุนแรงของฝ้าโดยใช้ Melasma Area Severity Index (MASI) พบว่าเจลไลโปโซมว่านหางจระเข้ช่วยลดเลือนฝ้าอย่างมีนัยสำคัญหลังการใช้ 3 สัปดาห์ ค่า MASI ในอาสาสมัครที่ได้รับเจลไลโปโซมว่านหางจระเข้ลดลงจาก 15.0±1.8 เป็น 10.2±2.0 (ลดลง 32%) ส่วนกลุ่มที่ได้รับเจลว่านหางจระเข้มีค่าลดลงจาก 15.5±2.4 เป็น 13.9±2.7 (ลดลง 10%) อาสาสมัครมีความพึงพอใจในตำรับเจลไลโปโซมมากกว่าเจลว่านหางจระเข้ และไม่พบรายงานอาการไม่พึงประสงค์จากการใช้ผลิตภัณฑ์การศึกษานี้แสดงให้เห็นว่าวุ้นว่านหางจระเข้มีประสิทธิภาพในการลดเลือนฝ้า และการใช้ในรูปของตำรับไลโปโซมจะเพิ่มประสิทธิภาพต่อผิวมากกว่าการใช้ในรูปของสารสกัด (15)",
+                "clinical_ref": [
+                    "Ghafarzadeh M, Eatemadi A. Clinical efficacy of liposome-encapsulated Aloe vera on melasma treatment during pregnancy. J Cosmet Laser Ther. 2017;19(3):181-7. doi: 10.1080/14764172.2017.1279329."
+                ]
+            },
+            {
+                "clinical": "ลดเลือนริ้วรอย",
+                "clinical_content": "การศึกษาผลของตำรับเจลว่านหางจระเข้90% ต่อการลดเลือนริ้วรอยรอบดวงตา ตำรับเจลประกอบด้วยสารสกัดว่านหางจระเข้ 90%, น้ำ 9.9%, carbomer 0.05% และgermaben IIE 0.05% ทำการศึกษาในอาสาสมัคร 22 ราย อายุ 30-60 ปี ที่มีริ้วรอยรอบดวงตาระดับ II-V ตามเกณฑ์Rao-Goldman 5-point visual scoring scale โดยแบ่งครึ่งหน้าและสุ่มเลือกให้รอบดวงตาด้านหนึ่งทาเจลว่านหางจระเข้ 90% และอีกด้านทาเจลยาหลอก (เจลเบส) ครั้งละครึ่งข้อนิ้ว (ประมาณ 0.25 ก.) วันละ 2 ครั้ง เป็นเวลา 12 สัปดาห์ ประเมินจากคะแนนริ้วรอยโดย Rao-Goldman 5-point visual scoring scaleความลึกริ้วรอยด้วยเครื่อง Visioscan® VC98 ความยืดหยุ่นของผิวหนังด้วยเครื่อง Cutometer® MPA580การเปลี่ยนแปลงจากภาพถ่าย และประเมินความพึงพอใจต่อผลการรักษา ผลพบว่าในสัปดาห์ที่ 12ค่าเฉลี่ยคะแนนริ้วรอยในด้านที่ใช้เจลว่านหางจระเข้ลดลงอย่างมีนัยสำคัญเมื่อเทียบกับก่อนการรักษา (2.14±0.56 และ 3.04±0.51 คะแนน ตามลำดับ) ในขณะที่ด้านที่ได้รับยาหลอกมีค่าคะแนนไม่ต่างกับก่อนการรักษา (2.73±0.55 คะแนน) ค่าเฉลี่ยความลึกริ้วรอย ความยืดหยุ่นของผิวหนัง การเปลี่ยนแปลงริ้วรอยจากภาพถ่ายด้านที่ทาเจลว่านหางจระเข้ 90% ดีกว่าด้านที่ใช้ยาหลอกอย่างมีนัยสำคัญทางสถิติ อาสาสมัครมีความพึงพอใจต่อการรักษา และไม่พบรายงานอาการข้างเคียงตลอดระยะเวลาการศึกษา 12 สัปดาห์(16)การศึกษาพัฒนาแผ่นมาร์คหน้าว่านหางจระเข้(sheet Mask) พบว่าตำรับที่ประกอบด้วยน้ำว่านหางจระเข้ 12%, PEG-40 hydrogenated castor oil 0.2%, butylene glycol 5%, glycerin 5%, sodium polyacrylate 0.2%, methylparaben 0.3%, ethanol 3%, น้ำหอมและน้ำ มีเหมาะสมด้วยค่า pH 6.71 ค่าความหนืด 137.5 centipoise และมีความคงตัวเมื่อเก็บรักษาไว้ 12 สัปดาห์ ทดสอบประสิทธิภาพต่อผิว ในอาสาสมัครที่พบปัญหาผิวแห้ง มีริ้วรอยและจุดด่างดำบนใบหน้า จำนวน 12 ราย อายุ 20-25 ปี โดยให้อาสาสมัครใช้แผ่นมาร์ค สัปดาห์ละ 1 ครั้ง ติดต่อกัน 4 สัปดาห์ ประเมินผลการเปลี่ยนแปลงบนใบหน้าด้วย AramoSG® skin diagnosis system ผลพบว่าช่วยปรับปรุงคุณภาพของผิวหน้าในด้านเพิ่มความชุ่มชื้นทำให้ผิวเรียบสม่ำเสมอ ลดขนาดรูขุมขน ลดจุดด่างดำและลดริ้วรอย (17)",
+                "clinical_ref": [
+                    "Sittikariya T, Chokdeesumrit W. The efficacy of Aloe vera gel in the treatment of periorbital wrinkle. J Med Health Sci. 2019;26(3):113-24.",
+                    "Reveny J, JTanuwijaya J, Lois C. Formulation of aloe juice (Aloe vera (L) Burm.f.) sheet mask as anti-aging.Int J PharmTech Res. 2016;9(7):105-11."
+                ]
+            },
+            {
+                "clinical": "ต้านสิวบนใบหน้า",
+                "clinical_content": "การศึกษาประสิทธิภาพของวุ้นว่านหางจระเข้ร่วมกับการใช้คลื่นอัลตร้าซาวน์ในการรักษาสิว ในอาสาสมัครเพศชายและเพศหญิงที่มีปัญหาสิวบนใบหน้าระดับเล็กน้อยถึงมาก (mild to servere) อายุ 20-35 ปี จำนวน 64 คน โดยในใช้วุ้นว่านหางจระเข้ (Perfect, China) ทาบนใบหน้าร่วมกับการใช้คลื่นอัลตร้าซาวน์ (ขนาด 20 วัตต์ ความถี่ 50 เฮิร์ต กำลังไฟ 220 โวลต์) เป็นเวลา 10-15 นาที จากนั้นมาร์คหน้าด้วยแผ่นมาร์คเปล่า (ไม่มีส่วนประกอบของตัวยา) นาน 20-30 นาทีแล้วล้างออกทำ 1 ครั้ง/สัปดาห์ และเพิ่มเป็น 3 ครั้ง/สัปดาห์ ในสัปดาห์ที่ 2-8 ของการทดสอบ เปรียบเทียบกับกลุ่มควบคุมที่ได้รับเจลยาหลอกร่วมกับการใช้คลื่นอัลตร้าซาวน์ ประเมินผลจากจำนวนสิวแบบผื่นนูน (papules) และแบบตุ่มหนอง (pustules) ด้วย Investigator’s global assessment scale (IGA) และวัดขนาดพื้นที่ผิวหนังอักเสบแดงบนใบหน้าด้วย post-inflammatory hyperpigmentationseverity scale (PIH) ผลการทดสอบพบว่าจำนวนของสิวแบบผื่นนูนบนใบหน้าของอาสาสมัครลดลงจาก 84.50±30.78 เป็น 25.53±18.11 พื้นที่ผิวหนังอักเสบแดงจาก 47.28±19.09% ลดลงเหลือ 16.15±12.25% ตามลำดับ นอกจากนี้ยังมีผลลดความหยาบกร้านของผิวและเพิ่มการไหลเวียนโลหิตบริเวณใบหน้า การประเมินประสิทธิผลของการรักษาของวุ้นว่านหางจระเข้มีค่าเท่ากับ 30.21-72.05% โดยมีประสิทธิภาพสูงสุดในกลุ่มที่มีสิวความรุนแรงระดับปานกลางและกลุ่มที่ได้รับยาหลอกพบประสิทธิภาพการรักษาเท่ากับ 6.67-9.31% (18) การศึกษาประสิทธิภาพของการใช้เจลว่านหางจระเข้ร่วมกับยาtretinoin ในการรักษาสิว เตรียมว่านหางจระเข้ (ตัวอย่างพืชจากประเทศอิหร่าน) ด้วยการนำวุ้นจากใบมาปั่นให้ละเอียด จากนั้นนำไปเตรียมตำรับเจลโดยใช้hydroxypropyl methylcellulose (HPMC) และcarbopolเป็นสารก่อเจล ทำการศึกษาแบบ  randomized, double-blind, prospective trial ในอาสาสมัครที่มีสิวอักเสบบนใบหน้าระดับเล็กน้อยถึงปานกลาง (ค่าคะแนน global acne grading systemระดับ 1-30) จำนวน 60 ราย แบ่งให้อาสาสมัครทาเจลว่านหางจระเข้ความเข้มข้น 50% หรือยาหลอก บนใบหน้าวันละ 2 ครั้ง ช่วงเช้าและเย็น ร่วมกับการใช้ tretinoin 0.025%ในช่วงเย็น (ทาห่างจากเจลว่านหางจระเข้หรือยาหลอก 10-15 นาที) ติดต่อกัน 8 สัปดาห์ พบว่ากลุ่มที่ได้รับเจลว่านหางจระเข้ร่วมกับ tretinoin มีอาการดีขึ้น จำนวนสิวเสี้ยน สิวอักเสบ และค่าคะแนนรอยสิวบนใบหน้าลดลงอย่างมีนัยสำคัญเมื่อเทียบกับกลุ่มที่ได้รับยาหลอกร่วมกับ tretinoin จึงสรุปได้ว่าการใช้เจลว่านหางจระเข้ร่วมกับ tretinoin มีประสิทธิภาพในการรักษาสิวได้ดีกว่าการใช้ tretinoin เพียงอย่างเดียว อย่างไรก็ตามพบรายงานอาการไม่พึงประสงค์ว่าทำให้ผิวแห้ง เป็นขุย และเกิดรอยผื่นแดงในอาสาสมัครทั้งสองกลุ่ม (19)2 การศึกษาเกี่ยวกับผิวกาย",
+                "clinical_ref": [
+                    "Zhong H, Li X, Zhang W, Shen X, Lu Y, Li H. Efficacy of a new non-drug acne therapy: Aloe vera gel combined with ultrasound and soft mask for the treatment of mild to severe facial acne. Front Med (Lausanne). 2021;8:662640. doi: 10.3389/fmed.2021.662640.",
+                    "Hajheydari Z, Saeedi M, Morteza-Semnani K, Soltani A. Effect of Aloe vera topical gel combined with tretinoin in treatment of mild and moderate acne vulgaris: a randomized, double-blind, prospective trial. J Dermatolog Treat. 2014;25(2):123-9. doi: 10.3109/09546634.2013.768328."
+                ]
+            },
+            {
+                "clinical": "ทำให้ผิวชุ่มชื้น",
+                "clinical_content": "การศึกษาพัฒนาตำรับครีมบำรุงผิวที่มีส่วนผสมของสารโพลีแซคคาไรด์ว่านหางจระเข้ (ACTIValoeTM Aloe vera GEL FD200x, Aloecorp, USA) เตรียมตำรับครีมสารโพลีแซคคาไรด์ว่านหางจระเข้ ความเข้มข้น 0.1, 0.25 และ 0.5% ในครีมเบสที่ประกอบด้วย trilaureth-4 phosphate-based blend 5%, propyleneglycol, glycerin, phenoxyethanol, parabens, hydrogenated, ethoxylates castor oil 40 OEและน้ำ ทำการทดสอบประสิทธิภาพต่อผิวแบบทันทีของตำรับครีมทั้ง 3 ตำรับ ในอาสาสมัครเพศหญิง 20 ราย โดยให้ทาครีม ขนาด 0.2 ก.บริเวณท้องแขน ประเมินผลต่อความชุ่มชื้นผิวด้วยเครื่อง Corneometer CM 825 และวัดค่าการสูญเสียน้ำทางผิวหนังด้วย TewameterTM210ผลพบว่าระดับน้ำในผิว (water content of stratum corneum) ของอาสาสมัครมีค่าเพิ่มขึ้นในทุกกลุ่ม โดยพบมากที่สุดในกลุ่มที่ได้รับครีมว่านหางจระเข้ 0.5% ค่าการสูญเสียน้ำทางผิวหนัง (transepidermal water loss) ลดลงอย่างมีนัยสำคัญในอาสาสมัครทุกกลุ่ม และการทดสอบประสิทธิภาพต่อผิวของครีมว่านหางจระเข้เมื่อใช้อย่างต่อเนื่อง โดยให้อาสาสมัครทาครีมที่ท้องแขน ครั้งละ 0.2 ก. วันละ 2 ครั้ง ช่วงเช้าและเย็น ติดต่อกันนาน 2 สัปดาห์ ผลพบว่าระดับน้ำในผิวของอาสาสมัครมีค่าเพิ่มขึ้นในทุกกลุ่ม และมีค่าเหนือกว่ากลุ่มที่ได้รับครีมเบสหลังการใช้ 1 สัปดาห์ อย่างไรก็ตามครีมว่านหางจระเข้ทั้ง 3 ตำรับไม่มีผลต่อค่าการสูญเสียน้ำทางผิวหนังเมื่อใช้ต่อเนื่อง 1-2 สัปดาห์ การศึกษานี้แสดงให้เห็นว่าตำรับครีมสารโพลีแซคคาไรด์ว่านหางจระเข้ ความเข้มข้น 0.1, 0.25 และ 0.5% มีประสิทธิในการทำให้ผิวชุ่มชื้น โดยเพิ่มปริมาณน้ำสะสมในผิว แต่ไม่มีผลป้องกันการสูญเสียน้ำของผิว (20)",
+                "clinical_ref": [
+                    "Dal'Belo SE, Gaspar LR, Maia Campos PM. Moisturizing effect of cosmetic formulations containing Aloe veraextract in different concentrations assessed by skin bioengineering techniques. Skin Res Technol. 2006;12(4):241-6. doi: 10.1111/j.0909-752X.2006.00155.x."
+                ]
+            },
+            {
+                "clinical": "ป้องกันผิวแตกลาย",
+                "clinical_content": "การศึกษาแบบ single-center, randomized, doubleblindcomparative trialถึงประสิทธิภาพการรักษาด้วยแสงเลเซอร์ชนิดคาร์บอนไดออกไซด์ (ablative fractional carbon dioxide laser: AFXL)ร่วมกับเจลว่านหางจระเข้ในการลดรอยแตกลายในอาสาสมัครเพศหญิง อายุ 21-57 ปี ที่มีปัญหารอยแตกลายบริเวณหน้าท้อง ต้นขา หรือก้น จำนวน 24 ราย โดยอาสาสมัครจะได้รับการรักษาด้วย AFXL (pulse 40-50 มิลลิจูล, spot density 50-75 จุด/ตร.ซม.) จำนวน 3 ครั้ง โดยมีระยะห่างระหว่างการรักษา 4 สัปดาห์ หลังการได้รับการรักษาด้วย AFXL อาสาสมัครจะได้รับครีม recombinant human epidermal growth factor (rhEGF: REGENDTM 150, India) หรือเจลว่านหางจระเข้ (Burnova gel, 87.4% Aloe vera gel, Thailand) เพื่อทาบนผิวหนังด้านซ้ายและขวา ทาวันละ 2 ครั้ง ติดต่อกันอย่างน้อย 1 เดือน ผลการศึกษาพบว่ารอยแตกลายในอาสาสมัครดีขึ้นอย่างมีนัยสำคัญหลังการรักษา 1 เดือน และให้ผลต่อเนื่องไปจนถึง 6 เดือนหลังเข้ารับการรักษา โดยไม่พบความแตกต่างของผิวหนังด้านที่ทาด้วย rhEGF และเจลว่านหางจระเข้ การเกิดจุดด่างดำเนื่องจากกระบวนการอักเสบของร่างกาย (post-inflammatory hyperpigmentation: PIH) มีค่าลดลงในทั้งสองกลุ่มแต่ไม่ถึงนัยสำคัญทางสถิติ ผลการตรวจสอบเนื้อเยื่อพบว่าผิวหนังชั้น epidermis มีความหนามากขึ้นและการแตกหักของเส้นใยอิลาสติกในผิวมีค่าลดลงอย่างมีนัยสำคัญในทั้งสองกลุ่ม การศึกษานี้แสดงให้เห็นว่าการใช้เจลว่านหางจระเข้ช่วยลดเลือนรอยแตกลายของผิวและลดการอักเสบจากการรักษาด้วยแสงเลเซอร์ได้เช่นเดียวกับการใช้ rhEGF(21)การศึกษาประสิทธิภาพในการป้องกันผิวแตกลายของเจลว่านหางจระเข้ในอาสาสมัครหญิงตั้งครรภ์ ทำการทดสอบแบบ double-blind clinical trial ในหญิงตั้งครรภ์ 149 ราย อายุ 20-35 ปี มีค่า BMI 18.5-25 และมีอายุครรภ์ 16-18 สัปดาห์ แบ่งอาสาสมัครออกเป็น 4 กลุ่ม คือ กลุ่มที่ 1 ครีมว่านหางจระเข้ (ประกอบด้วยสารสกัดจากว่านหางจระเข้และครีมเบสในอัตราส่วน 1:1) กลุ่มที่ 2 ครีมน้ำมันอัลมอนด์(ประกอบด้วยน้ำมันอัลมอนด์และครีมเบสในอัตราส่วน 1:1) กลุ่มที่ 3 ยาหลอก (ครีมเบส) และกลุ่มที่ 4 ไม่ได้รับการรักษา (ควบคุมลบ) ให้อาสาสมัครทาครีมที่กำหนดบนหน้าท้องครั้งละ 2 ก. ทุก 12 ชม. ตั้งแต่อายุครรภ์ 16 สัปดาห์ จนถึงวันคลอด (รวมระยะเวลา 55 เดือน) ประเมินด้วยจำนวนเส้นผ่านศูนย์กลางของรอยแตกลาย อาคารคัน และผื่นแดงที่ปรากฏ เมื่อสิ้นสุดการศึกษาพบรอยแตกลายในกลุ่มครีมว่านหางจระเข้ ครีมน้ำมันอัลมอนด์ ครีมเบส และกลุ่มควบคุม เท่ากับ 2, 2, 5 และ 19 คน ตามลำดับ (คิดเป็น 8, 9.5, 18.5 และ 65.5%) โดยจำนวนของรอยแตกลายลดลงอย่างมีนัยสำคัญในทั้ง 3 กลุ่ม เมื่อเทียบกับกลุ่มที่ไม่ได้รับรักษา แต่ขนาดของเส้นผ่านศูนย์กลางรอยแตกลายในกลุ่มที่ได้รับครีมว่านหางจระเข้และครีมน้ำมันอัลมอนด์มีขนาดเล็กลงอย่างมีนัยสำคัญเมื่อเทียบกับกลุ่มที่ได้รับครีมเบสอาการคันและรอยแดงลดลงในกลุ่มครีมว่านหางจระเข้และครีมน้ำมันอัลมอนด์เหนือกว่ากลุ่มครีมเบส แสดงให้เห็นว่าครีมว่านหางงจระเข้และครีมน้ำมันอัลมอนด์สามารถป้องกันการเกิดรอยแตกลายในหญิงตั้งครรภ์ โดยสามารถลดจำนวน ขนาด และอาการคันรวมถึงอาการผื่นแดงในหญิงตั้งครรภ์ โดยครีมว่านหางจระเข้มีประสิทธิภาพไม่ต่างจากการใช้ครีมน้ำมันอัลมอนด์(22)การศึกษาเปรียบเทียบการป้องกันการเกิดหน้าท้องลาย ในสตรีตั้งครรภ์ที่ยังไม่เคยมีบุตรและหน้าท้องลายมาก่อนจำนวน 180 ราย อายุ 16 - 40 ปี ให้ใช้ครีมว่านหางจระเข้ 10% (ไม่ระบุวิธีการเตรียมสารสกัด) เทียบกับครีมเบส โดยบีบครีมครั้งละ 2 ซม. ทาบนหน้าท้อง วันละ 2 ครั้ง เมื่ออายุครรภ์ 20 สัปดาห์ ต่อเนื่องจนถึงช่วงคลอด  พบว่ากลุ่มที่ทาครีมว่านหางจระเข้มีหน้าท้องลาย 44.83% ซึ่งไม่มีความแตกต่างอย่างมีนัยสำคัญกับกลุ่มที่ทาครีมเบสซึ่งเกิดหน้าท้องลาย 47.05%  (23)",
+                "clinical_ref": [
+                    "Disphanurat W, Kaewkes A, Suthiwartnarueput W. Comparison between topical recombinant human epidermal growth factor and Aloe vera gel in combination with ablative fractional carbon dioxide laser as treatment for striae alba: A randomized double-blind trial. Lasers Surg Med. 2020;52(2):166-175. doi: 10.1002/lsm.23052.",
+                    "Hajhashemi M, Rafieian M, RouhiBoroujeni HA, Miraj S, Memarian S, Keivani A, et al. The effect of Aloe vera gel and sweet almond oil on striae gravidarum in nulliparous women. J Matern Fetal Neonatal Med. 2018;31(13):1703-8. doi: 10.1080/14767058.2017.1325865.",
+                    "Jiropas P, Tankeyoon MA. Comparative study: prevention of striae gravidarum in nulliparas utilizing Aloe veracream V.S. cream base. จุฬาลงกรณ์เวชสาร.1990;34(11): 851-7."
+                ]
+            },
+            {
+                "clinical": "รักษาแผล",
+                "clinical_content": "แผลไฟไหม้ การศึกษาเปรียบเทียบฤทธิ์รักษาแผลไฟไหม้ของเจลว่านหางจระเข้กับครีม 1% silver sulfadiazine ในผู้ป่วยที่มีแผลไฟไหม้ระดับที่ 2 ชนิดตื้น (superficial partial-thickness burn) จำนวน 50 ราย อายุ 15-65 ปี สุ่มแบ่งอาสาสมัครเป็น 2 กลุ่ม กำหนดให้อาสาสมัครทำความสะอาดแผลด้วย Pyodine®(PVP-Iodine USP)จากนั้นปิดแผลด้วยก๊อซเจลว่านหางจระเข้ หรือครีม 1% silver sulfadiazine(SSD) วันละ 2 ครั้ง จนกว่าแผลจะหาย ผลพบว่ากลุ่มที่ได้รับเจลว่านหางจระเข้ใช้ระยะเวลาสร้างเนื้อเยื่อสมานแผลเฉลี่ย11±4.18 วัน เร็วกว่ากลุ่มที่ได้รับ SSD อย่างมีนัยสำคัญทางสถิติ (24.24±11.16 วัน) อัตราการเกิดแผลติดเชื้อในกลุ่มเจลว่านหางจระเข้เกิดขึ้นน้อยกว่ากลุ่ม SSD (64% และ 88%ตามลำดับ) และพบอัตราการหายขาดของแผลในกลุ่มเจลว่านหางจระเข้ 24 คน และ กลุ่ม SSD 19 คน นอกจากนี้ยังพบว่าระยะเวลาหายปวดในกลุ่มเจลว่านหางจระเข้เร็วกว่ากลุ่ม SSD อย่างมีนัยสำคัญ (12 วัน และ 26 วัน ตามลำดับ) การศึกษานี้แสดงให้เห็นว่าเจลว่านหางจระเข้มีประสิทธิภาพในการรักษาแผลไฟไหม้เหนือว่า 1% silver sulfadiazine(24)ตำรับครีมว่านหางจระเข้ ที่เตรียมวัฏภาคน้ำโดยละลายผงว่านหางจระเข้ 0.5 ก.(Zarban Phyto-Pharmaceutical Co, Iran) ในน้ำกลั่นเติมpropylene glycol, sodium lauryl sulfate และ methylparaben จากนั้นนำสารผสมที่ได้ไปผสมกับส่วนวัฏภาคน้ำมันที่ประกอบด้วย liquid white paraffin, stearyl alcohol, cetyl alcohol, solid white paraffin, propylparaben ทำการศึกษาประสิทธิภาพในการรักษาแผลไฟไหม้ของครีมว่านหางจระเข้ในผู้ป่วยแผลไฟไหม้ 30 ราย อายุเฉลี่ย 33±11 ปี ที่มีแผลไฟไหม้ความรุนแรงระดับ 2 ตามส่วนต่างๆ ของร่างกาย สุ่มให้อาสาสมัครทาแผลด้วยครีมว่านหางจระเข้ 0.5% หรือยา silver sulfadiazine(SSD) วันละ 2 ครั้ง หลังการทำแผลพบว่าแผลที่ได้รับครีมว่านหางจระเข้มีการเจริญของเยื่อบุผิวเร็วกว่าแผลที่ได้รับ SSD อย่างมีนัยสำคัญ โดยระยะเวลาแผลหายดีในวันที่ 15.9±2 และ 18.73±2.65 วัน ตามลำดับ (25)เมื่อให้ผู้ป่วยแผลไฟไหม้ ความรุนแรงระดับ 2 ตามส่วนต่างๆ ของร่างกาย จำนวน 27 ราย ใช้เจลว่านหางจระเข้ 85%(Governmental Pharmaceutical Organization, Thailand)หลังการทำแผล หรือปิดด้วยวาสลีนก๊อซ วันละ 2 ครั้ง ติดต่อกัน 21 วัน ประเมินผลด้วยการถ่ายภาพเปรียบเทียบอัตราเร็วและความสามารถในการสมานแผลพบว่าแผลที่ได้รับการรักษาด้วยเจลว่านหางจระเข้มีอัตราการหายของแผลไวกว่าแผลที่ได้รับวาสลีนอย่างมีนัยสำคัญ โดยใช้เวลาเฉลี่ย 11.89 และ 18.19 วัน ตามลำดับ เมื่อตรวจสอบเนื้อเยื่อบริเวณบาดแผลในวันที่ 7 พบว่าแผลที่ได้รับเจลว่านหางจระเข้พบเศษเซลล์เม็ดเลือดแดงและเศษซากเซลล์ตายบริเวณขอบบาดแผลและมีการเจริญของเส้นเลือดและเนื้อเยื่อใหม่ปกคลุมบาดแผลส่วนแผลที่ได้รับวาสลีนยังพบเซลล์อักเสบและเซลล์ตายปกคลุมทั่วบาดแผล แสดงให้เห็นว่าครีมว่านหางจระเข้ช่วยเร่งการสมานแผลได้ดีกว่าวาสลีนผู้ป่วย 2 ใน 27 รายมีอาการปวดและได้รับการรักษาด้วยยาพาราเซตามอล แต่ไม่พบรายงานอาการเคืองหรืออาการไม่พึงประสงค์อื่น (26)แผลผ่าตัดการศึกษาแบบ double-blind, randomized, placebo-controlled clinical trial ในผู้ป่วยที่เข้ารับการผ่าตัดการปลูกถ่ายผิวหนังด้วยการใช้เนื้อเยื่อจากต้นขา (split-thickness skin graft) จำนวน 12 ราย (เพศชาย 10 ราย เพศหญิง 2 ราย) อายุเฉลี่ย 48.33±19.24 ปี ขนาดบาดแผล 73.16 ตร.ซม. ความลึกแผล 0.20-0.40 มม. หลังการผ่าตัดเปิดบาดแผลผู้ป่วยจะได้รับเจลว่านหางจระเข้ 87.39%(GovernmentalPharmaceutical Organization, registrationnumber G 418/41) หรือยาหลอก (AQUAGEL, Ecolab Ltd, England) ทาบริเวณแผล ปิดทับด้วยผ้าก๊อซและพันด้วยผ้าพันยืด ทำแผลทุกวัน ด้วยการเปลี่ยนผ้าก๊อซชั้นบนออก และทาเจลว่านหางจระเข้หรือเจลยาหลอก ก่อนปิดทับด้วยผ้าก๊อซใหม่ ทำติดต่อกันจนกว่าแผลหาย ประเมินผลด้วยจำนวนวันที่แผลสมาน และประเมินอาการปวดด้วย visual analogue scale(VAS) ผลพบว่ากลุ่มที่ได้รับเจลว่านหางจระเข้พบบาดแผลหายเฉลี่ย 11.5±1.45 วัน เร็วกว่ากลุ่มยาหลอก (13.67±1.61 วัน) อย่างมีนัยสำคัญทางสถิติ อย่างไรก็ตามไม่พบความแตกต่างในการบรรเทาอาการเจ็บปวดของบาดแผลก่อนและหลังการทำแผลในอาสาสมัครทั้ง 2 กลุ่ม และไม่พบรายงานอาการไม่พึงประสงค์ การติดเชื้อ หรือการผื่นคัน การศึกษานี้แสดงให้เห็นว่าเจลว่านหางจระเข้มีประสิทธิภาพในการรักษาแผล แต่ไม่มีผลบรรเทาอาการเจ็บปวดจากบาดแผล (28)ตำรับครีมว่านหางจระเข้ ที่เตรียมวัฏภาคน้ำโดยละลายผงว่านหางจระเข้ 0.5 ก. (Zarban Phyto-Pharmaceutical Co, Iran) ในน้ำกลั่นเติมpropylene glycol, sodium lauryl sulfate และ methylparaben จากนั้นนำสารผสมที่ได้ไปผสมกับส่วนวัฏภาคน้ำมันที่ประกอบด้วย liquid white paraffin, stearyl alcohol, cetyl alcohol, solid white paraffin, propylparabenมีฤทธิ์รักษาแผล เมื่อทำการศึกษาแบบ randomized, blinded, placebo-controlled clinical trial ในผู้ป่วยปลูกถ่ายผิวหนังด้วยการใช้เนื้อเยื่อจากต้นขา (split-thickness skin graft) จำนวน 45 ราย (เพศชาย 37 ราย เพศหญิง 8 ราย) อายุ 12-70 ปี หลังการผ่าตัดเปิดบาดแผล อาสาสมัครจะได้รับการทำแผลและสุ่มแบ่งการรักษาออกเป็น 3 กลุ่ม คือ กลุ่มควบคุม (ไม่ได้รับการรักษาด้วยยาใด) กลุ่มยาหลอก (ครีมเบส) และกลุ่มครีมว่านหางจระเข้ 0.5% โดยทาครีมที่กำหนดบนผ้าก๊อซปิดแผล วันละ 3 ครั้ง ทำติดต่อกันจนกว่าแผลหาย ผลการศึกษาพบว่าจำนวนวันที่บาดแผลหายดีในกลุ่มควบคุม กลุ่มยาหลอก และกลุ่มครีมว่านหางจระเข้ เท่ากับ 17±8.6, 8.8±2.8 และ9.7±2.9 วัน ตามลำดับ โดยพบว่ากลุ่มที่ได้รับครีมว่านหางจระเข้และครีมยาหลอกมีแผลหายไวกว่ากลุ่มที่ไม่ได้รับการรักษาอย่างมีนัยสำคัญทางสถิติ แต่ไม่พบความแตกต่างระหว่างการใช้ครีมว่านหางจระเข้และครีมยาหลอก โดยในการศึกษานี้ผู้วิจัยคาดว่าเป็นผลมาจากคุณสมบัติการเพิ่มความชุ่มชื้นแก่ผิวของครีมเบส เป็นผลให้เซลล์ผิวใหม่เจริญเติบโตของเร็วขึ้น (27)การศึกษาประสิทธิภาพในการรักษาแผลผ่าตัดคลอดของแผ่นฟิล์มปิดแผลอัลจิเนตว่านหางจระเข้อนุภาคนาโนซิงค์ออกไซด์ (alginate-aloe vera film contains zinc oxide nanoparticles)ที่มีส่วนผสมของ sodium alginate 1.5%, สารสกัดว่านหางจระเข้ 1% (ACTIValoe®, USA) และzinc oxide nanoparticles 1 มก. ทำการศึกษาในอาสาสมัคร 800 ราย อายุ 22-35 ปี ที่ได้รับการผ่าตัดคลอด สุ่มแบ่งอาสาสมัครออกเป็น 2 กลุ่ม คือ กลุ่มควบคุมที่ได้รับยาขี้ผึ้ง mupirocin และกลุ่มที่ได้รับแผ่นฟิล์มปิดแผลอัลจิเนตว่านหางจระเข้ร่วมกับยาขี้ผึ้ง mupirocin เป็นเวลา 24 วัน ประเมินผลจาก REEDA score ได้แก่ ความแดง รอยจ้ำเลือด อาการบวม ระยะเวลาการจำหน่ายออกจากโรงพยาบาล และขนาดแผลผ่าตัด ผลการทดลองพบว่าค่าคะแนน REEDA ในกลุ่มที่ได้รับแผ่นปิดแผลน้อยกว่ากลุ่มควบคุมอย่างมีนัยสำคัญทางสถิติ โดยพบว่าแผ่นปิดแผลช่วยลดอาการแดง รอยจ้ำเลือด อาการบวม และขนาดของแผลเหนือกว่ากลุ่มควบคุม และส่งผลให้ผู้ป่วยออกจากโรงพยาบาลได้เร็วขึ้น แสดงให้เห็นว่าแผ่นฟิล์มปิดแผลอัลจิเนตว่านหางจระเข้อนุภาคนาโนซิงค์ออกไซด์มีประสิทธิภาพในการรักษาแผลผ่าตัดคลอด โดยช่วยเร่งกระบวนการหายของแผล (29)การศึกษาแบบ prospective, randomized, double-blind, placebo-controlled trial ถึงประสิทธิภาพของครีมว่านหางจระเข้ในการบรรเทาปวดและรักษาแผลในผู้ป่วยผ่าตัดริดสีดวงทวาร จำนวน 49 ราย โดยสุ่มให้อาสาสมัครใช้ครีมว่านหางจระเข้ 0.5% (ที่เตรียมวัฏภาคน้ำโดยละลายผงว่านหางจระเข้ 0.5 ก. (Zarban Phyto-Pharmaceutical Co, Iran) ในน้ำกลั่น เติมpropylene glycol, sodium lauryl sulfate และ methylparaben จากนั้นนำสารผสมที่ได้ไปผสมกับส่วนวัฏภาคน้ำมันที่ประกอบด้วย liquid white paraffin, stearyl alcohol, cetyl alcohol, solid white paraffin, propylparabenหรือยาหลอก ทาบริเวณรอบแผลผ่าตัดครั้งละ 3 ก. วันละ 3 ครั้ง ติดต่อกัน 4 สัปดาห์ ผลการประเมินความเจ็บปวดขณะขับถ่ายด้วย visual analog scale (VAS) ในอาสาสมัครพบว่าระดับความเจ็บปวดที่เวลา 24 และ 48 ชม. หลังการผ่าตัดลดลงอย่างมีนัยสำคัญในกลุ่มที่ได้รับครีมว่านหางจระเข้ แต่เมื่อติดตามผลไปถึงสัปดาห์ที่ 2 และสัปดาห์ที่ 4 ไม่พบความแตกต่างในการบรรเทาปวดของครีมว่านหางจระเข้และยาหลอก ประเมินประสิทธิภาพในการรักษาแผลด้วยการให้คะแนนความก้าวหน้าของการรักษาแผล ระดับ I-II-III (ระดับ I มีแผลอักเสบเล็กน้อย, ระดับ II พบการการสร้างเนื้อเยื่อแกรนูเลชัน (granulation tissue) บนบาดแผล และระดับ III แผลปิดสนิท เกิดเนื้อเยื่อใหม่ขึ้นมาปกคลุมบาดแผล) ผลพบว่าครีมว่านหางจระเข้มีประสิทธิภาพในการรักษาแผลเหนือกว่ากลุ่มยาหลอกหลังการใช้ 2 สัปดาห์ โดยอาสาสมัครทุกรายพบความก้าวหน้าในการรักษาแผลระดับ III ในขณะที่กลุ่มที่ได้รับยาหลอกพบความก้าวหน้าของรักษาแผลระดับ I, II และ III เท่ากับ 12, 12 และ 1 ราย ตามลำดับนอกจากนี้ยังพบว่าจำนวนการใช้ยาบรรเทาปวดในกลุ่มผู้ป่วยที่ได้รับครีมว่านหางจระเข้น้อยกว่ากลุ่มที่ได้รับยาหลอกอย่างมีนัยสำคัญ การศึกษานี้แสดงให้เห็นว่าครีมว่านหางจระเข้สามารถบรรเทาปวดและสมานแผลได้เร็วกว่าการใช้ครีมยาหลอก (30)แผลเบาหวานการพัฒนาแผ่นแปะสมานแผลที่มีส่วนประกอบไฟโบรอิน (โปรตีนจากรังไหม) และสารสกัดโปรตีนวุ้นว่านหางจระเข้ เตรียมสารโปรตีนจากวุ้นว่านหางจระเข้ โดยใช้ ammonium sulfate 35% ได้เส้นใยลักษณะคล้ายสำลี และมีปริมาณโปรตีนเฉลี่ย 4.8±1.0% โดยน้ำหนัก เตรียมแผ่นแปะไฟโบรอิน/วุ้นว่านหางจระเข้ โดยใช้สารสกัดจากรังไหม 1.95% ร่วมกับสารสกัดโปรตีนวุ้นว่านหางจระเข้ 0.5% ได้แผ่นแปะที่มีความแข็งแรงเชิงกลเท่ากับ 18.3 เมกกะปาลคาล/ตร.มม. ความสามารถในการดูดซับน้ำ 43.7% อัตราการพองตัว 0.8 และยังคงรูปอยู่ได้เมื่อสัมผัสน้ำ การทดสอบในผู้ป่วยเบาหวาน จำนวน 5 ราย โดยให้อาสาสมัครใช้แผ่นปิดแผลไฟโบรอิน/วุ้นว่านหางจระเข้ปิดแผลบริเวณเท้า โดยเปลี่ยนแผ่นปิดแผลทุก 48 ชั่วโมง เป็นเวลา 4 สัปดาห์ ทำการประเมินประสิทธิภาพของแผ่นปิดแผลจากลักษณะของแผลและระยะเวลาการหายของแผล ผลพบว่าระยะเวลาแผลหายสัมพันธ์กับขนาดของแผล โดยพบว่าอาสาสมัคร 3 ใน 5 รายมีแผลหาย 100% ภายใน 4 สัปดาห์หลังการใช้แผ่นปิดแผล ส่วนอาสาสมัครอีก 2 ราย พบความก้าวหน้าของการสมานแผล 95-98% (31)รายงานผู้ป่วยเบาหวานเพศชาย อายุ 52 ปี ที่มีความดันโลหิตสูงและมีแผลเรื้อรังในสภาพขาดเลือดมาเลี้ยง (ischemic wound) มานานกว่า 4 เดือน โดยให้ผู้ป่วยทำความสะอาดแผลด้วยน้ำเกลือและซับให้แห้ง จากนั้นปิดแผลด้วยแผ่นปิดแผลว่านหางจระเข้ (ในแผ่นก๊อซปิดแผล ประกอบด้วยสารสกัดว่านหางจระเข้ในรูปของเจล 1.5 มล., collagen 2 ก., glycerine 5.3 มล. และparaben 0.1 ก.) แทนการใช้ก๊อซตามปกติ ผลพบว่าแผลสมานได้ดีหลังการใช้แผ่นปิดแผลว่านหางจระเข้ 10 สัปดาห์ (32)แผลอื่นๆการศึกษาประสิทธิภาพของครีมว่านหางจระเข้ในการบรรเทาปวดและรักษาแผลรอยแตกที่ขอบทวารหนักชนิดเรื้อรัง (anal fissure) ระดับ I-III เตรียมตำรับครีมว่านหางจระเข้ ที่เตรียมวัฏภาคน้ำโดยละลายผงว่านหางจระเข้ 0.5 ก. (Zarban Phyto-Pharmaceutical Co, Iran) ในน้ำกลั่น เติมpropylene glycol, sodium lauryl sulfate และ methylparaben จากนั้นนำสารผสมที่ได้ไปผสมกับส่วนวัฏภาคน้ำมันที่ประกอบด้วย liquid white paraffin,stearyl alcohol, cetyl alcohol, solid white paraffin, propylparabenทำการทดสอบในผู้ป่วย 60 ราย โดยแบ่งผู้ป่วยเป็น 2 กลุ่ม คือกลุ่มที่ไม่ได้รับการรักษาด้วยยาใด และกลุ่มที่ได้รับการรักษาด้วยครีมว่านหางจระเข้ 0.5% ขนาด 3 ก. ทาที่แผลวันละ 3 ครั้ง ติดต่อกัน 6 สัปดาห์ ประเมินด้วยแบบประเมินความเจ็บปวด visual analog scale(VAS) การหายของแผลและการมีเลือดออก เปรียบเทียบก่อนและหลังการรักษา ผลพบว่า ระดับความเจ็บปวดบาดแผลลดลงอย่างมีนัยสำคัญทางสถิติหลังการใช้ครีมว่านหางจระเข้ 1 สัปดาห์และลดลงอย่างต่อเนื่องจนสิ้นสุดการศึกษา ระดับความรุนแรงของแผลในผู้ป่วยทุกรายลดลงและลดการมีเลือดออกขณะขับถ่ายอย่างมีนัยสำคัญทางสถิติเมื่อเทียบกับกลุ่มควบคุม การศึกษานี้แสดงให้เห็นว่าครีมว่านหางจระเข้สามารถบรรเทาอาการปวด รักษาแผล และลดการมีเลือดออกในผู้ป่วยแผลรอยแตกที่ขอบทวารหนักได้ (33)",
+                "clinical_ref": [
+                    "Shahzad MN, Ahmed N. Effectiveness of Aloe vera gel compared with 1% silver sulphadiazine cream as burn wound dressing in second degree burns. J Pak Med Assoc. 2013;63(2):225-30.",
+                    "Khorasani G, Hosseinimehr SJ, Azadbakht M, Zamani A, Mahdavi MR. Aloe versus silver sulfadiazine creams for second-degree burns: a randomized controlled study. Surg Today. 2009;39(7):587-91. doi: 10.1007/s00595-008-3944-y.",
+                    "Visuthikosol V, Chowchuen B, Sukwanarat Y, SriurairatanaS, Boonpucknavig V. Effect of Aloe vera gel to healing ofburn wound: A clinical and histologic study. J Med Assoc Thai.1995;78:403–409.",
+                    "Khorasani G, Ahmadi A, Jalal Hosseinimehr S, Ahmadi A,Taheri A, Fathi H. The effects of Aloe vera cream on splitthicknessskin graft donor site management: A randomized,blinded, placebo-controlled study. Wounds 2011;23:44–8.",
+                    "Burusapat C, Supawan M, Pruksapong C, Pitiseree A, Suwantemee C. Topical Aloe vera gel for accelerated wound healing of split-thickness skin graft donor sites: a double-blind, randomized, controlled trial and systematic review. PlastReconstr Surg. 2018;142(1):217-226. doi: 10.1097/PRS.0000000000004515.",
+                    "Hou Y, Gao Y, Wang X, Zhang Y, Li J, Zhang H, et al. Alginate-Aloe vera film contains zinc oxide nanoparticles with high degradability and biocompatibility on post-cesarean wounds. J Drug Deliv Sci Technol. 2021;66:102631. doi:10.1016/j.jddst.2021.102631.",
+                    "Eshghi F, Hosseinimehr SJ, Rahmani N, Khademloo M, Norozi MS, Hojiti O. Effects of Aloe vera cream on posthemorrhoidectomy pain and wound healing: results of a randomized, blind, placebo-control study. J Altern Complement Med. 2010:16(6):647-50. doi: 10.1089/acm.2009.0428.",
+                    "ศรัณย์ วรศักดิ์วุฒิพงษ์, อนุพันธ์ สิทธิโชคชัยวุฒิ, จารุภา วิโยชน์. Blended Fibroin and Aloe Vera Gel Dressing Hydrogel Sheet ใน บาดแผลทันยุค. สมาคมแผลไหม้และสมานแผลแห่งประเทศไทย. สำนักพิมพ์กรุงเทพเวชสาร. 2563:145 หน้า.",
+                    "Oliveira SH, Soares MJ, Rocha Pde S. Use of collagen and Aloe vera in ischemic wound treatment: study case. Rev Esc Enferm USP 2010;44:346-51.doi: 10.1590/s0080-62342010000200015.",
+                    "Rahmani N, Khademloo M, Vosoughi K, Assadpour S. Effects of Aloe vera cream on chronic anal fissure pain, wound healing and hemorrhaging upon defection: a prospective double blind clinical trial. Eur Rev Med Pharmacol Sci. 2014;18(7):1078-84."
+                ]
+            },
+            {
+                "clinical": "ปกป้องผิวจากแสงแดด",
+                "clinical_content": "การศึกษาแบบ randomized, double blind, placebo-controlled ฤทธิ์ปกป้องผิวจากแสงแดดของว่านหางจระเข้ ทำการทดสอบในอาสาสมัคร 40 ราย อายุ 20-56 ปีที่มีสีผิวระดับ II-III ตามเกณฑ์ของ Fitzpatrick กำหนดให้อาสาสมัครได้รับรังสียูวีบี ความเข้มแสง 50 และ 125 มิลลิจูลล์/ตร.ซม.  บริเวณแผ่นหลัง หลังจากนั้นสุ่มทาด้วยเจลเบส, เจลว่านหางจระเข้ 97.5%, ครีมDermallerg-Ratiopharm1% (1% hydrocortisone), ครีมDermatop cream (prednicarbate 0.25%)และเจลเบสที่มีส่วนผสมของhydrocortisone 1% โดยทาครีมที่กำหนด ขนาด 20 ก. บนแผ่นหลังของอาสาสมัครหลังการได้รับรังสียูวีบีทันที ประเมินผลการอักเสบผื่นแดงบนแผ่นหลังด้วย Mexameter ที่เวลา 0, 24 และ 48 ชม. ผลพบว่าที่เวลา 24 ชม. เจลว่านหางจระเข้ไม่มีผลลดอาการอักเสบผื่นแดงอย่างมีนัยสำคัญ แต่ที่เวลา 48 ชม. หลังการได้รับเจล สามารถลดอาการผื่นแดงเหนือกว่าเจลเบส แต่มีประสิทธิภาพน้อยกว่าครีม hydrocortisone 1%โดยไม่พบรายงานอาการข้างเคียงหรืออาการไม่พึงประสงค์ในอาสาสมัครทั้ง 40 ราย (34)การศึกษาประสิทธิภาพในการบรรเทาการอักเสบของผิวหลังจากรักษาด้วยการส่องไฟในผู้ป่วยโรคด่างขาว จำนวน 42 ราย อายุ 18-45 ปี โดยสุ่มให้ผู้ป่วยใช้เจลว่านหางจระเข้ (Seagull Laboratory, Iran ประกอบด้วยสารสกัดว่านหางจระเข้ 94%, allantoin, bisabolol, วิตามินเอและอี) หรือเจลเบส ทาบนผิวหนังที่ได้รับการรักษาด้วยการส่องไฟ ครั้งละ 10 มล. วันละ 2 ครั้ง ติดต่อกัน 8 สัปดาห์ ผลพบว่าเจลว่านหางจระเข้ช่วยลดอาการข้างเคียงจากการส่องไฟ โดยลดระยะเวลาและความรุนแรงอาการแสบร้อนของผิวเหนือกว่าผู้ป่วยได้รับเจลเบสอย่างมีนัยสำคัญแต่ไม่มีผลต่อระยะเวลาในการเกิดอาการคันระคายเคืองผิวและความรุนแรงของอาการคัน (35)",
+                "clinical_ref": [
+                    "Reuter J, Jocher A, Stump J, Grossjohann B, Franke G, Schempp C. Investigation of the anti-inflammatory potential of Aloe veraGel (97.5%) in the Ultraviolet erythema test. Skin PharmacolPhysiol2008;21:106-110. doi: 10.1159/000114871.",
+                    "Akhdar M, Abedini R, Tavakolpour S, Gholibeigian Z, Azizpour A. A randomized, double-blind, placebo-controlled trial of a commercial Aloe vera gel for mitigation of phototherapy side-effects in vitiligo patients. J Herbal Med. 2021;28:100442. doi: 10.1016/j.hermed.2021.100442."
+                ]
+            },
+            {
+                "clinical": "ต้านการอักเสบ",
+                "clinical_content": "การศึกษาในผู้ป่วยโรคสะเก็ดเงินระดับเล็กน้อยถึงปานกลาง จำนวน 75 ราย สุ่มให้อาสาสมัครใช้ครีมว่านหางจระเข้ (ประกอบด้วยวุ้นว่านหางจระเข้ 70%) หรือยาtriamcinolone acetonide 0.1% ทาบนผิวหนังที่มีอาการ วันละ 2 ครั้ง ติดต่อกัน 8 สัปดาห์ พบว่าครีมว่านหางจระเข้ช่วยบรรเทาอาการอักเสบจากโรคสะเก็ดเงิน ลดความความรุนแรงของผื่นลักษณะความแดง (erythema) ความนูน (induration) และขุย (scale) ของผื่นในอาสาสมัครอย่างมีนัยสำคัญ และให้ผลดีกว่าการใช้ triamcinolone acetonide  โดยในกลุ่มว่านหางจระเข้มีค่าคะแนนPsoriasis Area Severity Index (PASI) จาก 11.6 เหลือ 3.9 คะแนน และกลุ่ม triamcinolone acetonide มีค่าคะแนน PASI จาก 10.9 เหลือ 4.3 ผลการประเมินคุณภาพชีวิตของผู้ป่วยโรคผิวหนังด้วยDermatology Life Quality Index (DLQI) พบว่ามีค่าลดลงในทั้งสองกลุ่ม จาก 8.6 เป็น 2.6 และจาก 8.1 เป็น 2.3 สำหรับกลุ่มครีมว่านหางจระเข้ และกลุ่ม triamcinolone acetonide ตามลำดับ การศึกษานี้แสดงให้เห็นว่าครีมว่านหางจระเข้สามารถบรรเทาอาการอักเสบในผู้ป่วยโรคสะเก็ดเงินได้เหนือกว่า triamcinolone acetonide และช่วยเพิ่มคุณภาพชีวิตของผู้ป่วยได้ไม่ต่างจากการใช้ triamcinolone acetonide(36)การศึกษาผลของขี้ผึ้งว่านหางจระเข้ในการป้องกันการอักเสบของผิวหนังในผู้ป่วยมะเร็งปากมดลูกที่ได้รับการรักษาด้วยรังสีบำบัด จำนวน 42 ราย สุ่มแบ่งกลุ่มให้อาสาสมัครทาขี้ผึ้งว่านหางจระเข้ความเข้มข้น 3% (ตำรับขี้ผึ้งว่านหางจระเข้ประกอบด้วยสารสกัดว่านหางจระเข้ (Giahsalamatnasimfaraz, Iran)วาสลีนและพาราฟิน) หรือยาหลอก (ขี้ผึ้งที่ไม่มีส่วนผสมของว่านหางจระเข้) บริเวณทวารหนักครั้งละ 1 ก. วันละ 2 ครั้ง หลังการได้รับรังสีบำบัดติดต่อกัน 6 สัปดาห์ ประเมินผลการเปลี่ยนแปลงของผิวหนังโดยใช้แบบประเมินRadiation Therapy Oncology Group (RTOG)และแบบประเมินคุณภาพชีวิตของผู้ป่วย ผลพบว่าขี้ผึ้งว่านหางจระเข้ช่วยลดการอักเสบอย่างมีนัยสำคัญ โดยอาการอักเสบของเนื้อเยื่อทวารหนักในกลุ่มขี้ผึ้งว่านหางจระเข้และกลุ่มยาหลอกเท่ากับ 5% และ 62% ตามลำดับ อาการท้องเสีย การมีเลือดออกขณะขับถ่าย และความถี่ในการขับถ่ายในกลุ่มที่ได้รับขี้ผึ้งว่านหางจระเข้น้อยกว่ากลุ่มยาหลอกอย่างมีนัยสำคัญทางสถิติ ค่าคุณภาพชีวิตของผู้ป่วยเพิ่มสูงขึ้น และผลการประเมินอาการอักเสบด้วยการตรวจวัดระดับ C-reactive protein (CRP) พบว่ากลุ่มที่ได้รับขี้ผึ้งว่านหางจระเข้มีระดับ CRP เท่ากับ 2.5 มก./มล. ซึ่งน้อยกว่ากลุ่มยาหลอก (7.1 มก./มล.) อย่างมีนัยสำคัญทางสถิติ การศึกษานี้แสดงให้เห็นว่าขี้ผึ้งว่านหางจระเข้มีฤทธิ์ต้านการอักเสบของเนื้อเยื่อบริเวณทวารหนักในผู้ป่วยมะเร็งปากมดลูกที่ได้รับการรักษาด้วยรังสีบำบัด (37)3 การศึกษาเกี่ยวกับปากและช่องปาก",
+                "clinical_ref": [
+                    "Choonhakarn C, Busaracome P, Sripanidkulchai B, Sarakarn P. A prospective, randomized clinical trial comparing topical Aloe vera with 0.1% triamcinolone acetonide in mild to moderate plaque psoriasis. J Eur Acad Dermatol Venereol. 2010 ;24(2):168-72. doi: 10.1111/j.1468-3083.2009.03377.x.",
+                    "Sahebnasagh A, Ghasemi A, Akbari J, Alipour A, Lashkardoost H, Ala S, et al. Prevention of acute radiation-induced Proctitis by Aloe vera: a prospective randomized, double-blind, placebo controlled clinical trial in pelvic cancer patients. BMC Complement Med Ther. 2020;20(1):146. doi: 10.1186/s12906-020-02935-2."
+                ]
+            },
+            {
+                "clinical": "ยาสีฟัน",
+                "clinical_content": "การศึกษาแบบ single-center, single-blind, randomized, two-period crossover study ถึงประสิทธิภาพของยาสีฟันว่านหางจระเข้ต่อการเกิดคราบจุลินทรีย์และเหงือกอักเสบในช่องปาก ทำการศึกษาในอาสาสมัครที่มีภาวะเหงือกอักเสบ จำนวน 20 ราย (เพศชาย 10 คน เพศหญิง 10 คน) อายุ 24.5±4 ปี แบ่งให้อาสาสมัครใช้ยาสีฟันที่มีส่วนผสมของว่านหางจระเข้ (ไม่ระบุความเข้มข้นและวิธีการเตรียมสารสกัด) หรือยาสีฟันที่มีส่วนผสมของฟลูออไรด์ ติดต่อกัน 30 วัน และมีระยะพัก 14 วัน ก่อนสลับให้ใช้ยาสีฟันอีกชนิดที่เหลือ ประเมินผลโดยบันทึกดัชนีการเกิดคราบจุรินทรีย์ (plaque index: PI) และดัชนีการเกิดเหงือกอักเสบ (gingival index: GI) เปรียบเทียบก่อนและหลังการใช้ ผลพบว่าการใช้ยาสีฟันว่านหางจระเข้ให้ผลป้องกันการเกิดคราบจุลินทรีย์และลดการเกิดเหงือกอักเสบได้ไม่ต่างจากการใช้ยาสีฟันผสมฟลูออไรด์ โดยหลังการใช้ยาสีฟันว่านหางจระเข้ 30 วัน พบค่า PI จาก 2.14±1.3 เหลือ 1.84±1.02 และค่า GI จาก 0.62±0.74 เหลือ 0.25±0.46 ซึ่งไม่มีความแตกต่างอย่างมีนัยสำคัญจากการใช้ยาสีฟันผสมฟลูออไรด์ (ค่าPI จาก 2.31±1.02 เหลือ 1.94±0.52 และค่า GI จาก 0.47±0.63 เหลือ 0.31±0.48) และไม่พบรายงานอาการไม่พึงประสงค์ในอาสาสมัครหลังการใช้ยาสีฟันทั้งสองแบบ (38) การศึกษาในอาสาสมัครที่มีปัญหาเหงือกอักเสบ (ดัชนีเหงือกอักเสบ ≥ 30) จำนวน 15 ราย โดยให้อาสาสมัครใช้ยาสีฟันปกติที่เคยใช้ (ติดต่อกัน 6 เดือน แล้วสุ่มให้รับยาสีฟันว่านหางจระเข้ (Aloe Vera Original®, Sweden)หรือยาสีฟันควบคุม (Sensodyne®, Sweden) ครั้งละ 6 เดือน (รวมระยะเวลาการศึกษา 18 เดือน) ทำการประเมินดัชนีคราบจุลินทรีย์ (Plaque index: PLI) และดัชนีการมีเลือดออกของเหงือก (Gingival Bleeding Index: GBI)พบว่าค่า PLI จาก 41% ลดลงเหลือ 32, 25 และ 25% หลังการใช้ยาสีฟันปกติ ยาสีฟันควบคุม และยาสีฟันว่านหางจระเข้ ตามลำดับดัชนีการมีเลือดออกของเหงือกลดลงจาก 45% เหลือ 32, 21 และ 18% หลังการใช้ยาสีฟันปกติ ยาสีฟันควบคุม และยาสีฟันว่านหางจระเข้ ตามลำดับ จะเห็นได้ว่าหลังการใช้ยาสีฟันว่านหางจระเข้สามารถลดการเกิดคราบจุลินทรีย์ได้มากกว่า 20% และไม่พบความแตกต่างด้านประสิทธิภาพของยาสีฟันว่านหางจะเข้และยาสีฟันควบคุม (39)การศึกษาเปรียบเทียบผลของยาสีฟันว่านหางจระเข้ต่อการป้องกันฟันผุ ทำการทดสอบในอาสาสมัคร 57 ราย แบ่งออกเป็น 4 กลุ่ม ได้แก่ กลุ่มที่ 1: ยาสีฟันฟลูออไรด์ 1,450 ppm. (กลุ่มควบคุมบวก) กลุ่มที่ 2: ยาสีฟันว่านหางจระเข้ที่มีส่วนผสมของฟลูออไรด์ 1,000 ppm. กลุ่มที่ 3: ยาสีฟันว่านหางจระเข้ที่ไม่มีส่วนผสมของฟลูออไรด์ และกลุ่มที่ 4: กลุ่มวุ้นว่านหางจระเข้ 100% (เตรียมจากวุ้นว่านหางจระเข้สดและเก็บรักษาในตู้เย็นวันต่อวัน) กำหนดให้อาสาสมัครในแต่ละกลุ่ม แปรงฟันด้วยยาสีฟันที่กำหนด ครั้งละ 3 นาที วันละ 2 ครั้ง ที่เวลา 10.00 น. และ 20.00 น. ติดต่อกันเป็นเวลา 10 วัน ประเมินประสิทธิภาพในการป้องกันฟันผุจากอัตราการคืนแร่ธาตุของฟัน (remineralization) ด้วยเครื่องมือ SEM-EDX เปรียบเทียบก่อนและหลังการใช้ยาสีฟัน ผลพบว่าอัตราส่วนของแคลเซียม:ฟอสเฟอรัส (calcium-to-phosphorus ratio) ซึ่งบ่งถึงกระบวนการคืนแร่ธาตุของฟันมีค่าเพิ่มขึ้นในทุกกลุ่ม แต่มีนัยสำคัญทางสถิติเฉพาะกลุ่ม 1, 2 และ 4 การศึกษานี้แสดงให้เห็นว่าวุ้นว่านหางจระเข้สดมีความสามารถในการป้องกันฟันผุ โดยเร่งกระบวนการคืนแร่ธาตุของฟันได้เช่นเดียวกับยาสีฟันที่ผสมฟลูออไรด์ (40)",
+                "clinical_ref": [
+                    "Sayar F, Farahmand AH, Rezazadeh M. Clinical efficacy of Aloe vera toothpaste on periodontal parameters of patients with gingivitis-a randomized, controlled, single-masked clinical trial. J Contemp Dent Pract2021;22(3):242–7.",
+                    "Namiranian H, Serino G. The effect of a toothpaste containing Aloe vera on established gingivitis. Swed Dent J. 2012;36:179-85.",
+                    "Al Haddad T, Khoury E, Farhat Mchayleh N. Comparison of the remineralizing effect of brushing with Aloe veraversus fluoride toothpaste. Eur J Dent. 2021;15(1):133-8. doi: 10.1055/s-0040-1716597."
+                ]
+            },
+            {
+                "clinical": "น้ำยาบ้วนปาก",
+                "clinical_content": "การศึกษาเปรียบเทียบประสิทธิภาพของน้ำยาบ้วนปากว่านหางจระเข้ น้ำยาบ้วนปากทีทรีออยล์ (tea tree oil) และchlorhexidine ในอาสาสมัครเด็กนักเรียนเพศชายและเพศหญิง อายุ 8-14 ปี จำนวน 152 ราย โดยสุ่มแบ่งกลุ่มอาสาสมัครออกเป็น 4 กลุ่ม คือ กลุ่มที่ 1: น้ำยาบ้วนปากว่านหางจระเข้ (ประกอบด้วยว่านหางจระเข้ 7 ก., น้ำมันเปปเปอมิ้นต์ 0.025 ก., tween-80, benzyl alcohol และน้ำ) กลุ่มที่ 2: น้ำยาบ้วนปาก chlorhexidine 0.2% กลุ่มที่ 3: น้ำยาบ้วนปากทีทรีออยล์ ความเข้มข้น 0.5% และกลุ่มที่ 4: กลุ่มยาหลอก (น้ำเปล่า) โดยให้ใช้น้ำยาบ้วนปากครั้งละ 10 มล. กลั้วครั้งละ 30 วินาที วันละ 2 ครั้ง หลังอาหารเที่ยงและอาหารเย็น ติดต่อกัน 4 สัปดาห์ เหงือก แบคทีเรียสาเหตุปัญหาช่องปาก Streptococcus mutansในช่วงเริ่มการทดสอบ ช่วงที่ใช้น้ำยาบ้วนปาก 4 สัปดาห์ และหลังจากหยุดใช้น้ำยาบ้วนปาก 2 สัปดาห์ผลพบว่าดัชนีคราบจุลินทรีย์ดัชนีเหงือกอักเสบและจำนวนเชื้อ S.mutans ในน้ำลาย ลดลงอย่างมีนัยสำคัญในอาสาสมัครกลุ่มที่ 1, 2 และ 3 และไม่พบการเปลี่ยนแปลงนี้ในกลุ่มที่ได้รับยาหลอก และยังมีผลต่อเนื่องหลังการหยุดใช้ 2 สัปดาห์ โดยไม่พบความแตกต่างด้านประสิทธิภาพของน้ำยาบ้วนปากว่านหางจระเข้ น้ำยาบ้วนปากทีทรีออยล์ และน้ำยาบ้วนปาก chlorhexidineจากผลการทดสอบครั้งนี้สรุปว่าการใช้น้ำยาบ้วนปากที่มีส่วนผสมของว่านหางจระเข้และทีทรีออยล์มีผลลดดัชนีคราบจุลินทรีย์ คาดัชนีสภาพเหงือก และแบคทีเรียสาเหตุปัญหาช่องปากในเด็กได้เทียบเท่ากับการใช้น้ำยาบ้วนปากchlorhexidine(41)การศึกษาประสิทธิภาพของน้ำยาบ้วนปากว่านหางจระเข้ในการป้องกันการเกิดคราบจุลินทรีย์ในช่องปาก ทำการศึกษาแบบ randomized, single blind, parallel,controlled clinical study ในอาสาสมัคร 90 ราย อายุเฉลี่ย 27.19±12.08 ปี แบ่งอาสาสมัครออกเป็น 3 กลุ่ม คือ กลุ่มน้ำยาบ้วนปากว่านหางจระเข้ (มีส่วนประกอบของน้ำว่านหางจระเข้ 99.6%; Patanjali Ayurved Ltd, India) กลุ่มน้ำยาบ้วนปาก 0.2%chlorhexidine gluconate และกลุ่มยาหลอก (น้ำเปล่าแต่งกลิ่น) ให้อาสาสมัครใช้น้ำยาบ้วนปากครั้งละ 10 มล. กลั้วนาน1 นาที วันละ 2 ครั้ง ติดต่อกัน 4 วัน พบว่าค่า PI ของกลุ่มน้ำยาบ้วนปากว่านหางจระเข้ลดลงอย่างมีนัยสำคัญหลังการใช้ จาก 2.82 คงเหลือ 1.60 และให้ผลใกล้เคียงกับกลุ่มที่ได้รับน้ำยาบ้วนปาก 0.2%chlorhexidine ซึ่งค่า PI ลดลงจาก 2.69 เหลือ 1.48 ในขณะที่กลุ่มที่ได้รับยาหลอกมีค่า PI เพิ่มขึ้นจาก 2.58 เป็น 2.79 การศึกษานี้แสดงให้เห็นว่าน้ำยาบ้วนปากที่มีส่วนผสมของน้ำว่านหางจระเข้ 99.6% มีประสิทธิภาพในการลดคราบจุลินทรีย์ได้ใกล้เคียงกับน้ำยาบ้วนปาก chlorhexidine0.2%(42) การศึกษาแบบ randomized, controlled, double-blind study ในอาสาสมัคร 120 ราย อายุ 18-25 ปี สุ่มแบ่งอาสาสมัครออกเป็น 3 กลุ่ม คือ กลุ่มน้ำยาบ้วนปากว่านหางจระเข้ 100% (ไม่ระบุวิธีการเตรียมสารสกัด) กลุ่มยาหลอก (น้ำเปล่า) และกลุ่มน้ำยาบ้วนปากchlorhexidine0.2%กำหนดให้อาสาสมัครบ้วนปากด้วยน้ำยาที่กำหนด ครั้งละ 10 มล. กลั้วนาน 1 นาที วันละ 2 ครั้ง ตอนเช้าและก่อนนอน ติดต่อกัน 7 วัน ประเมินผลการเกิดคราบจุลินทรีย์ ดัชนีการเกิดเหงือกอักเสบและภาวะการมีเลือดออกตามไรฟัน ในวันที่ 7 และ 14 หลังการใช้ ผลการศึกษาพบว่าดัชนีการเกิดคราบจุลินทรีย์ลดลงอย่างมีนัยสำคัญในกลุ่มที่ได้รับน้ำยาบ้วนปากว่านหางจระเข้ และน้ำยาบ้วนปาก chlorhexidine0.2%เมื่อเทียบกับกลุ่มที่ได้รับยาหลอก โดยchlorhexidine มีประสิทธิภาพในการลดคราบจุลินทรีย์ได้ดีกว่าน้ำยาบ้วนปากว่านหางจระเข้ การประเมินดัชนีการเกิดเหงือกอักเสบและดัชนีการมีเลือดออกของเหงือก พบว่ามีค่าลดลงในกลุ่มที่ได้รับน้ำยาบ้วนปากว่านหางจระเข้และน้ำยาบ้วนปาก chlorhexidine การศึกษานี้แสดงให้เห็นว่าน้ำยาบ้วนปากว่านหางจระเข้มีประสิทธิภาพในการลดคราบจุลินทรียได้น้อยกว่า 0.2% chlorhexidineแต่สามารถลดดัชนีการเกิดเหงือกอักเสบและดัชนีการมีเลือดออกของเหงือกได้ไม่ต่างกัน (43) การศึกษาแบบ three-arm, crossover, triple-blind, randomizedclinical ในอาสาสมัครเด็กอายุ 8-12 ปี จำนวน 17ราย โดยให้อาสาสมัครสะสมคราบจุลินทรีย์ก่อนการทดสอบ 3 วัน ด้วยการใส่ที่ครอบป้องกันการแปรงฟัน จากนั้นให้ใช้น้ำยาบ้วนปากว่านหางจระเข้ 100% (ไม่ระบุวิธีการเตรียมสารสกัด) น้ำยาบ้วนปาก chlorhexidine หรือน้ำยาบ้วนปากยาหลอก (น้ำเปล่า) ขนาด 10 มล. กลั้วครั้งละ 1 นาที วันละ 1 ครั้ง เป็นเวลา 5 วัน ประเมินผลด้วยการตรวจสอบคราบจุลินทรีย์สะสม ดัชนีการเกิดเหงือกอักเสบ และดัชนีการมีเลือกออกของเหงือก เปรียบเทียบก่อนการศึกษา (T0) ช่วงระยะเวลาสะสมคราบจุลินทรีย์ (T1) และหลังการใช้น้ำยาบ้วนปาก 5 วัน (T2) ผลการทดสอบพบว่าการคราบจุลินทรีย์ในระยะ T2 ลดลงจากระยะ T1 อย่างมีนัยสำคัญหลังการใช้น้ำยาบ้วนปากว่านหางจระเข้และน้ำยาบ้วนปาก chlorhexidineดัชนีเหงือกอักเสบ และดัชนีการมีเลือดออกของเหงือกลดลงอย่างมีนัยสำคัญ โดยน้ำยาบ้วนปากว่านหางจระเข้ให้ฤทธิ์ดีว่าการใช้ chlorhexidine(44) การศึกษาในประเทศอินเดียถึงประสิทธิภาพต่อช่องปากของน้ำยาบ้วนปากว่านหางจระเข้ ทำการทดสอบในอาสาสมัครสุขภาพดี 345 ราย สุ่มแบ่งอาสาสมัครออกเป็น 3 กลุ่ม คือ กลุ่มน้ำยาบ้วนปากว่านหางจระเข้ (เตรียมจากน้ำว่านหางจระเข้ 99% แต่งกลิ่นมะนาว) กลุ่มน้ำยาบ้วนปาก chlorhexidine และกลุ่มยาหลอก (น้ำเปล่า) โดยให้กลั้วปากด้วยน้ำยาบ้วนปากที่กำหนด ครั้งละ 10 มล. วันละ 2 ครั้ง หลังอาหารเช้าและหลังอาหารเที่ยง ติดต่อกัน 30 วัน ผลพบว่าน้ำยาบ้วนปากว่านหางจระเข้มีประสิทธิภาพในการลดคราบจุลินทรีย์และดัชนีการมีเลือดออกของเหงือกในอาสาสมัครเหนือกว่ายาหลอกอย่างมีนัยสำคัญทางสถิติ และให้ผลได้ใกล้เคียงกับกลุ่มที่ใช้น้ำยาบ้วนปาก chlorhexidine (45) การศึกษาประสิทธิภาพในการลดเชื้อจุลินทรีย์ในวัสดุพิมพ์ฟันของน้ำยาบ้วนปากว่านหางจระเข้เปรียบเทียบกับ chlorhexidine digluconate 0.2% ทำการศึกษาในอาสาสมัคร 30 ราย ทำการทดสอบ 3 รอบ คือ รอบที่ 1 ไม่ได้รับการบ้วนปาก รอบที่ 2 ได้รับน้ำยาบ้วนปากว่านหางจระเข้ 99.9 % กลั้วนาน 30 วินาที และรอบที่ 3 ได้รับน้ำยาบ้วนปาก chlorhexidine digluconate0.2% กลั้วนาน 30 วินาทีก่อนการพิมพ์ฟัน จากนั้นswabวัสดุพิมพ์ฟันด้วยไม้พันสำลีและนำไปเพาะเชื้อบนอาหารแข็ง เป็นเวลา 24 ชม. ผลพบว่าค่า Colony Forming Units (CFU) ที่เพาะได้จากแบบพิมพ์ฟันแต่ละรอบมีความแตกต่างกัน โดยพบค่า CFU ของรอบที่ 1, 2 และ 3 เท่ากับ 7.54, 2.98 และ 1.82 ตามลำดับ ค่าประสิทธิภาพในการยับยั้งเชื้อของน้ำยาบ้วนปากว่านหางจระเข้และน้ำยาบ้วนปาก chlorhexidine เท่ากับ 60.33% และ 75.81% ตามลำดับ การศึกษานี้แสดงให้เห็นว่าน้ำยาบ้วนปากว่านหางจระเข้สามารถยับยั้งเชื้อจุลินทรีย์ในช่องปากได้ แต่มีประสิทธิภาพน้อยกว่าน้ำยาบ้วนปาก chlorhexidine digluconate0.2% (46) การศึกษาแบบ randomized single-center, single-blind, parallel group, controlled trial ในอาสาสมัครที่เข้ารับการจัดฟัน 85 ราย สุ่มแบ่งอาสาสมัครให้ใช้น้ำยาบ้วนปากว่านหางจระเข้ (ไม่ระบุแหล่งที่มาและวิธีการเตรียมสารสกัด) น้ำยาบ้วนปากchlorhexidine และน้ำยาบ้วนปาก chlorine dioxide ครั้งละ 10 มล. กลั้วนาน 1 นาที วันละ 2 ครั้ง เป็นเวลา 15 วัน ประเมินผลด้วยดัชนีการเกิดคราบจุลินทรีย์และดัชนีเหงือกอักเสบเปรียบเทียบก่อนและหลังการทดสอบพบว่าดัชนีคราบจุลินทรีย์ในกลุ่มน้ำยาบ้วนปากว่านหางจระเข้ น้ำยาบ้วนปากchlorhexidine และน้ำยาบ้วนปาก chlorine dioxideลดลง 20.38, 31.59 และ 30.29% ตามลำดับ และดัชนีโรคเหงือกอักเสบลดลง 9.88, 16.30 และ 12.22% ตามลำดับในการศึกษานี้พบว่าน้ำยาบ้วนปากว่านหางจระเข้มีประสิทธิภาพในการลดคราบจุลินทรีย์และดัชนีโรคเหงือก แต่มีประสิทธิภาพน้อยกว่าน้ำยาบ้วนปากchlorhexidine และ chlorine dioxide (47)",
+                "clinical_ref": [
+                    "Kamath NP, Tandon S, Nayak R, Naidu S, Anand PS, Kamath YS. The effect of Aloe vera and tea tree oil mouthwashes on the oral health of school children. Eur Arch Paediatr Dent. 2020;21(1):61-66. doi: 10.1007/s40368-019-00445-5.",
+                    "Chhina S, Singh A, Menon I, Singh R,Sharma A, Aggarwal V. A randomized clinical study for comparativeevaluation of Aloe vera and 0.2% chlorhexidine gluconatemouthwash efficacy on de-novo plaque formation. J Int Soc PreventCommunit Dent.2016;6:251-5.doi: 10.4103/2231-0762.183109.",
+                    "Chandrahas B, Jayakumar A, Naveen A, Butchibabu K, Reddy PK, Muralikrishna T. A randomized, double-blind clinical study to assess the antiplaque and antigingivitis efficacy of Aloe vera mouth rinse. J Indian Soc Periodontol. 2012;16(4):543-8. doi: 10.4103/0972-124X.106905.",
+                    "Alnouri DMA, Kouchaji C, Nattouf AH, MoaffakMA, Hasan A. Effect of Aloe vera mouthwash on dental plaque and gingivitis indices in children:a randomized controlled clinical trial. PediatrDent J. 2020;30(1):1-8. doi: 10.1016/j.pdj.2020.01.001.",
+                    "Karim B, Bhaskar DJ, Agali C, Gupta D, Gupta RK, Jain A, et al. Effect of Aloe vera mouthwash on periodontal health: triple blind randomized control trial. Oral Health Dent Manag. 2014;13(1):14-9.",
+                    "Mahajan T. An in vivo study to evaluate the efficacy of Aloe vera and 0.2% chlorhexidine digluconate as preprocedural mouth rinses for disinfecting alginate impression. J Evolution Med Dent Sci. 2020;9(35):2521-5.",
+                    "Yeturu SK, Acharya S, Urala AS, Pentapati KC. Effect of Aloe vera, chlorine dioxide, and chlorhexidine mouth rinses on plaque and gingivitis: A randomized controlled trial. J Oral Biol Craniofac Res. 2016;6(1):54-8. doi: 10.1016/j.jobcr.2015.08.008."
+                ]
+            },
+            {
+                "clinical": "รักษาแผลในปาก",
+                "clinical_content": "แผลร้อนในการศึกษาประสิทธิภาพในการรักษาแผลร้อนในของแผ่นปิดแผลในปากที่ประกอบด้วยสาร acemannan จากว่านหางจระเข้ (ตัวอย่างพืชจากประเทศไทย voucher no: 051101) เตรียมสารสกัดว่านหางจระเข้ โดยปั่นเหวี่ยงวุ้นว่านหางจระเข้ และทำให้ตกตะกอนด้วยแอลกอฮอล์ นำไปแยก acemannan โดยใช้ถุงเยื่อเลือกผ่าน (dialysis bag) เป็นเวลา 24 ชม. ทำการทดสอบในอาสาสมัคร 180 ราย ที่มีแผลร้อนในในช่องปาก แบ่งอาสาสมัครออกเป็น 3 กลุ่ม กลุ่มที่ 1 ได้รับยาtriamcinolone acetonide 0.1% กลุ่มที่ 2 ได้รับแผ่นปิดแผล acemannan 0.5%และกลุ่มที่ 3 กลุ่มควบคุมได้รับแผ่นปิดแผล Carbopol®ให้ผู้ป่วยปิดแผ่นแปะที่แผลร้อนในวันละ 3 ครั้ง ติดต่อกัน 7 วัน ประเมินผลด้วยการวัดขนาดของแผล แบบประเมินความเจ็บปวด และความพึงพอใจของผู้ป่วย ผลการศึกษาพบว่าแผ่นปิดแผลacemannan มีฤทธิ์รักษาแผลโดยลดขนาดของแผลและบรรเทาอาการปวดเหนือกว่ากลุ่มควบคุมแต่มีประสิทธิภาพน้อยกว่ายาtriamcinolone acetonide อาสาสมัครมีความพึงพอใจต่อการใช้แผ่นปิดแผล acemannan ว่านหางจระเข้ไม่ต่างกับการใช้ยาtriamcinolone acetonide (14)การศึกษาในผู้ป่วยที่มีแผลร้อนในปาก จำนวน 40 ราย อายุ 15-35 ปี สุ่มแบ่งให้อาสาสมัครได้รับการรักษาด้วยเจลว่านหางจระเข้ 2%(Barij-Essence Co., Iran) หรือยาหลอก (เจลเบสที่มีส่วนผสมของน้ำเกลือ) ทาบริเวณที่เป็นแผลร้อนใน วันละ 3 ครั้ง ติดต่อกัน 10 วัน ประเมินผลอาการเจ็บปวดด้วย visual analogue scale (VAS)และวัดขนาดความกว้างของแผล ผลพบว่ากลุ่มที่ได้รับเจลว่านหางจระเข้รายงานอาการปวดลดลงเหนือกว่ายาหลอกอย่างมีนัยสำคัญในวันที่ 4 ของการศึกษา ขนาดของแผลและพื้นที่การอักเสบในแผลลดลงมากกว่ากลุ่มยาหลอกตั้งแต่วันที่ 3 ของการศึกษา เมื่อติดตามผลจบครบ 10 วัน พบว่าอาสาสมัครทั้งสองกลุ่มมีแผลหายดี และไม่พบรายงานอาการไม่พึงประสงค์จากการใช้ผลิตภัณฑ์ (48) การศึกษาประสิทธิภาพในการรักษาแผลร้อนในของเจลว่านหางจระเข้ที่หมักด้วยเชื้อจุลินทรีย์ Lactobacillus plantarum MH-301[เตรียมวุ้นว่านหางจระเข้หมัก โดยบดวุ้นว่านหางจระเข้ผ่านตะแกรง จากนั้นเติมน้ำและน้ำตาล ขนาด 5% โดยน้ำหนักของวุ้นว่านหางจระเข้ ทิ้งไว้ 24 ชม. นำไปปั่นเหวี่ยงด้วยด้วยแรง 8,000 g นาน 5 นาที ล้างตะกอนด้วยphosphate-buffered saline จากนั้นเติมเชื้อจุลินทรีย์L. plantarum MH-301 บ่มที่ 37ºC เป็นเวลา 36-72 ชม. จนได้ค่า pH 3-4]ทำการศึกษาในผู้ป่วยที่มีร้อนใน จำนวน 35 ราย แบ่งกลุ่มให้อาสาสมัครเจลวุ้นว่านหางจระเข้หมัก หรือเจลไคโตซาน ทาที่แผลวันละ 3 ครั้งหลังมื้ออาหาร ติดต่อกันจนกว่าแผลหาย ผลพบกว่ากลุ่มที่ได้รับเจลว่านหางจระเข้หมักมีอัตราการหายของแผลเร็วกว่ากลุ่มเจลไคโตซาน โดยใช้ระยะเวลารักษาจนแผลหายขาด 4-6 วัน จำนวน 7 คน และใช้เวลา 7-10 วัน จำนวน 13 คน ในขณะที่กลุ่มไคโตซานใช้ระยะเวลารักษาจนแผลหายขาด 4-6 วัน จำนวน 3 คน และ 7-10 วัน จำนวน 12 คน ตามลำดับ นอกจากนี้ยังพบว่าระดับเชื้อแบคทีเรียในช่องปากของกลุ่มเจลว่านหางจระเข้หมักลดระดับลงเท่ากับสภาวะปกติ และลดจำนวนเชื้อแบคทีเรียก่อโรคกลุ่ม Actinomyces, Granulicatella และPeptostreptococcusในช่องปากได้ดีกว่าการใช้เจลไคโตซาน การศึกษานี้แสดงให้เห็นว่าเจลว่านหางจระเข้หมักมีประสิทธิภาพในการรักษาแผลร้อนในและลดเชื้อแบคทีเรียในช่องปาก (49)ต้านการอักเสบในช่องปาก การศึกษาในผู้ป่วยที่มีอาการแสบร้อนในช่องปาก (burning mouth syndrome) จำนวน 75 ราย แบ่งกลุ่มอาสาสมัครเป็น 3 กลุ่ม ได้แก่ กลุ่มที่ 1 ได้รับอุปกรณ์ป้องกันลิ้น ( tongue protector) กลุ่มที่ 2 ได้รับเจลว่านหางจระเข้ 70% (LaboratoriosAbabo S.L., Spain) ครั้งละ 0.5 มล. ทาบนลิ้น ก่อนใส่อุปกรณ์ป้องกันลิ้น และกลุ่มที่ 3 ได้รับซิลิโคนเจลที่มีส่วนผสมของหัวหอม มะขาม บัวบก และว่านหางจระเข้ (Cybele®Scagel, Thailand)ครั้งละ 0.5 มล. ทาบนลิ้น ก่อนใส่อุปกรณ์ป้องกันลิ้น ทำวันละ 3 ครั้ง ติดต่อกัน 12 สัปดาห์ ประเมินผลด้วยแบบประเมิน visual analogue scale และแบบประเมินคุณภาพชีวิตสุขภาพช่องปาก Oral Health Impact Profile-49(OHIP-49) ผลการศึกษาพบว่าอาการเจ็บปวดลดลงอย่างมีนัยสำคัญในทุกกลุ่ม เมื่อเทียบกับก่อนการรักษา และลดลงมากที่สุดในกลุ่มที่ได้รับเจลว่านหางจระเข้ แต่ไม่พบความแตกต่างในด้านคุณภาพชีวิตของอาสาสมัครทั้ง 3 กลุ่ม อย่างไรก็ตามการศึกษานี้แสดงให้เห็นว่าการใช้เจลว่านหางจระเข้ร่วมกับอุปกรณ์ป้องกันลิ้นสามารถบรรเทาอาการเจ็บปวดจากภาวะแสบร้อนในปากได้ดีกว่าการใช้อุปกรณ์ป้องกันลิ้นเพียงอย่างเดียว (50) การศึกษาเปรียบเทียบประสิทธิภาพของยา atorvastatin กับน้ำยาบ้วนปากว่านหางจระเข้ในการป้องกันการอักเสบในช่องปากจากการได้รับเคมีบำบัด ทำการศึกษาในผู้ป่วยมะเร็งทางเดินอาหารที่เข้ารับการรักษาด้วยเคมีบำบัด 5-fluorouracil (FOLFOX4) จำนวน 120 ราย ที่ สุ่มแบ่งผู้ป่วยออกเป็น 3 กลุ่ม คือ กลุ่มที่ 1 ได้รับยา atorvastatin ขนาด 10 มก. รับประทานวันละ 1 ครั้ง ร่วมกับการใช้น้ำยาบ้วนปากยาหลอก กลุ่มที่ 2 ได้รับน้ำยาบ้วนปากสารสกัดว่านหางจระเข้94.5%ร่วมกับการรับประทานยาหลอก และกลุ่มที่ 3 ได้รับน้ำยาบ้วนปากยาหลอกร่วมกับการรับประทานยาหลอก โดยให้อาสาสมัครเริ่มรับประทานยาและใช้น้ำยาบ้วนปากหลังเข้ารับการรักษาด้วยเคมีบำบัด ทำติดต่อกันเป็นเวลา 2 สัปดาห์ ประเมินผลจากจำนวนและความรุนแรงของเยื่อบุช่องปากอักเสบ ผลพบว่าในกลุ่มที่ 1 และกลุ่มที่ 3 มีผู้ป่วยเยื่อบุช่องปากอักเสบความรุนแรงระดับ 2-4 จำนวน 19 ราย กลุ่มที่ 2 พบผู้ป่วยเยื่อบุช่องปากอักเสบระดับ 2 จำนวน 1 ราย และกลุ่มที่ 3 พบผู้ป่วยเยื่อบุช่องปากอักเสบความรุนแรงระดับ 2-4 จำนวน 20 ราย แสดงให้เห็นว่าน้ำยาบ้วนปากว่านหางจระเข้บรรเทาอาการอักเสบในช่องปากจากการได้รับเคมีบำบัดได้ (51)",
+                "clinical_ref": [
+                    "Bhalang K, Thunyakitpisal P, Rungsirisatean N. Acemannan, a polysaccharide extracted from Aloe vera, is effective in the treatment of oral aphthous ulceration. J Altern Complement Med. 2013;19(5):429-34. doi: 10.1089/acm.2012.0164.",
+                    "Babaee N, Zabihi E, Mohseni S, Moghadamnia AA. Evaluation of the therapeutic effects of Aloe vera gel on minor recurrent aphthous stomatitis. Dent Res J (Isfahan). 2012;9(4):381-5.",
+                    "Shi Y, Wei K, Lu J, Wei J, Hu X, Chen T. A clinic trial evaluating the effects of Aloe vera fermentation gel on recurrent aphthous stomatitis. Can J Infect Dis Med Microbiol. 2020;2020:8867548. doi: 10.1155/2020/8867548.",
+                    "López-Jornet P, Camacho-Alonso F, Molino-Pagan D. Prospective, randomized, double-blind, clinical evaluation of Aloe veraBarbadensis, applied in combination with a tongue protector to treat burning mouth syndrome. J Oral Pathol Med. 2013;42(4):295-301. doi: 10.1111/jop.12002.",
+                    "Karbasizade S, Ghorbani F, GhasemiDarestani N, Mansouri-Tehrani MM, Kazemi AH. Comparison of therapeutic effects of statins and Aloe vera mouthwash on chemotherapy induced oral mucositis. Int J PhysiolPathophysiolPharmacol. 2021;13(4):110-6."
+                ]
+            }
+        ],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "บำรุงเส้นผม",
+                "pharmacological_content": "การศึกษาฤทธิ์ปกป้องเส้นผมจากแสงแดดของน้ำว่านหางจระเข้ ที่เตรียมด้วยวิธีการคั้นน้ำจากวุ้นว่านหางจระเข้ (ตัวอย่างพืชจากประเทศอินเดีย voucher no. 9029) ทำการทดสอบฤทธิ์ปกป้องเส้นผมกับตัวอย่างเส้นผมที่ได้จากผู้หญิงชาวเอเชีย อายุ 25-40 ปี ที่มีสีผมต่างกัน ได้แก่ ผมสีดำ (ธรรมชาติ) ผมสีเทาจากการย้อมด้วยเฮนน่า และผมทำสีจากเคมี ด้วยการจุ่มเส้นผมในน้ำว่านหางจระเข้จากนั้นฉายรังสียูวีบีให้ผม (ระยะห่างระหว่างโคมไฟและเส้นผม 20 ซม.) วันละ 4 ชม. ติดต่อกัน 25 วัน (รวมได้รับรังสียูวี 100 ชม.) ประเมินผลจากปริมาณกรดอะมิโนในเส้นผมและการสลายตัวของทริปโตเฟนซึ่งบ่งถึงความเสียหายของเส้นผมจากการได้รับรังสียูวี ผลพบว่าระดับกรดอะมิโนในเส้นผมสีดำ สีเทา และผมทำสีหลังการได้รับรังสียูวีบี มีค่าลดลง 0.045, 0.029 และ 0.017 ก. ตามลำดับ เปอร์เซ็นต์การสลายตัวทริปโตเฟนในกลุ่มผมสีดำ ผมสีเทา และผมทำสี เท่ากับ 20.42, 13.98 และ 6.98% ตามลำดับ ซึ่งมีค่าดีกว่ากลุ่มเปรียบเทียบที่ได้รับสารปกป้องเส้นผมตามท้องตลาด (Activaloe, UK) ที่พบการเปลี่ยนแปลงของกรดอะมิโนในเส้นผมสีดำ ผมสีเทา และผมทำสี เท่ากับ 0.074, 0.037 และ 0.045 ก. และพบการสลายตัวของทริปโตเฟนเท่ากับ 45, 22 และ 20% ตามลำดับ แสดงให้เห็นว่าน้ำวุ้นว่านหางจระเข้มีฤทธิ์ปกป้องเส้นผมจากแสงแดด โดยให้ผลดีกับผมทำที่ผ่านการสีมากกว่าผมดำตามธรรมชาติ (52)2 การศึกษาเกี่ยวกับผิวหน้า",
+                "pharmacological_ref": [
+                    "Daud FS, Kulkarni SB. Comparative evaluation of proto-protective effect of Aloe veraTourn. ex Linn. on UV damage in different Asian hair type. Ind J Nat Prod Res. 2011;2(2):179-83."
+                ]
+            },
+            {
+                "pharmacological": "ทำให้ผิวหน้าขาว",
+                "pharmacological_content": "ยับยั้งเอนไซม์ไทโรซิเนส สารสกัด 95% เอทานอลจากว่านหางจระเข้ ที่เตรียมการสกัดด้วยวิธีแช่สกัดใน 95% เอทานอล เป็นเวลา 7 วัน วิเคราะห์องค์ประกอบทางเคมีที่พบในสารสกัดด้วย column chromatography พบสาร 9 ชนิด ได้แก่9-dihydroxyl-2′-O-(Z)-cinnamoyl-7-methoxy-aloesin, aloe-emodin, aloin A, aloin B, elgonica dimer A, feralolide, isoaloeresin D, aloeresin E และ 7-O-methylaloeresinA ทำการทดสอบฤทธิ์ต่อการทำงานของเอนไซม์ไทโรซิเนส พบว่าสารทั้ง 9 ชนิดที่ความเข้มข้น 100 ไมโครโมลาร์ ยับยั้งการทำงานของเอนไซม์ได้ 9.5, 21.5, 18.7, 23.1, 1.2, 1.5, 36.8, 18.1, และ 95.2% ตามลำดับ โดยสาร 7-O-methylaloeresinA มีฤทธิ์ดีที่สุดในการยับยั้งเอนไซม์ ด้วยค่า IC50เท่ากับ 9.8±0.9 ไมโครโมลาร์ และให้ผลใกล้เคียงกับการใช้กรดโคจิก (5)การศึกษาผลต่อเม็ดสีเมลานินของสารสกัดจากใบว่านหางจระเข้ (ตัวอย่างพืชจากประเทศอินเดีย voucher no: 284/BOT/Saifia/11) เตรียมสารสกัดว่านหางจระเข้ด้วยวิธีการสกัดแบบต่อเนื่องด้วย Soxlet extractor ที่มีเอทานอลเป็นตัวทำละลาย และทำให้สารสกัดแห้งด้วยวิธีทำแห้งแบบสุญญากาศ วิเคราะห์ปริมาณสารสำคัญด้วย HPTLCพบสาร aloinเป็นองค์ประกอบหลักทำการทดสอบฤทธิ์ต่อเมลานินในหางคางคกบ้าน (Bufomelanostictus) ในหลอดทดลอง ผลพบว่าเมื่อให้สารสกัดว่านหางจระเข้ที่ความเข้มข้น 1-64 มคก./มล. จะชักนำการเกาะกลุ่มของเมลานินได้ตามขนาดของสารสกัดที่ได้รับ โดยสารสกัดที่ขนาด 6.4 มคก./มล. มีค่าเฉลี่ยขนาดเซลล์เมลาโนฟอร์ (mean melanophore size index) เท่ากับ 0.82±0.5 ซึ่งน้อยกว่าเซลล์ปกติอย่างมีนัยสำคัญ (5.89±0.19) และมีค่าใกล้เคียงกับกลุ่มควบคุมบวกซึ่งได้รับ adrenaline และเมื่อใช้สารสกัดว่านหางจระเข้ร่วมกับ reserpine จะเสริมฤทธิ์ชักนำการเกาะกลุ่มได้ดีกว่าการใช้สารสกัดเดี่ยว นอกจากนี้ยังพบว่าฤทธิ์ของสารสกัดจากว่านหางจระเข้จะถูกยับยั้งเมื่อให้ร่วมกับ yohimbine (α2 adrenergic blocker) แสดงให้เห็นว่าสารสกัดเอทานอลวุ้นว่านหางจระเข้มีฤทธิ์ทำให้ผิวขาว ผ่านการชักนำการเกาะกลุ่มของเมลานิน โดยมีสาร aloinเป็นสารสำคัญในการออกฤทธิ์ (12) การทดสอบผลต่อเอนไซม์ไทโรซิเนสของสารสกัด 80% เอทานอลจากส่วนใบ วุ้น เปลือก และดอกว่านหางจระเข้อายุ 3 ปี (ตัวอย่างพืชจากประเทศโปรตุเกส) ที่สกัดด้วยวิธีsolid-liquid extraction โดยมีเอทานอล:น้ำ (อัตราส่วน 80:20 โดยปริมาตร) เป็นตัวทำละลาย พบว่าสารสกัดจากดอกยับยั้งการทำงานของเอนไซม์ดีที่สุดด้วย รองลงมาคือสารสกัดจากส่วนเปลือก และสารสกัดจากส่วนวุ้น ด้วยค่า IC50เท่ากับ 4.85, มก./มล. สารสกัดจากเปลือกและสารสกัดจากวุ้นมีฤทธิ์อย่างอ่อนในการยับยั้งเอนไซม์ โดยที่ขนาด 8 มก./มล. ยับยั้งการทำงานของเอนไซม์ได้ 27.2% และ 30.38% ตามลำดับ และในการศึกษานี้ไม่พบฤทธิ์ยับยั้งเอนไซม์ไทโรซิเนสของสารสกัดจากส่วนใบ (53)",
+                "pharmacological_ref": [
+                    "Kim JH, Yoon JY, Yang SY, Choi SK, Kwon SJ, Cho IS, et al. Tyrosinase inhibitory components from Aloe vera and their antiviral activity. J Enzyme Inhib Med Chem. 2017 Dec;32(1):78-83. doi: 10.1080/14756366.2016.1235568.",
+                    "Ali SA, Galgut JM, Choudhary RK. On the novel action of melanolysis by a leaf extract of Aloe vera and its active ingredient aloin, potent skin depigmenting agents. Planta Med. 2012;78(8):767-71. doi: 10.1055/s-0031-1298406.",
+                    "Añibarro-Ortega M, Pinela J, Barros L, Ćirić A, Silva SP, Coelho E, et al. Compositional features and bioactive properties of Aloe vera leaf (fillet, mucilage, and rind) and flower. Antioxidants (Basel). 2019;8(10):444. doi: 10.3390/antiox8100444."
+                ]
+            },
+            {
+                "pharmacological": "บำรุงผิว",
+                "pharmacological_content": "การศึกษาพัฒนาครีมมาร์คหน้าว่านหางจระเข้ พบว่าตำรับที่ประกอบด้วยสารสกัดว่านหางจระเข้ 0.15%,polyvinylpyrrolidoneK307.55%, polyvinyl alcohol 1.51%, methylparaben 0.10%, propylparaben 0.10%, BHT 0.12% และน้ำ 90.61% มีความเหมาะสม ค่า pH 6.47 ความหนาแน่น 1.066 ก./มล. ความหนืด 24,000 ปาลคาส มีปริมาณวิตามินซี 2.2 ก. และมาร์กมีระยะเวลาแห้ง 25 นาที การทดสอบความพึงพอใจในอาสาสมัคร 20 ราย พบว่าอาสาสมัครามีความพึงพอใจในด้านกลิ่น ความรู้สึกอ่อนนุ่มของใบหน้า ความรู้สึกสะอาดของผิว และสีของผลิตภัณฑ์ (54)",
+                "pharmacological_ref": [
+                    "Hendrawati TY, Nugrahani RA, Utomo S, Ramadhan AI. Formulation process making of Aloe vera mask with variable percentage of Aloe vera gel extract. IOP Conf Ser Mater Sci Eng. 2018;403:012013. doi:10.1088/1757-899X/403/1/012013."
+                ]
+            },
+            {
+                "pharmacological": "ลดเลือนริ้วรอย",
+                "pharmacological_content": "การศึกษาพัฒนาตำรับไลโซมกักเก็บวุ้นว่านหางจระเข้ พบว่าตำรับไลโปโซมที่เตรียมจาก soybean lecithin 1% ด้วยวิธี mechanochemical method ได้ไลโปโซมกักเก็บวุ้นว่านหางจระเข้ 0.25% โดยน้ำหนัก ขนาดอนุภาค 185.5 นาโนเมตร มีค่าการกระจายตัวดีไม่แยกชั้น ทำการทดสอบฤทธิ์ต่อการสังเคราะห์คอลลาเจนในเซลล์ไฟโบรบลาสต์ ผลพบว่าเมื่อเลี้ยงเซลล์ในอาหารที่มีส่วนผสมของไลโปโซมวุ้นว่านหางจระเข้เป็นเวลา 72 ชม. มีผลเพิ่มความมีชีวิตของเซลล์ได้ดีกว่าการใช้ในรูปของสารสกัด  และดีกว่ากลุ่มควบคุมบวกที่ใช้ L-ascorbic acid และพบว่าของไลโปโซมวุ้นว่านหางจระเข้มีผลเพิ่มการสังเคราะห์คอลลาเจนในเซลล์ 23% เหนือกว่าการใช้ L-ascorbic acid และสารสกัดว่านหางจระเข้ (8 และ 4% ตามลำดับ) การทดสอบในเซลล์เคอราติโนไซต์พบว่าไลโปโซมว่านหางจระเข้ ความเข้มข้น 4 และ 20 มคก./มล. มีผลเพิ่มความมีชีวิตของเซลล์ได้ตามขนาดของสารสกัดที่ได้รับ โดยที่ขนาด 20 มคก./มล. เพิ่มความมีชีวิตของเซลล์ได้ 101% และให้ฤทธิ์ดีกว่าการใช้สารสกัดว่านหางจระเข้ (60%)  การศึกษานี้แสดงให้เห็นว่าสารสกัดจากวุ้นว่านหางจระเข้ มีผลเพิ่มความมีชีวิตของเซลล์ผิวหนัง และเพิ่มการสังเคราะห์คอลลาเจนในเซลล์ และการใช้ในรูปของไลโปโซมจะเพิ่มประสิทธิภาพของสารสกัดให้ดียิ่งขึ้น (55)3 การศึกษาเกี่ยวกับผิวกาย",
+                "pharmacological_ref": [
+                    "Takahashi M, Kitamoto D, Asikin Y, Takara K, Wada K. Liposomes encapsulating Aloe vera leaf gel extract significantly enhance proliferation and collagen synthesis in human skin cell lines. J Oleo Sci. 2009;58(12):643-50. doi: 10.5650/jos.58.643."
+                ]
+            },
+            {
+                "pharmacological": "ปกป้องผิวจากแสงแดด",
+                "pharmacological_content": "การศึกษาเปรียบเทียบฤทธิ์ปกป้องผิวจากการทำลายของแสงแดด (photoaging) ของสารสกัดเมทานอลจากว่านหางจระเข้ที่มีอายุต่างกัน (อายุ 1 เดือน และ 4 เดือน)เตรียมสารสกัดด้วยการแช่สกัดว่านหางจระเข้ 5 ก. ในเมทานอล 400 มล. เขย่านาน 12 ชม. กรอง นำไปปั่นเหวี่ยง และแยกส่วนใสมาทำให้แห้งด้วยการทำแห้งแบบลดความดัน ทำการวิเคราะห์ปริมาณสารสำคัญด้วย UPLC-Q-TOF-MS พบสารaloesin, aloin B และ aloinAเป็นสารสำคัญ โดยสารสำคัญที่พบในสารสกัดว่านหางจระเข้อายุ 1 เดือนมากกว่าสารสกัดว่านหางจระเข้อายุ 4 เดือน และการทดสอบฤทธิ์ปกป้องผิวในเซลล์ปกติจากผิวหนังของคนที่เหนี่ยวนำด้วยรังสียูวีบี พบว่าสารสกัดจากว่านหางจระเข้ที่ยังเจริญเติบโตไม่เต็มที่ (อายุ 1 เดือน) จะช่วยลดระดับเอนไซม์ metalloproteinase-1 (MMP-1) และ MMP-3 ซึ่งมีผลในการทำลายโครงสร้างคอลลาเจนในผิวหนัง รวมทั้งลดระดับของ interleukin-6 ซึ่งเป็นสารก่อการอักเสบ ได้ดีกว่าว่านหางจระเข้ที่เจริญเติบโตเต็มที่แล้ว (อายุ 4 เดือน) นอกจากนี้พบว่าสารสกัดจากว่านหางจระเข้ช่วยเพิ่มระดับ type I procollagen และ transforming growth factor-β1 ซึ่งช่วยในการสังเคราะห์คอลลาเจนใหม่ การศึกษานี้แสดงให้เห็นว่าอายุของว่านหางจระเข้มีผลต่อฤทธิ์ปกป้องผิวจากการถูกทำลายด้วยแสงแดด โดยว่านหางจระเข้ที่ยังเจริญเติบโตไม่เต็มที่จะปกป้องผิวได้ดีกว่าว่านหางจระเข้ที่เจริญเติบโตเต็มที่แล้ว (13)ตำรับอนุภาคนาโนสารสกัดว่านหางจระเข้ ที่เตรียมด้วย emulsification technique ในสูตรตำรับประกอบด้วยผงว่านหางจระเข้ 100 ก.(Cultivator natural products Pvt. Ltd., India), tween 80. glyceryl monostearate, methanol/chloroformและน้ำได้อนุภาคขนาด 96.36 นาโนเมตรค่าการกระจายตัวของอนุภาค0.28 และค่าศักย์ไฟฟ้าที่ผิว (zetapotential)เท่ากับ -19.18 มิลลิโวลต์ค่าประสิทธิภาพการกักเก็บ 86.1%เมื่อตรวจสอบค่าความสามารถในการป้องกันแสงแดดของตำรับครีมกันแดดที่มีส่วนผสมของอนุภาคนาโนว่านหางจระเข้ ด้วยวิธี MANSUR UV spectroscopy methodพบค่า Sun Protection Factor (SPF) เท่ากับ 16.9±2.44 และการตรวจสอบฤทธิ์ปกป้องผิวจากแสงแดดในหนูแรท ด้วยการทาตำรับครีมกันแดดบนพื้นที่ผิวขนาด 2x2 ซม. ก่อนการได้รับรังสียูวีบี พบว่าครีมกันแดดอนุภาคนาโนว่านหางจระเข้ ป้องกันการเกิดผื่นแดงอักเสบจากการได้รับรังสียูวีบี ได้เหนือกว่าการใช้ครีมเบส โดยพบระยะเวลาที่ทำให้เกิดผื่นแดงเท่ากับ 6.47 นาที ในขณะที่กลุ่มที่ได้รับครีมเบสใช้เวลา 2.41 นาที และคำนวณค่า SPF เท่ากับ 14.81±3.81 แสดงให้เห็นว่าครีมกันแดดอนุภาคนาโนว่านหางจระเข้มีฤทธิ์ปกป้องผิวจากแสงแดด โดยชะลอการเกิดผื่นแดงอักเสบจากการได้รับรังสียูวีได้ (56)",
+                "pharmacological_ref": [
+                    "Hwang E, Kim SH, Lee S, Lee CH, Do SG, Kim J, et al. A comparative study of baby immature and adult shoots of Aloe vera on UVB-induced skin photoaging in vitro. Phytother Res. 2013;27(12):1874-82. doi: 10.1002/ptr.4943.",
+                    "Rodrigues LR, Jose J. Exploring the photo protective potential of solid lipid nanoparticle-based sunscreen cream containing Aloe vera. Environ Sci Pollut Res Int. 2020;27(17):20876-20888. doi: 10.1007/s11356-020-08543-4."
+                ]
+            },
+            {
+                "pharmacological": "รักษาแผล",
+                "pharmacological_content": "แผลไฟไหม้การศึกษาฤทธิ์รักษาแผลของเจลสารสกัดว่านหางจระเข้ร่วมกับเยื่อหุ้มรกของมนุษย์ (human amniotic membrane: AM) เตรียมสารสกัดโดยนำวุ้นว่านหางจระเข้มาคั้นน้ำ (ตัวอย่างพืชจากประเทศบังคลาเทศ) และทำให้สารสกัดแห้งด้วยวิธีทำแห้งแบบเยือกแข็ง (ใบว่านหางจระเข้ 1 กก. ได้วุ้นว่านหางจระเข้ 635 ก. และเมื่อทำให้แห้งจะได้ผงว่านหางจระเข้ 8 ก.) เตรียมตำรับเจลว่านหางจะเข้ (AV) โดยมีส่วนผสมของ CMC-Na 6%, ผงว่านหางจระเข้ 2%, methylparaben 0.02%, glycerine 5%, triethanolamine 0.05% และน้ำ และเตรียมตำรับเจลว่านหางจระเข้กับเยื่อหุ้มรกของมนุษย์ (AM+AV) โดยมีส่วนผสม CMC-Na 6%,  AM 1%, ผงว่านหางจระเข้ 1%, methylparaben 0.02%, glycerine 5%, triethanolamine 0.05% และน้ำ การทดสอบฤทธิ์รักษาแผลในเซลล์เคอราติโนไซต์และเซลล์ไฟโบรบลาสต์ด้วยวิธี wound healing scratch assay พบว่าตำรับเจล AV, เจล AM+AV และเจล AM ความเข้มข้น 500 มคก./มล. กระตุ้นการสมานแผลในเซลล์ทั้งสองชนิดอย่างมีนัยสำคัญ โดยพบอัตราการปิดแผลของ AM> AV+AM > AV ตามลำดับ และการทดสอบฤทธิ์รักษาในหนูแรทที่มีแผลไฟไหม้ จากนั้นแบ่งสัตว์ทดลองออกเป็น 4 กลุ่ม ให้ได้รับการรักษาด้วยเจลยาหลอก (เจลเบส), เจล AV, เจล AM, เจล AM+AV ขนาด 1 มล. ทาบริเวณแผล เป็นเวลา 30 วัน ผลพบว่าเจล AV กระตุ้นการสมานแผลและกระตุ้นกระบวนการเจริญเติบโตของเซลล์ผิวหนังเพื่อปิดแผลได้ดีที่สุด โดยพบความแตกต่างอย่างมีนัยสำคัญในการลดขนาดของแผลตั้งแต่วันที่ 6 ของการศึกษา และใช้เวลากระตุ้นการสร้างเซลล์เพื่อปิดแผล 27 วัน ตามด้วยกลุ่มเจล AM+AV, เจล AM และเจลเบส ในวันที่ 29, 30 และ 32.5 ตามลำดับ อย่างไรก็ตามกลุ่มที่ได้รับเจล AV พบรอยแผลเป็นหรือแผลนูนมากกว่ากลุ่มอื่นและพบการเกิดรอยแผลเป็นน้อยที่สุดในกลุ่มที่ได้รับ AM+AV การศึกษานี้แสดงให้เห็นว่าการเจลว่านหางจระเข้มีฤทธิ์รักษาแผล และการใช้สารสกัดว่านหางจระเข้ร่วมกับเยื่อหุ้มรกของมนุษย์จะช่วยลดการเกิดรอยแผลเป็นได้ดีกว่าการใช้สารสกัดว่านหางจระเข้เพียงอย่างเดียว (57)แผลเบาหวาน การใช้วุ้นว่านหางจระเข้ร่วมกับตำรับนาโนอิมัลชันอินซูลิน (insulin-loaded nanoemulsion) มีประสิทธิภาพในการสมานแผลในสัตว์ทดลองที่เป็นเบาหวาน เตรียมวุ้นว่านหางจระเข้ (ตัวอย่างพืชจากประเทศอินเดีย voucher 2019-20/528) โดยน้ำวุ้นว่านหางจระมาสับและปั่นให้เป็นเนื้อเดียวกันด้วยเครื่องบดผสม การทดสอบในหนูแรทเบาหวานที่มีแผลเปิดขนาดเส้นผ่านศูนย์กลาง 8 มม. โดยแบ่งออกเป็น 7 กลุ่ม ได้แก่ กลุ่ม 1 หนูปกติที่ได้รับเจลเบส กลุ่มที่ 2 กลุ่มหนูเบาหวาน กลุ่มที่ 3 หนูเบาหวานที่ได้รับการรักษาด้วยการฉีดอินซูลิน กลุ่มที่ 4 หนูเบาหวานที่ได้รับเจลว่านหางจระเข้จากท้องตลาด กลุ่มที่ 5 หนูเบาหวานที่ได้รับนาโนอิมัลชันเปล่า กลุ่มที่ 6 หนูเบาหวานที่ได้รับเจลนาโนอิมัลชันอินซูลินที่มีส่วนผสมของวุ้นว่านหางจระเข้ 1.6% โดยน้ำหนัก และกลุ่มที่ 7 หนูเบาหวานที่ได้รับเจลนาโนอิมัลชันอินซูลินโดยทาเจลครั้งละ 0.5 ก. วันละ 1 ครั้ง ติดต่อกัน 14 วัน ผลพบว่ากลุ่มที่ได้รับเจลนาโนอิมัลชันอินซูลินที่มีส่วนผสมของวุ้นว่านหางจระเข้ 1.6% โดยน้ำหนัก มีการสมานแผลดีที่สุด โดยพบการเกิดเนื้อเยื่อปิดแผลกว่า 75% ตามมาด้วยกลุ่มเจลนาโนอิมัลชันอินซูลิน, กลุ่มที่ได้รับการรักษาด้วยการฉีดอินซูลิน และเจลว่านหางจระเข้จากท้องตลาด  ตามลำดับ แสดงให้เห็นว่าการใช้ว่านหางจระเข้ร่วมกับนาโนอิมัลชันอินซูลินจะเสริมฤทธิ์ในการรักษาแผลเบาหวานได้ดีกว่าการใช้ในรูปของสารเดี่ยว (58) การพัฒนาแผ่นแปะสมานแผลที่มีส่วนประกอบไฟโบรอิน (โปรตีนจากรังไหม) และสารสกัดโปรตีนวุ้นว่านหางจระเข้ เตรียมสารโปรตีนจากวุ้นว่านหางจระเข้ โดยใช้ ammonium sulfate35% ได้เส้นใยลักษณะคล้ายสำลี และมีปริมาณโปรตีนเฉลี่ย 4.8±1.0% โดยน้ำหนัก เตรียมแผ่นแปะไฟโบรอิน/วุ้นว่านหางจระเข้ โดยใช้สารสกัดจากรังไหม 1.95% ร่วมกับสารสกัดโปรตีนวุ้นว่านหางจระเข้ 0.5% ได้แผ่นแปะที่มีความแข็งแรงเชิงกลเท่ากับ 18.3 เมกกะปาลคาล/ตร.มม. ความสามารถในการดูดซับน้ำ43.7% อัตราการพองตัว 0.8 และยังคงรูปอยู่ได้เมื่อสัมผัสน้ำการทดสอบในเซลล์ไฟโบรบลาสต์พบว่าแผ่นแปะไฟโบรอิน/วุ้นว่านหางจระเข้เพิ่มความมีชีวิตของเซลล์ และกระตุ้นการแสดงออกของ basic fibroblast growth factor (bFGF) ซึ่งเกี่ยวข้องกับการสร้างเนื่อเยื่อบุผิวใหม่และการสังเคราะห์คอลลาเจนภายในเซลล์และไม่พบฤทธิ์นี้ในเซลล์ที่ได้รับไฟโบรอินเพียงอย่างเดียว ทำการทดสอบประสิทธิภาพในการรักษาแผลในหนูแรทเบาหวาน โดยปิดแผลด้วยแผ่นแปะแผลไฟโบรอิน/วุ้นว่านหางจระเข้ หรือแผ่นปิดแผลไฟโบรอินเพียงอย่างเดียว พบว่าเมื่อปิดแผลด้วยแผ่นแปะไฟโบรอิน/วุ้นว่านหางจระเข้ มีผลสมานแผลได้เร็วกว่ากลุ่มที่ได้รับแผ่นปิดแผลไฟโบรอินเพียงอย่างเดียว โดยมีระยะเวลาทำให้แผลหายเท่ากับ 14 วัน ใกล้เคียงกับหนูปกติที่ไม่เป็นเบาหวาน และเร็วกว่ากลุ่มที่ได้รับแผ่นแปะไฟโบรอินเพียงอย่างเดียว สอดคล้องกับผลการตรวจวัดระดับ hydroxyproline ซึ่งเป็นสารตั้งต้นของการสังเคราะห์คอลลาเจนในแผลของหนูปกติ หนูเบาหวานที่ไม่ได้รับการรักษา หนูเบาหวานที่ได้รับแผ่นแปะไฟโบรอิน และหนูเบาหวานที่ได้รับแผ่นแปะไฟโบรอิน/วุ้นว่านหางจระเข้ มีค่าเท่ากับ 6.52, 5.17, 5.47, 6.16 ตามลำดับ แสดงให้เห็นว่าแผ่นแปะไฟโบรอิน/วุ้นว่านหางจระเข้มีฤทธิ์สมานแผล โดยกระตุ้นการสร้างเซลล์ผิวใหม่ และเพิ่มการสังเคราะห์คอลลาเจนในเซลล์ (59)แผลอื่นๆการศึกษาผลของสารสกัดวุ้นว่านหางจระเข้ต่อระดับสาร glucosaminoglycanในผิวหนังที่เกิดบาดแผล เตรียมสารสกัดโดยบดวุ้นว่านหางจระเข้ จากนั้นนำไปปั่นเหวี่ยงที่ 10,000 g แยกเฉพาะส่วนใส มาทำให้แห้งด้วยวิธีทำแห้งแบบเยือกแข็ง ทำการทดสอบในหนูแรทที่มีแผลเปิด ขนาด 4 ตร.ซม. จากนั้นแบ่งกลุ่มทำการรักษา กลุ่มที่ 1 ทาบาดแผลด้วยสารสกัดวุ้นว่านหางจระเข้ (ใช้สารสกัด 30 มก. ที่ละลายในน้ำ 1 มล.) วันละ 2 ครั้ง กลุ่มที่ 2 ป้อนด้วยสารสกัดวุ้นว่านหางจะเข้ ขนาด 30 มก. วันละ 2 ครั้ง และกลุ่มที่ 3 ไม่ได้รับการรักษาด้วยยาใด ติดต่อกัน 16 วัน ผลพบว่าสารสกัดจากวุ้นว่านหางจระเข้มีฤทธิ์สมานแผลได้ทั้งการให้ด้วยการทาและการป้อน โดยมีผลเพิ่มระดับ uronic acid ใน granulationtissue และ hyaluronic acid ซึ่งเป็นองค์ประกอบของextracellular matrix เหนือกว่ากลุ่มที่ไม่ได้รับการรักษาอย่างมีนัยสำคัญทางสถิติ โดยการทาให้ผลเพิ่ม uronic acid และ hyaluronic acid ได้ 49% และ 11% ตามลำดับ ส่วนการป้อนให้ผลเพิ่มได้ 43% และ 20% ตามลำดับ นอกจากนี้ยังพบว่าสารสกัดจากว่านหางจระเข้เพิ่มการทำงานของเอนไซม์ β-glucuronidase, N-acetyl glucosaminidase, β-glucosidase,β-galactosidase ซึ่งเกี่ยวข้องกับกระบวนการสลายและสร้างเส้นใยคอลลาเจนในบาดแผล แสดงให้เห็นว่าสารสกัดวุ้นว่านหางจระเข้กระตุ้นสังเคราะห์สารกลุ่ม glucosaminoglycan ซึ่งช่วยให้บาดแผลหายไวขึ้น (60) สารสกัดว่านหางจระเข้ (Kobayashi Pharmaceutical Co., Ltd., Japan) มีฤทธิ์รักษาแผล เมื่อทำการทดสอบในเซลล์เคอราติโนไซต์ด้วย wound scratch assayพบว่าเมื่อให้สารสกัดว่านหางจระเข้ขนาด 10 มคก./มล. แก่เซลล์ มีผลเพิ่มการเคลื่อนที่ของเซลล์อย่างมีนัยสำคัญ และการทดสอบในแบบจำลองเซลล์ผิวหนังของมนุษย์ที่มีแผลเปิด พบว่าสารสกัดว่านหางจระเข้ที่ ขนาด 10 มคก./มล. จะเร่งกระบวนการสมานแผลเร็วกว่ากลุ่มควบคุมที่ไม่ได้รับการรักษาอย่างมีนัยสำคัญทางสถิติ การวิเคราะห์การแสดงออกของโปรตีนภายในเซลล์พบว่าสารสกัดว่านหางจระเข้เพิ่มการแสดงออกของโปรตีนที่เกี่ยวข้องกับการเคลื่อนที่ของเซลล์ผิวและการสมานแผล ได้แก่  β1- integrin, α6- integrin, β4-integrin และ E cadherin (61) ตำรับเจลว่านหางจระเข้ 95% ที่เตรียมด้วยการนำวุ้นว่านหางจระเข้ (ตัวอย่างพืชจากประเทศอิหร่าน) มาให้ความร้อนที่ 50ºC บด และกรองนำเฉพาะส่วนน้ำมาเตรียมตำรับเจล ที่ประกอบด้วยกลีเซอรีน, triethanolamine และสารสกัดวุ้นว่านหางจระเข้ทดสอบฤทธิ์ต่อรักษาแผลในหนูแรทที่มีแผลเปิดขนาด 4 ตร.ซม. จากนั้นแบ่งกลุ่มการรักษาออกเป็น 3 กลุ่ม คือ กลุ่มที่ 1 ไม่ได้รับการรักษาด้วยยาใด กลุ่มที่ 2 ทาแผลด้วยเจลว่านหางจระเข้ ครั้งละ 30 ก. วันละ 1 ครั้ง และกลุ่มที่ 3 ทาแผลด้วยเจลว่าหางจระเข้ ครั้งละ 30 ก. วันละ 2 ครั้ง ติดต่อกัน 14 วัน ประเมินการหายของแผลด้วยการตรวจสอบเนื้อเยื่อบริเวณบาดแผลในวันที่ 4, 7 และ 14 ผลพบว่าบาดแผลของกลุ่มที่ได้รับเจลว่านหางจระเข้มีจำนวนของนิวโทรฟิลล์ เซลล์แมคโครฟาจ และเซลล์ไฟโบรบลาสน้อยกว่ากลุ่มคควบคุมอย่างมีนัยสำคัญตั้งแต่วันที่ 7 ของการศึกษา โดยลดลงมากที่สุดในกลุ่มที่ได้รับการรักษาด้วยเจลว่านหางจระเข้ 2 ครั้ง/วัน นอกจากนี้ยังพบว่าเจลว่านหางจระเข้มีผลลดขนาดของบาดแผลเหนือกว่ากลุ่มที่ไม่ได้รับการรักษาอย่างมีนัยสำคัญ แสดงให้เห็นว่าเจลว่านหางจระเข้มีประสิทธิภาพในการรักษาแผล (62)การศึกษาฤทธิ์รักษาแผลของสารโพลีแซกคาไรด์จากวุ้นว่านหางจระเข้ เตรียมสารสกัดโดยนำวุ้นว่านหางจระเข้มาบดและต้มในน้ำร้อน 70-80ºC นาน 2 ชม. กรอง และทำให้เข้มข้นโดยการระเหยแห้ง จากนั้นเติม 95% เอทานอล ตั้งทิ้งไว้ข้ามคืน ที่อุณหภูมิ 4ºC จากนั้นแยกส่วนของโพลีแซกคาไรด์ออกมาโดยการนำไปปั่นเหวี่ยงด้วยแรง 12,000 g และล้างด้วยเอทานอล อะซีโตน และอีเธอร์ ตามลำดับ ทำการทดลองในหนูแรทเพศผู้ 45 ตัว ที่ทำให้เกิดแผลเปิดบริเวณหลังขนาด 1 ซม. โดยแบ่งหนูออกเป็น 3 กลุ่ม กลุ่มที่ 1 เป็นกลุ่มควบคุม (ไม่ได้รับการรักษาด้วยยา) กลุ่มที่ 2 และ 3 ทาแผลด้วยสารโพลีแซกคาไรด์จากว่านหางจระเข้ที่ละลายในน้ำเปล่าขนาด 25 และ 50 มก. ตามลำดับ ทาวันละครั้ง นาน 30 วัน ประเมินผลด้วยการวัดขนาดแผลผลจากการทดลองพบว่าหนูแรทที่ทาแผลด้วยสารโพลีแซกคาไรด์จากว่านหางจระเข้ทั้งสองขนาดมีอัตราการสมานแผลเร็วกว่าหนูกลุ่มควบคุมอย่างมีนัยสำคัญ โดยการทาแผลด้วยสารโพลีแซกคาไรด์จากว่านหางจระเข้ขนาด 25 และ 50 มก. ปากแผลจะปิดในวันที่ 21 และ 18 ตามลำดับ ส่วนกลุ่มควบคุมปากแผลเริ่มปิดในวันที่ 27 ของการทดลอง วิเคราะห์การแสดงออกของโปรตีนที่เกี่ยวข้องกับกระบวนการสมานแผลด้วยวิธี RT-PCR พบว่าสารโพลีแซกคาไรด์จากว่านหางจระเข้มีผลเพิ่มการแสดงออกของโปรตีนที่เกี่ยวข้องกับการสร้างเซลล์ผิวหนังขึ้นใหม่ได้แก่ MMP-3, TIMP-2, n-acetyl glucosamine (NAGA), n-acetyl galactosamine (NAGLA) และ collagen (63)ตำรับไฮโดรเจลที่ประกอบด้วยไคโตซาน 5% ร่วมกับสารสกัดว่านหางจระเข้ 2% โดยปริมาตร (Xihai Bio-technique Co. Ltd., China) มีฤทธิ์สมานแผลเมื่อทำการทดสอบในหนูแรทที่เหนี่ยวนำให้เกิดแผลเปิดบริเวณด้านหลังลำตัวขนาด 10x10 มม. จากนั้นทำการรักษาด้วยแผ่นปิดแผลไฮโดรเจลไคโตซานว่านหางจระเข้ เปรียบเทียบกับการปิดแผลด้วยผ้าก๊อซ เป็นเวลา 14 วัน ผลพบว่าแผ่นปิดแผลไฮโดรเจลไคโตซานว่านหางจระเข้มีประสิทธิภาพในการสมานแผล โดยในวันที่ 14 ของการทดสอบพบการเกิดเนื้อเยื่อใหม่ปิดแผลในกลุ่มไฮโดรเจลและกลุ่มควบคุม เท่ากับ 93.8และ 77.2% ตามลำดับ นอกจากนี้ยังพบว่าไฮโดรเจลไคโตซานว่านหางจระเข้ป้องกันการเกิดแผลเป็นได้เหนือกว่ากลุ่มที่ปิดแผลด้วยผ้าก๊อซ วิเคราะห์การแสดงออกของโปรตีนด้วย Elisa assays พบว่าไคโตซานว่านหางจระเข้ลดการแสดงออกของa-SMA และเพิ่มการทำงานของ MMP-1 เป็นผลให้การเกิดรอยแผลเป็น/แผลนูนลดลง (64) การศึกษาฤทธิ์รักษาแผลของตำรับไฮโดรเจลว่านหางจระเข้ (Restauder®: ส่วนประกอบสำคัญ ได้แก่ สารสกัดว่านหางจะเข้, 1,2-propanediol และ triethanolamine) ทำการทดสอบในหนูแรทที่มีแผลจากการผ่าตัดบริเวณหลัง ขนาด 2 ซม. จากนั้นแบ่งกลุ่มการรักษาออกเป็น 2 กลุ่ม คือ กลุ่มที่ไม่ได้รับการรักษา และกลุ่มที่ได้รับการรักษาด้วยไฮโดรเจลว่านหางจระเข้ เป็นเวลา 21 วัน ผลพบว่ากลุ่มที่ได้รับการรักษาด้วยไฮโดรเจลว่านหางจระเข้พบการเกิดแผลหายไวกว่ากลุ่มที่ไม่ได้รับการรักษาอย่างมีนัยสำคัญ โดยพบปากแผลปิดเต็มพื้นที่ในวันที่ 15 ของการศึกษา ซึ่งเร็วกว่ากลุ่มที่ได้รับยาหลอก 29% การศึกษาเนื้อเยื่อด้วยกล้องจุลทรรศน์พบว่าตำรับไฮโดรเจลว่านหางจระเข้มีผลลดการอักเสบ กระตุ้นการเคลื่อนที่ของเซลล์แมคโครฟาจและเซลล์ไฟโบรบลาสต์ ร่วมกับการสร้างเส้นเลือดใหม่และสารไฟบรินขึ้นมาปิดแผล เป็นผลให้กระบวนการหายของแผลเกิดเร็วขึ้น (65)",
+                "pharmacological_ref": [
+                    "Rahman MS, Islam R, Rana MM, Spitzhorn LS, Rahman MS, Adjaye J, et al. Characterization of burn wound healing gel prepared from human amniotic membrane and Aloe vera extract. BMC Complement Altern Med. 2019;19(1):115. doi: 10.1186/s12906-019-2525-5.",
+                    "Chakraborty T, Gupta S, Nair A, Chauhana S, Saini V. Wound healing potential of insulin-loaded nanoemulsion with Aloe vera gel in diabetic rats. J Drug Deliv Sci Technol. 2021;64:102601.",
+                    "Inpanya P, Faikrua A, Ounaroon A, Sittichokechaiwut A, Viyoch J. Effects of the blended fibroin/aloe gel film on wound healing in streptozotocin-induced diabetic rats. Biomed Mater. 2012;7(3):035008. doi: 10.1088/1748-6041/7/3/035008.",
+                    "Chithra P, Sajithlal GB, Chandrakasan G. Influence of Aloe vera on the glycosaminoglycans in the matrix of healing dermal wounds in rats. J Ethnopharmacol. 1998;59(3):179-86. doi: 10.1016/s0378-8741(97)00112-8.",
+                    "Moriyama M, Moriyama H, Uda J, Kubo H, Nakajima Y, Goto A. Beneficial effects of the genus Aloe on wound healing, cell proliferation, and differentiation of epidermal keratinocytes. PLoS One. 2016;11(10):e0164799. doi: 10.1371/journal.pone.0164799.",
+                    "Takzare N, Hosseini MJ, Hasanzadeh G, Mortazavi H, Takzare A, Habibi P. Influence of Aloe vera gel on dermal wound healing process in rat. Toxicol Mech Methods. 2009 ;19(1):73-7. doi: 10.1080/15376510802442444.",
+                    "Tabandeh MR, Oryan A, Mohammadalipour A. Polysaccharides of Aloe vera induce MMP-3 and TIMP-2 gene expression during the skin wound repair of rat. Int J Biol Macromol. 2014;65:424-30. doi: 10.1016/j.ijbiomac.2014.01.055.",
+                    "Zhang N, Gao T, Wang Y, Liu J, Zhang J, Yao R, et al. Modulating cationicity of chitosan hydrogel to prevent hypertrophic scar formation during wound healing. Int J Biol Macromol. 2020;154:835-843. doi: 10.1016/j.ijbiomac.2020.03.161.",
+                    "Meza-Valle KZ, Saucedo-Acuña RA, Tovar-Carrillo KL, Cuevas-González JC, Zaragoza-Contreras EA, Melgoza-Lozano J. Characterization and topical study of Aloe vera hydrogel on wound-healing process. Polymers (Basel). 2021;13(22):3958. doi: 10.3390/polym13223958."
+                ]
+            },
+            {
+                "pharmacological": "ต้านการอักเสบ",
+                "pharmacological_content": "การศึกษาฤทธิ์ต้านการอักเสบในหนูเม้าส์ที่เหนี่ยวนำเป็นโรคผื่นภูมิแพ้ผิวหนังด้วย 2,4-dinitrochlorobenzene จากนั้นทาเจลว่านหางจระเข้ 96% (Pharma Natura, South Africa) ขนาด 10 มคล. ติดต่อกัน 10 วัน ช่วยลดอาการผิวหนังอักเสบและรอยโรคผื่นภูมิแพ้ผิวหนังลงอย่างมีนัยสำคัญ และ การศึกษาลักษณะทางจุลกายวิภาคของผิวหนังด้วยการย้อมสีพบว่าเจลว่านหางจระเข้ป้องกันความเสียหายของต่อมรากขน ต่อมเหงื่อ และการเกิดแผลเปื่อยบริเวณผิวหนังจากการได้รับ 2,4-dinitrochlorobenzene อย่างมีนัยสำคัญ นอกจากนี้ยังพบว่าระดับของ IgEในเลือดซึ่งบ่งถึงความผิดปกติของระบบภูมิคุ้มกันมีค่าลดลงอย่างมีนัยสำคัญ เมื่อเทียบกับกลุ่มควบคุมที่ได้รับน้ำเปล่า (66) การศึกษาผลของว่านหางจระเข้ต่อการไหลเวียนของหลอดเลือดฝอยและต้านการอักเสบในหนูแรทที่เหนี่ยวนำให้เกิดแผลไฟไหม้ความรุนแรงระดับ 2 แบ่งหนูแรทออกเป็น 4 กลุ่ม ได้แก่ กลุ่มควบคุม กลุ่มที่ไม่ได้รับการรักษาด้วยยาใด กลุ่มที่ได้รับการรักษาแผลด้วยน้ำเกลือ และกลุ่มที่ได้รับการรักษาแผลด้วยการทาสารละลายว่านหางจระเข้ (Lipo Chemical Co., USA) ขนาด 300 มก.ติดต่อกันเป็นเวลา 14 วัน ผลพบว่าว่านหางจระเข้มีฤทธิ์ต้านการอักเสบ โดยลดจำนวน leukocyte adhesion ในหลอดเลือดpostcapillary venulesอย่างมีนัยสำคัญ และลดระดับไซโตคานย์ก่อการอักเสบ ได้แก่ tumornecrosis factor-alpha (TNF-α) และ interleukin-6 ตั้งแต่วันที่ 3 หลังการได้รับว่านหางจระเข้ (67)การศึกษาฤทธิ์ต้านการอักเสบของวุ้นว่านหางจระเข้ (ตัวอย่างพืชจากประเทศอินโดนีเซีย) ทำการทดสอบในหนูเม้าส์ไร้ขนที่เหนี่ยวนำให้ผิวอักเสบด้วยรังสียูวีบี ด้วยการทาวุ้นว่านหางจระเข้ ขนาด 200 มก./กก. บนผิวหนังหลังการได้รับรังสียูวีบี ประเมินผลด้วยการวัดระดับการแสดงออกของ cyclooxygenase-2  และฮิสตามีนหลังการทาด้วยวุ้นว่านหางจระเข้ 24 ชม. ด้วยวิธีการย้อมสีอิมมูโน (immunochemistry staining)ผลพบว่ามีฤทธิ์ต้านการอักเสบของผิว โดยวุ้นว่านหางจระเข้ยับยั้งการแสดงออกของ cyclooxygenase-2 สารตั้งต้นของกระบวนอักเสบในเซลล์ผิวของหนูเม้าส์อย่างมีนัยสำคัญ แต่ไม่มีผลต่อการแสดงออกของสารฮิสตามีน (68)",
+                "pharmacological_ref": [
+                    "Finberg MJ, Muntingh GL, van Rensburg CE. A comparison of the leaf gel extracts of Aloe ferox and Aloe vera in the topical treatment of atopic dermatitis in Balb/c mice. Inflammopharmacology. 2015;23(6):337-41. doi: 10.1007/s10787-015-0251-2.",
+                    "Duansak D, Somboonwong J, Patumraj S. Effects of Aloe vera on leukocyte adhesion and TNF-alpha and IL-6 levels in burn wounded rats. Clin HemorheolMicrocirc. 2003;29(3-4):239-46.",
+                    "Agung VL, Mappiasse A, Wahab S, Alam GM, Cangara H, Patellongi I.  Anti-nflammatory effect of Aloe Vera (l) Burm, F. on COX-2 and histamine expression in mice skin exposed to UVB.Am J ClinExp Med. 2016;4(4):94-7. doi: 10.11648/j.ajcem.20160404.11"
+                ]
+            },
+            {
+                "pharmacological": "ต้านอนุมูลอิสระ",
+                "pharmacological_content": "การทดสอบฤทธิ์ต้านอนุมูลอิสระของสารสกัด 80% เอทานอลจากส่วนใบ เปลือก และวุ้นของว่านหางจระเข้ (ตัวอย่างพืชจากประเทศอิตาลี) พบปริมาณโพลีฟีนอล 1,206±60, 6,513±293 และ 217±9 มล.สมมูลกรดแกลลิค/100 ก.น้ำหนักแห้งตามลำดับ และมีปริมาณฟลาโวนอยด์รวมเท่ากับ 52±2, 108±1 และ 10± 1 มล.สมมูลรูติน/100 ก.น้ำหนักแห้งตามลำดับ ทดสอบฤทธิ์ต้านอนุมูลอิสระด้วย DPPH radical scavenging พบค่าการยับยั้งของส่วนใบ เปลือก และวุ้นของว่านหางจระเข้ เท่ากับ 108±11, 329±66 และ 54±33 ไมโครโมลาร์สมมูล Trolox ตามลำดับ และมีฤทธิ์ต้านอนุมูลอิสระเมื่อตรวจสอบด้วยวิธี oxygen-radical absorbing capacity (ORAC) เท่ากับ 1,281±20, 1,683±15 และ 183±10 ไมโครโมลาร์สมมูล Trolox ตามลำดับ วิเคราะห์องค์ประกอบทางเคมีในสารสกัดพบaloin, aloe-emodin, aloeresinA, aloesin, aloesoneและ aloenin โดยพบค่าต้านอนุมูลอิสระด้วยวิธี DPPHของสารทั้ง 6 ชนิด เท่ากับ 90±9, 222±22, 30±3, 343±34, 351±35 และ 10±2 ไมโครโมลาร์สมมูล Trolox ตามลำดับและมีค่าต้านอนุมูลอิสระต่อวิธี ORAC เท่ากับ 84±3, 116±2, 144±2, 50±1, 66±1 และ 87±1 ไมโครโมลาร์สมมูล Trolox ตามลำดับ (7) สารสกัด 80% เอทานอลจากส่วนใบ วุ้น เปลือก และดอกว่านหางจระเข้อายุ 3 ปี (ตัวอย่างพืชจากประเทศโปรตุเกส) ที่สกัดด้วยวิธีsolid-liquid extraction โดยมีเอทานอล:น้ำ (อัตราส่วน 80:20 โดยปริมาตร) เป็นตัวทำละลาย วิเคราะห์ด้วย HPLC-DAD-ESI/MS พบปริมาณสารประกอบฟีนอลิกในสารสกัดจากส่วนใบ วุ้น เปลือก และดอก เท่ากับ 11.2, 131, 105 และ 4.78 มก./ก. สารสกัด ตามลำดับ การทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี oxidative haemolysis inhibition (OxHLIA) พบค่าต้านอนุมูลอิสระของเปลือก >ดอก>วุ้น > ใบ ด้วยค่า IC50เท่ากับ 56, 80, 105 และ 378 มคก./มล. ตามลำดับ การทดสอบฤทธิ์ยับยั้งกระบวนการ lipid peroxidation ด้วยการตรวจวัดthiobarbituric acid reactive substances (TBARS) พบค่า EC50ของส่วนใบ วุ้น เปลือก และดอก เท่ากับ 87, 47, 97 และ 347 มคก./มล. ตามลำดับ และการทดสอบด้วยวิธี β-carotene bleaching inhibition (β-CBI) พบว่าสารสกัดจากส่วนเปลือกมีฤทธิ์ดีที่สุด ตามด้วยสารสกัดจากส่วนดอก วุ้น และใบ ด้วยค่า EC50เท่ากับ 51, 59, 63 และ 78 มคก./มล. ตามลำดับ (53) การศึกษาเปรียบเทียบฤทธิ์ต้านอนุมูลอิสระของว่านหางจระเข้อายุ 2, 3 และ 4 ปี (ตัวอย่างพืชจากประเทศจีน) โดยนำใบว่านหางจระเข้หั่นเป็นชิ้นบาง อบให้แห้ง ด้วยวิธีการทำแห้งแบบเยือกแข็ง บดให้เป็นผง จากนั้นทำการสกัดผงว่านหางจระเข้ 1 ก. โดยใช้ 80% เอทานอล 50 มล. เป็นตัวทำละลาย เขย่าด้วยคลื่นความถี่สูงเป็นเวลา 30 นาที กรองและนำส่วนของเหลวมาทดสอบ วิเคราะห์ปริมาณสารกลุ่มฟลาโวนอยด์รวม พบว่าสารฟลาโซนอยด์ 3.63-4.26 ก./กก. ตัวอย่าง โดยปริมาณฟลาโวนอยด์มีค่าเพิ่มขึ้นตามอายุของว่านหางจระเข้ ทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPHที่ความเข้มข้น 100 มคก./มล. พบว่าสารสกัดเอทานอลของว่านห่างจระเข้อายุ 3 ปี> Butylated hydroxytoluene >ว่านหางจระเข้อายุ 4 ปี>วิตามินอี >ว่านหางจระเข้อายุ 2 ปีโดยให้ค่าการยับยั้งเท่ากับ 72.19%,70.52%, 67.64%, 65.20%. และ 62.70% ตามลำดับ (69) การศึกษาฤทธิ์ต้านอนุมูลอิสระของสารสกัดหยาบวุ้นว่านหางจระเข้ (ตัวอย่างพืชจากประเทศอินเดีย) เตรียมสารสกัดโดยการนำวุ้นว่านหางจระเข้มาทำแห้ง ด้วยวิธีทำแห้งแบบเยือกแข็ง จากนั้นละลายผงวุ้นว่านหางจระเข้ 1 ก. ละลายในเอทานอล 10 มล. ตั้งทิ้งไว้เป็นเวลา 16 ชม. ทำการทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH พบค่า IC50เท่ากับ 5.2 มก./มล. ค่าความสามารถในการรีดิวซ์ (ferric reducing antioxidant power) เท่ากับ 1.17 มคก./มล.และยับยั้งการเกิด lipid peroxidation ได้ที่ความเข้มข้น 4.18 มคก./มล. วิเคราะห์องค์ประกอบของสารสกัดด้วยวิธี GC-MS พบสารกลุ่มกรดไขมัน ได้แก่ hexadecanoic acid, octadecenoicacid, tricosane, 1-octadecanolและสารกลุ่มสเตอรอล ได้แก่ sitosterol, stigmasterol เป็นองค์ประกอบหลัก (8)4 การศึกษาเกี่ยวกับช่องปาก/ริมฝีปาก",
+                "pharmacological_ref": [
+                    "Lucini L, Pellizzoni M, Pellegrino R, Molinari GP, Colla G. Phytochemical constituents and in vitro radical scavenging activity of different aloe species. Food Chem. 2015;170:501-7. doi: 10.1016/j.foodchem.2014.08.034.",
+                    "Añibarro-Ortega M, Pinela J, Barros L, Ćirić A, Silva SP, Coelho E, et al. Compositional features and bioactive properties of Aloe vera leaf (fillet, mucilage, and rind) and flower. Antioxidants (Basel). 2019;8(10):444. doi: 10.3390/antiox8100444.",
+                    "Hu Y, Xu J, Hu Q. Evaluation of antioxidant potential of Aloe vera (Aloe barbadensis miller) extracts. J Agric Food Chem. 2003;51(26):7788-91.doi: 10.1021/jf034255i.",
+                    "Bawankar R, Deepti VC, Singh P, Subashkumar R, Vivekanandhan G, Babu S. Evaluation of bioactive potential of an Aloe vera sterol extract. Phytother Res 2013;27:864-8. doi: 10.1002/ptr.4827."
+                ]
+            },
+            {
+                "pharmacological": "ยาสีฟัน",
+                "pharmacological_content": "การศึกษาพัฒนาตำรับยาสีฟันซึ่งมีส่วนประกอบของน้ำว่านหางจระเข้และ sodium chloride เตรียมน้ำว่านหางจระเข้ด้วยการคั้นน้ำจากวุ้นว่านหางจระเข้ผ่านเครื่องคั้นน้ำผลไม้และกรองกากผ่านผ้าขาวบาง (ตัวอย่างพืชจากประเทศอินเดีย ไม่ระบุ voucher specimen) เตรียมตำรับยาสีฟันซึ่งประกอบด้วยน้ำว่านหางจระเข้ 5% ร่วมกับ sodium chloride 1%, dicalcium phosphate,calcium carbonate, glycerine, gum tragacanth,sodium lauryl sulfate, paraben และแต่งรสด้วยsaccharineมีความเหมาะสมที่สุด โดยได้ยาสีฟันสีขาวครีม เนื้อสัมผัสนุ่ม บีบได้ง่าย รสหวานเล็กน้อย มีความสามารถในการก่อโฟมเท่ากับ 40 มล. ค่า pH 6.43 การทดสอบฤทธิ์ยับยั้งแบคทีเรีย S. aureusในช่องปาก ด้วยวิธี agar well diffusion พบค่าพื้นที่การยับยั้งเท่ากับ 5 ซม. แสดงให้เห็นว่าตำรับยาสีฟันว่านหางจระเข้และ sodium chloride มีคุณสมับติในการยับยั้งเชื้อแบคทีเรียในช่องปาก (70) ตำรับยาสีฟันสารสกัดน้ำว่านหางจระเข้ 10% (TISTR, Thailand) มีฤทธิ์ยับยั้งเชื้อ Candida albicans ATCC 10231 และเชื้อ C. albicans 2 สายพันธุ์ที่แยกได้จากแผลในปากของผู้ป่วย โดยพบว่าเมื่อให้สารละลายยาสีฟันว่านหางจระเข้ (ใช้ยาสีฟัน 0.66 ก. ละลายในน้ำ 1 มล.) แก่เชื้อ เป็นเวลา 50 วินาที จากนั้นนำเชื้อไปเพาะเลี้ยงบนอาหารแข็ง ที่อุณหภูมิ 37ºC เป็นเวลา 24-48 ชม. ผลพบว่าสารละลายยาสีฟันยับยั้งเชื้ออย่างมีนัยสำคัญ โดยพบค่า  colony forming unit ต่อเชื้อทั้ง 3 สายพันธุ์เท่ากับ 1.63, 2.24 และ 4.01 CFU/มล. ตามลำดับ ในขณะที่กลุ่มควบคุม (น้ำเปล่า) พบเชื้อ 5.03, 5.18 และ 5.75 CFU/มล. ตามลำดับ แสดงให้เห็นว่ายาสีฟันว่านหางจระเข้มีฤทธิ์ยับยั้งเชื้อ C. albicans ซึ่งเป็นสาเหตุของโรคเชื้อราในช่องปาก (71)",
+                "pharmacological_ref": [
+                    "Phalke PL, Rukari TG, Jadhav AS. Formulation and evaluation of toothpaste containing combination of aloe and sodium chloride. IJPSR 2019;10(3):1462-67. doi: 10.13040/IJPSR.0975-8232.10(3).1462-67.",
+                    "Thaweboon S, Thaweboon B. Assessment of antifungal activity of Aloe Vera toothpaste against Candida Albicans. IOP Conf Ser Mater Sci Eng. 2020;761:012007. doi:10.1088/1757-899X/761/1/012007."
+                ]
+            }
+        ]
+    }
+}

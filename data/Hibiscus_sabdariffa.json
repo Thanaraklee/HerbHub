@@ -1,0 +1,469 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Hibiscus sabdariffa",
+            "authorship": "Carl Linnaeus",
+            "updated_by": "",
+            "name_ref": "Sp. Pl. : 695 (1753)",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:326388-2"
+        },
+        "synonyms": [
+            {
+                "name": "Sabdariffa rubra",
+                "author": "Vincenz Franz Kosteletzky 1801-1887",
+                "protologue": "Allg. Med.-Pharm. Fl. 5: 1857 (1836)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000502219"
+            },
+            {
+                "name": "Sabdariffa digitata",
+                "author": "Vincenz Franz Kosteletzky 1801-1887",
+                "protologue": "Allg. Med.-Pharm. Fl. 5: 1857 (1836)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000502220"
+            },
+            {
+                "name": "Abelmoschus cruentus",
+                "author": "Wilhelm Gerhard Walpers 1816-1853",
+                "protologue": "Repert. Bot. Syst. 1: 310 (1842)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000510855"
+            },
+            {
+                "name": "Furcaria sabdariffa",
+                "author": "Oskar Eberhard Ulbrich 1879-1952",
+                "protologue": "Veg. Erde 9(III 2): 402 (1921)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000693570"
+            },
+            {
+                "name": "Hibiscus acetosus",
+                "author": "Francisco Noronha 1748-1788",
+                "protologue": "Verh. Batav. Genootsch. Kunst. 5(Art. 4): 17. 1790",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000722245"
+            },
+            {
+                "name": "Hibiscus cruentus",
+                "author": "Antonio Bertoloni 1775-1869",
+                "protologue": "Fl. Guatimal. : 28 (1840)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000722463"
+            },
+            {
+                "name": "Hibiscus digitatus",
+                "author": "Antonio José Cavanilles 1745-1804",
+                "protologue": "Diss. 3: 151 (1787)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000722489"
+            },
+            {
+                "name": "Hibiscus fraternus",
+                "author": "Carl Linnaeus 1707-1778",
+                "protologue": "Pl. Surin. : 90 (1775)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000722565"
+            },
+            {
+                "name": "Hibiscus gossypiifolius",
+                "author": "Philip Miller 1691-1771",
+                "protologue": "Gard. Dict. ed. 8 : n.º 10 (1768)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000722608"
+            },
+            {
+                "name": "Hibiscus masuianus",
+                "author": "Émile Auguste Joseph De Wildeman 1866-1947",
+                "protologue": "Bull. Soc. Roy. Bot. Belgique , Compt. Rend. 38: 20 (1899)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000722786"
+            },
+            {
+                "name": "Hibiscus sanguineus",
+                "author": "William Griffith 1810-1845",
+                "protologue": "Not. Pl. Asiat. 4: 520 (1854)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000723027"
+            },
+            {
+                "name": "Hibiscus subdariffa",
+                "author": "Johan Peter Rottler 1749-1836",
+                "protologue": "Acta Lit. Univ. Hafn. 1: 297, sphalm. 1778",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000723109"
+            },
+            {
+                "name": "Hibiscus palmatilobus",
+                "author": "Henri Ernest Baillon 1827-1895",
+                "protologue": "Bull. Mens. Soc. Linn. Paris 1: 509 (1885)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001077365"
+            },
+            {
+                "name": "Hibiscus digitatus var. kerrianus",
+                "author": "Augustin Pyramus de Candolle 1778-1841",
+                "protologue": "Prodr. 1: 453 (1824)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001371764"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Malvales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000360"
+            },
+            "genus": {
+                "genus_name": "Malvaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000017873"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Hibiscus+sabdariffa&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "ASCORBIC-ACID",
+                "activity_count": 112,
+                "plant_part": "Fruit",
+                "low_parts_per_million": 540.0,
+                "high_parts_per_million": 3750.0,
+                "standard_deviation": -0.05,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "BETA-CAROTENE",
+                "activity_count": 53,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 41.0,
+                "high_parts_per_million": 555.0,
+                "standard_deviation": 1.28,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "CALCIUM",
+                "activity_count": 28,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 2130.0,
+                "high_parts_per_million": 14792.0,
+                "standard_deviation": -0.25,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "CALCIUM",
+                "activity_count": 28,
+                "plant_part": "Seed",
+                "low_parts_per_million": 3200.0,
+                "high_parts_per_million": 6000.0,
+                "standard_deviation": 0.34,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Flower",
+                "low_parts_per_million": 10000.0,
+                "high_parts_per_million": 374600.0,
+                "standard_deviation": 2.97,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "FIBER",
+                "activity_count": 15,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 13000.0,
+                "high_parts_per_million": 114000.0,
+                "standard_deviation": -0.59,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "IRON",
+                "activity_count": 6,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 15.0,
+                "high_parts_per_million": 333.0,
+                "standard_deviation": -0.08,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "NIACIN",
+                "activity_count": 39,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 12.0,
+                "high_parts_per_million": 132.0,
+                "standard_deviation": 0.42,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "PHOSPHORUS",
+                "activity_count": 4,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 480.0,
+                "high_parts_per_million": 6458.0,
+                "standard_deviation": 0.27,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "RIBOFLAVIN",
+                "activity_count": 15,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 1.0,
+                "high_parts_per_million": 31.0,
+                "standard_deviation": -0.03,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "THIAMIN",
+                "activity_count": 31,
+                "plant_part": "Flower",
+                "low_parts_per_million": 0.0,
+                "high_parts_per_million": 3.0,
+                "standard_deviation": -0.68,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "THIAMIN",
+                "activity_count": 31,
+                "plant_part": "Leaf",
+                "low_parts_per_million": 0.0,
+                "high_parts_per_million": 12.0,
+                "standard_deviation": 0.77,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "กระเจี๊ยบแดง",
+            "common_name_th_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันทน์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้ สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "Jamaica sorrel, Roselle",
+            "common_name_en_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันทน์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้ สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "local_name": {
+            "local_name": [
+                "กระเจี๊ยบเปรี้ยว",
+                "ผักเก็งเค็ง",
+                "ส้มเก็งเค็ง",
+                "ส้มตะเลงเครง",
+                "ส้มปู"
+            ],
+            "local_name_ref": [
+                "ราชันย์ ภู่มา, สมราน สุดดี, บรรณาธิการ. ชื่อพรรณไม้แห่งประเทศไทย เต็ม สมิตินันทน์ ฉบับแก้ไขเพิ่มเติม พ.ศ. 2557. กรุงเทพฯ: สำนักงานหอพรรณไม้ สำนักวิจัยการอนุรักษ์ป่าไม้และพันธุ์พืช กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช; 2557."
+            ]
+        },
+        "clinical_studies": [],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "ฤทธิ์ทำให้ผิวขาว",
+                "pharmacological_content": "สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเมทานอล (ตัวอย่างจากประเทศซูดาน) ความเข้มข้น 125 และ 500 มคก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านเอนไซม์ไทโรซิเนส (tyrosinase) ด้วยวิธี mushroom tyrosinase inhibition โดยมี L-tyrosine เป็นสารตั้งต้น (substrate)  พบว่าสามารถต้านเอนไซม์ไทโรซิเนสได้ 18.28 และ 21.21% ตามลำดับ เมื่อเปรียบเทียบกับกรดโคจิก (kojic acid) ที่สามารถต้านเอนไซม์ไทโรซิเนสได้ 99.50 และ 99.65% ตามลำดับ (14)สารสกัดน้ำกลีบเลี้ยงกระเจี๊ยบแดง (ชาชง) (ตัวอย่างจากประเทศไทย ไม่ได้ระบุจังหวัด) ความเข้มข้น20มก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านเอนไซม์ไทโรซิเนส (tyrosinase) โดยมีL-dopa และ L-tyrosine เป็นสารตั้งต้นพบว่าสามารถต้านเอนไซม์ไทโรซิเนสได้25และ17% ตามลำดับเมื่อเปรียบเทียบกับกรดโคจิก (kojic acid) ที่ความเข้มข้น 0.1 มก./มล. สามารถต้านเอนไซม์ไทโรซิเนสได้90และ 99% ตามลำดับ (15)",
+                "pharmacological_ref": [
+                    "Muddathir AM, Yamauchi K, Batubara I , Mohieldinc EAM, Mitsunaga T.  Anti-tyrosinase, total phenolic content and antioxidant activity of selected Sudanese medicinal plants.  S Afr J Bot. 2017;109:9-15. doi:http://dx.doi.org/10.1016/j.sajb.2016.12.013.",
+                    "Chaiyana W, Charoensup W, Sriyab S, Punyoyai C, Neimkhume W.  Herbal extracts as potential antioxidant, anti-aging, anti-inflammatory, and whitening cosmeceutical ingredients.  Chem Biodivers. 2021;18:e2100245. doi: 10.1002/cbdv.202100245."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านสิวบนผิวกาย",
+                "pharmacological_content": "สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย70% เอทานอล (ตัวอย่างจากประเทศอิรัก) ความเข้มข้น0.1, 0.2 และ 0.3 มก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธีdiffusion methodพบว่าสามารถยับยั้งเชื้อแบคทีเรียStaphylococcus aureus (S. aureus) โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 12, 15 และ 16 มม. ตามลำดับ (16) สารสกัดกลีบเลี้ยงกระเจี๊ยบแดง (กลีบเลี้ยงสีม่วง และสีแดง) ด้วย80% เมทานอล (ตัวอย่างจากประเทศอินโดนีเซีย) เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธีdisc diffusion พบว่าสารสกัดกลีบเลี้ยงสีม่วง ที่ความเข้มข้น 500 และ 1,000 มคก./มล.สามารถยับยั้งเชื้อแบคทีเรียS. aureusโดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 8.96 ± 2,20 และ 12.50 ± 1.14 มม. ตามลำดับ ในขณะที่สารสกัดกลีบเลี้ยงสีแดงที่ความเข้มข้นดังกล่าว บริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 7.80 ± 2.20 และ 10.53 ± 1.05 มม. ตามลำดับ จากการศึกษาสรุปได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงกลีบเลี้ยงสีม่วงต้านเชื้อ S. aureus ได้ดีกว่ากลีบเลี้ยงสีแดง (17) สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยน้ำ และเอทานอล (ตัวอย่างจากประเทศไนจีเรีย)ความเข้มข้น 20 มก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธีpaper disc diffusionและagar well diffusion methodพบว่าด้วยวิธี paper disc diffusion สารสกัดดังกล่าวสามารถยับยั้งเชื้อแบคทีเรียS. aureusโดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 43.2 ± 0.2 และ 45.6 ± 0.6 มม. ตามลำดับ เมื่อเปรียบเทียบกับยา chloramphenicol บริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ38.9 ± 0.2มม.ในขณะที่เมื่อทดสอบด้วยวิธี agar well diffusion method พบว่าสารสกัดดังกล่าว บริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 44.7 ± 0.3 และ 47.9 ± 0.2 มม. ตามลำดับเมื่อเปรียบเทียบกับยา chloramphenicol บริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 37.8 ± 0.3มม.จากการศึกษาจะเห็นได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยน้ำ และเอทานอลมีฤทธิ์ต้านเชื้อ S. aureus ได้ดีกว่ายา chloramphenicol นอกจากนี้ยังพบว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเอทานอล มีค่า MIC (Minimum Inhibition Concentration) ต่อเชื้อ S. aureus เท่ากับ 1.03 มก./มล.(18)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยน้ำ และเอทานอล (ตัวอย่างจากประเทศเยอรมัน) ที่ความเข้มข้น 25, 50, 100 และ 200 มก./มล. ตามลำดับเมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี paper disc diffusion พบว่าสามารถยับยั้งเชื้อแบคทีเรีย S. aureus (ATCC 6538) โดยสารสกัดน้ำมีบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 16.90 ± 0.20, 22.53 ±1.18, 27.63 ± 1.42, และ 32.20 ± 0.26 ตามลำดับ ส่วนสารสกัดเอทานอลมีบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 18.37 ± 0.60, 24.70 ± 3.60, 30.23 ± 1.01, และ 34.17 ± 1.82มม. ตามลำดับ จากการศึกษาสรุปได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเอทานอลมีฤทธิ์ต้านเชื้อแบคทีเรียดังกล่าวได้ดีกว่าสารสกัดน้ำ(19) สารสกัดน้ำของกลีบเลี้ยงกระเจี๊ยบแดง และสาร protocatechuic acid จากกลีบเลี้ยงกระเจี๊ยบแดง(ตัวอย่างจากประเทศไต้หวัน)เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี disc diffusion พบว่าสามารถยับยั้งเชื้อแบคทีเรีย methicillin-resistant Staphylococcus aureus (MRSA) โดยมีค่า MIC เท่ากับ 32 ± 8และ 8 ± 4 มก./ล. ตามลำดับ จากการศึกษาสรุปได้ว่า สาร protocatechuic acid มีฤทธิ์ต้านเชื้อ MRSA ได้ดีกว่าสารสกัดน้ำกลีบเลี้ยงกระเจี๊ยบแดง (12) สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย80% เมทานอล (ตัวอย่างจากประเทศไนจีเรีย) เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี disc diffusion ที่ความเข้มข้น 20 มก./ล. พบว่าสามารถยับยั้งเชื้อแบคทีเรีย S. aureus โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 24 ±0.3 มม. เมื่อเปรียบเทียบกับยา streptomycin ที่ความเข้มข้น 1 มก./ล. บริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 21 ± 0.3 มม.  นอกจากนี้พบว่าสารสกัดดังกล่าว มีค่า MIC ต่อเชื้อ S. aureus เท่ากับ0.30 ± 0.2 มก./มล. จากการศึกษาสรุปได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 80% เมทานอล สามารถยับยั้งเชื้อแบคทีเรีย S. aureus ได้ดีใกล้เคียงกับยา streptomycin (20) สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเอทานอล และสารสกัดเอทานอลในรูปแบบ silver nanoparticles (ตัวอย่างจากประเทศอิรัก) ที่ความเข้มข้น 20, 40 และ 80 มก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี disc diffusion พบว่าสารสกัดด้วยเอทานอลสามารถยับยั้งเชื้อแบคทีเรีย S. aureus โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 13, 14 และ 17มม. ตามลำดับ ส่วนสารสกัดเอทานอลในรูปแบบ silver nanoparticles บริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 19, 20 และ 28 มม. ตามลำดับจากการศึกษาสรุปได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเอทานอลในรูปแบบsilver nanoparticles มีฤทธิ์ในการต้านเชื้อ S. aureus ได้ดีกว่าสารสกัดเอทานอล (21) สารสกัดน้ำกลีบเลี้ยงกระเจี๊ยบแดง (ตัวอย่างจากประเทศอินโดนีเซีย) เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี disc diffusion ที่ความเข้มข้น 0.02 - 0.5 มก./มล. พบว่าสารสกัดดังกล่าว มีค่า MIC ต่อเชื้อ S. aureus ATCC 25923 เท่ากับ 0.1 มก./มล .ในขณะที่สูตรเจลที่มีสารสกัดน้ำกลีบเลี้ยงกระเจี๊ยบแดง3% (w/w) เป็นส่วนผสม ที่ความเข้มข้น 0.05 - 6 มก./มล.มีค่า MIC ต่อเชื้อ S. aureus เท่ากับ 6 มก./มล.(22) สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 80% เมทานอล (ตัวอย่างจากประเทศซูดาน)เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี disc diffusion ที่ความเข้มข้น 12.5, 25, 50 และ 100 มก./มล.พบว่าสารสกัดดังกล่าวสามารถยับยั้งเชื้อแบคทีเรีย S. aureus โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 13, 15, 18 และ 24 มม.ตามลำดับในขณะที่ gentamicin ขนาด 30 มคก./disc บริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 30 มม. (23) สารประกอบฟีนอลิกจากกลีบเลี้ยงกระเจี๊ยบแดง (ตัวอย่างจากประเทศซาอุดิอาระเบีย) เมื่อนำมาทดสอบฤทธิ์ต้านเชื้อแบคทีเรียด้วยวิธี agar well diffusion ที่ความเข้มข้น 25, 50, 100, 200, 250 มคก./มล. พบว่าสารประกอบฟีนอลิกสามารถยับยั้งเชื้อแบคทีเรีย S. aureus โดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างเท่ากับ 0, 15 ± 3.0, 20 ± 2.0, 23 ± 3.0และ 28 ± 4.0 มม. ตามลำดับ และมีค่า MIC เท่ากับ 50 มคก./มล. (24)",
+                "pharmacological_ref": [
+                    "Jasim SM, Jaafar AA, Atyea AS. Study the bacterial inhibitory effect and antioxidant efficacy of Hibiscus sabdariffa extract and Punica granatumpeel.  Eurasia J Biosci. 2020;14:7427-32.",
+                    "Kusnadi, Purgiyanti.  Quantification of polyphenol, antioxidant, and antibacterial from red and purple roselle calyces using maceration extraction under different solvent conditions.  J Phys Conf Ser. 2021;1918:052007. doi:10.1088/1742-6596/1918/5/052007.",
+                    "Alaga TO, Edema MO, Atayese AO, Bankole MO.  Phytochemical and in vitro anti-bacterial properties of Hibiscus sabdariffa L (Roselle) juice.  J Med Plants Res.  2014;8(6):339-44. doi: 10.5897/JMPR12.1139.",
+                    "Jung EK, Kimb YJ, JooN.  Physicochemical properties and antimicrobial activity of Roselle (Hibiscus sabdariffa L.). J Sci Food Agric. 2013;93:3769-76.  doi: 10.1002/jsfa.6256.",
+                    "Liu K, Tsao S, Yin M.  In vitro antibacterial activity of roselle calyx and protocatechuic acid.  Phytother Res. 2005;19:942-5. doi: 10.1002/ptr.1760.",
+                    "Olaleye, MT.  Cytotoxicity and antibacterial activity of methanolic extract of Hibiscus sabdariffa.  J Med Plant Res. 2007;1(1):9-13.",
+                    "Maeah RK, AL-Hamza Hasoon BA, Abd-Alwahab AI, AL-azawi KFF, Allah Hameedi  WB.  Biosynthesis of silver nanoparticles using Hibiscus sabdariffa and their biological application.  Eurasia J Biosci. 2020;14;3377-83.",
+                    "Isnaeni I, Hendradi E, Zettira NZ.  Inhibitory effect of roselle aqueous extracts-HPMC 6000 gel on the growth of Staphylococcus aureus ATCC 25923.  Turk J Pharm Sci. 2020;17(2):190-6. doi: 10.4274/tjps.galenos.2019.88709.",
+                    "Garbi1 MI, Saleh MS, Badri AM, Ibrahim IT, Mohammed SF, Alhassan MS, et al.  Antibacterial activity, phytochemical screening and cytotoxicity of Hibiscus sabdariffa (calyx).  Adv Med Plant Res. 2016;4(4):116-21.",
+                    "Abdel-Shafi S, Al-Mohammadi AR, Sitohy M, Mosa B,Ismaiel A, Enan G, et al.  Antimicrobial activity and chemical constitution of the crude, phenolic-rich extracts of Hibiscus sabdariffa, Brassica oleracea and Beta vulgaris.  Molecules. 2019;24:4280.  doi: 10.3390/molecules24234280."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านอนุมูลอิสระบนผิวกาย",
+                "pharmacological_content": "สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเมทานอล (ตัวอย่างจากประเทศซูดาน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี ferric reducing ability of plasma (FRAP) assay พบว่าสารสกัดดังกล่าวมีความสามารถในการต้านอนุมูลอิสระเท่ากับ 1.03 ± 0.08 มิลลิโมลาร์สมมูล Fe2+/มก.สารสกัด ซึ่งมีฤทธิ์อ่อนมากเมื่อเทียบกับ quercetin และ ascorbic acid  ที่มีความสามารถในการต้านอนุมูลอิสระเท่ากับ 3.96 ± 0.11 และ 3.79 ± 0.10 มิลลิโมลาร์สมมูลFe2+/มก. สารสกัด (14)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 70% เอทานอล (ตัวอย่างจากประเทศอินโดนีเซีย)เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี 2,2-Diphenyl-1-picrylhydrazil (DPPH assay) และ 2,2′-Azino-bis (3-ethylbenzothiazoline-6-sulphonic acid) (ABTS-reducing activity assay) พบว่าด้วยวิธี DPPH ค่าความเข้มข้นของสารสกัดที่ทำให้สารอนุมูลอิสระลดลงครึ่งหนึ่ง (IC50)  มีค่าเท่ากับ195.73 ± 18.63 มคก./มล.เมื่อเปรียบเทียบกับสาร β-carotene และ ascorbic acid ที่ IC50มีค่าเท่ากับ 222.95 ± 9.62, 5.91 ± 0.66มคก./มล.ตามลำดับ และด้วยวิธี ABTSค่าความเข้มข้นของสารสกัดดังกล่าวมีค่า IC50เท่ากับ 74.58 ± 2.97 มคก./มล. เมื่อเปรียบเทียบกับสาร myricetin, β-carotene และ ascorbic acid ที่ IC50 มีค่าเท่ากับ 1.01 ± 0.02, 37.40 ± 6.69 และ 4.82 ± 1.19 มคก./มล. ตามลำดับ จะเห็นได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงมีฤทธิ์ต้านอนุมูลอิสระใกล้เคียงกับ β-carotene แต่น้อยกว่า myricetin และ ascorbic acid เป็นอย่างมาก (25)  สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเอทานอล (ตัวอย่างจากประเทศเม็กซิโก) ด้วยวีธี sonicationนาน 20, 40, 60 และ 120 นาที เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าสารสกัดดังกล่าวมีฤทธิ์ต้านอนุมูลอิสระได้ 18.40 ± 10.54, 34.36 ± 2.19, 74.58± 6.62 และ 72.07± 1.27% ตามลำดับ  จะเห็นได้ว่าการสกัดด้วยวิธีsonicationนาน 60 นาที มีฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุด (26)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเอทานอล และเอทิลอะซิเตด (ตัวอย่างจากประเทศอินโดนีเซีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า IC50 มีค่าเท่ากับ 103.63 และ 225.02 ppm ตามลำดับ จะเห็นได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเอทานอลมีฤทธิ์ต้านอนุมูลอิสระได้ดีกว่าเอทิลอะซิเตด (27)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยน้ำและเอทิลอะซิเตด (ตัวอย่างจากประเทศไนจีเรีย)เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า IC50 มีค่าเท่ากับ 1.84 และ 1.10 มก./มล. ตามลำดับ  จะเห็นได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเอทิลอะซิเตดมีฤทธิ์ต้านอนุมูลอิสระได้ดีกว่าน้ำเมื่อเปรียบเทียบกับวิตามินซี IC50  มีค่าเท่ากับ 0.47 มก./มล. (28)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเอทานอลในรูปแบบ silvernanoparticles(ตัวอย่างจากประเทศอิรัก)เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าที่ความเข้มข้น 75 มคก./มล. สามารถต้านอนุมูลอิสระได้ 82.22% เมื่อเปรียบเทียบกับวิตามินซีความเข้มข้น 20 มคก./มล.สามารถต้านอนุมูลอิสระได้ 90% (21)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยน้ำ (ตัวอย่างจากประเทศมาเลเซีย)โดยที่กลีบเลี้ยงกระเจี๊ยบแดงแบ่งตามการเจริญเติบโตเป็นทั้งหมด 4 stage (stage 1 กลีบเลี้ยงเริ่มบานได้ 7 - 9 วัน, stage 2 กลีบเลี้ยงบานได้ 14 - 16 วัน, stage 3กลีบเลี้ยงบานได้ 21 - 28 วัน, stage 4 กลีบเลี้ยงบานได้ 28 -30 วัน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าที่ความเข้มข้น 0.2 มก./มล. สารสกัดกลีบเลี้ยงกระเจี๊ยบแดง stage 1 - 4  สามารถต้านอนุมูลอิสระได้ 47.7, 51.1, 54.7 และ 56.6% ตามลำดับเมื่อเปรียบเทียบกับวิตามินซีที่ความเข้มข้น 0.2 มก./มล. สามารถต้านอนุมูลอิสระได้ 84.8% จากการศึกษาสรุปได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดง stage 4 ต้านอนุมูลอิสระได้ดีที่สุด (11)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 50 - 90% (เมทานอล เอทานอล และอะซิโตน) (ตัวอย่างจากประเทศเวียดนาม)เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 70% เมทานอล, 50% เอทานอล, 50 และ 70% อะซิโตนมีฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุดคือสามารถต้านอนุมูลอิสระได้เท่ากับ 869.47± 8.33, 924.78±4.58, 927.60±12.32 และ 907.96±16.82 โมลสมมูลของ Trolox /ล. สารสกัดและเมื่อทดสอบด้วยวิธี FRAP assay พบว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย50 และ 70% อะซิโตนมีฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุดคือสามารถต้านอนุมูลอิสระได้เท่ากับ 3493.52±124.31 และ 3459.22±9.06 โมลสมมูลของTrolox /ล. สารสกัด (29)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงแห้งด้วย 80% เอทานอล และน้ำ (ตัวอย่างจากประเทศโปรตุเกส) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าความเข้มข้นของสารสกัดดังกล่าวที่ทำให้สารอนุมูลอิสระลดลงครึ่งหนึ่ง (EC50)  มีค่าเท่ากับ0.43 ± 0.01 และ 0.37 ± 0.01 มก./มล. ตามลำดับ เมื่อเปรียบเทียบกับสาร Trolox ที่ EC50เท่ากับ 41 ± 1 มก./มล. (30)สารสกัดน้ำกลีบเลี้ยงกระเจี๊ยบแดง(ตัวอย่างจากประเทศมาเลเซีย) ที่รดน้ำ1.72 ล./ต้น/วัน และ 0.86 ล./ต้น/วันเมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assayพบว่า IC50 มีค่าเท่ากับ 0.28 ± 0.50 และ 0.30 ± 0.61 มก./มล. ตามลำดับ จากการศึกษาพบว่าการรดน้ำที่ปริมาณต่างกัน 2 เท่า ไม่มีผลต่อฤทธิ์ต้านอนุมูลอิสระ (11)สารสกัดน้ำกลีบเลี้ยงกระเจี๊ยบแดง(ชาชง) (ตัวอย่างจากประเทศไทยไม่ได้ระบุจังหวัด) ความเข้มข้น20มก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าที่เวลา 1, 3, 5, 10 และ 15 นาทีสามารถต้านอนุมูลอิสระได้ 45, 70, 72, 68 และ 88% เมื่อเปรียบเทียบกับวิตามินซีความเข้มข้น 0.1 มก./มล.ที่เวลา 1 นาที สามารถต้านอนุมูลอิสระได้ 98% (15)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเอ็น-เฮกเซน และเมทานอล (ตัวอย่างจากประเทศบูร์กินาฟาโซ) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assayพบว่า IC50 มีค่าเท่ากับ 0.402 ± 0.001 และ 0.31 ± 0.002มก./มล. ตามลำดับ (31)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยน้ำ (การแช่) และ 50% เอทานอล (ตัวอย่างจากประเทศอินโดนีเซีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า IC50 มีค่าเท่ากับ 0.88 และ 3.78 มก./มล. ตามลำดับ (32)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงแห้งด้วยน้ำ และเมทานอล จากเมือง Dschang และNgaoundere (ตัวอย่างจากประเทศแคเมอรูน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าที่ความเข้มข้น 200 มคก./มล. สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงแห้งด้วยน้ำจากเมือง Dschang และ Ngaoundere สามารถต้านอนุมูลอิสระได้ 94.93 ± 1.03 และ 97.35 ± 0.85% ตามลำดับในขณะที่สารสกัดด้วยเมทานอลจากเมืองดังกล่าว สามารถต้านอนุมูลอิสระได้ 95.55± 1.28 และ 97.72± 0.26% ตามลำดับ เมื่อเปรียบเทียบกับวิตามินซีที่ความเข้มข้น 200 มคก./มล.สามารถต้านอนุมูลอิสระได้ 89.05 ± 0.75% จากการศึกษาสรุปได้ว่าสารสกัดด้วยเมทานอลต้านอนุมูลอิสระได้มากกว่าสารสกัดด้วยน้ำ (33)สารสกัดน้ำกลีบเลี้ยงกระเจี๊ยบแดงแห้ง (การชงเป็นชาแช่นาน 20 นาที)ที่อุณหภูมิ 60, 80, 100 และ 120oC (ตัวอย่างจากประเทศเวียดนาม) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า IC50 มีค่าเท่ากับ 2.75, 2.2, 3.0 และ 3.0 มก./มล. ตามลำดับ  จากการศึกษาสรุปได้ว่าชาชงกลีบเลี้ยงกระเจี๊ยบแดงที่อุณหภูมิ 80oC มีฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุด (34)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดง (กลีบเลี้ยงสีม่วง) ด้วย 50 และ 80% เมทานอล (ตัวอย่างจากประเทศอินโดนีเซีย) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธีDPPH assayพบว่า IC50 มีค่าเท่ากับ 482.38 และ 440.64 ppm ตามลำดับ (17)สารสกัดน้ำกลีบเลี้ยงกระเจี๊ยบแดง (ตัวอย่างจากประเทศไต้หวัน) ที่ความเข้มข้น 20, 40, 60, 80 และ 100 มก./มล.  เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธีDPPH assay พบว่าสามารถต้านอนุมูลอิสระได้เท่ากับ 20.82±9.56, 37.92±14.33, 62.78±32.78, 70.86±25.64 และ 77.7±19.57% เมื่อเปรียบเทียบกับวิตามินซี ที่ความเข้มข้น 10 มิลลิโมล/ล. สามารถต้านอนุมูลอิสระได้ 95.14±0.07% (35)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 95% เอทานอล (ตัวอย่างจากประเทศอิหร่าน) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าความเข้มข้นของสารสกัดดังกล่าวที่ทำให้สารอนุมูลอิสระลดลงครึ่งหนึ่ง (EC50)  มีค่าเท่ากับ 38.15 ppm (36)สารประกอบฟีนอลิกจากกลีบเลี้ยงกระเจี๊ยบแดง (ตัวอย่างจากประเทศบราซิล) เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี ABTS พบว่าสามารถต้านอนุมูลอิสระได้เท่ากับ 7.8 ไมโครโมลสมมูลของ Trolox /ก. สารสกัดซึ่งสารประกอบฟีนอลิกดังกล่าว ได้แก่ delphinidin 3-sambubioside และ cyanidin 3-sambubioside (10) สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 70% เอทานอล (ตัวอย่างจากประเทศอิรัก) ความเข้มข้น 700 ppm เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าสามารถต้านอนุมูลอิสระได้เท่ากับ 47.47% (16) สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยน้ำ และเอทานอล (ตัวอย่างจากประเทศเยอรมัน)เมื่อนำมาทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า IC50 มีค่าเท่ากับ 178.62 ± 3.63 และ  281.78 ± 6.60 มคก./มล. ตามลำดับ เมื่อเปรียบเทียบกับวิตามินซี และ BHA (butylated hydroxyanisole) IC50 มีค่าเท่ากับ173.06 ± 1.44 และ 159.81 ± 1.76มคก./มล. ตามลำดับ (19)",
+                "pharmacological_ref": [
+                    "Muddathir AM, Yamauchi K, Batubara I , Mohieldinc EAM, Mitsunaga T.  Anti-tyrosinase, total phenolic content and antioxidant activity of selected Sudanese medicinal plants.  S Afr J Bot. 2017;109:9-15. doi:http://dx.doi.org/10.1016/j.sajb.2016.12.013.",
+                    "Widowati W, Rani AP, Hamzah RA, Arumwardana S, Afifah E, Kusuma HSW, et al.  Antioxidant and antiaging assays of Hibiscus sabdariffa extract and its compounds. Nat Prod Sci.  2017;23(3):192-200. doi: https://doi.org/10.20307/nps.2017.23.3.192.",
+                    "Peredo Pozos GI, Ruiz López MA, Zamora Nátera JF, Moya CA, Ramírez LB, Silva MR.  Antioxidant capacity and antigenotoxic effect of Hibiscus sabdariffa L. extracts obtained with ultrasound-assisted extraction process. Appl Sci. 2020;10:560.  doi: 10.3390/app10020560.",
+                    "Fitrotunnisa O, Arsianti A, Tejaputri NA, Qorina F.  Antioxidative activity and phytochemistry profile of Hibiscus sabdariffa herb extracts.  Int J App Pharm. 2019;11(6):29-32.  doi: http://dx.doi.org/10.22159/ijap.2019.v11s6.33532.",
+                    "Auwalu G, Dingwoke GJ, Amin AF, Nwobodo NN, Mohammed Lawan M.  Comparative free radical scavenging efficacy of leaves extract of Moringa oleiferaand petals extract of Hibiscus sabdariffa.  Pharmacogn J. 2019;11(6):1342-6. doi: 10.5530/pj.2019.11.207.",
+                    "Maeah RK, AL-Hamza Hasoon BA, Abd-Alwahab AI, AL-azawi KFF, Allah Hameedi  WB.  Biosynthesis of silver nanoparticles using Hibiscus sabdariffa and their biological application.  Eurasia J Biosci. 2020;14;3377-83.",
+                    "Mohd Ali SA, Che Mohd CR, Latip J.  Comparison of phenolic constituent in Hibiscus sabdariffa cv. UKMR-2 calyx at different harvesting times. Sains Malays. 2019;48(7):1417-24. doi: http://dx.doi.org/10.17576/jsm-2019-4807-10.",
+                    "Duy NQ, Thoai HA, Lam TD, Le XT.  Effects of different extraction solvent systems on total phenolic, total flavonoid, total anthocyanin contents and antioxidant activities of roselle (Hibiscus sabdariffa L.) extracts.  Asian J Chem. 2019;31(11):2517-21. doi: https://doi.org/10.14233/ajchem.2019.22147.",
+                    "Jabeur I, Pereira E, Caleja C, Calhelha RC, Soković M, Catarino L.  Exploring the chemical and bioactive properties of Hibiscus sabdariffa L. calyces from Guinea-Bissau (West Africa).  Food Funct. 2019;10:2234-43. doi: 10.1039/c9fo00287a.",
+                    "Mohd Ali SA, Che Mohd CR, Latip J.  Comparison of phenolic constituent in Hibiscus sabdariffa cv. UKMR-2 calyx at different harvesting times. Sains Malays. 2019;48(7):1417-24. doi: http://dx.doi.org/10.17576/jsm-2019-4807-10.",
+                    "Chaiyana W, Charoensup W, Sriyab S, Punyoyai C, Neimkhume W.  Herbal extracts as potential antioxidant, anti-aging, anti-inflammatory, and whitening cosmeceutical ingredients.  Chem Biodivers. 2021;18:e2100245. doi: 10.1002/cbdv.202100245.",
+                    "Koala M, Ramde-Tiendrebeogo A. Ouedraogo N, Ilboudo S, Kaboré B, Kini FB.HPTLC phytochemical screening and hydrophilic antioxidant activities of Apium graveolens L., Cleome gynandra L., and Hibiscus sabdariffa L. used for diabetes management.  Am J Analyt Chem. 2021;12:15-28. doi: 10.4236/ajac.2021.121002.",
+                    "Sartini S, Djide MN, Alam G, Arjuna A, Djide NJN.  In vitro antioxidant and anti-mycobacterial activities of roselle (Hibiscus sabdariffa L.) calyx extract againstclinical isolate of multidrug resistantMycobacterium tuberculosis.  Sys Rev Pharm. 2020;11(5):36-9. doi: 10.31838/srp.2020.5.07.",
+                    "Tazoho, GM, Agbor EE, Gouado I.  In vitro, antioxidant activities of aqueous and methanol roselle (Hibiscus sabdariffa) calyces extracts from two localities in Cameroon.  Nor Afr J Food Nutr Res. 2020;4(8):292-7. doi: 10.5281/zenodo.4039794.",
+                    "Nguyen QV, Chuyen HV.  Processing of herbal tea from roselle (Hibiscus sabdariffa L.): effects of drying temperature and brewing conditions on total soluble solid, phenolic content, antioxidant capacity and sensory quality.  Beverages. 2020;6(2):1-11.  doi: 10.3390/beverages6010002.",
+                    "Kusnadi, Purgiyanti.  Quantification of polyphenol, antioxidant, and antibacterial from red and purple roselle calyces using maceration extraction under different solvent conditions.  J Phys Conf Ser. 2021;1918:052007. doi:10.1088/1742-6596/1918/5/052007.",
+                    "Li J, Lu Y-R, Lin I-F, Kang W, Chen H, Luf H-F, et al. Reversing UVB-induced photoaging with Hibiscus sabdariffa calyx aqueous extract.  Sci Food Agric. 2020;100:672-81. doi: 10.1002/jsfa.10063.",
+                    "Lotfi S, Kordsardouei H, Oloumi H.  Study of total phenolic content and antioxidant capacity of the ethanolic extracts of two medicinal plants, Hibiscus sabdariffa L. and Amaranthus caudatus L.  Banats J Biotechnol. 2019;10(19):66-74.doi: 10.7904/2068–4738–X(19)–66.",
+                    "Piovesana A, Zapata NoreñaCP.  Study of acidified aqueous extraction of phenolic compounds from Hibiscus sabdariffa L. calyces. Open Food Sci J.  2019;11:25-34. doi: 10.2174/1874256401911010025.",
+                    "Jasim SM, Jaafar AA, Atyea AS. Study the bacterial inhibitory effect and antioxidant efficacy of Hibiscus sabdariffa extract and Punica granatumpeel.  Eurasia J Biosci. 2020;14:7427-32.",
+                    "Jung EK, Kimb YJ, JooN.  Physicochemical properties and antimicrobial activity of Roselle (Hibiscus sabdariffa L.). J Sci Food Agric. 2013;93:3769-76.  doi: 10.1002/jsfa.6256."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ทำให้ผิวอ่อนเยาว์",
+                "pharmacological_content": "สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 95%เอทานอล (ตัวอย่างจากจังหวัดปทุมธานี) ความเข้มข้น 100 มก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านเอนไซม์คอลลาจีเนส (collagenase) พบว่าสามารถต้านเอนไซม์คอลลาจีเนสได้ร้อยละ 90.63 ± 0.00 เมื่อเปรียบเทียบกับสาร epigallocatechin gallate (EGCG) ที่สามารถต้านเอนไซม์คอลลาจีเนสได้ร้อยละ71.88 ± 0.00 จะเห็นได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงสามารถต้านเอนไซม์คอลลาจีเนสได้ดีกว่าสาร EGCG (37)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 70% เอทานอล (ตัวอย่างจากประเทศอินโดนีเซีย)เมื่อนำมาทดสอบฤทธิ์ต้านเอนไซม์คอลลาจีเนส (collagenase) พบว่าค่าความเข้มข้นที่สามารถต้านเอนไซม์คอลลาจีเนสได้ครึ่งหนึ่ง (IC50) มีค่าเท่ากับ 750.33 ± 37.51 มคก./มล.เมื่อเปรียบเทียบกับสาร myricetin, β-caroteneและ ascorbic acidที่ IC50มีค่าเท่ากับ 11.65 ± 2.08, 735.24 ± 102.29 และ 82.01 ± 4.29 มคก./มล.ตามลำดับ จะเห็นได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงมีฤทธิ์ใกล้เคียงกับ β-carotene แต่น้อยกว่า myricetin และ ascorbic acid เป็นอย่างมาก (25)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย70% เอทานอล (ตัวอย่างจากประเทศอินโดนีเซีย) เมื่อนำมาทดสอบฤทธิ์ต้านเอนไซม์อีลาสเตส (elastase) พบว่าค่าความเข้มข้นที่สามารถต้านเอนไซม์อีลาสเตสได้ครึ่งหนึ่ง (IC50) มีค่าเท่ากับ103.83 ± 4.00 มคก./มล. เมื่อเปรียบเทียบกับสาร myricetin, β-carotene และascorbic acid ที่ IC50 มีค่าเท่ากับ 1.20 ± 0.11, 79.95 ± 1.85 และ 15.47 ± 0.24มคก./มล. ตามลำดับจะเห็นได้ว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงมีฤทธิ์ต้านเอนไซม์อีลาสเตสได้น้อยกว่า myricetin, β-caroteneและascorbic acid อย่างชัดเจน (25)  ครีมที่มีส่วนผสมของสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 70% เอทานอล (ตัวอย่างจากประเทศอินโดนีเซีย)ขนาด 0.5, 1.0, 1.5 และ 2.0% (w/w) pH 5.2 - 6.2 เมื่อนำไปทาผิวหนังของหนูถีบจักร ขนาด 2.5 × 2.5 ซม. ที่เหนี่ยวนำให้เกิดความเหี่ยวหย่นด้วยการฉายแสง วันละ 2 ครั้ง นาน 4 สัปดาห์  พบว่าครีมที่มีส่วนผสมของสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงขนาด 1, 1.5 และ 2% (w/w) สามารถลดรอยเหี่ยวย่นได้ดีเทียบเท่ากับครีมที่มีส่วนผสมของวิตามินซี 1 - 2% (w/w) (38)",
+                "pharmacological_ref": [
+                    "Khuanekkaphan M, Noysang C, Khobjai W. Anti-aging potential and phytochemicals of Centella asiatica, Nelumbo nucifera, and Hibiscus sabdariffa extracts.  J Adv Pharm Technol Res. 2020;11(4):174-8.",
+                    "Widowati W, Rani AP, Hamzah RA, Arumwardana S, Afifah E, Kusuma HSW, et al.  Antioxidant and antiaging assays of Hibiscus sabdariffa extract and its compounds. Nat Prod Sci.  2017;23(3):192-200. doi: https://doi.org/10.20307/nps.2017.23.3.192.",
+                    "Widowati W, Rani AP, Hamzah RA, Arumwardana S, Afifah E, Kusuma HSW, et al.  Antioxidant and antiaging assays of Hibiscus sabdariffa extract and its compounds. Nat Prod Sci.  2017;23(3):192-200. doi: https://doi.org/10.20307/nps.2017.23.3.192.",
+                    "Hutagaol R.  Formulation of antiaging gel from roselle calyces extract. IOSR J. Pharm. 2017;7(12):33-7."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ต้านการอักเสบของผิวกาย",
+                "pharmacological_content": "สารประกอบฟีนอลิกจากกลีบเลี้ยงกระเจี๊ยบแดง(ตัวอย่างจากประเทศไต้หวัน) ขนาด 0.01 - 0.5 มก./มล.  เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบในเซลล์เม็ดเลือดขาว (RAW 264.7 Murine Macrophages) ที่ถูกกระตุ้นให้เกิดการอักเสบด้วยสารไลโปโพลีแซคคาไรด์ (lipopolysaccharide; LPS) พบว่าขนาด0.5 มก./มล. สามารถลดปริมาณสารที่ก่อให้เกิดการอักเสบ nitrite จาก 41:49 ± 1:71 เป็น 7:60 ± 1:63 ไมโครโมลาร์  และ prostaglandin E2 จาก 15:08 ± 0:03 เป็น 6:97 ± 0:02 พิโกกรัม/มล. (39)สารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วย 80% เมทานอล (ตัวอย่างจากประเทศซูดาน) ที่ความเข้มข้น 12.5, 25, 50 และ 100 มคก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบโดยการวัดความสามารถในการยับยั้ง protein denaturationและยับยั้งการแตกของเม็ดเลือดแดง (haemolysis) พบว่าสารสกัดดังกล่าวสามารถยับยั้ง protein denaturation ได้ 18.62, 28.67, 34.55 และ 51.22% ตามลำดับ ในขณะที่ยา diclofenac ที่ความเข้มข้น 200 มคก./มล. สามารถยับยั้งได้ 76.04%  และเมื่อทดสอบฤทธิ์ต้านการอักเสบโดยการวัดการยับยั้งการแตกของเม็ดเลือดแดง พบว่าสารสกัดดังกล่าวสามารถยับยั้งได้ 7.65, 13.88, 14.31 และ 35.79% ตามลำดับ ในขณะที่ยา diclofenac ที่ความเข้มข้น 200 มคก./มล. สามารถยับยั้งได้ 86.75% (40) สารสกัดน้ำกลีบเลี้ยงกระเจี๊ยบแดง (ชาชง) (ตัวอย่างจากประเทศไทยไม่ได้ระบุจังหวัด) ความเข้มข้น20มก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบด้วยวิธี Enzyme-Linked Immunosorbent Assay (ELISA) พบว่าสามารถลดสารที่ก่อให้เกิดการอักเสบinterleukin - 6 (IL-6) และ tumor necrosis factor-alpha (TNF-α)ได้ 40 และ 10% ตามลำดับ ในขณะที่ยาdexamethasone ที่ความเข้มข้น 0.2 มก./มล. สามารถลดสารIL-6 และ TNF-α ได้98.4±0.5 และ93.8±0.5% ตามลำดับ(15)น้ำมันหอมระเหยจากกลีบเลี้ยงกระเจี๊ยบแดง (ตัวอย่างจากประเทศจีน) ความเข้มข้น 200 มคก./มล. เมื่อนำมาทดสอบฤทธิ์ต้านการอักเสบในเซลล์เม็ดเลือดขาว (RAW 264.7 Murine Macrophages) ที่ถูกกระตุ้นให้เกิดการอักเสบด้วยสารไลโปโพลีแซคคาไรด์ (lipopolysaccharide; LPS)  พบว่าสามารถลดการสร้างnitric oxide (NO) ได้ 67.46% ซึ่งยา dexamethasone ความเข้มข้น 50 มคก./มล. สามารถลดการสร้างNO ได้ 34.63% นอกจากนี้ยังสามารถลดการสร้างสารที่ก่อให้เกิดการอักเสบtumor necrosis factor-α (TNF-α), interleukin-1 (IL-1), interleukin-6 (IL-6), inducible nitric oxide synthase (iNOS) และcyclooxygenase-2 (COX-2) ได้ด้วย ซึ่งองค์ประกอบสารในน้ำมันหอมระเหยที่สำคัญ ได้แก่ n-hexadecanoic acid, 14-methyl-pentadecanoic acid, methyl ester, 2-pentadecanone, 6,10,14-trimethyl และ 9,12-octadecadienoic acid, methyl ester, (E,E)- (13)",
+                "pharmacological_ref": [
+                    "Kao E-S, Hsu J-D, Wang C-J, Yang S-H, Cheng S-Y.  Polyphenols extracted from Hibiscus sabdariffa L. inhibited lipopolysaccharide-induced inflammation by improving antioxidative conditions and regulating cyclooxygenase-2 expression. Biosci Biotechnol Biochem. 2009;73(2):385-90.  doi:10.1271/bbb.80639.",
+                    "Garbi MI, Mohammed SF, Magzoub AA, Hassabelrasoul RM, Saleh MS, Badri AM. In vitro anti-inflammatory properties of methanolic extract of Hibiscus sabdariffa flowers.  Int J Home Sci. 2017;3(1):234-7.",
+                    "Chaiyana W, Charoensup W, Sriyab S, Punyoyai C, Neimkhume W.  Herbal extracts as potential antioxidant, anti-aging, anti-inflammatory, and whitening cosmeceutical ingredients.  Chem Biodivers. 2021;18:e2100245. doi: 10.1002/cbdv.202100245.",
+                    "Shen C-Y, Zhang T-T, Zhang W-L, Jiang J-G.  Anti-inflammatory activities of essential oil isolated from the calyx of Hibiscus sabdariffaL.  Food Funct. 2016;7:4451-9. doi: 10.1039/c6fo00795c."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์รักษาแผล",
+                "pharmacological_content": "การศึกษาในหนูแรทที่มีบาดแผลขนาด 4 ตรม. จำนวน 30 ตัว แบ่งหนูออกเป็น 6 กลุ่ม กลุ่มแรกเป็นกลุ่มควบคุมให้ทาครีมที่เตรียม กลุ่มที่ 2 - 4 ให้ทาครีมที่มีส่วนผสมของสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยเมทานอล ขนาด 1, 5 และ 10% (w/w) ตามลำดับ (ตัวอย่างจากประเทศไนจีเรีย) กลุ่มที่ 5 ทาครีมที่มีส่วนผสมของสารสกัดกลีบเลี้ยงกระเจี๊ยบแดง 1% ร่วมกับครีมที่มีส่วนผสมของ 1% gentamycin กลุ่มที่ 6 ทาครีมที่มีส่วนผสมของ 1% gentamycin วันละ 1 ครั้ง นาน 21 วัน  พบว่าระยะเวลาที่บาดแผลปิดสนิทมีค่าเท่ากับ 27, 27, 23, 18, 15 และ 22 วัน ตามลำดับ จากการศึกษาสรุปได้ว่ากลุ่มที่ทาครีมที่มีส่วนผสมของสารสกัดกลีบเลี้ยงกระเจี๊ยบแดง1% ร่วมกับครีมที่มีส่วนผสมของ1% gentamycinแผลหายเร็วที่สุด และครีมที่มีส่วนผสมของสารสกัดกลีบเลี้ยงกระเจี๊ยบแดง 10% แผลหายเร็วกว่ากลุ่มที่ทาครีมที่มีส่วนผสมของ 1% gentamycin แสดงว่าสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงช่วยเสริมฤทธิ์กับยา gentamycin (41)2 การศึกษาเกี่ยวกับริมฝีปากและช่องปาก",
+                "pharmacological_ref": [
+                    "Builders PF, Kabele-Toge B, Builders M, Chindo BA, Anwunobi PA Isimi YC.  Wound healing potential of formulated extract from Hibiscus sabdariffacalyx.  Indian J Pharm Sci. 2013:45-52."
+                ]
+            },
+            {
+                "pharmacological": "ฤทธิ์ฆ่าเชื้อในช่องปาก",
+                "pharmacological_content": "การศึกษาเปรียบเทียบฤทธิ์ต้านเชื้อแบคทีเรียของสารสกัดกลีบเลี้ยงกระเจี๊ยบแดงด้วยน้ำ เมทานอล เอทานอล อะซิโตน และเอทิลอะซิเตด (ตัวอย่างจากประเทศเม็กซิโก) กับผลิตภัณฑ์น้ำยาบ้วนปาก 6 รายการ ได้แก่  Astringosol®, Colgate plax-ice-infinity®, Crest pro-health®, Dental max®, Equate®และ Listerine zero®) เมื่อนำมาทดสอบด้วยวิธี agar disc diffusion ต่อเชื้อแบคทีเรียที่ก่อให้เกิดโรคในช่องปาก 4 ชนิด Streptococcus mutans, Streptococcus sanguinis, Capnocytophaga gingivalis และ Staphylococcus aureus พบว่าสารสกัดดังกล่าวของกระเจี๊ยบแดงที่ความเข้มข้น 100 มก./มล. สามารถยับยั้งเชื้อแบคทีเรียดังกล่าวโดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างอยู่ในช่วง 9.5 - 10.0,  10.0 - 11.5, 10.0 - 11.5, 11.0 - 13.5 และ 11.5 - 13.5 มม. ตามลำดับ  ในขณะที่ผลิตภัณฑ์น้ำยาบ้วนปาก 6 รายการสามารถยับยั้งเชื้อแบคทีเรียดังกล่าวโดยบริเวณที่มีการยับยั้งเชื้อมีความกว้างอยู่ในช่วง 8 - 10, 7.5 - 11.5, 7.5 - 10, 7.5 - 8, 0 และ 9 - 10.5 มม. ตามลำดับ  และเปรียบเทียบกับน้ำยาบ้วนปากchlorhexidine0.12% (ตัวควบคุม) บริเวณที่มีการยับยั้งเชื้อมีความกว้างอยู่ในช่วง 9 -13.5 มม.นอกจากนี้ค่า MIC และ MBC ต่อเชื้อดังกล่าวสำหรับสารสกัดด้วยน้ำ มีค่าเท่ากับ 20 และ 20 มก./มล. สารสกัดเมทานอล มีค่าเท่ากับ 10 และ 20 มก./มล.สารสกัดเอทานอลมีค่าอยู่ระหว่าง7 - 10และ 20 มก./มล. สารสกัดอะซิโตนมีค่าอยู่ระหว่าง 5 - 7 และอยู่ระหว่าง 10 - 20 มก./มล. และสารสกัดเอทิลอะซิเตดมีค่าอยู่ระหว่าง 5 - 7 และอยู่ระหว่าง 10 - 20มก./มล. ตามลำดับ ในขณะที่ผลิตภัณฑ์น้ำยาบ้วนปากพบว่า Listerine zero® มีศักยภาพดีที่สุด และมีค่า MIC และ MBC ต่อเชื้อดังกล่าวอยู่ระหว่าง 20 - 25 และ 25 - 33 มก./มล. ตามลำดับและน้ำยาบ้วนปาก chlorhexidine 0.12%  มีค่า MIC และ MBC ต่อเชื้อดังกล่าวอยู่ระหว่าง 3 - 4 และ 3 - 5 มก./มล. ตามลำดับ จากการศึกษาสรุปได้ว่าสารสกัดกระเจี๊ยบแดงสามารถต้านเชื้อแบคทีเรียในช่องปากได้ดีกว่าผลิตภัณฑ์น้ำยาบ้วนปากทั้ง 6 รายการ ในส่วนผลิตภัณฑ์น้ำยาบ้วนปากทั้ง 6 ชนิด Listerine zero® มีศักยภาพดีที่สุดในการต้านเชื้อแบคทีเรียในช่องปาก ในขณะที่ Equate® ไม่มีฤทธิ์ต้านเชื้อแบคทีเรียในช่องปาก (42)",
+                "pharmacological_ref": [
+                    "Baena-Santilla ES, Piloni-Martini J, Santos-Lopez EM, Gomez-Aldapa CA, Rangel-Vargas E, Castro-Rosas J.  Comparison of the antimicrobial activity of Hibiscus sabdariffa calyx extracts, six commercial types of mouthwashes, and chlorhexidine on oral pathogenic bacteria, and the effect of Hibiscus sabdariffa extractsand chlorhexidine on permeability of the bacterial membrane.  J Med Food. 2021;24(1):67-76.  doi: 10.1089/jmf.2019.0273."
+                ]
+            }
+        ]
+    }
+}

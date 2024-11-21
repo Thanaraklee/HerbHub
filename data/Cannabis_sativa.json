@@ -1,0 +1,535 @@
+{
+    "data": {
+        "species_name": {
+            "species_name": "Cannabis sativa",
+            "authorship": "Carl Linnaeus",
+            "updated_by": "",
+            "name_ref": "Sp. Pl. : 1027 (1753)",
+            "link_ref": "https://www.ipni.org/n/urn:lsid:ipni.org:names:306087-2"
+        },
+        "synonyms": [
+            {
+                "name": "Cannabis americana",
+                "author": "Carl Friedrich Wilhelm Wehmer 1858-1935",
+                "protologue": "Pfl.-Stoffe : 157 (1911)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583985"
+            },
+            {
+                "name": "Cannabis chinensis",
+                "author": "Alire Raffeneau Delile 1778-1850",
+                "protologue": "Index Seminum (MPU, Monspeliensis)  1849: 7 (1849)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583986"
+            },
+            {
+                "name": "Cannabis erratica",
+                "author": "Johann August Carl Sievers 1762-1795",
+                "protologue": "Neueste Nord. Beytr. Phys. Geogr. Erd- Völkerbeschreib.  7: 174 (1796)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583987"
+            },
+            {
+                "name": "Cannabis foetens",
+                "author": "Jean-Emmanuel Gilibert 1741-1814",
+                "protologue": "Exerc. Phyt.  2: 450 (1792)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583988"
+            },
+            {
+                "name": "Cannabis generalis",
+                "author": "Ernst Hans Ludwig Krause 1859-1942",
+                "protologue": "Deutschl. Fl. Abbild., ed. 2.  4: 199 (1905)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583990"
+            },
+            {
+                "name": "Cannabis gigantea",
+                "author": "Alire Raffeneau Delile 1778-1850",
+                "protologue": "Rev. Hort. (Paris)  5: 109 (1851)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583991"
+            },
+            {
+                "name": "Cannabis indica",
+                "author": "Jean-Baptiste de Lamarck 1744-1829",
+                "protologue": "Encycl.  1: 695 (1785)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583992"
+            },
+            {
+                "name": "Cannabis indica f. afghanica",
+                "author": "Nikolai Vavilov 1887-1943",
+                "protologue": "Trudy Prikl. Bot., Prilož.  33: 381 (1929)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583993"
+            },
+            {
+                "name": "Cannabis indica var. kafiristanica",
+                "author": "Nikolai Vavilov 1887-1943",
+                "protologue": "Trudy Prikl. Bot., Prilož.  33: 381 (1929)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583994"
+            },
+            {
+                "name": "Cannabis intersita",
+                "author": "Jiří Soják 1936-2012",
+                "protologue": "Novit. Bot. Delect. Seminum Horti Bot. Univ. Carol. Prag.  1960: 20 (1960)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583995"
+            },
+            {
+                "name": "Cannabis kafiristanica",
+                "author": "Nikolai Vavilov 1887-1943",
+                "protologue": "Čas. Nár. Mus., Odd. Přír.  150: 22 (1981)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583996"
+            },
+            {
+                "name": "Cannabis lupulus",
+                "author": "Giovanni Antonio Scopoli 1723-1788",
+                "protologue": "Fl. Carniol. , ed. 2, 2: 263 (1771)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583997"
+            },
+            {
+                "name": "Cannabis macrosperma",
+                "author": "Jonathan Stokes 1755-1831",
+                "protologue": "Bot. Mat. Med.  4: 539 (1812)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583998"
+            },
+            {
+                "name": "Cannabis ruderalis",
+                "author": "Dmitri Yanishevski 1875-1944",
+                "protologue": "Uchen. Zap. Saratovsk. Gosud. Chernyshevskogo Univ.  2(2): 14 (1924)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000583999"
+            },
+            {
+                "name": "Cannabis sativa f. afghanica",
+                "author": "Nikolai Vavilov 1887-1943",
+                "protologue": "Trudy Prikl. Bot. Selekts.  16: 227 (1926)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584002"
+            },
+            {
+                "name": "Cannabis sativa f. chinensis",
+                "author": "Alire Raffeneau Delile 1778-1850",
+                "protologue": "Prodr.  16(1): 31 (1869)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584003"
+            },
+            {
+                "name": "Cannabis sativa var. gigantea",
+                "author": "Alire Raffeneau Delile 1778-1850",
+                "protologue": "Landw. Fl. : 288 (1866)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584004"
+            },
+            {
+                "name": "Cannabis sativa var. indica",
+                "author": "Jean-Baptiste de Lamarck 1744-1829",
+                "protologue": "Pfl.-Stoffe : 157 (1911)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584005"
+            },
+            {
+                "name": "Cannabis sativa subsp. indica",
+                "author": "Jean-Baptiste de Lamarck 1744-1829",
+                "protologue": "Taxon  25: 426 (1976)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584006"
+            },
+            {
+                "name": "Cannabis sativa subsp. intersita",
+                "author": "Jiří Soják 1936-2012",
+                "protologue": "Čas. Nár. Mus., Odd. Přír.  148: 77 (1979 publ. 1980)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584007"
+            },
+            {
+                "name": "Cannabis sativa var. kafiristanica",
+                "author": "Nikolai Vavilov 1887-1943",
+                "protologue": "Taxon  25: 429 (1976)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584008"
+            },
+            {
+                "name": "Cannabis sativa var. kif",
+                "author": "Alphonse Pyramus de Candolle 1806-1893",
+                "protologue": "Prodr.  16(1): 30 (1869)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584009"
+            },
+            {
+                "name": "Cannabis sativa var. macrosperma",
+                "author": "Jonathan Stokes 1755-1831",
+                "protologue": "Syn. Mitteleur. Fl.  4: 599 (1911)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584010"
+            },
+            {
+                "name": "Cannabis sativa var. monoica",
+                "author": "Josef Ludovit Holuby 1836-1923",
+                "protologue": "Let. Matice Slov.  1(43): 367 (1873)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584012"
+            },
+            {
+                "name": "Cannabis sativa f. pedemontana",
+                "author": "Alphonse Pyramus de Candolle 1806-1893",
+                "protologue": "Prodr.  16(1): 31 (1869)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584013"
+            },
+            {
+                "name": "Cannabis sativa var. praecox",
+                "author": "T.J. Serebrjakova 1893-",
+                "protologue": "Trudy Prikl. Bot.  18: 410 (1928)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584014"
+            },
+            {
+                "name": "Cannabis sativa var. ruderalis",
+                "author": "Dmitri Yanishevski 1875-1944",
+                "protologue": "Uchen. Zap. Saratovsk. Gosud. Chernyshevskogo Univ.  2(2): 14 (1924)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584015"
+            },
+            {
+                "name": "Cannabis sativa var. ruderalis",
+                "author": "Dmitri Yanishevski 1875-1944",
+                "protologue": "Fl. Liaoningica  1: 289 (1988)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584016"
+            },
+            {
+                "name": "Cannabis sativa var. spontanea",
+                "author": "Nikolai Vavilov 1887-1943",
+                "protologue": "Trudy Prikl. Bot. Selekts.  13(Suppl. 23): 148 (1922)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584017"
+            },
+            {
+                "name": "Cannabis sativa var. vulgaris",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Landw. Fl. : 288 (1866)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0000584018"
+            },
+            {
+                "name": "Cannabis sativa var. indica",
+                "author": "Jean-Baptiste de Lamarck 1744-1829",
+                "protologue": "Taxon 25(4): 426 1976",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001085023"
+            },
+            {
+                "name": "Cannabis sativa var. sativa",
+                "author": "–",
+                "protologue": "–",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001085024"
+            },
+            {
+                "name": "Polygonum viridiflorum",
+                "author": "Jean Louis Marie Poiret 1755-1834",
+                "protologue": "Encycl. 6: 140 (1804)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-0001101290"
+            },
+            {
+                "name": "Cannabis sativa var. afghanica",
+                "author": "Nikolai Vavilov 1887-1943",
+                "protologue": "PhytoKeys  144: 97 (2020)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200007822"
+            },
+            {
+                "name": "Cannabis sativa subsp. culta",
+                "author": "T.J. Serebrjakova 1893-",
+                "protologue": "Kul't. Fl. SSSR  5: 37 (1940)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200063824"
+            },
+            {
+                "name": "Cannabis sativa f. vulgaris",
+                "author": "Friedrich Alefeld 1820-1872",
+                "protologue": "Vilm. Blumengärtn., ed. 3.  1: 912 (1895)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200063835"
+            },
+            {
+                "name": "Cannabis sativa subvar. indica",
+                "author": "Jean-Baptiste de Lamarck 1744-1829",
+                "protologue": "Syn. Mitteleur. Fl.  4: 598 (1911)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200063838"
+            },
+            {
+                "name": "Cannabis indica var. afghanica",
+                "author": "Nikolai Vavilov 1887-1943",
+                "protologue": "Trudy Prikl. Bot., Prilož.  33: 380 (1929)",
+                "wfo_link": "http://www.worldfloraonline.org/taxon/wfo-1200063839"
+            }
+        ],
+        "taxonomy": {
+            "kingdom": {
+                "kingdom_name": "Plantae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100001250"
+            },
+            "subkingdom": {
+                "subkingdom_name": "Pteridobiotina",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4100003335"
+            },
+            "phylum": {
+                "phylum_name": "Angiosperms",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-9949999999"
+            },
+            "family": {
+                "family_name": "Rosales",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-7000000109"
+            },
+            "genus": {
+                "genus_name": "Cannabaceae",
+                "ref": "http://www.worldfloraonline.org/taxon/wfo-4000006546"
+            }
+        },
+        "part_and_medicinal": [
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100001&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Illus. Chinese Materia Medica (Wu, 2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100170&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 39 (2016)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100186&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Taiwan Herbal Pharmacop. 3rd Chinese ed. (MOHW, 2018)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100237&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome, bark",
+                "drug": "fresh juice of rhizome, bark juice",
+                "medicinal_name": "Ethnophytomed. Against Diabetes, SE Asia (Marwat et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100366&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "cured rhizome",
+                "medicinal_name": "Indian Med. Pl. Dictionary (Khare, 2007)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100407&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dry plant material",
+                "medicinal_name": "Trad. Med. in Sri Lanka (Kankanamalage et al., 2014)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=100412&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizomas",
+                "drug": "tintura",
+                "medicinal_name": "Farmacopeia Brasileira, 6th edn. (Anvisa, 2019)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=3466&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "WHO Monog. Med. Pl. 1 (WHO, 1999)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=5806&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Pharmacop. of China (2005)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8374&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "viscous liquid",
+                "medicinal_name": "Food Chemicals Codex, 6th edn. (USP, 2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8378&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "U.S. Pharmacop. USP 32 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8379&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "rhizome, cork layer removed",
+                "medicinal_name": "Japanese Pharmacop., 15th edn. (2006)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8382&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Ayurvedic Pharm. of India (1999-2011)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8388&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizomes",
+                "medicinal_name": "Unani Pharmacop. India (2007-2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8390&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopea Herbolaria Mexico (2001)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8395&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "Farmacopeia Brasileira, 5th edn. (Anvisa, 2010)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8865&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried and cured rhizome",
+                "medicinal_name": "Siddha Pharmacop. India, Vol. 1 (2008)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8874&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rhizome",
+                "drug": "dried rhizome",
+                "medicinal_name": "European Pharmacop., 7th edn. (2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=8875&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "rizoma",
+                "drug": "rizoma desecado",
+                "medicinal_name": "Farmacopea Herbolaria Mexicanos (2013)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9301&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            },
+            {
+                "part": "root tuber",
+                "drug": "dried root tuber",
+                "medicinal_name": "Korean Pharmacop., 10th edn. (MFDS, 2012)",
+                "medicinal_source": "https://mpns.science.kew.org/mpns-portal/reference?reference=9876&query=Cannabis+sativa&filter=&fuzzy=false&nameType=latin"
+            }
+        ],
+        "part_and_checimal": [
+            {
+                "chemical_name": "BETA-CAROTENE",
+                "activity_count": 53,
+                "plant_part": "Seed",
+                "low_parts_per_million": 0.0,
+                "high_parts_per_million": 0.1,
+                "standard_deviation": -0.43,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "CALCIUM",
+                "activity_count": 28,
+                "plant_part": "Seed",
+                "low_parts_per_million": 1200.0,
+                "high_parts_per_million": 1389.0,
+                "standard_deviation": -0.51,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "IRON",
+                "activity_count": 6,
+                "plant_part": "Seed",
+                "low_parts_per_million": 120.0,
+                "high_parts_per_million": 139.0,
+                "standard_deviation": -0.05,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "NIACIN",
+                "activity_count": 39,
+                "plant_part": "Seed",
+                "low_parts_per_million": 21.0,
+                "high_parts_per_million": 24.0,
+                "standard_deviation": -0.57,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "PHOSPHORUS",
+                "activity_count": 4,
+                "plant_part": "Seed",
+                "low_parts_per_million": 9700.0,
+                "high_parts_per_million": 11227.0,
+                "standard_deviation": 1.55,
+                "ref": "ANON. 1948-1976. The Wealth of India raw materials. Publications and Information Directorate, CSIR, New Delhi. 11 volumes."
+            },
+            {
+                "chemical_name": "RIBOFLAVIN",
+                "activity_count": 15,
+                "plant_part": "Seed",
+                "low_parts_per_million": 1.7,
+                "high_parts_per_million": 2.0,
+                "standard_deviation": -0.58,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            },
+            {
+                "chemical_name": "THIAMIN",
+                "activity_count": 31,
+                "plant_part": "Seed",
+                "low_parts_per_million": 3.2,
+                "high_parts_per_million": 3.7,
+                "standard_deviation": -0.69,
+                "ref": "CRC Handbook of Medicinal Herbs and/or CRC Handbook of Proximate Analyses"
+            }
+        ],
+        "common_name_th": {
+            "common_name_th": "กัญชง",
+            "common_name_th_ref": [
+                "กองควบคุมวัตถุเสพติด สำนักงานคณะกรรมการอาหารและยา กระทรวงสาธารณสุข. คู่มือพนักงานเจ้าหน้าที่ในการกำกับ ดูแล ซึ่งยาเสพติดให้โทษประเภท 5 เฉพาะเฮมพ์ (Hemp). กรุงเทพฯ : โรงพิมพ์สำนักงานพระพุทธศาสนาแห่งชาติ; 2561."
+            ]
+        },
+        "common_name_en": {
+            "common_name_en": "Hemp",
+            "common_name_en_ref": [
+                "กองควบคุมวัตถุเสพติด สำนักงานคณะกรรมการอาหารและยา กระทรวงสาธารณสุข. คู่มือพนักงานเจ้าหน้าที่ในการกำกับ ดูแล ซึ่งยาเสพติดให้โทษประเภท 5 เฉพาะเฮมพ์ (Hemp). กรุงเทพฯ : โรงพิมพ์สำนักงานพระพุทธศาสนาแห่งชาติ; 2561."
+            ]
+        },
+        "local_name": {
+            "local_name": [
+                "ปอกัญชา",
+                "หมั้ง",
+                "ม่าง"
+            ],
+            "local_name_ref": [
+                "ฐานข้อมูลสมุนไพรกัญชง มหาวิทยาลัยแม่โจ้. รายละเอียดสมุนไพร. [อินเตอร์เน็ต]. 2561 [เข้าถึงเมื่อ 14 ธ.ค. 2563]. เข้าถึงได้จาก :https://hemp.mju.ac.th/Search_Detail_Herb_MJU.aspx? Herb_ID=0001"
+            ]
+        },
+        "clinical_studies": [
+            {
+                "clinical": "กระตุ้นการงอกของเส้นผม",
+                "clinical_content": "ศึกษาฤทธิ์กระตุ้นการงอกของเส้นผมของน้ำมันกัญชง (ตัวอย่างจากประเทศสหรัฐอเมริกา, ในน้ำมันประกอบด้วยสาร cannabidiol 10.78% และ tetrahydrocannabinol 0.21%) ในอาสาสมัครที่มีอาการผมร่วงเนื่องจากกรรมพันธุ์ (androgenic alopecia) ทั้งเพศชายและหญิงจำนวน 35 คน (เพศชาย 28 คน อายุเฉลี่ย 61 ปี, เพศหญิง 7 คนอายุเฉลี่ย 43 ปี) โดยให้อาสาสมัครทาน้ำมันกัญชงปริมาณ 3-4 มก. ลงในบริเวณหนังศีรษะที่มีอาการผมร่วงวันละครั้ง นานติดต่อกัน 6 เดือน พบว่า น้ำมันกัญชงมีผลกระตุ้นการงอกของเส้นผมบริเวณขมับ (temporal area) ของอาสาสมัครเพศชายมีอัตราการเพิ่มจำนวนเส้นผมคิดเป็น 74.1% ในขณะที่เพศหญิงเพิ่มขึ้น 55.2% และตรงบริเวณศีรษะด้านบน (vertex area) อาสาสมัครเพศชายมีอัตราการเพิ่มจำนวนเส้นผมคิดเป็น 120.1% ในขณะที่เพศหญิงเพิ่มขึ้น 64.9% ผลจากการศึกษาแสดงให้เห็นว่า น้ำมันกัญชงมีฤทธิ์กระตุ้นการงอกของเส้นผมในผู้ที่มีอาการผมร่วงเนื่องจากกรรมพันธุ์ได้ (15)",
+                "clinical_ref": [
+                    "Smith GL, Satino J. Hair regrowth with cannabidiol (CBD)-rich hemp extract-a case series. Cannabis. 2021;4(1):53-9. doi: 10.26828/cannabis/2021.01.003."
+                ]
+            }
+        ],
+        "pharmacological_studies": [
+            {
+                "pharmacological": "กระตุ้นการงอกของเส้นผม",
+                "pharmacological_content": "ศึกษาฤทธิ์กระตุ้นการงอกของเส้นผมของสาร cannabidiol (Bristol, ประเทศอังกฤษ) บนเซลล์ต่อมขน (hair follicles) ที่แยกได้จากตัวอย่างเนื้อเยื่อผิวหนังของอาสาสมัครสุขภาพดี พบว่า การบ่มเซลล์ด้วยสาร cannabidiol เข้มข้นสูง (10 ไมโครโมลาร์) มีผลกระตุ้นการแสดงออกของ vanilloid receptor-4 (TRPV4) ยับยั้งการสร้างเส้นผมและกระตุ้นให้เกิดการตายของเซลล์ ในขณะที่การบ่มเซลล์ด้วยสาร cannabidiol เข้มข้นต่ำ (0.1 ไมโครโมลาร์) มีผลกระตุ้นการงอกและความยาวของเส้นผม ซึ่งสันนิษฐานว่าอาจมีกลไกผ่านการกระตุ้น adenosine receptor ผลจากการศึกษาแสดงให้เห็นว่า สาร cannabidiol อาจมีประโยชน์สำหรับใช้เพื่อกระตุ้นการงอกของเส้นผมหรืออาจใช้เพื่อกำจัดขนได้ขึ้นกับขนาดที่ใช้ (16)2 การศึกษาเกี่ยวกับผิวกาย",
+                "pharmacological_ref": [
+                    "Szabó IL, Lisztes E, Béke G, Tóth KF, Paus R, Oláh A, et al. The Phytocannabinoid (-)-cannabidiol operates as a complex, differential modulator of human hair growth: anti-inflammatory submicromolar versus hair growth inhibitory micromolar effects. J Invest Dermatol. 2020;140(2):484-488.e5. doi: 10.1016/j.jid.2019.07.690."
+                ]
+            },
+            {
+                "pharmacological": "ทำให้ผิวขาว",
+                "pharmacological_content": "ศึกษาฤทธิ์ยับยั้งการสร้างเม็ดสี (melanogenesis) ของสารสกัดจากเมล็ดกัญชง (ตัวอย่างจากจังหวัดตาก, voucher specimen no. TCFF2012HE1-2) โดยนำเมล็ดกัญชงมาบดให้เป็นผงละเอียด จากนั้นแช่สกัดในเอทานอล 95% นาน 72 ชม. ที่อุณหภูมิห้อง (ประมาณ 27±2๐C) กรองแยกสารสกัดด้วยกระดาษกรอง Whatman เบอร์ 1 นำกากเมล็ดกัญชงสกัดซ้ำอีกครั้งโดยใช้ตัวทำละลายและวิธีเดียวกัน เทสารสกัดที่ได้จากการสกัดทั้ง 2 ครั้งรวมกัน และนำไประเหยตัวทำละลายในเครื่องระเหยสารแบบหมุนภายใต้สุญญากาศ(rotary evaporator)ที่อุณหภูมิ 50±2๐C (สารสกัดที่ได้มี %yield เท่ากับ 1.58±0.20%) นำสารสกัดเอทานอลเมล็ดกัญชงทดสอบฤทธิ์ยับยั้งการสร้างเม็ดสีบนเซลล์ B16F10 melanoma พบว่า สารสกัดเอทานอลเมล็ดกัญชงเข้มข้น 0.1 มก./มลมีผลลดการสร้างจำนวนเม็ดสี (melanin content) และยับยั้งการทำงานของเอนไซม์ DOPAchrometautomerase (TRP-2)ซึ่งเกี่ยวข้องในกระบวนการสร้างเม็ดสีได้อย่างมีนัยสำคัญเมื่อเปรียบเทียบกับเซลล์ B16F10 melanoma ที่ไม่ได้รับสารกระตุ้นใด ๆ (กลุ่มควบคุม) คิดเป็น 0.15 และ 0.88 เท่า ตามลำดับ (17)2.2 ทำให้ผิวอ่อนเยาว์/ลดเลือนริ้วรอย (S007)ศึกษาฤทธิ์ยับยั้งการทำงานของเอนไซม์gelatinase A (MMP-2) ซึ่งทำหน้าที่ย่อยคอลลาเจนที่กระจายอยู่ในบริเวณรอยต่อผิวหนังชั้นหนังแท้กับหนังกำพร้าของสารสกัดจากเมล็ดกัญชง (ตัวอย่างจากจังหวัดตาก, voucher specimen no. TCFF2012HE1-2) โดยนำเมล็ดกัญชงมาบดให้เป็นผงละเอียด จากนั้นแช่สกัดในเอทานอล 95% นาน 72 ชม. ที่อุณหภูมิห้อง (ประมาณ 27±2๐C) กรองแยกสารสกัดด้วยกระดาษกรอง Whatman เบอร์ 1 นำกากเมล็ดกัญชงสกัดซ้ำอีกครั้งโดยใช้ตัวทำละลายและวิธีเดียวกัน เทสารสกัดที่ได้จากการสกัดทั้ง 2 ครั้งรวมกัน และนำไประเหยตัวทำละลายในเครื่อง rotary evaporator ที่อุณหภูมิ 50±2๐C (สารสกัดที่ได้มี %yield เท่ากับ 1.58±0.20%) นำสารสกัดเอทานอลเมล็ดกัญชงทดสอบฤทธิ์ยับยั้งการทำงานของเอนไซม์ MMP-2 บนเซลล์ผิวหนัง human skin fibroblast พบว่า สารสกัดเอทานอลเมล็ดกัญชงเข้มข้น 1 มก./มล. มีผลยับยั้งการทำงานของเอนไซม์ MMP-2 คิดเป็น 54.40±0.66% เมื่อเปรียบเทียบกับเซลล์ human skin fibroblast ที่ไม่ได้รับสารกระตุ้นใด ๆ (กลุ่มควบคุม) ในขณะที่สารเปรียบเทียบ vitamin C (ไม่ระบุความเข้มข้น) สามารถยับยั้งได้ 62.21±1.93% (17)",
+                "pharmacological_ref": [
+                    "Manosroi A, Chankhampan C, Kietthanakorn B, Ruksiriwanich W, Chaikul P, Boonpisuttinant K, et al. Pharmaceutical and cosmeceutical biological activities of hemp (Cannabis sativa L var. sativa) leaf and seed extracts. Chiang Mai J Sci. 2019;46(2):180-95.",
+                    "Manosroi A, Chankhampan C, Kietthanakorn B, Ruksiriwanich W, Chaikul P, Boonpisuttinant K, et al. Pharmaceutical and cosmeceutical biological activities of hemp (Cannabis sativa L var. sativa) leaf and seed extracts. Chiang Mai J Sci. 2019;46(2):180-95."
+                ]
+            },
+            {
+                "pharmacological": "ต้านสิว",
+                "pharmacological_content": "ศึกษาฤทธิ์ต้านเชื้อแบคทีเรีย Propionibacterium acnesซึ่งเป็นสาเหตุของการเกิดสิวของสารสกัดเฮกเซนจากเมล็ดกัญชง โดยนำตัวอย่างเมล็ดกัญชงแห้ง (ตัวอย่างจากประเทศแคนาดา) บดให้ละเอียดและแช่สกัดในเฮกเซน นาน 24 ชม. (2 ครั้ง) กรองแยกสารสกัดด้วยกระดาษกรอง Whatman เบอร์ 2 และ Whatman nylon filter (0.45 µm) และทำให้เข้มข้นด้วยการระเหยตัวทำละลายในเครื่อง rotary evaporatorที่อุณหภูมิ 35๐C และระเหยซ้ำอีกครั้งที่อุณหภูมิ 70๐Cนาน 10 นาที นำสารสกัดที่ได้ทดสอบฤทธิ์ต้านเชื้อแบคทีเรีย P. acnesบนจานเพาะเลี้ยง (agar medium) พบว่า สารสกัดเฮกเซนจากเมล็ดกัญชงที่ความเข้มข้น 15 และ 20% สามารถยับยั้งการเจริญของเชื้อแบคทีเรีย P. acnesได้คิดเป็น 59 และ 99% ตามลำดับ ในขณะที่สารเปรียบเทียบ erythromycin (3 ppm) สามารถยับยั้งได้คิดเป็น 67% (18)ศึกษาผลของสาร cannabidiol (ไม่ระบุที่มาของตัวอย่าง) ต่อการทำงานของต่อมไขมัน (sebaceous gland) ที่ทำหน้าที่ผลิตไขมันในชั้นผิวหนัง ซึ่งเป็นสาเหตุหนึ่งของการเกิดสิวอุดตัน โดยทำการทดสอบบนเซลล์ต่อมไขมัน (human sebocytes SZ95) พบว่า สาร cannabidiol เข้มข้น 1-10 ไมโครโมลาร์ มีผลยับยั้งการสร้างไขมัน และยับยั้งการเพิ่มจำนวนเซลล์ต่อมไขมันโดยผ่านกลไกการทำงานของ transient receptor protein vanilloid-4 (TRPV-4) นอกจากนี้ยังมีผลยับยั้งวิถีการส่งสัญญาณ nuclear factor-kappa B (NF-κB) ในกลไกกระตุ้นการอักเสบ ซึ่งแสดงให้เห็นว่า สาร cannabidiolมีฤทธิ์ยับยั้งการสร้างไขมันและต้านการอักเสบซึ่งเป็นสาเหตุหนึ่งของการเกิดสิวอุดตันได้ (12)",
+                "pharmacological_ref": [
+                    "Jin S, Lee MY. The ameliorative effect of hemp seed hexane extracts on the Propionibacterium acnes-induced inflammation and lipogenesis in sebocytes. PLoS One. 2018;13(8):e0202933. doi: 10.1371/journal.pone.0202933.",
+                    "Oláh A, Tóth BI, Borbíró I, Sugawara K, Szöllõsi AG, Czifra G, et al. Cannabidiol exerts sebostatic and antiinflammatory effects on human sebocytes. J Clin Invest. 2014;124(9):3713-24. doi: 10.1172/JCI64628."
+                ]
+            },
+            {
+                "pharmacological": "ต้านอนุมูลอิสระ",
+                "pharmacological_content": "ศึกษาฤทธิ์ต้านอนุมูลอิสระของสารกลุ่ม lignanamidesที่สกัดได้จากเมล็ดกัญชง โดยนำเมล็ดกัญชงแห้ง (ตัวอย่างจากประเทศจีน, voucher no. 201209-1) ปริมาณ 5.7 กก. บดและกำจัดไขมันด้วยปิโตรเลียมอีเทอร์ปริมาตร5 ล. นาน 2 ชม. ที่อุณหภูมิห้อง จากนั้น นำเมล็ดกัญชงที่ผ่านการกำจัดไขมันแช่สกัดในเอทานอล 75% ปริมาตร 60 ล. นาน 3 วัน (3 ครั้ง) กรองแยกสารสกัดและทำให้เข้มข้นภายใต้สภาวะสุญญากาศจนเหลือปริมาตร 500 มล. นำสารสกัดที่ได้ไปแยกส่วนสกัดด้วยปิโตรเลียมอีเทอร์ เอทิลอะซีเตต และเอ็น-บิวทานอล วิเคราะห์สารสำคัญและโครงสร้างสารด้วยวิธี HPLC และ nuclear magnetic resonance spectroscopy (NMR) พบสารกลุ่ม lignanamides ได้แก่cannabisin A, cannabisin C, cannabisin D, cannabisin E, cannabisin F, cannabisin M, cannabisin N, cannabisin O, 3,3′-demethyl-heliotropamide, 3,3′-demethyl-grossamide, grossamide, N-trans-caffeoyltyramine, N-trans-feryroyltyramineและ (2,3-trans)-3-(3-hydroxy-5-methoxyphenyl)-N-(4-hydroxyphenethyl)-7-{(E)-3-[(4-hydroxyphenethyl)amino]-3-oxoprop-1-enyl}-2,3-dihydro-benzo[b][1,4]dioxine-2-carboxamideเมื่อทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี 2,2′-diphenyl-1-picrylhydrazyl (DPPH)assay, 2,2′-azino-bis (3-ethylbenzthiazoline-6-sulphonic acid) (ABTS) assay และ oxygen radical absorbance capacity (ORAC) assay พบว่า สารที่มีฤทธิ์ต้านอนุมูลอิสระคือ cannabisin M,N-trans-caffeoyltyramine, cannabisin A,3,3′-demethyl-heliotropamide,N-trans-feryroyltyramine,cannabisin C,3,3′-demethyl-grossamideและ cannabisin D (8)ศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันจากเมล็ดกัญชง (น้ำมันเมล็ดกัญชงสกัดเย็นจาก World of hemp, Kisač, ประเทศเซอร์เบีย) ในแมลงหวี่ระยะตัวอ่อน (Drosophila melanogasterlarvae) ที่ถูกเหนี่ยวนำให้เกิดภาวะเครียดด้วยไฮโดรเจนเปอร์ออกไซด์ (H2O2) พบว่า น้ำมันเมล็ดกัญชงเข้มข้น 18.7 และ 31.2 มคล./มล. มีผลลดระดับ malondialdehyde (MDA) ซึ่งบ่งชี้ถึงการเกิดอนุมูลอิสระ และเพิ่มการทำงานของเอนไซม์ในกระบวนการต้านอนุมูลอิสระได้แก่ catalase (CAT) และ superoxide dismutase (SOD) ได้อย่างมีนัยสำคัญเมื่อเปรียบเทียบกับ D. melanogasterlarvae ที่ถูกเหนี่ยวนำให้เกิดภาวะเครียดเพียงอย่างเดียว (กลุ่มควบคุม) (19)ศึกษาฤทธิ์ต้านอนุมูลอิสระของสารสกัดจากเมล็ดกัญชง (ตัวอย่างจากจังหวัดตาก, voucher specimen no. TCFF2012HE1-2) โดยนำเมล็ดกัญชงมาบดให้เป็นผงละเอียด จากนั้นแช่สกัดในเอทานอล 95% นาน 72 ชม. ที่อุณหภูมิห้อง (ประมาณ 27±2๐C) กรองแยกสารสกัดด้วยกระดาษกรอง Whatman เบอร์ 1 นำกากเมล็ดกัญชงสกัดซ้ำอีกครั้งโดยใช้ตัวทำละลายและวิธีเดียวกัน เทสารสกัดที่ได้จากการสกัดทั้ง 2 ครั้งรวมกัน และนำไประเหยตัวทำละลายในเครื่อง rotary evaporator ที่อุณหภูมิ 50±2๐C (สารสกัดที่ได้มี %yield เท่ากับ 1.58±0.20%) นำสารสกัดเอทานอลเมล็ดกัญชงทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่าค่าความเข้มข้นของสารสกัดที่สามารถยับยั้งการเกิดอนุมูลอิสระได้ 50% เท่ากับ 14.39±2.27 มก./มล. (สารเปรียบเทียบ ascorbic acid และ α-tocopherol เท่ากับ 0.012±0.002 และ 0.038±0.01 มก./มล. ตามลำดับ)ในขณะที่ผลการทดสอบด้วยวิธี lipid peroxidation inhibition assay พบว่า ค่าความเข้มข้นของสารสกัดที่สามารถยับยั้งการเกิดปฏิกิริยา lipid peroxidation ได้ 50% มีค่าเท่ากับ 92.68±30.77 มก./มล. (สารเปรียบเทียบ α-tocopherol เท่ากับ 0.045±0.02 มก./มล.) และผลการทดสอบด้วยวิธี chelating assay พบว่า ค่าความเข้มข้นของสารสกัดที่สามารถจับโลหะหนักได้ 50% เท่ากับ 1.92±1.05 มก./มล. (สารเปรียบเทียบ EDTA เท่ากับ 0.15±0.002 มก./มล.) (17)ศึกษาฤทธิ์ต้านอนุมูลอิสระของสาร cannabidiol ซึ่งเป็นผลิตภัณฑ์ทางการค้าจากประเทศสหรัฐอเมริกา (C1) และผลิตภัณฑ์ทางการค้าที่ไม่ทราบแหล่งที่มา (C2)และน้ำมันจากเมล็ดกัญชงซึ่งเป็นผลิตภัณฑ์ทางการค้าจากประเทศต่าง ๆ ได้แก่ ออสเตรเลีย (C3)นิวซีแลนด์ (C4) ไม่ทราบแหล่งที่มา (C5) เยอรมัน  (C6, C7) และแคนาดา (C8) โดยทำการทดสอบด้วยวิธี DPPH assay และ ABTS assay พบว่าสาร cannabidiol C1 ที่ความเข้มข้น 25 มคล./มล. สามารถยับยั้งการเกิดอนุมูลอิสระเมื่อทดสอบด้วยวิธี DPPH assay และ ABTS assay เท่ากับ 64.8±0.8% (IC50เท่ากับ 17.9 มคล./มล.) และ 90.5±0.1% (IC50เท่ากับ 2.3 มคล./มล.) ตามลำดับ ในขณะที่ cannabidiol C2สามารถยับยั้งได้ 63.2±1.4% (IC50เท่ากับ 18.6 มคล./มล.) และ 90.3±0.1% (IC50เท่ากับ 3.6 มคล./มล.) ตามลำดับ และน้ำมันจากเมล็ดกัญชงที่ความเข้มข้น 25 มคล./มล. สามารถยับยั้งการเกิดอนุมูลอิสระเมื่อทดสอบด้วยวิธี DPPH assay ได้ โดยมีค่าเปอร์เซ็นต์ในการยับยั้งอยู่ระหว่าง 1.3±0.8-23.2±1.0% ในขณะที่ผลการทดสอบด้วยวิธี ABTS assay พบว่า น้ำมันจากเมล็ดกัญชงที่ความเข้มข้น 25 มคล./มล. มีค่าเปอร์เซ็นต์ในการยับยั้งการเกิดอนุมูลอิสระอยู่ระหว่าง 2.8±1.2-47.8±2.0%ซึ่งน้ำมันเมล็ดกัญชงที่สามารถยับยั้งการเกิดอนุมูลอิสระได้ดีที่สุดจากการทดสอบทั้ง 2 วิธีคือ น้ำมันเมล็ดกัญชงจากประเทศนิวซีแลนด์(C4) โดยสามารถยับยั้งการเกิดอนุมูลอิสระเมื่อทดสอบด้วยวิธี DPPH assay และ ABTS assay ได้เท่ากับ23.2±1.0 และ 47.8±2.0% ตามลำดับ (13)การศึกษาเปรียบเทียบเพื่อหาสัดส่วนของตัวทำละลาย อุณหภูมิ และเวลาที่เหมาะสมในการสกัดสารจากเมล็ดกัญชงด้วยวิธีใช้คลื่นเสียงความถี่สูง (ultrasound-assisted extraction) โดยทดลองใช้เฮกเซนและไอโซโพรพานอลเป็นตัวทำละลายในอัตราส่วนต่าง ๆ จาก0:100-100:0 ใช้อุณหภูมิในการสกัดที่ 30-60ºC และใช้เวลาในการสกัดนาน 30-90 นาที [ตัวอย่างเมล็ดกัญชงที่ใช้ในการสกัดเป็นผลิตภัณฑ์ทางการค้าจากประเทศเยอรมัน (von Bayern, Heathcote, Rutz, &Kacelnik)] ผลจากการศึกษาพบว่า สภาวะที่เหมาะสมในการสกัดสารจากเมล็ดกัญชงคือ อุณหภูมิ 40.26ºC นาน 54.40 นาที โดยใช้อัตราส่วนตัวทำละลายระหว่างเฮกเซนและไอโซโพรพานอลเท่ากับ 61.18:38.82 โดยปริมาตร(หรือประมาณ 3:2) ซึ่งการสกัดที่สภาวะดังกล่าวจะมีปริมาณน้ำมันที่สกัดได้ (oil yield)เท่ากับ 31.22% มีปริมาณสารประกอบฟีนอลิกเท่ากับ 3.19 มก. คิดเป็นปริมาณเทียบเท่า gallic acid/ก. น้ำมัน และสามารถยับยั้งการเกิดอนุมูลอิสระเมื่อทดสอบด้วยวิธี DPPH assay ได้ คิดเป็น 73.86% (20)ศึกษาฤทธิ์ต้านอนุมูลอิสระของน้ำมันเมล็ดกัญชงสายพันธุ์ Finola (ตัวอย่างจากประเทศอิตาลี) ซึ่งได้จากวิธีการสกัดเย็น (cold-pressed)และส่วนสกัดที่ละลายในน้ำมัน (lipophilic fraction) และน้ำ (hydrophilic fraction) ซึ่งแยกได้จากการนำน้ำมันเมล็ดกัญชงเจือจางในเฮกเซน (อัตราส่วน 1:1 โดยปริมาตร) จากนั้นเติมส่วนผสมระหว่างเมทานอลและน้ำ (อัตราส่วน 8:2 โดยปริมาตร)เขย่าเป็นวงกลม (vortexing) ให้เข้ากัน นาน 3 นาทีนำสารละลายที่ได้ไปปั่นเหวี่ยงที่ความเร็ว 5,000 รอบ/นาที นาน 5 นาที ที่อุณหภูมิ 4ºC ส่วนสกัดทั้ง 2 ชนิดจะแยกออกจากกัน นำน้ำมันเมล็ดกัญชงและส่วนสกัดที่ได้ทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay พบว่า ค่าความเข้มข้นของน้ำมันเมล็ดกัญชงที่ได้จากวิธีสกัดเย็น ส่วนสกัดที่ละลายในน้ำมัน และส่วนสกัดที่ละลายในน้ำ ในการยับยั้งการเกิดอนุมูลอิสระมีค่าเท่ากับ 146.76±2.840, 0.125±0.0037 และ 0.038±0.0032 มิลลิโมลาร์คิดเป็นปริมาณเทียบเท่า Trolox/100 ก. ของน้ำหนักสด ตามลำดับ การทดสอบด้วยวิธี ABTS assay พบว่า ค่าความเข้มข้นของน้ำมันเมล็ดกัญชง ส่วนสกัดที่ละลายในน้ำมัน และส่วนสกัดที่ละลายในน้ำ ในการยับยั้งการเกิดอนุมูลอิสระมีค่าเท่ากับ 695.2±45.83, 326.1±33.68 และ 94.6±3.9 ไมโครโมลาร์คิดเป็นปริมาณเทียบเท่า Trolox/100 ก. ของน้ำหนักสด ตามลำดับ การทดสอบด้วยวิธี FRAP assayพบว่า ค่าความเข้มข้นของน้ำมันเมล็ดกัญชง ส่วนสกัดที่ละลายในน้ำมัน และส่วนสกัดที่ละลายในน้ำ ในการยับยั้งการเกิดอนุมูลอิสระมีค่าเท่ากับ 3690.6±15.25, 2092.6±64.41 และ 74.2±3.47 ไมโครโมลาร์คิดเป็นปริมาณเทียบเท่า Trolox/100 ก. ของน้ำหนักสด ตามลำดับและการทดสอบด้วยวิธี chelating activity พบว่า ค่าความเข้มข้นของน้ำมันเมล็ดกัญชง ส่วนสกัดที่ละลายในน้ำมัน และส่วนสกัดที่ละลายในน้ำ ในการยับยั้งการเกิดอนุมูลอิสระมีค่าเท่ากับ 158.2±2.11, 42.4±2.05 และ 5.6±0.14 ไมโครโมลาร์คิดเป็นปริมาณเทียบเท่า EDTA/100 ก. ของน้ำหนักสด ตามลำดับ (6)ศึกษาฤทธิ์ต้านอนุมูลอิสระของสารสกัดจากเมล็ดกัญชง (ตัวอย่างจากประเทศสเปน) โดยนำตัวอย่างเมล็ดกัญชง 500 ก. มาบดให้ละเอียดและกำจัดไขมันด้วยการแช่ในเอ็น-เฮกเซน ปริมาณ 750 มล. นาน 24 ชม. (2 ครั้ง) จากนั้นกรองแยกสารสกัดและทำการระเหยเอ็น-เฮกเซนออก นำสารสกัดที่ได้สกัดซ้ำด้วยเอทานอล 96% จะได้ส่วนสกัด F01 เมล็ดกัญชงที่กำจัดไขมันออกแล้วนำไปแยกสกัดต่อใน 2 วิธี โดยวิธีที่ 1 ให้นำเมล็ดกัญชงแบ่งเป็น 2 ส่วน ส่วนที่ 1 แช่สกัดในอะซีโตน นาน 24 ชม. (2 ครั้ง) และระเหยตัวทำละลายภายใต้สภาวะสุญญากาศด้วยเครื่อง rotary evaporator จากนั้น นำสารสกัดที่ได้สกัดซ้ำด้วยเอทานอล 96% จะได้ส่วนสกัด F02เมล็ดกัญชงส่วนที่ 2 แช่สกัดในเอทานอล 50% นาน 24 ชม. (2 ครั้ง) จะได้ส่วนสกัด F03 การสกัดวิธีที่ 2 นำเมล็ดกัญชงที่กำจัดไขมันออกแล้วแช่สกัดในเอทานอล 75% นาน 24 ชม. (2 ครั้ง) จากนั้นทำการระเหยตัวทำละลายในเครื่อง rotary evaporator นำสารสกัดที่เหลือสกัดซ้ำด้วยวิธี liquid-liquid extraction โดยใช้ตัวทำละลายเป็นเอทิลอะซิเตต และบิวทานอล จะได้ส่วนสกัด F04 และ F05 ตามลำดับ นำส่วนสกัดที่ได้ทั้งหมด ทดสอบฤทธิ์ต้านอนุมูลอิสระด้วยวิธี DPPH assay และ ABTS assay พบว่า ส่วนสกัด F05 และ F03 มีฤทธิ์ต้านอนุมูลอิสระได้ดีที่สุด โดยมีค่าความเข้มข้นในการยับยั้งการเกิดอนุมูลอิสระลงครึ่งหนึ่ง(IC50) ในการทดสอบด้วยวิธี DPPH assay เท่ากับ 211.74±3.55 และ 237.80±6.72 มคก./มล. ตามลำดับ (สารเปรียบเทียบ quercetin และ caffeic acid มีค่าเท่ากับ 10.79±1.14 และ 6.25±0.63 มคก./มล. ตามลำดับ) ในขณะที่การทดสอบด้วยวิธี ABTS assay ค่า IC50ของส่วนสกัด F05 และ F03 เท่ากับ34.15±3.01 และ 46.07±9.24 มคก./มล. ตามลำดับ (สารเปรียบเทียบ quercetin และ caffeic acid มีค่าเท่ากับ 0.68±0.10 และ 2.18±0.04 มคก./มล. ตามลำดับ) (21)",
+                "pharmacological_ref": [
+                    "Yan X, Tang J, dos Santos Passos C, Nurisso A, Simões-Pires CA, Ji M, et al. Characterization of lignanamides from hemp (Cannabis sativa L.) seed and their antioxidant and acetylcholinesterase inhibitory activities. J Agric Food Chem. 2015;63(49):10611-9. doi: 10.1021/acs.jafc.5b05282.",
+                    "Vitorović J, Joković N, Radulović N, Mihajilov-Krstev T, Cvetković VJ, Jovanović N, et al. Antioxidant activity of hemp (Cannabis sativa L.) seed oil in Drosophila melanogaster larvae under non-stress and H2O2-induced oxidative stress conditions. Antioxidants (Basel). 2021;10(6):830. doi: 10.3390/antiox10060830.",
+                    "Manosroi A, Chankhampan C, Kietthanakorn B, Ruksiriwanich W, Chaikul P, Boonpisuttinant K, et al. Pharmaceutical and cosmeceutical biological activities of hemp (Cannabis sativa L var. sativa) leaf and seed extracts. Chiang Mai J Sci. 2019;46(2):180-95.",
+                    "Kitamura M, Kiba Y, Suzuki R, Tomida N, Uwaya A, Isami F, et al. Cannabidiol content and In vitro biological activities of commercial cannabidiol oils and hemp seed oils. Medicines (Basel). 2020;7(9):57. doi: 10.3390/medicines7090057.",
+                    "Kenari RE, Dehghan B. Optimization of ultrasound-assisted solvent extraction of hemp (Cannabis sativa L.) seed oil using RSM: evaluation of oxidative stability and physicochemical properties of oil. Food SciNutr. 2020;8(9):4976-4986. doi: 10.1002/fsn3.1796.",
+                    "Smeriglio A, Galati EM, Monforte MT, Lanuzza F, D'Angelo V, Circosta C. Polyphenolic compounds and antioxidant activity of cold-pressed seed oil from Finola cultivar of Cannabis sativa L. Phytother Res. 2016;30(8):1298-307. doi: 10.1002/ptr.5623.",
+                    "Martinez JR, Paz SML, Puerta RDL, García-Giménez MD, Fernández-Arche MÁ. Characterization of bioactive compounds in defatted hempseed (Cannabis sativa L.) by UHPLC-HRMS/MS and anti-inflammatory activity in primary human monocytes. Food Funct. 2020;11(5):4057-4066. doi: 10.1039/d0fo00066c."
+                ]
+            },
+            {
+                "pharmacological": "ต้านการอักเสบ",
+                "pharmacological_content": "ศึกษาฤทธิ์ต้านการอักเสบของสารสกัดเฮกเซนจากเมล็ดกัญชง [เมล็ดกัญชงแห้ง (ตัวอย่างจากประเทศแคนาดา) บดและแช่สกัดในเฮกเซน นาน 24 ชม. (2 ครั้ง) กรองแยกสารสกัดด้วยกระดาษกรอง Whatman เบอร์ 2 และ Whatman nylon filter (0.45 µm) และทำให้เข้มข้นด้วยการระเหยตัวทำละลายในเครื่อง rotary evaporator ที่อุณหภูมิ 35๐C และระเหยซ้ำอีกครั้งที่อุณหภูมิ 70๐C นาน 10 นาที] นำสารสกัดที่ได้ทดสอบฤทธิ์ต้านการอักเสบบนเซลล์ผิวหนัง human keratinocyte (HaCat) ที่ถูกกระตุ้นให้เกิดกระบวนการอักเสบด้วยการทำให้ติดเชื้อ P. acnes พบว่า สารสกัดเฮกเซนจากเมล็ดกัญชงความเข้มข้น 0.15-0.6% มีผลยับยั้งการแสดงออกของโปรตีนและเอนไซม์ที่เกี่ยวข้องในกระบวนการอักเสบได้แก่ nitric oxide synthase (iNOS), interleukin-1β (IL-1β) และ cyclooxygenase 2 (COX-2)และมีผลลดระดับ nitric oxide (NO), prostaglandin E2 (PGE2) และ IL-8 ซึ่งบ่งชี้ถึงภาวะอักเสบโดยมีกลไกลการยับยั้งผ่านวิถีการส่งสัญญาณnuclear factor-kappa B (NF-κB)และ mitogen activated protein kinase (MAPKs) (18)ศึกษาฤทธิ์ต้านการอักเสบของโปรตีนและโปรตีนไฮโดรไลเซต (hydrolysates) ที่สกัดได้จากเมล็ดกัญชง (ตัวอย่างจาก Sensi Seeds Bank) โดยนำเมล็ดกัญชงผ่านกรรมวิธีกำจัดไขมัน ด้วยการสกัดแบบซอกเลต (soxhlet extraction) และใช้เอ็น-เฮกเซนเป็นตัวทำละลาย หลังจากนั้น ละลายสารสกัดในด่างที่ค่า pH เท่ากับ 10.5 นาน 1 ชม. และทำการตกตะกอนแยกโปรตีนที่จุดไอโซอิเล็กทริก (isoelectric point) โดยมีค่า pH เท่ากับ 4.3 นำโปรตีนจากเมล็ดกัญชงที่สกัดได้ (HPI) ย่อย (hydrolyzed) ด้วยเอนไซม์ alcalaseนาน 20 นาที จะได้โปรตีนไฮโดรไลเซตจากเมล็ดกัญชงชนิด HPH20A และเมื่อนำ HPI ย่อยด้วยเอนไซม์ alcalaseนาน 60 นาที และ alcalase+flavourzymeนาน 15 นาที จะได้โปรตีนไฮโดรไลเซตจากเมล็ดกัญชงชนิด HPH60A15F นำโปรตีนและโปรตีนไฮโดรไลเซตที่สกัดได้ทั้ง 3 ตัวอย่าง ไปทดสอบฤทธิ์ต้านการอักเสบบนเซลล์ primary human monocyte ที่ถูกกระตุ้นด้วย lipopolysaccharide (LPS) พบว่า HPI, HPH20A และ HPH60A15F ที่ความเข้มข้น 50 และ 100 มคก./มล. มีผลยับยั้งการแสดงออกของโปรตีนที่เกี่ยวข้องในกระบวนการอักเสบได้แก่ IL-1β, IL-6 และ tumor necrosis factor-α (TNF-α) และเพิ่มการแสดงออกของโปรตีนในกระบวนการต้านการอักเสบได้แก่ IL-10 และ IL-4 นอกจากนี้ ยังมีผลลดการแสดงออกของยีนส์ใน classically activated macrophage (M1) ซึ่งเป็นกระบวนการทำงานของ macrophage และบ่งชี้ถึงกระบวนการอักเสบได้แก่ CCR7 และ iNOSและมีผลเพิ่มการแสดงออกของยีนส์ใน alternatively activated macrophage(M2) ซึ่งบ่งชี้ถึงกระบวนการต้านการอักเสบได้แก่ cell surface glycoprotein CD200 receptor (CD200R)และ C-type mannose receptor 1 (MRC1)ผลจากการศึกษาแสดงให้เห็นว่าโปรตีนและโปรตีนไฮโดรไลเซตที่สกัดได้จากเมล็ดกัญชงมีฤทธิ์ต้านการอักเสบ (22)ศึกษาฤทธิ์ต้านการอักเสบของสารสกัดจากเมล็ดกัญชง (ตัวอย่างจากประเทศสเปน) โดยนำตัวอย่างเมล็ดกัญชง 500 ก. มาบดให้ละเอียดและกำจัดไขมันด้วยการแช่ในเอ็น-เฮกเซนปริมาตร 750 มล. นาน 24 ชม. (2 ครั้ง) จากนั้น นำเมล็ดกัญชงที่กำจัดไขมันออกแล้วแยกเป็น 2 ส่วน ส่วนที่ 1 แช่สกัดในเอทานอล 50% นาน 24 ชม. (2 ครั้ง) จะได้ส่วนสกัด F03 ส่วนที่ 2 แช่สกัดในเอทานอล 75% นาน 24 ชม. (2 ครั้ง) จากนั้นทำการระเหยตัวทำละลายในเครื่อง rotary evaporator นำสารสกัดที่เหลือสกัดซ้ำด้วยวิธี liquid-liquid extraction ด้วยบิวทานอล จะได้ส่วนสกัด F05 นำส่วนสกัดที่ได้ทั้ง 2 ตัวอย่างทดสอบฤทธิ์ต้านการอักเสบบนเซลล์ human monocyte ที่ถูกกระตุ้นให้เกิดภาวะอักเสบด้วย LPS พบว่า ส่วนสกัด F03 และ F05 ความเข้มข้น 50 และ 100 มคก./มล. มีผลยับยั้งการแสงออกของโปรตีนที่เกี่ยวข้องในกระบวนการอักเสบได้แก่ TNF-α และ IL-6 โดยประสิทธิผลขึ้นกับขนาดความเข้มข้น (21)ศึกษาฤทธิ์ต้านการอักเสบของสาร cannabisin F โดยนำเมล็ดกัญชง (ตัวอย่างจากประเทศจีน) บดให้ละเอียดและกำจัดไขมันด้วยปิโตรเลียมอีเทอร์ก่อนนำไปแช่สกัดในเอทานอล 75% จากนั้นสกัดแยกลำดับส่วนด้วย ปิโตรเลียมอีเทอร์ เอทิลอะซิเตต และเอ็น-บิวทานอล นำสารสกัดเอทิลอะซิเตตไปแยกสกัดใน reverse-phase column liquid chromatography ชะด้วยเมทานอลและน้ำ, แยกสกัดใน MCI gel column chromatography ชะด้วยเมทานอลและน้ำ, แยกสกัดใน silica gel column chromatography ชะด้วยไดคลอโรมีเทนและเมทานอล และแยกสารต่อด้วยHPLC ชะด้วยเมทานอลและน้ำ จะได้สาร cannabisin Fเมื่อนำไปทดสอบฤทธิ์ต้านการอักเสบบนเซลล์ BV2 microglia ที่ถูกกระตุ้นให้เกิดภาวะอักเสบด้วย LPS พบว่าcannabisin F ที่ความเข้มข้น 5-15 ไมโครโมลาร์ มีผลยับยั้งการแสดงออกของโปรตีนที่เกี่ยวข้องในกระบวนการอักเสบได้แก่ TNF-α และ IL-6 โดยประสิทธิผลขึ้นกับขนาดความเข้มข้น และมีผลกระตุ้นการแสดงของโปรตีน silent information regular 1 (SIRT1) ซึ่งมีผลยับยั้งวิถีการส่งสัญญาณ NF-κB ในกระบวนการอักเสบ ผลจากการศึกษาแสดงให้เห็นว่า สาร cannabisin F จากเมล็ดกัญชง มีฤทธิ์ต้านการอักเสบ (14)",
+                "pharmacological_ref": [
+                    "Jin S, Lee MY. The ameliorative effect of hemp seed hexane extracts on the Propionibacterium acnes-induced inflammation and lipogenesis in sebocytes. PLoS One. 2018;13(8):e0202933. doi: 10.1371/journal.pone.0202933.",
+                    "Rodriguez-Martin NM, Paz SML, Toscano R, Grao-Cruces E, Villanueva A, Pedroche J, et al. Hemp (Cannabis sativaL.) protein hydrolysates promote anti-inflammatory response in primary human monocytes. Biomolecules. 2020;10(5):803. doi: 10.3390/biom10050803.",
+                    "Martinez JR, Paz SML, Puerta RDL, García-Giménez MD, Fernández-Arche MÁ. Characterization of bioactive compounds in defatted hempseed (Cannabis sativa L.) by UHPLC-HRMS/MS and anti-inflammatory activity in primary human monocytes. Food Funct. 2020;11(5):4057-4066. doi: 10.1039/d0fo00066c.",
+                    "Wang S, Luo Q, Fan P. Cannabisin F from hemp (Cannabis sativa) seed suppresses lipopolysaccharide-induced inflammatory responses in BV2 microglia as SIRT1 modulator. Int J Mol Sci. 2019;20(3):507. doi: 10.3390/ijms20030507."
+                ]
+            }
+        ]
+    }
+}
