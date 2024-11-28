@@ -1,0 +1,104 @@
+<html>
+  <body>
+  <head>
+    <title>Network Graph in JavaScript</title>
+    <style type="text/css"> 
+      html, body, #container { 
+        width: 100%; height: 100%; margin: 0; padding: 0; 
+      } 
+    </style>
+    <script src="https://cdn.anychart.com/releases/8.12.1/js/anychart-core.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/8.12.1/js/anychart-graph.min.js"></script>
+  <head>
+  <body>
+    <div id="container"></div>
+    <script>
+      anychart.onDocumentReady(function () {
+        // create data:
+        var data = {
+          // celestial bodies
+          // with their diameter in kilometers:
+          "nodes": [
+            { "id": "Sun", "value": 1392700, "fill": "#FFC107", "height": 60 }, 
+            { "id": "Mercury", "value": 4879, "fill": "#C0C0C0", "height": 30 },
+            { "id": "Venus", "value": 12104, "fill": "#FFDEAD", "height": 30 },
+            { "id": "Earth", "value": 12756, "fill": "#0000FF", "height": 30 },
+            { "id": "Moon", "value": 3474, "fill": "#D3D3D3", "height": 15 },
+            { "id": "Mars", "value": 6779, "fill": "#FF0000", "height": 30 },
+            { "id": "Phobos", "value": 22, "fill": "#A0522D", "height": 15 },
+            { "id": "Deimos", "value": 12, "fill": "#A0522D", "height": 15 },
+            { "id": "Jupiter", "value": 142984, "fill": "#DEB887", "height": 30 },
+            { "id": "Io", "value": 3643, "fill": "#FFD700", "height": 15 },
+            { "id": "Europa", "value": 3122, "fill": "#E6E6FA", "height": 15 }, 
+            { "id": "Ganymede", "value": 5262, "fill": "#D2B48C", "height": 15 },
+            { "id": "Callisto", "value": 4821, "fill": "#BDB76B", "height": 15 },
+            { "id": "Saturn", "value": 116464, "fill": "#FFDAB9", "height": 30 },
+            { "id": "Titan", "value": 5150, "fill": "#FFA07A", "height": 15 }, 
+            { "id": "Rhea", "value": 1527, "fill": "#F0E68C", "height": 15 },
+            { "id": "Uranus", "value": 50724, "fill": "#ADD8E6", "height": 30 },
+            { "id": "Titania", "value": 1578, "fill": "#87CEEB", "height": 15 },
+            { "id": "Oberon", "value": 1523, "fill": "#87CEEB", "height": 15 },
+            { "id": "Neptune", "value": 49244, "fill": "#00008B", "height": 30 },
+            { "id": "Triton", "value": 2706, "fill": "#00BFFF", "height": 15 }
+          ],
+          // connections between celestial bodies
+          // with the distance between them in million kilometers:
+          "edges": [
+            { "from": "Sun", "to": "Mercury", "distance": 50.9 },
+            { "from": "Sun", "to": "Venus", "distance": 108.2},
+            { "from": "Sun", "to": "Earth","distance": 148.7 },
+            { "from": "Earth", "to": "Moon","distance": 0.3877 },
+            { "from": "Sun", "to": "Mars", "distance": 207.6 },
+            { "from": "Mars", "to": "Phobos", "distance": 0.00567 },
+            { "from": "Mars", "to": "Deimos", "distance": 0.02006},
+            { "from": "Sun", "to": "Jupiter", "distance": 748.5 },
+            { "from": "Jupiter", "to": "Io", "distance": 0.3484 },
+            { "from": "Jupiter", "to": "Europa", "distance": 0.6025 },
+            { "from": "Jupiter", "to": "Ganymede",  "distance": 0.9961 },
+            { "from": "Jupiter", "to": "Callisto", "distance": 1.81 },
+            { "from": "Sun", "to": "Saturn", "distance": 1450 },
+            { "from": "Saturn", "to": "Titan", "distance": 1.17 },
+            { "from": "Saturn", "to": "Rhea", "distance": 0.4667 },
+            { "from": "Sun", "to": "Uranus", "distance": 2930 },
+            { "from": "Uranus", "to": "Titania", "distance": 0.4095 },
+            { "from": "Uranus", "to": "Oberon", "distance": 0.5559 },
+            { "from": "Sun", "to": "Neptune", "distance": 4470 },
+            { "from": "Neptune", "to": "Triton", "distance": 0.3287 }
+          ]
+        };
+        // create a network graph and set the data:
+        var chart = anychart.graph(data);
+        // enable node labels:
+        var nodes = chart.nodes();
+        nodes.labels().enabled(true);
+        // customize node labels:
+        nodes.labels().fontSize(15);
+        nodes.labels().fontColor("black")
+        // customize node tooltips:
+        nodes.tooltip().useHtml(true);
+        nodes.tooltip().format(function(e){
+          const name = e.getData("id");
+          const value = e.getData("value");
+          return `<b>${name}<br>${value}</b> km in diameter`
+        });
+        // customize edge tooltips:
+        var edges = chart.edges();
+        edges.tooltip().useHtml(true);
+        edges.tooltip().format(function(e){
+          const from = e.getData("from");
+          const to = e.getData("to");
+   	  const distance = e.getData("distance") * 1000000;
+   	  return `From <b>${from}</b> to <b>${to}<br>${distance}</b> km`
+        })
+        // customize the edge stroke:
+        edges.stroke("lightblue", 2, "10 5")
+        // set the chart title:
+        chart.title("Solar System Network Graph");
+        // set the container id:
+        chart.container("container");
+        // initiate drawing the chart:
+        chart.draw();
+      });
+    </script>
+  </body>
+<html>

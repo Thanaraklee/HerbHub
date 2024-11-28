@@ -235,40 +235,80 @@ def chat_summarize(herb: str, herb_name_dict: dict):
             f"  - **Reference**: {reference}\n\n"
         )
 
-    # clinical_studies_prompt = f"\n\n"
-    # for clinical_studies in data['clinical_studies']:
-        
-    # st.write(part_and_chemical_prompt)
+    # ----------------------------- clinical studies ----------------------------- #
+    clinical_studies_prompt = f"\n\nการศึกษาเชิงคลินิกสำหรับ {species_name}:\n\n"
+    for clinical_studies in data['clinical_studies']:
+        study_title = clinical_studies.get('clinical', 'Not specified')
+        study_content = clinical_studies.get('clinical_content', 'Not specified')
+        study_ref = clinical_studies.get('clinical_ref', 'Not specified')
+        clinical_studies_prompt += (
+            f"- หัวข้อการศึกษา: {study_title}\n"
+            f"  รายละเอียดการศึกษา: {study_content}\n"
+            f"  Reference: {study_ref}\n\n"
+        )
 
-    # # # Prompt for summarization optimization
-    # template = """
-    # You are an expert herbalist. Summarize the following data about the herb {species_name}.
-    # Highlight its key uses, active compounds, and effects concisely:
-    
-    # {data}
-    # """
-    # prompt = PromptTemplate(
-    #     input_variables=["essay"],
-    #     template=template
-    # )
+    # -------------------------- pharmacological studies ------------------------- #
+    pharmacological_studies_prompt = f"\n\nการศึกษาทางเภสัชวิทยาสำหรับ {species_name}:\n\n"
+    for pharmacological_studies in data['pharmacological_studies']:
+        pharmacological_title = pharmacological_studies.get('pharmacological', 'ไม่มีข้อมูลระบุ')
+        pharmacological_content = pharmacological_studies.get('pharmacological_content', 'ไม่มีข้อมูลระบุ')
+        pharmacological_ref = pharmacological_studies.get('pharmacological_ref', 'ไม่มีข้อมูลระบุ')
+        pharmacological_studies_prompt += (
+            f"- หัวข้อการศึกษา: {pharmacological_title}\n"
+            f"  รายละเอียดการศึกษา: {pharmacological_content}\n"
+            f"  Reference: {pharmacological_ref}\n\n"
+        )
+        
+    # Prompt for summarization optimization
+    template = """
+    คุณเป็นผู้เชี่ยวชาญด้านสมุนไพร โปรดสรุปข้อมูลสำคัญของสมุนไพร **{species_name}** จากข้อมูลที่ให้ในรูปแบบโครงสร้างด้านล่าง โดยเน้น **ข้อมูลสำคัญ** เช่น การใช้ทางยา สารออกฤทธิ์ และการศึกษาทางเภสัชวิทยาหรือทางคลินิก
+    ### การใช้ทางยา:
+    เน้นส่วนที่ใช้และการประยุกต์ใช้ทางยาและลิงก์แหล่งอ้างอิง:
+    {part_and_medicinal_prompt}
+
+    ### สารออกฤทธิ์:
+    ระบุสารออกฤทธิ์สำคัญตามส่วนของพืชและจำนวนกิจกรรมที่เกี่ยวข้องและลิงก์แหล่งอ้างอิง:
+    {part_and_chemical_prompt}
+
+    ### การศึกษาทางคลินิก:
+    สรุปการศึกษาทางคลินิกที่สำคัญพร้อมผลการวิจัยและแหล่งอ้างอิง:
+    {clinical_studies_prompt}
+
+    ### การศึกษาทางเภสัชวิทยา:
+    สรุปผลการศึกษาทางเภสัชวิทยาพร้อมข้อมูลสำคัญและแหล่งอ้างอิง:
+    {pharmacological_studies_prompt}
+
+    ### สรุป:
+    จากข้อมูลที่ได้รับเกี่ยวกับ การใช้ทางยา, สารออกฤทธิ์, การศึกษาทางคลินิก, การศึกษาทางเภสัชวิทยา สรุปแต่ละประเด็นต่อไปนี้:
+    - ส่วนใหญ่นำไปใช้ทำยาอะไร พร้อมบอก Reference ของ ยานั้นๆ
+    - สารออกฤทธิ์ที่เจอบ่อยที่สุด หรือมี activity count มากที่สุด อธิบายเรื่องกาารใช้ low และ high parts_per_million และ standard deviation พร้อมบอก Reference
+    - การศึกษาทางคลินิก ส่วนใหญ่จะมีผลหรือประโยชน์ในด้านไหนมากที่สุด พร้อมบอก Reference
+    - การศึกษาทางเภสัชวิทยา ส่วนใหญ่จะมีผลหรือประโยชน์ในด้านไหนมากที่สุด พร้อมบอก Reference
+
+    หมายเหตุ: สรุปเป็นภาษาไทยในรูปแบบบทความสรุป
+    """
+    prompt = template.format(
+        species_name=species_name,
+        species_prompt=species_prompt,
+        synonym_prompt=synonym_prompt,
+        taxonomy_prompt=taxonomy_prompt,
+        part_and_medicinal_prompt=part_and_medicinal_prompt,
+        part_and_chemical_prompt=part_and_chemical_prompt,
+        clinical_studies_prompt=clinical_studies_prompt,
+        pharmacological_studies_prompt=pharmacological_studies_prompt
+    )
     # summary_prompt = prompt.format(species_name=species_name, data=data)
 
-    # llm = OllamaLLM(model="Llama3.1:8b", temperature=0)  
+    llm = OllamaLLM(model="Llama3.2", temperature=0)  
 
-    # try:
-    #     summary = llm(summary_prompt)
-    # except Exception as e:
-    #     summary = f"Error during summarization: {e}"
+    try:
+        summary = llm(prompt)
+    except Exception as e:
+        summary = f"Error during summarization: {e}"
 
-    with st.container():
+    with st.container(height=550, border=False):
         st.markdown(f"<h3> Summarized Information for <span style='color:#87ff87; font-weight: bold;'>{species_name}</span>", unsafe_allow_html=True)
-        st.text_area(
-            label="Summarized Data:",
-            label_visibility='collapsed',
-            value="summary",
-            height=500,
-            disabled=True,
-        )
+        st.markdown(summary)
 
 def chat(herb: str, herb_name_dict: dict):
     species_name = species_name_from_keyword(herb, herb_name_dict)

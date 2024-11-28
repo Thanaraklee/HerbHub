@@ -15,31 +15,31 @@ mapping_relationship = {
 }
 
 node_styles = [
-    NodeStyle("Species", "#57937f", "name"),
-    NodeStyle("Part", "#f56664", "name"),
-    NodeStyle("Drug", "#8dcd92", "name"),
-    NodeStyle("Chemical", "#efb6ca", "name"),
-    NodeStyle("ClinicalStudies", "#57c4e2", "name"),
-    NodeStyle("LocalName", "#da7094", "name"),
-    NodeStyle("PharmacologicalStudies", "#ffc05b", "name"),
-    NodeStyle("Synonym", "#795e26", "name"),
-    NodeStyle("CommonName", "#813a6a", "name"),
-    NodeStyle("Taxonomy", "#fadd68", "name"),
-    NodeStyle("Person", "#f79767", "name"),
+    NodeStyle("Species", "#57937f", "name", "url('plant.svg')"),
+    NodeStyle("Part", "#f56664", "name", "url('part.svg')"),
+    NodeStyle("Drug", "#8dcd92", "name", "url('drug.svg')"),
+    NodeStyle("Chemical", "#efb6ca", "name", "url('chemical.svg')"),
+    NodeStyle("ClinicalStudies", "#57c4e2", "name", "url('clinical.svg')"),
+    # NodeStyle("LocalName", "#da7094", "name"),
+    NodeStyle("PharmacologicalStudies", "#ffc05b", "name", "url('pharmacological.svg')"),
+    # NodeStyle("Synonym", "#795e26", "name"),
+    # NodeStyle("CommonName", "#813a6a", "name"),
+    # NodeStyle("Taxonomy", "#fadd68", "name"),
+    # NodeStyle("Person", "#f79767", "name"),
 ]
 
 edge_styles = [
-    EdgeStyle("HAS_DRUG", caption="label", directed=True),
-    EdgeStyle("HAS_PART_USE", caption="label", directed=True),
-    EdgeStyle("AUTHORED_BY", caption="label", directed=True),
-    EdgeStyle("HAS_CHEMICAL", caption="label", directed=True),
-    EdgeStyle("HAS_CLINICAL_STUDIES", caption="label", directed=True),
-    EdgeStyle("HAS_COMMON_NAME", caption="label", directed=True),
-    EdgeStyle("CONTAINS", caption="label", directed=True),
-    EdgeStyle("HAS_LOCAL_NAME", caption="label", directed=True),
-    EdgeStyle("HAS_PHARMACOLOGICAL_STUDIES", caption="label", directed=True),
-    EdgeStyle("HAS_SYNONYM_OF", caption="label", directed=True),
-    EdgeStyle("UPDATED_BY", caption="label", directed=True),
+    EdgeStyle("HAS_DRUG", caption="label", directed=True, color="#dfdfdf"),
+    EdgeStyle("HAS_PART_USE", caption="label", directed=True, color="#dfdfdf"),
+    EdgeStyle("AUTHORED_BY", caption="label", directed=True, color="#dfdfdf"),
+    EdgeStyle("HAS_CHEMICAL", caption="label", directed=True, color="#dfdfdf"),
+    EdgeStyle("HAS_CLINICAL_STUDIES", caption="label", directed=True, color="#dfdfdf"),
+    EdgeStyle("HAS_COMMON_NAME", caption="label", directed=True, color="#dfdfdf"),
+    EdgeStyle("CONTAINS", caption="label", directed=True, color="#dfdfdf"),
+    EdgeStyle("HAS_LOCAL_NAME", caption="label", directed=True, color="#dfdfdf"),
+    EdgeStyle("HAS_PHARMACOLOGICAL_STUDIES", caption="label", directed=True, color="#dfdfdf"),
+    EdgeStyle("HAS_SYNONYM_OF", caption="label", directed=True, color="#dfdfdf"),
+    EdgeStyle("UPDATED_BY", caption="label", directed=True, color="#dfdfdf"),
 ]
 
 events = [
