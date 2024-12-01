@@ -5,73 +5,43 @@ x-global-environment: &global-environment
 services:
   neo4j:
     image: neo4j:community-ubi9
-    container_name: neo4j
+    container_name: Neo4j-Container
     volumes:
-      - ${PWD}/backend/database/neo4j/logs:/logs
-      - ${PWD}/backend/database/neo4j/config:/config
-      - ${PWD}/backend/database/neo4j/data:/data
-      - ${PWD}/backend/database/neo4j/plugins:/plugins
+      - ${PWD_PATH}/backend/database/neo4j/logs:/logs
+      - ${PWD_PATH}/backend/database/neo4j/config:/config
+      - ${PWD_PATH}/backend/database/neo4j/data:/data
+      - ${PWD_PATH}/backend/database/neo4j/plugins:/plugins
     environment:
       - NEO4J_AUTH=neo4j/${PASSWORD_NEO4J}
       - NEO4J_initial_dbms_default__database=graphherb
-      - NEO4JLABS_PLUGINS=["apoc"]
+      - NEO4J_PLUGINS=["apoc"]
     ports:
-      - "7474:7474"
-      - "7687:7687"
+      - 7474:7474
+      - 7687:7687
     networks:
       - app_network
     restart: always
     <<: *global-environment
 
-  postgres:
-    image: postgres:17-alpine
-    container_name: postgres
+  minio:
+    container_name: MinIO-Container
+    image: minio/minio:latest
+    ports:
+      - 9000:9000
+      - 9001:9001
+    environment:
+      MINIO_ROOT_USER: ${USER_MINIO_ROOT}
+      MINIO_ROOT_PASSWORD: ${PASSWORD_MINIO_ROOT}
     volumes:
-      - ${PWD}/backend/database/init_db/postgres_init.sql:/docker-entrypoint-initdb.d/postgres_init.sql
-      - ${PWD}/backend/database/postgres:/var/lib/postgresql/data
-    environment:
-      - POSTGRES_DB=${DB_POSTGRES}
-      - POSTGRES_USER=${USER_POSTGRES}
-      - POSTGRES_PASSWORD=${PASSWORD_POSTGRES}
-    ports:
-      - 5432:5432
-    networks:
-      - app_network
-    <<: *global-environment
-
-  adminer:
-    image: adminer:4.8.1
-    container_name: adminer
-    ports:
-      - 8080:8080
-    depends_on:
-      - postgres
-    networks:
-      - app_network
-    <<: *global-environment
-
-  flask_api:
-    build:
-      context: ${PWD}/backend/api/flask
-      dockerfile: Dockerfile
-    container_name: flask_api
-    environment:
-      - POSTGRES_HOST=postgres
-      - POSTGRES_PORT=5432
-      - POSTGRES_DB=${DB_POSTGRES}
-      - POSTGRES_USER=${USER_POSTGRES}
-      - POSTGRES_PASSWORD=${PASSWORD_POSTGRES}
-    ports:
-      - "5000:5000"
-    depends_on:
-      - postgres
+      - ${PWD_PATH}/backend/storage/minio:/data
+    command: server --console-address ":9001" /data
     networks:
       - app_network
     <<: *global-environment
 
   # streamlit:
   #   build:
-  #     context: ${PWD}/frontend/streamlit
+  #     context: ${PWD_PATH}/frontend/streamlit
   #     dockerfile: Dockerfile
   #   container_name: streamlit
   #   ports:
@@ -83,9 +53,3 @@ services:
 networks:
   app_network:
     driver: bridge
-
-volumes:
-  neo4j:
-    name: neo4j_data
-  postgres:
-    name: postgres_data

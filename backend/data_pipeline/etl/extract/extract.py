@@ -152,6 +152,7 @@ class ExtractHerbImage:
     
     def fetching_gbif(self) -> list:
         image_list = []
+        # ------------------------------ Limit 10 image ------------------------------ #
         url = f"https://api.gbif.org/v1/occurrence/search?scientificName={self.herb_name.replace(' ','%20')}&mediaType=StillImage&limit=10"
         response = requests.get(url)
         logger.info(f"Fetching Herb Image: '{self.herb_name}' status code: {response.status_code}")

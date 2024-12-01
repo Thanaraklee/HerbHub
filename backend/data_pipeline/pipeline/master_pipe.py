@@ -12,7 +12,7 @@ from utils.logging import logger
 
 from etl import ExtractHerb, ExtractHerbImage
 from etl import TransformHerb
-from etl import SaveHerbtoJson, LoadHerbtoNeo4j, LoadImagetoPostgres
+from etl import SaveHerbtoJson, LoadHerbtoNeo4j, LoadImagetoMinIO
 from etl import ValidateHerb
 
 from herb_pipeline.wfo_pipe import fetching_wfo, fetching_wfo_stableUri, transform_wfo, transform_wfo_name, transform_wfo_taxonomy, transform_wfo_synonyms
@@ -20,7 +20,7 @@ from herb_pipeline.kew_pipe import fetching_kew, transform_kew
 from herb_pipeline.usda_pipe import fetching_usda_csv, transform_usde
 from herb_pipeline.cosmeherb_pipe import fetching_cosmeherb, transform_cosmeherb
 
-from img_pipeline.gbif_pipe import fetching_gbif, load_image
+from img_pipeline.gbif_pipe import fetching_gbif
 
 def integrate_tasks(name: dict, img: list, synonyms: dict, taxonomy: dict, kew: dict, usda: dict, cosmeherb: dict) -> dict:
     master_dict = transform_herb.transform_master(name=name, img=img, synonyms=synonyms, taxonomy=taxonomy, kew=kew, usda=usda, cosmeherb=cosmeherb)
@@ -35,14 +35,19 @@ def validation(validate_herb: object, master_dict: dict) -> dict:
 
 if __name__ == "__main__":
     # ---------------------------------- Config ---------------------------------- #
-    neo4j_pipe = LoadHerbtoNeo4j(uri=os.environ['URI_NEO4j'], auth=(os.getenv('USER_NEO4J'), os.getenv('PASSWORD_NEO4J')))
-    load_image_postgres = LoadImagetoPostgres(user=os.environ["USER_POSTGRES"], password=os.environ["PASSWORD_POSTGRES"], database=os.environ["DB_POSTGRES"])
-    
+    neo4j_pipe = LoadHerbtoNeo4j(
+        uri=os.environ['URI_NEO4j'], 
+        auth=(os.environ['USER_NEO4J'], os.environ['PASSWORD_NEO4J'])
+    )
+    minio_pipe = LoadImagetoMinIO(
+        endpoint=os.environ['ENDPOINT_MINIO'], 
+        access_key=os.environ['USER_MINIO_ROOT'], 
+        secret_key=os.environ['PASSWORD_MINIO_ROOT'], 
+    )
     # ---------------------------------------------------------------------------- #
     #                        **IMPORTANT** Clear database ‼️                       #
     # ---------------------------------------------------------------------------- #
     neo4j_pipe.clear_database()
-    load_image_postgres.clear_database()
     
     # ----------- Initialize instance of ExtractHerb and TransformHerb ----------- #
     herb_names = [
@@ -102,12 +107,12 @@ if __name__ == "__main__":
 
             # --------------------------------- GBIF tasks -------------------------------- #
             gbif_list = fetching_gbif(extract_herb_image=extract_herb_image)
-            imgname_dict = load_image(load_image_postgres=load_image_postgres, herb=herb_names[herb_name_inx], image_dict=gbif_list['data'])
-
+            image_name_list = minio_pipe.push_to_minio(herb_name=herb_names[herb_name_inx], image_list=gbif_list['data'], bucket_name="images")
+            
             # --------------------------------- Master tasks -------------------------------- #
             master_dict = integrate_tasks(
                 name=name['data'],
-                img=imgname_dict['data'],
+                img=image_name_list,
                 synonyms=synonyms['data'],
                 taxonomy=taxonomy['data'],
                 kew=kew_clean['data'],
@@ -135,6 +140,5 @@ if __name__ == "__main__":
         raise
     finally:
         neo4j_pipe.close()
-        load_image_postgres.close()
     
     

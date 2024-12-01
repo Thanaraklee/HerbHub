@@ -3,7 +3,7 @@ import os
 import sys
 from neo4j import GraphDatabase
 import re
-import psycopg2
+from minio import Minio
 import requests
 from dotenv import load_dotenv
 
@@ -500,69 +500,50 @@ class LoadHerbtoNeo4j:
         except Exception as e:
             logger.error(f"Failed to ingest data: {e}")
 
-class LoadImagetoPostgres:
-    def __init__(self, user: str, password: str, database: str):
-        self.host = 'localhost'
-        self.port = '5432'
-        self.database = database
-        self.user = user
-        self.password = password
+class LoadImagetoMinIO:
+    def __init__(self, endpoint: str, access_key: str, secret_key: str) -> None:
+        self.driver = Minio(endpoint=endpoint, access_key=access_key, secret_key=secret_key, secure=False)
         try:
-            self.driver = psycopg2.connect(
-                host=self.host,
-                port=self.port,
-                database=self.database,
-                user=self.user,
-                password=self.password
-            )
-            logger.info(f"Connected to PostgreSQL")
+            self.driver.list_buckets()
+            logger.info(f"Connected to MinIO at {endpoint}")
         except Exception as e:
-            logger.error(f"Failed to connect to PostgreSQL: {e}")
+            logger.error(f"Failed to connect to MinIO: {e}")
+            raise
 
-    def close(self):
-        self.driver.close()
-        logger.info(f"Connection to PostgreSQL closed")
+    def push_to_minio(self, herb_name: str, image_list: list, bucket_name: str) -> list:
+        image_name_list = []
+        if not self.driver.bucket_exists(bucket_name):
+            self.driver.make_bucket(bucket_name)
+            
+            public_policy = {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Principal": {"AWS": ["*"]},
+                        "Action": ["s3:GetObject"],
+                        "Resource": [f"arn:aws:s3:::{bucket_name}/*"]
+                    }
+                ]
+            }
+            
+            self.driver.set_bucket_policy(bucket_name, json.dumps(public_policy))
 
-    def clear_database(self):
-        try:
-            with self.driver.cursor() as cursor:
-                query = "DELETE FROM images"
-                cursor.execute(query)
-            self.driver.commit()
-            logger.warning("Database PostgreSQL cleared. ✨")
-        except Exception as e:
-            logger.error(f"Error deleting images: {e}")
-            self.driver.rollback()
+            logger.info(f"Bucket '{bucket_name}' created and set to public access.")
 
-    def download_image(self, url: str) -> bytes:
-        response = requests.get(url)
-        if response.status_code == 200:
-            return response.content
-        else:
-            raise Exception(f"Failed to download image: {url} (Status code: {response.status_code})")
-        
-    def insert_image_to_db(self, conn, name, image_data):
-        try:
-            with conn.cursor() as cursor:
-                query = "INSERT INTO images (imgname, img) VALUES (%s, %s)"
-                cursor.execute(query, (name, psycopg2.Binary(image_data)))
-            conn.commit()
-            logger.info(f"Inserted: {name}")
-        except Exception as e:
-            logger.error(f"Error inserting {name}: {e}")
-            conn.rollback()
-    def upload_to_postgres(self, herb: str, urls: list[str]):
-        conn = self.driver
-        imgname_list = []
-        try:
-            for url_inx in range(len(urls)):
-                imgname = f"{herb.replace(' ','_')}_{url_inx+1}.jpg"
-                logger.info(f"Downloading Herb: {herb} image: {urls[url_inx]}")
-                image_data = self.download_image(url=urls[url_inx])
-                self.insert_image_to_db(conn, imgname, image_data)
-                imgname_list.append(imgname)
-                logger.info(f"Completed Herb: {herb} image: {urls[url_inx]}")
-            return imgname_list
-        except Exception as e:
-            logger.error(f"Error: {e}")
-            return None
+        for image_url_inx in range(len(image_list)):
+            response = requests.get(image_list[image_url_inx], stream=True)
+            if response.status_code == 200:
+                object_name = f"{herb_name.replace(' ', '_')}_{image_url_inx}.jpg"
+                self.driver.put_object(
+                    bucket_name,
+                    object_name,
+                    data=response.raw,
+                    length=int(response.headers.get('content-length', 0)), 
+                    content_type=response.headers.get('content-type'), 
+                )
+                image_name_list.append(object_name)
+                logger.info(f"'{object_name}' successfully uploaded to bucket '{bucket_name}'.")
+            else:
+                logger.error(f"Failed to download image from {image_list[image_url_inx]}. HTTP Status: {response.status_code}")
+        return image_name_list

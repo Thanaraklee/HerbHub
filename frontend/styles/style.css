@@ -1,5 +1,19 @@
-.st-emotion-cache-1hr2a0h {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+[data-testid="stSidebar"][aria-expanded="true"] {
+    display: None;
+    visibility: collapse;
+}
+[data-testid="collapsedControl"] {
+    display: None;
+}
+[data-testid="stHeader"] {
+    display: None;
+}
+[data-testid="stAppViewBlockContainer"] {
+    padding:0rem 7rem 6rem !important;
+}
+[data-testid="stSidebarCollapsedControl"] {
+    display: none;
 }

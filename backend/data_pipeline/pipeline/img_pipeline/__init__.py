@@ -1,1 +1,1 @@
-from .gbif_pipe import fetching_gbif, load_image
+from .gbif_pipe import fetching_gbif
