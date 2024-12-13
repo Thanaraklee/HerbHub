@@ -3,13 +3,16 @@ import streamlit as st
 from st_link_analysis import st_link_analysis
 from config import node_styles, edge_styles, events, mapping_relationship
 from streamlit_extras.stylable_container import stylable_container
-from utils import Neo4jGraph, on_change_selectbox, insert_space_between_caps
+from src import Neo4jGraph, on_change_selectbox, insert_space_between_caps
 from dotenv import load_dotenv
 import os
 
 load_dotenv()
 
-st.set_page_config(layout="wide")
+st.set_page_config(
+    layout="wide",
+    initial_sidebar_state="collapsed"
+)
 
 if 'xyz' not in st.session_state:
     st.session_state.xyz = None
@@ -46,21 +49,6 @@ options_name_list = list(options_name.keys())
 # ---------------------- Mapping herb with species_names --------------------- #
 filtered_options_name_list = [value for values in options_name.values() for value in values]
 filtered_options_name_list = filtered_options_name_list + options_name_list
-
-# ---------------------------------------------------------------------------- #
-#                                    Header                                    #
-# ---------------------------------------------------------------------------- #
-html_css = f"""
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-<nav class="navbar fixed-top" style="width: 100%;height: 50px;background-color: #010101;box-shadow: 0 4px 8px rgb(0 0 0 / 30%);">
-    <div style="text-align: center;width: 100%;position: absolute;display: inline-flex;justify-content: center;align-items: center;">
-        <span style="color:#edc55c;font-weight:700;font-size:20px;">
-            Website Name
-        </span>
-    </div>
-</nav>
-"""
-st.markdown(html_css, unsafe_allow_html=True)
 
 # ---------------------------------------------------------------------------- #
 #                                     Body                                     #
@@ -138,16 +126,16 @@ with a2:
             <img src="http://localhost:9000/images/{description['image'][5]}" alt="">
         </div>
         <div class="horizontal">
-            <img src="http://localhost:9000/images/{description['image'][5]}" alt="">
+            <img src="http://localhost:9000/images/{description['image'][6]}" alt="">
         </div>
         <div class="big">
-            <img src="http://localhost:9000/images/{description['image'][5]}" alt="">
+            <img src="http://localhost:9000/images/{description['image'][7]}" alt="">
         </div>
         <div>
-            <img src="http://localhost:9000/images/{description['image'][5]}" alt="">
+            <img src="http://localhost:9000/images/{description['image'][8]}" alt="">
         </div>
         <div class="vertical">
-            <img src="http://localhost:9000/images/{description['image'][5]}" alt="">
+            <img src="http://localhost:9000/images/{description['image'][9]}" alt="">
         </div>
     </div>
     <p style="font-size: 13px;padding: 10px 20px;">Reference images by gdif</p>

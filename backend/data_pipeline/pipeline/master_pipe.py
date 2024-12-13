@@ -133,6 +133,7 @@ if __name__ == "__main__":
                 #                             C O M P L E T E D 🎉                             #
                 # ---------------------------------------------------------------------------- #
                 logger.info("All data ingestion completed successfully. 🎉")
+            # break
             time.sleep(10)
     except Exception as e:
         logger.error(f"Exception: {herb_names[herb_name_inx]}")

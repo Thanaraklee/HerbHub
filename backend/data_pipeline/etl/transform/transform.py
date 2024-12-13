@@ -216,6 +216,9 @@ class TransformHerb:
         return result
 
     def cosmeherb_transform(self, cosmeherb_dict: dict) -> dict:
+        time.sleep(10)
+        categorys = requests.get('https://cosmeherb.nbt.or.th/api/all_category/').json()['category'][:4]
+        logger.info(f'Fetching COSMEHERB category: {len(categorys)} category')
         logger.info('Transforming COSMEHERB')
         # ------------------------------ Common name TH ------------------------------ #
         common_name_th = re.sub(r'<.*?>', '', cosmeherb_dict['herb_name']).strip()
@@ -246,9 +249,9 @@ class TransformHerb:
 
         # ----------------------- All Pattern for split section ---------------------- #
         pattern = r'(\d\.\d\s*[\u0E00-\u0E7F, ]+?\s+\([SLFHM]0[01]\d\))([\s\S]*?)(?=\d\.\d\s*[\u0E00-\u0E7F, ]+?\s+\([SLFHM]0[01]\d\)|$)'
-        # pattern_title = r'\d\.\d\s*([\u0E00-\u0E7F ]+?)\s*\([SLFHM]0[01]\d\)'
-        # pattern_title = r'\d\.\d\s*([\u0E00-\u0E7F,]+?)\s*\(?([\u0E00-\u0E7F]+)?\)?\s*\([SLFHM]0[01]\d\)'
-        pattern_title = r'\d\.\d\s*([\u0E00-\u0E7F ,]+?)\s*(\([\u0E00-\u0E7F ]+\))?\s*\([SLFHM]0[01]\d\)'
+
+        # pattern_title = r'\d\.\d\s*([\u0E00-\u0E7F ,]+?)\s*(\([\u0E00-\u0E7F ]+\))?\s*\([SLFHM]0[01]\d\)'
+        pattern_title = r'[SLFHM]\d{3}'
 
 
         # ----------------------------- clinical studies ----------------------------- #
@@ -261,8 +264,12 @@ class TransformHerb:
             # ----------------------------------- Title ---------------------------------- #
             match = re.search(pattern_title, section[0].replace("\xa0"," ").strip())
             if match:
-                title = match.group(1)
-            # title = section[0].replace("\xa0"," ").strip().split(" ", 1)[1].rsplit(" ",1)[0]
+                title = match.group().strip()
+                for category in categorys:
+                    for activity in category['bio_activity']:
+                        if activity['name'] == title:
+                            title = activity['prowess_name_th']
+
             logger.info(f"Transforming COSMEHERB clinical studies title: {title}")
 
             content = section[1].strip()
@@ -279,7 +286,6 @@ class TransformHerb:
         logger.info(f"Transforming COSMEHERB pharmacological study")
         pharmacological_study_list = []
 
-        # pattern = r'(\d\.\d\s+[\u0E00-\u0E7F, ]+?\s+\([SLFHM]0[01]\d\))([\s\S]*?)(?=\d\.\d\s+[\u0E00-\u0E7F, ]+?\s+\([SLFHM]0[01]\d\)|$)'
         section_soup = BeautifulSoup(cosmeherb_dict['process_trial']['pharmacological_study'], "html.parser")
         sections_pharmacological = re.findall(pattern, section_soup.text.strip())
         for section in sections_pharmacological:
@@ -287,7 +293,11 @@ class TransformHerb:
             # ----------------------------------- Title ---------------------------------- #
             match = re.search(pattern_title, section[0].replace("\xa0"," ").strip())
             if match:
-                title = match.group(1)
+                title = match.group().strip()
+                for category in categorys:
+                    for activity in category['bio_activity']:
+                        if activity['name'] == title:
+                            title = activity['prowess_name_th']
             # title = section[0].replace("\xa0"," ").strip().split(" ", 1)[1].rsplit(" ",1)[0]
             logger.info(f"Transforming COSMEHERB pharmacological study title: {title}")
 

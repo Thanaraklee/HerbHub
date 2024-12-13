@@ -1,19 +1,26 @@
-#MainMenu {visibility: hidden;}
-footer {visibility: hidden;}
-header {visibility: hidden;}
-[data-testid="stSidebar"][aria-expanded="true"] {
-    display: None;
-    visibility: collapse;
-}
-[data-testid="collapsedControl"] {
-    display: None;
-}
-[data-testid="stHeader"] {
-    display: None;
-}
-[data-testid="stAppViewBlockContainer"] {
-    padding:0rem 7rem 6rem !important;
+#MainMenu {visibility: collapse;}
+footer {visibility: collapse;}
+header {visibility: collapse;}
+[data-testid="stSidebar"] {
+    opacity: 0 !important;
+    pointer-events: none; /* Prevent interaction with the element */
 }
 [data-testid="stSidebarCollapsedControl"] {
+    opacity: 0 !important;
+    display: none !important;
+}
+[data-testid="stMainBlockContainer"] {
+    padding: 0 !important;
+}
+#root > div:nth-child(1) > div:nth-child(1) > div > div > section > div.stMainBlockContainer.block-container.st-emotion-cache-1jicfl2.ea3mdgi5 > div > div > div {
+    gap: 0 !important;
+}
+#root > div:nth-child(1) > div:nth-child(1) > div > div > section.stMain > div:nth-child(1) > div > div > div > div:nth-child(1) {
     display: none;
+}
+#root > div:nth-child(2) > div > div > div > div {
+    height: 350px !important;
+    width: 470px !important;
+    left: -430px;
+    top: 5px;
 }

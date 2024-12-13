@@ -38,10 +38,38 @@ class ExtractHerb:
     
     # ------------------------------------ kew ----------------------------------- #
     def fetching_kew_part_formused(self) -> dict:
-        url = f"https://mpns.science.kew.org/mpns-portal/plantDetail?plantId=235249&query={self.herb_name.replace(' ', '+')}&filter=&fuzzy=false&nameType=latin&dbs=wcs"
-
+        url = f"https://mpns.science.kew.org/mpns-portal/searchName?searchTerm={self.herb_name.replace(' ', '%20')}&nameType=latin"
         response = requests.get(url) 
-        logger.info(f"Fetching KEW Part&Form used status code: {response.status_code}")
+        logger.info(f"Fetching KEW Part&Form used First: {self.herb_name} status code: {response.status_code}")
+        soup = BeautifulSoup(response.content, "html.parser") 
+        dom = etree.HTML(str(soup)) 
+        rows = dom.xpath('//*[@id="medicinalTable"]/tbody/tr')
+        max_frequency = -1
+        max_row = None
+        for row in rows:
+            confirm_name = row.xpath('.//td[1]//a/text()')
+            frequency_text = row.xpath('.//td[2]/text()')
+            if confirm_name and frequency_text:
+                confirm_name = confirm_name[0].strip()
+                try:
+                    frequency = int(frequency_text[0].strip()) 
+                except ValueError:
+                    frequency = 0 
+                if frequency > max_frequency:
+                    max_frequency = frequency
+                    max_row = row 
+
+        if max_row is not None:
+            confirm_name = max_row.xpath('.//td[1]//a/text()')[0].strip()
+            link_part_drug = max_row.xpath('.//td[1]//a/@href')
+            if link_part_drug:
+                link_part_drug = f"https://mpns.science.kew.org/mpns-portal/{link_part_drug[0]}"
+            logger.info(f"Confirm Name: {confirm_name}, Link: {link_part_drug}, Frequency: {max_frequency}")
+        else:
+            logger.warning("No rows found with valid frequency.")
+
+        response = requests.get(link_part_drug) 
+        logger.info(f"Fetching KEW Part&Form used Second status code: {response.status_code}")
         soup = BeautifulSoup(response.content, "html.parser") 
         dom = etree.HTML(str(soup)) 
 
@@ -151,6 +179,7 @@ class ExtractHerbImage:
         self.herb_name = herb_name
     
     def fetching_gbif(self) -> list:
+        
         image_list = []
         # ------------------------------ Limit 10 image ------------------------------ #
         url = f"https://api.gbif.org/v1/occurrence/search?scientificName={self.herb_name.replace(' ','%20')}&mediaType=StillImage&limit=10"
