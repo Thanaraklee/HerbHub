@@ -63,7 +63,7 @@ Ensure the following tools are installed:
    docker compose up streamlit -d  
    ```  
 6. **Access the Platform**
-   - Streamlit Dashboard: Navigate to http://localhost:8501
+   - Streamlit Dashboard: Navigate to http://localhost:8503
    - Neo4j Browser: Navigate to http://localhost:7474
    - MinIO Console: Navigate to http://localhost:9001
 

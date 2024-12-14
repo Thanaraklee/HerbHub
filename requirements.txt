@@ -94,3 +94,5 @@ urllib3==2.2.3
 watchdog==6.0.0
 wrapt==1.16.0
 yarl==1.17.1
+tqdm==4.67.0
+minio==7.2.12
