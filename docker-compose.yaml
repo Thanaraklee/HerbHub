@@ -39,16 +39,28 @@ services:
       - app_network
     <<: *global-environment
 
-  # streamlit:
-  #   build:
-  #     context: ${PWD_PATH}/frontend/streamlit
-  #     dockerfile: Dockerfile
-  #   container_name: streamlit
-  #   ports:
-  #     - "8501:8501"
-  #   networks:
-  #     - app_network
-  #   <<: *global-environment
+  streamlit:
+    build:
+      context: ${PWD_PATH}/frontend
+      dockerfile: Dockerfile
+    container_name: streamlit
+    ports:
+      - "8501:8501"
+    networks:
+      - app_network
+    <<: *global-environment
+
+  ngrok:
+    image: ngrok/ngrok:latest
+    env_file:
+      - ./frontend/.env
+    command: "http streamlit:8501" 
+    ports:
+      - "4040:4040" 
+    volumes:
+      - ./frontend/ngrok.yml:/home/ngrok/.config/ngrok/ngrok.yml # authentication
+    networks:
+      - app_network
 
 networks:
   app_network:

@@ -1,4 +1,9 @@
 streamlit==1.40.2
-streamlit-extras==0.5.0
+st-link-analysis==0.3.0
+openai==1.57.3
 neo4j==5.26.0
-python-dotenv
+requests==2.32.3
+streamlit-extras==0.5.0
+pandas==2.2.3
+streamlit-echarts==0.4.0
+python-dotenv==1.0.1

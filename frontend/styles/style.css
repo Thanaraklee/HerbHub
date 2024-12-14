@@ -18,7 +18,7 @@ header {visibility: collapse;}
 #root > div:nth-child(1) > div:nth-child(1) > div > div > section.stMain > div:nth-child(1) > div > div > div > div:nth-child(1) {
     display: none;
 }
-#root > div:nth-child(2) > div > div > div > div {
+#root > div:nth-child(2) > div > div > div > div[data-testid="stPopoverBody"] {
     height: 350px !important;
     width: 470px !important;
     left: -430px;

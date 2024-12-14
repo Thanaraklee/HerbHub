@@ -3,8 +3,6 @@ from collections import Counter
 import streamlit as st
 from datetime import timedelta
 
-import re
-
 class Neo4jGraph:
     def __init__(self, uri: str, auth: tuple):
         # Initializing connection details
