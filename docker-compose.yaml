@@ -5,7 +5,7 @@ x-global-environment: &global-environment
 services:
   neo4j:
     image: neo4j:community-ubi9
-    container_name: Neo4j
+    container_name: neo4j
     volumes:
       - ${PWD_PATH}/backend/database/neo4j/logs:/logs
       - ${PWD_PATH}/backend/database/neo4j/config:/config
@@ -24,7 +24,7 @@ services:
     <<: *global-environment
 
   minio:
-    container_name: MinIO
+    container_name: minio
     image: minio/minio:latest
     ports:
       - 9000:9000
@@ -45,8 +45,10 @@ services:
       context: ${PWD_PATH}/frontend
       dockerfile: Dockerfile
     container_name: streamlit
+    environment:
+      - DOCKER_ENV_STREAMLIT=1
     ports:
-      - "8501:8501"
+      - "8503:8501"
     networks:
       - app_network
     depends_on:
@@ -54,20 +56,22 @@ services:
       - minio
     <<: *global-environment
 
-  ngrok:
-    image: ngrok/ngrok:latest
-    container_name: ngrok
-    env_file:
-      - ./frontend/.env
-    command: "http streamlit:8501" 
-    ports:
-      - "4040:4040" 
-    volumes:
-      - ./frontend/ngrok.yml:/home/ngrok/.config/ngrok/ngrok.yml # authentication
-    networks:
-      - app_network
-    depends_on:
-      - streamlit
+  # ngrok:
+  #   image: ngrok/ngrok:latest
+  #   container_name: ngrok-streamlit
+  #   env_file:
+  #     - ./frontend/.env
+  #   environment:
+  #     - DOCKER_ENV_STREAMLIT=1
+  #   command: "http streamlit:8501" 
+  #   ports:
+  #     - "4040:4040" 
+  #   volumes:
+  #     - ./frontend/ngrok.yml:/home/ngrok/.config/ngrok/ngrok.yml # ngrok authentication
+  #   networks:
+  #     - app_network
+  #   depends_on:
+  #     - streamlit
 
 networks:
   app_network:

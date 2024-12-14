@@ -11,6 +11,7 @@ header {visibility: collapse;}
 }
 [data-testid="stMainBlockContainer"] {
     padding: 0 !important;
+    overflow-x: hidden;
 }
 #root > div:nth-child(1) > div:nth-child(1) > div > div > section > div.stMainBlockContainer.block-container.st-emotion-cache-1jicfl2.ea3mdgi5 > div > div > div {
     gap: 0 !important;

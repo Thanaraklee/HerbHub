@@ -1,18 +1,21 @@
 import streamlit as st
 from streamlit_extras.stylable_container import stylable_container
 from config import mapping_information, mapping_relationship, layout_options, node_styles, edge_styles, events, mapping_clinical_pharma, part_mapping
-from src import Neo4jGraph, on_change_selectbox, insert_space_between_caps, load_css, encode_image_to_data_url_png, encode_image_to_data_url_svg, map_effects_to_categories, summarize_text_pharma, summarize_text_clinical
+from src import Neo4jGraph, on_change_selectbox, insert_space_between_caps, load_css, encode_image_to_data_url_png, encode_image_to_data_url_svg, map_effects_to_categories, summarize_text_pharma, summarize_text_clinical, encode_image_to_data_url_jpg
 from st_link_analysis import st_link_analysis
 import os
 import pandas as pd
 from streamlit_echarts import st_echarts
 import streamlit.components.v1 as components
 from dotenv import load_dotenv
+from minio import Minio
 
 load_dotenv()
 
 # ---------------------------- set innitial state ---------------------------- #
 st.set_page_config(
+    page_title="Herb Hub 🌿",
+    page_icon="🌿",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -25,9 +28,28 @@ api_keys = [
     os.environ['OPENAI_API_5'],
 ]
 
+# --------------------------- Set environment Host --------------------------- #
+docker_env = int(os.environ.get("DOCKER_ENV_STREAMLIT", 0))
+if docker_env == 1:
+    host_neo4j = 'neo4j'
+    host_minio = 'minio'
+elif docker_env == 0:
+    host_neo4j = 'localhost'
+    host_minio = 'localhost'
+
+# ---------------------------------------------------------------------------- #
+#                               Connect Database                               #
+# ---------------------------------------------------------------------------- #
 neo4j_graph = Neo4jGraph(
-    uri=f"neo4j://neo4j:7687", 
-    auth=(os.environ['USER_NEO4J'], os.environ['PASSWORD_NEO4J']))
+    uri=f"neo4j://{host_neo4j}:7687", 
+    auth=(os.environ['USER_NEO4J'], os.environ['PASSWORD_NEO4J'])
+)
+client = Minio(
+    f"{host_minio}:9000",
+    access_key=os.environ['USER_MINIO_ROOT'],
+    secret_key=os.environ['PASSWORD_MINIO_ROOT'],
+    secure=False 
+)
 
 species_names = neo4j_graph.fetch_species_names()
 
@@ -263,8 +285,14 @@ with stylable_container(
         '''
         {
             text-align: center;
+            padding: 0rem 2rem 0rem;
         }
-        '''
+        ''',
+        """
+        span[data-testid="stHeaderActionElements"] {
+            display: none;
+        }
+        """
     ]
 ):
     information_1, information_2, information_3 = st.columns([1,8,1])
@@ -319,16 +347,16 @@ with stylable_container(
                     </head>
                     <body>
                     <div class="w3-content w3-display-container">
-                        <img class="mySlides img" src="http://localhost:9000/images/{description['image'][0]}">
-                        <img class="mySlides img" src="http://localhost:9000/images/{description['image'][1]}">
-                        <img class="mySlides img" src="http://localhost:9000/images/{description['image'][2]}">
-                        <img class="mySlides img" src="http://localhost:9000/images/{description['image'][3]}">
-                        <img class="mySlides img" src="http://localhost:9000/images/{description['image'][4]}">
-                        <img class="mySlides img" src="http://localhost:9000/images/{description['image'][5]}">
-                        <img class="mySlides img" src="http://localhost:9000/images/{description['image'][6]}">
-                        <img class="mySlides img" src="http://localhost:9000/images/{description['image'][7]}">
-                        <img class="mySlides img" src="http://localhost:9000/images/{description['image'][8]}">
-                        <img class="mySlides img" src="http://localhost:9000/images/{description['image'][9]}">
+                        <img class="mySlides img" src="{encode_image_to_data_url_jpg(client,'images',description['image'][0])}">
+                        <img class="mySlides img" src="{encode_image_to_data_url_jpg(client,'images',description['image'][1])}">
+                        <img class="mySlides img" src="{encode_image_to_data_url_jpg(client,'images',description['image'][2])}">
+                        <img class="mySlides img" src="{encode_image_to_data_url_jpg(client,'images',description['image'][3])}">
+                        <img class="mySlides img" src="{encode_image_to_data_url_jpg(client,'images',description['image'][4])}">
+                        <img class="mySlides img" src="{encode_image_to_data_url_jpg(client,'images',description['image'][5])}">
+                        <img class="mySlides img" src="{encode_image_to_data_url_jpg(client,'images',description['image'][6])}">
+                        <img class="mySlides img" src="{encode_image_to_data_url_jpg(client,'images',description['image'][7])}">
+                        <img class="mySlides img" src="{encode_image_to_data_url_jpg(client,'images',description['image'][8])}">
+                        <img class="mySlides img" src="{encode_image_to_data_url_jpg(client,'images',description['image'][9])}">
 
                         <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">
                             &#10094;
@@ -453,7 +481,13 @@ with stylable_container(
         background-size: cover;
         background-repeat: no-repeat;
     }}
-    ''']
+    ''',
+    """
+    span[data-testid="stHeaderActionElements"] {
+        display: none;
+    }
+    """
+    ]
 ):
     summarize_1, summarize_2, summarize_3 = st.columns([1,8,1])
     with summarize_2:
@@ -502,6 +536,7 @@ with stylable_container(
         """
         {
             background-color: #FEFDF9;
+            padding: 0rem 2rem 0rem;
         }
         """
     ]
@@ -539,7 +574,7 @@ with stylable_container(
                 node = neo4j_graph.fetch_node_by_id(node_id=node_id)
                 node_filter = {}
                 for key, value in node['data'].items():
-                    if key != 'content' and value:
+                    if value:
                         if isinstance(value, str) and value.strip():
                             node_filter[key] = value.strip()
                         elif isinstance(value, list) and any(value):
@@ -572,7 +607,7 @@ with stylable_container(
                                 position: absolute;
                                 z-index: 1;
                                 top: 370px;
-                                left: 500px;
+                                left: 480px;
                             }
                             """,
                             f"""
@@ -710,6 +745,8 @@ with stylable_container(
                         elif node_filter["label"] == 'PharmacologicalStudies':
                             if 'name' in node_filter and node_filter['name']:
                                 st.markdown(f"**Pharmacological Studies:** {node_filter['name'].capitalize()}")
+                            if 'content' in node_filter and node_filter['content']:
+                                st.markdown(f"**Content:** {node_filter['content']}")
                             if 'name_ref' in node_filter and node_filter['name_ref']:
                                 st.write("**Reference:**")
                                 for ref in node_filter['name_ref']:
@@ -732,6 +769,8 @@ with stylable_container(
                         elif node_filter["label"] == 'ClinicalStudies':
                             if 'name' in node_filter and node_filter['name']:
                                 st.markdown(f"**Clinical Studies:** {node_filter['name'].capitalize()}")
+                            if 'content' in node_filter and node_filter['content']:
+                                st.markdown(f"**Content:** {node_filter['content']}")
                             if 'name_ref' in node_filter and node_filter['name_ref']:
                                 st.write("**Reference:**")
                                 for ref in node_filter['name_ref']:
