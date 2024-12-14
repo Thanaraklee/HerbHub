@@ -95,12 +95,7 @@ node_styles = [
     NodeStyle("Drug", "#8dcd92", "name", "url('drug.svg')"),
     NodeStyle("Chemical", "#efb6ca", "name", "url('chemical.svg')"),
     NodeStyle("ClinicalStudies", "#57c4e2", "name", "url('clinical.svg')"),
-    # NodeStyle("LocalName", "#da7094", "name"),
     NodeStyle("PharmacologicalStudies", "#ffc05b", "name", "url('pharmacological.svg')"),
-    # NodeStyle("Synonym", "#795e26", "name"),
-    # NodeStyle("CommonName", "#813a6a", "name"),
-    # NodeStyle("Taxonomy", "#fadd68", "name"),
-    # NodeStyle("Person", "#f79767", "name"),
 ]
 
 edge_styles = [
