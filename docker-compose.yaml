@@ -7,10 +7,10 @@ services:
     image: neo4j:community-ubi9
     container_name: neo4j
     volumes:
-      - ${PWD_PATH}/backend/database/neo4j/logs:/logs
-      - ${PWD_PATH}/backend/database/neo4j/config:/config
-      - ${PWD_PATH}/backend/database/neo4j/data:/data
-      - ${PWD_PATH}/backend/database/neo4j/plugins:/plugins
+      - ${PWD}/backend/database/neo4j/logs:/logs
+      - ${PWD}/backend/database/neo4j/config:/config
+      - ${PWD}/backend/database/neo4j/data:/data
+      - ${PWD}/backend/database/neo4j/plugins:/plugins
     environment:
       - NEO4J_AUTH=neo4j/${PASSWORD_NEO4J}
       - NEO4J_initial_dbms_default__database=graphherb
@@ -33,7 +33,7 @@ services:
       MINIO_ROOT_USER: ${USER_MINIO_ROOT}
       MINIO_ROOT_PASSWORD: ${PASSWORD_MINIO_ROOT}
     volumes:
-      - ${PWD_PATH}/backend/storage/minio:/data
+      - ${PWD}/backend/storage/minio:/data
     command: server --console-address ":9001" /data
     networks:
       - app_network
@@ -42,7 +42,7 @@ services:
 
   streamlit:
     build:
-      context: ${PWD_PATH}/frontend
+      context: ${PWD}/frontend
       dockerfile: Dockerfile
     container_name: streamlit
     environment:

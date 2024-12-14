@@ -47,7 +47,7 @@ if __name__ == "__main__":
     # ---------------------------------------------------------------------------- #
     #                        **IMPORTANT** Clear database ‼️                       #
     # ---------------------------------------------------------------------------- #
-    neo4j_pipe.clear_database()
+    # neo4j_pipe.clear_database()
     
     # ----------- Initialize instance of ExtractHerb and TransformHerb ----------- #
     herb_names = [
