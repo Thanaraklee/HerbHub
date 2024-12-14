@@ -1,0 +1,78 @@
+x-global-environment: &global-environment
+  env_file:
+    - ./.env
+
+services:
+  neo4j:
+    image: neo4j:community-ubi9
+    container_name: neo4j
+    volumes:
+      - ${PWD}/backend/database/neo4j/logs:/logs
+      - ${PWD}/backend/database/neo4j/config:/config
+      - ${PWD}/backend/database/neo4j/data:/data
+      - ${PWD}/backend/database/neo4j/plugins:/plugins
+    environment:
+      - NEO4J_AUTH=neo4j/${PASSWORD_NEO4J}
+      - NEO4J_initial_dbms_default__database=graphherb
+      - NEO4J_PLUGINS=["apoc"]
+    ports:
+      - 7474:7474
+      - 7687:7687
+    networks:
+      - app_network
+    restart: always
+    <<: *global-environment
+
+  minio:
+    container_name: minio
+    image: minio/minio:latest
+    ports:
+      - 9000:9000
+      - 9001:9001
+    environment:
+      MINIO_ROOT_USER: ${USER_MINIO_ROOT}
+      MINIO_ROOT_PASSWORD: ${PASSWORD_MINIO_ROOT}
+    volumes:
+      - ${PWD}/backend/storage/minio:/data
+    command: server --console-address ":9001" /data
+    networks:
+      - app_network
+    restart: always
+    <<: *global-environment
+
+  streamlit:
+    build:
+      context: ${PWD}/frontend
+      dockerfile: Dockerfile
+    container_name: streamlit
+    environment:
+      - DOCKER_ENV_STREAMLIT=1
+    ports:
+      - "8503:8501"
+    networks:
+      - app_network
+    depends_on:
+      - neo4j
+      - minio
+    <<: *global-environment
+
+  # ngrok:
+  #   image: ngrok/ngrok:latest
+  #   container_name: ngrok-streamlit
+  #   env_file:
+  #     - ./frontend/.env
+  #   environment:
+  #     - DOCKER_ENV_STREAMLIT=1
+  #   command: "http streamlit:8501" 
+  #   ports:
+  #     - "4040:4040" 
+  #   volumes:
+  #     - ./frontend/ngrok.yml:/home/ngrok/.config/ngrok/ngrok.yml # ngrok authentication
+  #   networks:
+  #     - app_network
+  #   depends_on:
+  #     - streamlit
+
+networks:
+  app_network:
+    driver: bridge
