@@ -1,3 +1,6 @@
+[![Bandit](https://github.com/Thanaraklee/HerbHub/actions/workflows/main.yml/badge.svg)](https://github.com/Thanaraklee/HerbHub/actions/workflows/main.yml)
+[![Dependabot Updates](https://github.com/Thanaraklee/HerbHub/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Thanaraklee/HerbHub/actions/workflows/dependabot/dependabot-updates)
+
 # Herb Hub Platform
 ## Overview
 **Herb Hub Platform** is a web-based application designed to facilitate the exploration, analysis, and management of herbal knowledge. The platform integrates various tools, including a knowledge graph, Streamlit dashboards, and database management systems, to provide users with a comprehensive solution for managing herbal data and research.
