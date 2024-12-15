@@ -74,3 +74,11 @@ Ensure the following tools are installed:
 <p align="center">
   <img src="https://github.com/Thanaraklee/HerbHub/blob/main/workflow.svg" alt="Workflow" style="width:1000px;" />
 </p>
+
+
+# References
+- Herb images: [GBIF](https://www.gbif.org)  
+- Species names, synonyms, and taxonomy: [WFO Plant List](https://www.wfoplantlist.org)  
+- Plant parts and medicinal uses: [Kew Science - Medicinal Plant Names Services](https://mpns.science.kew.org)  
+- Plant parts and chemical properties: [USDA Phytochemical Database](https://phytochem.nal.usda.gov)  
+- Common names, local names, and pharmacological data: [CosmeHerb Database](https://cosmeherb.nbt.or.th)
