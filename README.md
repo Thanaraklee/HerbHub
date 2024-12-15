@@ -72,7 +72,7 @@ Ensure the following tools are installed:
 
 # Workflow
 <p align="center">
-  <img src="https://github.com/Thanaraklee/HerbHub/blob/main/workflow.svg" alt="Workflow" style="width:1000px;" />
+  <img src="https://github.com/Thanaraklee/HerbHub/blob/main/workflow.jpg" alt="Workflow" style="width:1000px;" />
 </p>
 
 
