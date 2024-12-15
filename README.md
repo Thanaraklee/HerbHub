@@ -1,5 +1,6 @@
 [![Bandit](https://github.com/Thanaraklee/HerbHub/actions/workflows/main.yml/badge.svg)](https://github.com/Thanaraklee/HerbHub/actions/workflows/main.yml)
 [![Dependabot Updates](https://github.com/Thanaraklee/HerbHub/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Thanaraklee/HerbHub/actions/workflows/dependabot/dependabot-updates)
+[![Check API Status](https://github.com/Thanaraklee/HerbHub/actions/workflows/checkstatus.yml/badge.svg)](https://github.com/Thanaraklee/HerbHub/actions/workflows/checkstatus.yml)
 
 # Herb Hub Platform
 ## Overview
