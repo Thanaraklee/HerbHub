@@ -1,3 +1,6 @@
+[![Bandit](https://github.com/Thanaraklee/HerbHub/actions/workflows/main.yml/badge.svg)](https://github.com/Thanaraklee/HerbHub/actions/workflows/main.yml)
+[![Dependabot Updates](https://github.com/Thanaraklee/HerbHub/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Thanaraklee/HerbHub/actions/workflows/dependabot/dependabot-updates)
+
 # Herb Hub Platform
 ## Overview
 **Herb Hub Platform** is a web-based application designed to facilitate the exploration, analysis, and management of herbal knowledge. The platform integrates various tools, including a knowledge graph, Streamlit dashboards, and database management systems, to provide users with a comprehensive solution for managing herbal data and research.
@@ -71,3 +74,11 @@ Ensure the following tools are installed:
 <p align="center">
   <img src="https://github.com/Thanaraklee/HerbHub/blob/main/workflow.svg" alt="Workflow" style="width:1000px;" />
 </p>
+
+
+# References
+- Herb images: [GBIF](https://www.gbif.org)  
+- Species names, synonyms, and taxonomy: [WFO Plant List](https://www.wfoplantlist.org)  
+- Plant parts and medicinal uses: [Kew Science - Medicinal Plant Names Services](https://mpns.science.kew.org)  
+- Plant parts and chemical properties: [USDA Phytochemical Database](https://phytochem.nal.usda.gov)  
+- Common names, local names, and pharmacological data: [CosmeHerb Database](https://cosmeherb.nbt.or.th)
