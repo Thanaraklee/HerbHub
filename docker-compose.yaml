@@ -48,7 +48,7 @@ services:
     environment:
       - DOCKER_ENV_STREAMLIT=1
     ports:
-      - "8503:8501"
+      - "8501:8501"
     networks:
       - app_network
     depends_on:

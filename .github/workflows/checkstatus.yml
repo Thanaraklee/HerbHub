@@ -1,7 +1,7 @@
 name: Check API Status
 
 on:
-  workflow_dispatch: # เรียกใช้แบบ manual
+  workflow_dispatch:
   schedule:
     - cron: '0 9 * * *' # ทำงานทุกวันเวลา 09:00 UTC
   push:
@@ -19,7 +19,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10' # ใช้ Python เวอร์ชันที่รองรับโค้ดของคุณ
+        python-version: '3.10' 
 
     - name: Install Dependencies
       run: |
