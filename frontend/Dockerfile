@@ -10,4 +10,6 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
+ENV DOCKER_ENV_STREAMLIT=1
+
 CMD ["streamlit", "run", "streamlit.py"]

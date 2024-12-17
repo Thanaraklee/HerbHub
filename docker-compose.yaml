@@ -45,8 +45,6 @@ services:
       context: ${PWD}/frontend
       dockerfile: Dockerfile
     container_name: streamlit
-    environment:
-      - DOCKER_ENV_STREAMLIT=1
     ports:
       - "8501:8501"
     networks:

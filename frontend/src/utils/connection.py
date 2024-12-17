@@ -9,7 +9,7 @@ class Neo4jGraph:
         self.uri = uri
         self.auth = auth
 
-    @st.cache_resource(ttl=timedelta(minutes=10))
+    # @st.cache_resource(ttl=timedelta(minutes=10))
     def driver(_self):
         driver = GraphDatabase.driver(_self.uri, auth=_self.auth)
         return driver
