@@ -73,7 +73,13 @@ Ensure the following tools are installed:
 
 # Workflow
 <p align="center">
-  <img src="https://github.com/Thanaraklee/HerbHub/blob/main/workflow.jpg" alt="Workflow" style="width:1000px;" />
+  <img src="https://github.com/Thanaraklee/HerbHub/blob/main/imgs/workflow.jpg" alt="Workflow" style="width:1000px;" />
+</p>
+
+# Example
+<p align="center">
+  <img src="https://github.com/Thanaraklee/HerbHub/blob/main/imgs/example_1.png" alt="Workflow" style="width:1000px;" />
+  <img src="https://github.com/Thanaraklee/HerbHub/blob/main/imgs/example_2.png" alt="Workflow" style="width:1000px;" />
 </p>
 
 
