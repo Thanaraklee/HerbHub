@@ -395,7 +395,7 @@ class LoadHerbtoNeo4j:
             logger.error("Missing 'part_and_medicinal' in JSON data.")
             return
         for medicinal in self.part_and_medicinal:
-            parts = [_.lower() for _ in medicinal.get('part').split(',')]
+            parts = [_.strip().lower() for _ in medicinal.get('part').split(',')]
             for part in parts:
                 drug = medicinal.get('drug')
                 medicinal_name = medicinal.get('medicinal_name')
@@ -432,7 +432,7 @@ class LoadHerbtoNeo4j:
             logger.error("Missing 'part_and_checimal' in JSON data.")
             return
         for checimal in self.part_and_checimal:
-            parts = [_.lower() for _ in checimal.get('plant_part').split(',')]
+            parts = [_.strip().lower() for _ in checimal.get('plant_part').split(',')]
             for part in parts:
                 checimal_name = checimal.get('chemical_name')
                 activity = checimal.get('activity_count')

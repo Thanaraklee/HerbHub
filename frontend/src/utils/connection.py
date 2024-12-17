@@ -263,7 +263,6 @@ class Neo4jGraph:
             print(query)
             result = session.run(query)
             for record in result:
-                # print(record['n1'])
                 all_node = [record[_] for _ in record.keys() if _.startswith('n')]
                 all_edge = [record[_] for _ in record.keys() if _.startswith('r')]
                 # ----------------------------------- Node ----------------------------------- #
@@ -305,8 +304,8 @@ class Neo4jGraph:
                             }
                             edges.append(edge_data)
 
-
-        return {"nodes": nodes, "edges": edges}
+        result = {"nodes": nodes, "edges": edges}
+        return result
 
     @st.cache_data(ttl=timedelta(minutes=10))
     def fetch_species_names(_self):

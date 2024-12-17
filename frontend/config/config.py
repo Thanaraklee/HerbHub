@@ -2,9 +2,14 @@ from st_link_analysis import NodeStyle, EdgeStyle, Event
 
 part_mapping = {
     "root": ["root", "roots"],
-    "leaf": ["leaf", "leafs", "leaves", "leaf exudate", "leaf mucilage"],
+    "leaf": ["leaf", "leafs", "leaves", "leaf exudate", "leaf mucilage", "whole aerial part (leaves)", "folhas", "folha"],
     "flower": ["flower", "flowers"],
-    "plant": ["whole plant"],
+    "plant": ["whole plant", "herb", "partes aéreas", "Partes aéreas", "wood"],
+    "seed": ["seed", "seeds", "semillas"],
+    "calyx": ["Cáliz", "cáliz", "Calyces", "calyces"],
+    "fruit": ["fruit", "fruits", "fruto", "frutos"],
+    "endosperm":["endospermo","endosperm"],
+    "rhizome":["rizoma", "rizomas", "rhizome"]
 }
 
 mapping_clinical_pharma = {

@@ -122,11 +122,51 @@ if __name__ == "__main__":
 
             # ----------------------------- Validating tasks ----------------------------- #
             validate = validation(validate_herb=validate_herb, master_dict=master_dict['data'])
+
+            # ----------------------------- Fixing tasks ----------------------------- #
+            def fix_name_part(master_data: json):
+                master_data = master_data['data']
+                part_mapping = {
+                    "root": ["root", "roots"],
+                    "leaf": ["leaf", "leafs", "leaves", "leaf exudate", "leaf mucilage", "whole aerial part (leaves)", "folhas", "folha"],
+                    "flower": ["flower", "flowers"],
+                    "plant": ["whole plant", "herb", "partes aéreas", "Partes aéreas", "wood"],
+                    "seed": ["seed", "seeds", "semillas"],
+                    "calyx": ["Cáliz", "cáliz", "Calyces", "calyces"],
+                    "fruit": ["fruit", "fruits", "fruto", "frutos"],
+                    "endosperm":["endospermo","endosperm"],
+                    "rhizome":["rizoma", "rizomas", "rhizome"]
+                }
+
+                def map_part(part_string):
+                    parts = [p.strip().lower() for p in part_string.split(",")]
+                    mapped_parts = set() 
+                    for part in parts:
+                        for k, v in part_mapping.items():
+                            if part.strip().lower() in v:
+                                mapped_parts.add(k)
+                    return ", ".join(mapped_parts) if mapped_parts else part_string 
+
+                # แก้ไข part ใน master_data['part_and_medicinal']
+                for p_m in master_data['part_and_medicinal']:
+                    p_m['part'] = map_part(p_m['part'])
+
+                # แก้ไข part ใน master_data['part_and_checimal']
+                for p_c in master_data['part_and_checimal']:
+                    p_c['plant_part'] = map_part(p_c['plant_part'])
+
+                return master_data
+            
+            master_dict = fix_name_part(master_data=master_dict)
+            # with open("master.json", "w", encoding="utf-8") as f:
+            #     f.write(json.dumps(master_dict, ensure_ascii=False, indent=4))
+
+
             if validate:
 
                 # ------------------------------- Loading tasks ------------------------------ #
                 
-                neo4j_pipe.preparing_json(json_data=master_dict.get("data"))
+                neo4j_pipe.preparing_json(json_data=master_dict)
                 neo4j_pipe.main()
 
                 # ---------------------------------------------------------------------------- #
