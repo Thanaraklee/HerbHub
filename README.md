@@ -88,4 +88,4 @@ Ensure the following tools are installed:
 - Species names, synonyms, and taxonomy: [WFO Plant List](https://www.wfoplantlist.org)  
 - Plant parts and medicinal uses: [Kew Science - Medicinal Plant Names Services](https://mpns.science.kew.org)  
 - Plant parts and chemical properties: [USDA Phytochemical Database](https://phytochem.nal.usda.gov)  
-- Common names, local names, and pharmacological data: [CosmeHerb Database](https://cosmeherb.nbt.or.th)
+- Common names, local names, clinical data and pharmacological data: [CosmeHerb Database](https://cosmeherb.nbt.or.th)
