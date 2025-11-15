@@ -1,7 +1,7 @@
 name: Bandit
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
 
 jobs:
   bandit:
@@ -12,11 +12,13 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Bandit Scan
         uses: mdegis/bandit-action@v1.1
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           path: "."
           level: high
           confidence: high
-          exit_zero: true
+          exit-zero: true
