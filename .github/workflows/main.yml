@@ -5,25 +5,12 @@ on:
 
 jobs:
   bandit:
+    runs-on: ubuntu-latest
     permissions:
       contents: read
       security-events: write
       actions: read
 
-    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pdr
-
-      - name: Bandit Scan
-        uses: mdegis/bandit-action@v1.0
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          path: "."
-          level: high
-          confidence: high
-          exit_zero: true
+      - name: Perform Bandit Analysis
+        uses: PyCQA/bandit-action@v1
